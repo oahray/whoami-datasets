@@ -21,7 +21,7 @@ This repository contains the datasets that power the game, beginning with a cita
 
 # Goals
 
-This project aims to provide datasets that are:
+While the WhoAmI game is built to be dataset-agnostic, this project aims to provide a comprehensive starter-pack Bible dataset that is:
 
 * Biblically accurate
 * Citation-backed
