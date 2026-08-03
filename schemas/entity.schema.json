@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/whoami-datasets/schemas/entity.schema.json",
+  "title": "WhoAmI Dataset Entity",
+  "description": "Schema for Bible character and place entities used by the WhoAmI game.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "name",
+    "aliases",
+    "type",
+    "is_published",
+    "clues"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Canonical entity name."
+    },
+    "aliases": {
+      "type": "array",
+      "description": "Alternative acceptable answers.",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "character",
+        "place"
+      ]
+    },
+    "is_published": {
+      "type": "boolean"
+    },
+    "clues": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "$ref": "#/$defs/clue"
+      }
+    }
+  },
+  "$defs": {
+    "clue": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "text",
+        "citations",
+        "difficulty"
+      ],
+      "properties": {
+        "text": {
+          "type": "string",
+          "minLength": 1,
+          "description": "First-person clue presented to players."
+        },
+        "citations": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Biblical references supporting the clue."
+        },
+        "difficulty": {
+          "type": "string",
+          "enum": [
+            "easy",
+            "medium",
+            "hard",
+            "nightmare"
+          ]
+        }
+      }
+    }
+  }
+}
+
