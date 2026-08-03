@@ -1,0 +1,21 @@
+{
+  "name": "whoami-datasets",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Open-source datasets for the WhoAmI guessing game.",
+  "license": "MIT",
+  "scripts": {
+    "validate": "tsx scripts/validate.ts",
+    "validate:structure": "tsx scripts/validate_dataset.ts",
+    "check:duplicates": "tsx scripts/check_duplicates.ts",
+    "check:citations": "tsx scripts/check_citations.ts",
+    "check:difficulty": "tsx scripts/check_difficulty.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "jsonc-parser": "^3.3.1",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}
