@@ -8,12 +8,14 @@ This repository contains the datasets that power the game, beginning with a cita
 
 ## Screenshots
 
-<p>
-  <img src="assets/01-home.png" width="280" alt="WhoAmI home screen" />
-  <img src="assets/02-lobby.png" width="280" alt="WhoAmI lobby" />
-  <img src="assets/03-gameplay.png" width="280" alt="WhoAmI gameplay" />
-  <img src="assets/04-results.png" width="280" alt="WhoAmI results" />
-</p>
+<table>
+  <tr>
+    <td><img src="assets/01-home.png" width="200" alt="WhoAmI home screen" /></td>
+    <td><img src="assets/02-lobby.png" width="200" alt="WhoAmI lobby" /></td>
+    <td><img src="assets/03-gameplay.png" width="200" alt="WhoAmI gameplay" /></td>
+    <td><img src="assets/04-results.png" width="200" alt="WhoAmI results" /></td>
+  </tr>
+</table>
 
 ---
 
