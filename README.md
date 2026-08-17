@@ -43,11 +43,15 @@ Every clue should be traceable back to scripture.
 
 ```txt
 datasets/bible/characters/
-├── 01_beginning_to_joshua.json
-├── 02_judges_to_kings.json
-├── 03_prophets_and_exile.json
-├── 04_jesus_life_and_ministry.json
-└── 05_after_jesus_death.json
+├── 01_early_patriarchs.json
+├── 02_job_to_joshua.json
+├── 03_judges_and_samuel.json
+├── 04_david_and_solomon.json
+├── 05_divided_kingdom.json
+├── 06_exile_and_restoration.json
+├── 07_prophets.json
+├── 08_jesus_life_and_ministry.json
+└── 09_early_christians.json
 ```
 
 ### Places
@@ -189,7 +193,7 @@ npm run validate
 Validate a specific file:
 
 ```bash
-npm run validate -- datasets/bible/characters/01_beginning_to_joshua.json
+npm run validate -- datasets/bible/characters/01_early_patriarchs.json
 ```
 
 Validate a directory:

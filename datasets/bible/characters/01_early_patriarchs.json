@@ -1,0 +1,4661 @@
+[
+  {
+    "name": "Abel",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a shepherd.",
+        "citations": "Genesis 4:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the second son born to the first human couple.",
+        "citations": "Genesis 4:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My brother killed me.",
+        "citations": "Genesis 4:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "A conversation between God and my brother followed my death.",
+        "citations": "Genesis 4:9-12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I brought some of the firstlings of my flock as an offering to Jehovah.",
+        "citations": "Genesis 4:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "God said that my blood was crying out from the ground.",
+        "citations": "Genesis 4:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My death became the basis for the question, \"Am I my brother's guardian?\"",
+        "citations": "Genesis 4:8,9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My brother spoke with me shortly before killing me in a field.",
+        "citations": "Genesis 4:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I died before my parents had a third son.",
+        "citations": "Genesis 4:8; Genesis 4:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I never spoke a recorded word in Scripture.",
+        "citations": "Genesis 4:1-10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A later letter said my brother's works were wicked and mine were righteous.",
+        "citations": "1 John 3:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was said to be righteous long after I died.",
+        "citations": "Matthew 23:35",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My blood was contrasted with something that speaks in a better way.",
+        "citations": "Hebrews 12:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My sacrifice was associated with faith centuries after my death.",
+        "citations": "Hebrews 11:4",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "name": "Abimelech (with Abraham)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was king of Gerar.",
+        "citations": "Genesis 20:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "God came to me by night in a dream and warned me about the married woman I had taken.",
+        "citations": "Genesis 20:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent for Sarah and took her after Abraham said she was his sister.",
+        "citations": "Genesis 20:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I had not gone near Sarah when God confronted me in my dream.",
+        "citations": "Genesis 20:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "God said that if I did not return Sarah to Abraham, I would surely die, along with all who are mine.",
+        "citations": "Genesis 20:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I returned Sarah to Abraham and gave him sheep, cattle, and male and female servants.",
+        "citations": "Genesis 20:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Abraham my land was available and he could dwell wherever he pleased.",
+        "citations": "Genesis 20:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told God that I had acted with an honest heart and innocent hands because I believed Sarah was Abraham's sister.",
+        "citations": "Genesis 20:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked Abraham what his intentions were when he called Sarah his sister.",
+        "citations": "Genesis 20:5,10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After Abraham made supplication, God healed me, my wife, and my slave girls.",
+        "citations": "Genesis 20:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "God said He held me back from sinning and did not allow me to touch Sarah.",
+        "citations": "Genesis 20:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "God told me Abraham was a prophet who would make supplication for me so that I would keep living.",
+        "citations": "Genesis 20:7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I asked God, “will you kill a nation that is really innocent?”",
+        "citations": "Genesis 20:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I got up early, told my servants about a dream warning, and they became very frightened.",
+        "citations": "Genesis 20:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I asked Abraham what sin I had committed against him that he would bring a great sin upon me and my kingdom.",
+        "citations": "Genesis 20:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I gave Sarah 1,000 pieces of silver as a sign of her innocence before everybody.",
+        "citations": "Genesis 20:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah had made all the women of my house barren because of Sarah until Abraham prayed.",
+        "citations": "Genesis 20:17,18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "With Phicol the chief of my army, I asked Abraham to swear he would not deal falsely with me or my descendants.",
+        "citations": "Genesis 21:22,23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Abraham complained to me about a well of water that my servants had violently seized.",
+        "citations": "Genesis 21:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Abraham I did not know who seized a well of water and had heard nothing about it until that day.",
+        "citations": "Genesis 21:25,26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After making a covenant at Beer-sheba, Phicol and I returned to the land of the Philistines.",
+        "citations": "Genesis 21:32",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Abraham offered seven female lambs to me as a witness that he dug the well at Beer-sheba.",
+        "citations": "Genesis 21:28-30",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Abimelech (with Isaac)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I asked Isaac why he had said that his wife was his sister.",
+        "citations": "Genesis 26:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was king of the Philistines in Gerar when Isaac came there during a famine.",
+        "citations": "Genesis 26:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Looking out a window, I saw Isaac displaying affection for Rebekah.",
+        "citations": "Genesis 26:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I commanded that anybody touching Isaac and Rebekah would surely be put to death.",
+        "citations": "Genesis 26:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Isaac to move away because he had grown far stronger than my people.",
+        "citations": "Genesis 26:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My people filled with soil the wells that Abraham's servants had dug.",
+        "citations": "Genesis 26:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After sending Isaac away for growing too strong, I later sought a peaceful oath with him at Beer-sheba.",
+        "citations": "Genesis 26:16; Genesis 26:26-31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I came to Isaac from Gerar with Ahuzzath my personal adviser and Phicol the chief of my army.",
+        "citations": "Genesis 26:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Isaac that Jehovah had clearly been with him, and I sought an oath of obligation and a covenant.",
+        "citations": "Genesis 26:28,29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Isaac that one of the people could easily have lain down with his wife and brought guilt upon my people.",
+        "citations": "Genesis 26:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Isaac asked why I had come, seeing that I had hated him and sent him away.",
+        "citations": "Genesis 26:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Isaac prepared a feast for me, and early the next morning I swore an oath with him and sent him away in peace.",
+        "citations": "Genesis 26:30,31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Herdsmen from my land quarrelled with Isaac's herdsmen over wells of water.",
+        "citations": "Genesis 26:20,21",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "name": "Abraham",
+    "aliases": [
+      "Abram"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I became the father of Isaac.",
+        "citations": "Genesis 21:1-3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I left Haran when I was seventy-five years old.",
+        "citations": "Genesis 12:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I listened to Sarah and had a child through Hagar.",
+        "citations": "Genesis 16:1-4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was called Jehovah's friend.",
+        "citations": "James 2:23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was willing to offer my son as a sacrifice.",
+        "citations": "Genesis 22:1-12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah promised that all nations would obtain a blessing through my offspring.",
+        "citations": "Genesis 22:18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah told me to leave my country and my relatives.",
+        "citations": "Genesis 12:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My wife was my half-sister.",
+        "citations": "Genesis 20:11-13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I built altars to Jehovah in the land I was shown.",
+        "citations": "Genesis 12:7,8; Genesis 13:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave a tenth of everything to Melchizedek.",
+        "citations": "Genesis 14:18-20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had a son named Ishmael before Isaac was born.",
+        "citations": "Genesis 16:15; Genesis 21:1-3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I laughed when told that I would become a father in my old age.",
+        "citations": "Genesis 17:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I left Ur before settling in Canaan.",
+        "citations": "Genesis 11:31; Genesis 12:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I let Lot choose which part of the land he would take.",
+        "citations": "Genesis 13:8-11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I rescued Lot after he was taken captive.",
+        "citations": "Genesis 14:12-16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"God himself will provide the sheep for the burnt offering, my son.\"",
+        "citations": "Genesis 22:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I thought my servant Eliezer of Damascus would become my heir.",
+        "citations": "Genesis 15:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was one hundred years old when Isaac was born.",
+        "citations": "Genesis 21:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went down to Egypt because of a famine.",
+        "citations": "Genesis 12:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Isaac and Ishmael buried me together.",
+        "citations": "Genesis 25:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My name was changed after I was told that I would become the father of many nations.",
+        "citations": "Genesis 17:4,5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A deep sleep fell upon me while Jehovah made a covenant concerning my descendants.",
+        "citations": "Genesis 15:12-18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Birds of prey came down on the animal pieces, and I drove them away.",
+        "citations": "Genesis 15:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I armed trained men born in my household and pursued four kings.",
+        "citations": "Genesis 14:14-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked, \"O Sovereign Lord Jehovah, what will you give me, seeing that I continue childless?\"",
+        "citations": "Genesis 15:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I believed Jehovah, and it was counted to me as righteousness.",
+        "citations": "Genesis 15:6; James 2:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I cut animals in two when Jehovah made a covenant with me.",
+        "citations": "Genesis 15:9,10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I pleaded for a city not to be destroyed if righteous people could be found there.",
+        "citations": "Genesis 18:23-32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prayed, and God healed Abimelech and his household.",
+        "citations": "Genesis 20:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ran to meet three men and had a meal prepared for them.",
+        "citations": "Genesis 18:2-8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I refused to keep the goods recovered after defeating a coalition of kings.",
+        "citations": "Genesis 14:21-24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was deeply distressed when Sarah demanded that Hagar and Ishmael be sent away.",
+        "citations": "Genesis 21:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Three visitors came to me while I was sitting at the entrance of my tent during the heat of the day.",
+        "citations": "Genesis 18:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Twice, I said that my wife was my sister.",
+        "citations": "Genesis 12:11-13; Genesis 20:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A ram caught by its horns in a thicket became part of one of my most important experiences.",
+        "citations": "Genesis 22:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A smoking furnace and a fiery torch passed between the pieces of the animals.",
+        "citations": "Genesis 15:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After Sarah died, I took another wife, Keturah.",
+        "citations": "Genesis 25:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "By faith I went out though I did not know where I was going.",
+        "citations": "Hebrews 11:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Early the next morning I looked down toward Sodom and Gomorrah and saw dense smoke rising.",
+        "citations": "Genesis 19:27,28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I bowed down before the people of the land when negotiating for a burial place.",
+        "citations": "Genesis 23:7-9,12,13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I buried my wife in a cave of the field of Machpelah.",
+        "citations": "Genesis 23:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I chased invading kings as far as Dan.",
+        "citations": "Genesis 14:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I died at 175 years of age.",
+        "citations": "Genesis 25:7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I gave Isaac everything I had, but I sent the sons of my concubines away eastward with gifts.",
+        "citations": "Genesis 25:5,6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I made a covenant with Abimelech concerning a well.",
+        "citations": "Genesis 21:25-32",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I planted a tamarisk tree in Beer-sheba.",
+        "citations": "Genesis 21:33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I purchased a burial place from the sons of Heth.",
+        "citations": "Genesis 23:16-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I purchased land for 400 silver shekels.",
+        "citations": "Genesis 23:16-18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I reasoned that God was able to raise Isaac up even from the dead.",
+        "citations": "Hebrews 11:17-19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I refused to accept even a thread or a sandal lace from a king.",
+        "citations": "Genesis 14:22,23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sent my servant to find a wife for Isaac from among my relatives.",
+        "citations": "Genesis 24:2-4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I stretched out my hand and took a knife to kill my son.",
+        "citations": "Genesis 22:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was ninety-nine years old when I was circumcised.",
+        "citations": "Genesis 17:24",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Adam",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Animals were brought to me so that I could name them.",
+        "citations": "Genesis 2:19,20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I lived in the garden of Eden.",
+        "citations": "Genesis 2:15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said, \"This is at last bone of my bones And flesh of my flesh.\"",
+        "citations": "Genesis 2:23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was formed from the dust of the ground.",
+        "citations": "Genesis 2:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the first man.",
+        "citations": "Genesis 1:27; Genesis 2:7; 1 Corinthians 15:45",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was told not to eat from the tree of the knowledge of good and bad.",
+        "citations": "Genesis 2:16,17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My wife gave me some fruit from a tree we had been commanded not to eat from, and I began eating it.",
+        "citations": "Genesis 2:16,17; Genesis 3:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became the husband of the first woman.",
+        "citations": "Genesis 2:22-24; Genesis 3:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I cultivated and cared for a garden that Jehovah God planted.",
+        "citations": "Genesis 2:8; Genesis 2:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave my wife her name because she would become the mother of everyone living.",
+        "citations": "Genesis 3:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I heard Jehovah's voice and hid myself.",
+        "citations": "Genesis 3:8-10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I received the breath of life directly from Jehovah.",
+        "citations": "Genesis 2:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became a father to Cain, Abel, and Seth.",
+        "citations": "Genesis 4:1,2,25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"The woman whom you gave to be with me, she gave me fruit from the tree.\"",
+        "citations": "Genesis 3:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sewed fig leaves together to make coverings for myself and my wife.",
+        "citations": "Genesis 3:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was put into a deep sleep before my wife was created.",
+        "citations": "Genesis 2:21,22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told, \"By the sweat of your face you will eat bread until you return to the ground.\"",
+        "citations": "Genesis 3:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The ground was cursed on my account.",
+        "citations": "Genesis 3:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Cherubs and a flaming blade appeared after I lost my home.",
+        "citations": "Genesis 3:24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Death spread to all mankind through what I did.",
+        "citations": "Romans 5:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I became a father at 130 years of age.",
+        "citations": "Genesis 5:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I became a living person, but another man was later called a life-giving spirit.",
+        "citations": "1 Corinthians 15:45",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I lived for 930 years.",
+        "citations": "Genesis 5:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I met my wife for the first time after waking up from sleep.",
+        "citations": "Genesis 2:21,22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was described as a pattern of the one who was to come.",
+        "citations": "Romans 5:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My son murdered his own brother.",
+        "citations": "Genesis 4:1,2,8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My wife was deceived, but I was not.",
+        "citations": "1 Timothy 2:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The first woman was built from something taken from me.",
+        "citations": "Genesis 2:21,22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Through one act of disobedience by me, many were constituted sinners.",
+        "citations": "Romans 5:19",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Asenath",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I bore Joseph two sons, Manasseh and Ephraim.",
+        "citations": "Genesis 41:50-52",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My two sons were born before the years of famine began in Egypt.",
+        "citations": "Genesis 41:50, 53,54",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Pharaoh gave me to Joseph as a wife.",
+        "citations": "Genesis 41:45",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was the daughter of Potiphera, the priest of On.",
+        "citations": "Genesis 41:45",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jacob gave my two sons a place among his own sons.",
+        "citations": "Genesis 48:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My husband helped save Egypt from starvation during a famine.",
+        "citations": "Genesis 41:45, 56,57",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My son Ephraim received the greater blessing from Jacob.",
+        "citations": "Genesis 48:13-20",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Benjamin",
+    "aliases": [
+      "Ben-oni"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the youngest son of my father's favorite wife.",
+        "citations": "Genesis 29:18,30; Genesis 35:18-20; Genesis 42:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Joseph was my brother.",
+        "citations": "Genesis 35:24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My mother died shortly after giving birth to me.",
+        "citations": "Genesis 35:16-19",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was one of the twelve sons of Jacob.",
+        "citations": "Genesis 35:22-26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My father was especially protective of me after Joseph disappeared.",
+        "citations": "Genesis 42:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My mother named me while she was dying.",
+        "citations": "Genesis 35:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My father gave me a different name than the one my mother chose.",
+        "citations": "Genesis 35:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I traveled to Egypt during a famine with my brothers.",
+        "citations": "Genesis 43:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Joseph wept after seeing me again.",
+        "citations": "Genesis 43:29,30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I received five times as much food as my brothers at a banquet.",
+        "citations": "Genesis 43:34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A silver cup was secretly placed in my sack.",
+        "citations": "Genesis 44:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My brothers tore their garments after something was discovered in my belongings.",
+        "citations": "Genesis 44:12,13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Judah offered himself as a slave because of what happened to me.",
+        "citations": "Genesis 44:18-34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was born on the journey between Bethel and Ephrath.",
+        "citations": "Genesis 35:16-18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My full brother was Joseph.",
+        "citations": "Genesis 35:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was falsely accused of stealing.",
+        "citations": "Genesis 44:1-12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My mother called me \"Son of My Mourning.\"",
+        "citations": "Genesis 35:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was the only one of Joseph's brothers who was not involved in selling him into slavery.",
+        "citations": "Genesis 37:2-28; Genesis 42:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I had ten sons.",
+        "citations": "Genesis 46:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My descendant was the first king of Israel.",
+        "citations": "1 Samuel 9:1,2,21; 1 Samuel 10:20-24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My father said that I would keep on tearing prey to pieces like a wolf.",
+        "citations": "Genesis 49:27",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Cain",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I killed my brother.",
+        "citations": "Genesis 4:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the first son born to Adam and Eve.",
+        "citations": "Genesis 4:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a cultivator of the ground.",
+        "citations": "Genesis 4:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My offering did not receive the same favor as my brother's offering.",
+        "citations": "Genesis 4:4,5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I asked, \"Am I my brother's guardian?\"",
+        "citations": "Genesis 4:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I presented some of the produce of the ground as an offering.",
+        "citations": "Genesis 4:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah warned me that sin was crouching at the door.",
+        "citations": "Genesis 4:6,7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spoke with my brother before killing him in a field.",
+        "citations": "Genesis 4:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My brother's blood became evidence against me.",
+        "citations": "Genesis 4:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was cursed from the ground that had received my brother's blood.",
+        "citations": "Genesis 4:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"My punishment for my error is too great to bear.\"",
+        "citations": "Genesis 4:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I became a wanderer and a fugitive.",
+        "citations": "Genesis 4:12; Genesis 4:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I feared that someone finding me would kill me.",
+        "citations": "Genesis 4:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah placed a sign for me after I expressed fear for my life.",
+        "citations": "Genesis 4:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I settled in the land of Nod east of Eden.",
+        "citations": "Genesis 4:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I built a city and named it after my son.",
+        "citations": "Genesis 4:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My son's name was Enoch.",
+        "citations": "Genesis 4:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I went away from before Jehovah.",
+        "citations": "Genesis 4:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The first recorded murder in Scripture was committed by me.",
+        "citations": "Genesis 4:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A warning about mastering sin was given to me before I committed my most famous act.",
+        "citations": "Genesis 4:7,8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My descendant Lamech became known for a violent boast.",
+        "citations": "Genesis 4:17,18,23,24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My family line included people associated with tents, livestock, music, and metalworking.",
+        "citations": "Genesis 4:17,18,20-22",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Dinah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a daughter of Jacob and Leah.",
+        "citations": "Genesis 30:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went out to spend time with the young women of the land.",
+        "citations": "Genesis 34:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Shechem, the son of Hamor the Hivite, violated me.",
+        "citations": "Genesis 34:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was among those who went down to Egypt with Jacob.",
+        "citations": "Genesis 46:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jacob later condemned Simeon and Levi's violence that followed what was done to me.",
+        "citations": "Genesis 34:1-30; Genesis 49:5-7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My brothers required the men of Shechem to be circumcised before they would agree to give me in marriage.",
+        "citations": "Genesis 34:13-17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Shechem wanted me as his wife after violating me.",
+        "citations": "Genesis 34:3,4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Simeon and Levi took me from Shechem's house after killing Shechem and Hamor.",
+        "citations": "Genesis 34:25,26",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "name": "Enoch",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "All my days amounted to 365 years.",
+        "citations": "Genesis 5:23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I walked with the true God for 300 years after becoming father to my son.",
+        "citations": "Genesis 5:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the father of Methuselah.",
+        "citations": "Genesis 5:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "God took me, and I was no more.",
+        "citations": "Genesis 5:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prophesied that Jehovah would come with his holy myriads to execute judgment.",
+        "citations": "Jude 14-15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I received witness that I had pleased God.",
+        "citations": "Hebrews 11:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was the seventh in line from Adam.",
+        "citations": "Jude 14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The writer of Hebrews listed me among people of faith.",
+        "citations": "Hebrews 11:5",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "name": "Esau",
+    "aliases": [
+      "Edom"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was Jacob's twin brother.",
+        "citations": "Genesis 25:24-26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I sold my birthright for a meal.",
+        "citations": "Genesis 25:29-34",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a skillful hunter.",
+        "citations": "Genesis 25:27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Isaac loved me because he enjoyed eating wild game that I provided.",
+        "citations": "Genesis 25:28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was given another name tied to the red stew I traded for.",
+        "citations": "Genesis 25:30",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I came out of the womb before my brother.",
+        "citations": "Genesis 25:25,26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My body was described as being like a garment of hair when I was born.",
+        "citations": "Genesis 25:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked for some of a red stew when I returned exhausted from the field.",
+        "citations": "Genesis 25:29,30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I despised my birthright.",
+        "citations": "Genesis 25:34",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My father intended to bless me before my brother intervened.",
+        "citations": "Genesis 27:1-4; Genesis 27:35",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I cried out with a loud and bitter cry after losing a blessing.",
+        "citations": "Genesis 27:34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"Is he not rightly named Jacob?\"",
+        "citations": "Genesis 27:36",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I planned to kill my brother after my father died.",
+        "citations": "Genesis 27:41",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I married Judith and Basemath, bringing bitterness to my parents.",
+        "citations": "Genesis 26:34,35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I moved to the mountainous region of Seir.",
+        "citations": "Genesis 36:6-8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I met my returning brother with four hundred men.",
+        "citations": "Genesis 32:6; Genesis 33:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ran to meet my brother, embraced him, and kissed him.",
+        "citations": "Genesis 33:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I refused a gift at first because I already had many possessions.",
+        "citations": "Genesis 33:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My descendants became known as the Edomites.",
+        "citations": "Genesis 36:1; Genesis 36:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was forty years old when I married two Hittite women.",
+        "citations": "Genesis 26:34",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I took a daughter of Ishmael as a wife after seeing that my parents disapproved of my earlier marriages.",
+        "citations": "Genesis 28:8,9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Later writings used me as an example of someone who gave up something valuable for immediate gratification.",
+        "citations": "Hebrews 12:16,17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sought a blessing with tears after losing it.",
+        "citations": "Hebrews 12:17",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Eve",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the first woman.",
+        "citations": "Genesis 2:22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was Adam's wife.",
+        "citations": "Genesis 2:22-24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "A serpent spoke to me in the garden of Eden.",
+        "citations": "Genesis 3:1-5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I ate fruit from a tree that God had forbidden us to eat from.",
+        "citations": "Genesis 2:16,17; Genesis 3:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became the mother of all living.",
+        "citations": "Genesis 3:20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was made from one of Adam's ribs.",
+        "citations": "Genesis 2:21,22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was created as a helper and complement for Adam.",
+        "citations": "Genesis 2:18; Genesis 2:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw that a certain tree was good for food and desirable to the eyes.",
+        "citations": "Genesis 3:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave some fruit to my husband after eating it myself.",
+        "citations": "Genesis 3:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spoke with the serpent before eating the forbidden fruit.",
+        "citations": "Genesis 3:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"We may eat of the fruit of the trees of the garden.\"",
+        "citations": "Genesis 3:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"God has said, 'You must not eat from it, no, you must not touch it; otherwise you will die.'\"",
+        "citations": "Genesis 3:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After I ate, the eyes of both my husband and me were opened.",
+        "citations": "Genesis 3:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My husband and I made coverings from fig leaves.",
+        "citations": "Genesis 3:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I heard Jehovah God in the garden after disobeying him.",
+        "citations": "Genesis 3:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told that childbirth would involve increased pain.",
+        "citations": "Genesis 3:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told that my husband would dominate me.",
+        "citations": "Genesis 3:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"I have produced a man with the help of Jehovah.\"",
+        "citations": "Genesis 4:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I became the mother of Cain and Abel.",
+        "citations": "Genesis 4:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I later gave birth to Seth after losing Abel.",
+        "citations": "Genesis 4:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said, \"God has appointed for me another offspring in place of Abel.\"",
+        "citations": "Genesis 4:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My husband gave me my name.",
+        "citations": "Genesis 3:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A later inspired writer said that I was thoroughly deceived.",
+        "citations": "1 Timothy 2:14",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Hagar",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Abraham had a son through me.",
+        "citations": "Genesis 16:15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "An angel spoke to me in the wilderness.",
+        "citations": "Genesis 16:7-11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became the mother of Ishmael.",
+        "citations": "Genesis 16:15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I fled into the wilderness after difficulties arose between Sarah and me.",
+        "citations": "Genesis 16:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was Sarah's servant.",
+        "citations": "Genesis 16:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "An angel told me to return to my mistress and humble myself.",
+        "citations": "Genesis 16:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became pregnant after Sarah gave me to Abraham.",
+        "citations": "Genesis 16:3,4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I began to look down on my mistress after I became pregnant.",
+        "citations": "Genesis 16:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was an Egyptian woman mentioned by name in the Bible.",
+        "citations": "Genesis 16:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was told that my son would be named Ishmael.",
+        "citations": "Genesis 16:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Have I really seen here the One who sees me?\"",
+        "citations": "Genesis 16:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wandered in the wilderness of Beer-sheba.",
+        "citations": "Genesis 21:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was sent away with bread and a skin bottle of water.",
+        "citations": "Genesis 21:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Sarah saw my son poking fun at her son and demanded that we be sent away.",
+        "citations": "Genesis 21:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A later inspired letter used me to illustrate one of two covenants.",
+        "citations": "Galatians 4:22-25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A well was named Beer-lahai-roi because of an experience I had with Jehovah's angel.",
+        "citations": "Genesis 16:13,14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "God opened my eyes to see a well of water.",
+        "citations": "Genesis 21:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I obtained an Egyptian wife for my son.",
+        "citations": "Genesis 21:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I placed my son under a bush because I did not want to watch him die.",
+        "citations": "Genesis 21:15,16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sat some distance away and wept while expecting my son's death.",
+        "citations": "Genesis 21:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My son became an archer in the wilderness.",
+        "citations": "Genesis 21:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My son was described in a later inspired letter as being born through natural descent.",
+        "citations": "Galatians 4:23",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ham",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I entered the ark with my wife, my father, and my brothers.",
+        "citations": "Genesis 7:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My descendants included Cush, Mizraim, Put, and Canaan.",
+        "citations": "Genesis 10:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My grandson was Nimrod.",
+        "citations": "Genesis 10:6-8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw my father's nakedness and told my two brothers.",
+        "citations": "Genesis 9:21,22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My brothers walked backward with a garment on their shoulders.",
+        "citations": "Genesis 9:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "An incident involving my father led to a curse being pronounced on Canaan.",
+        "citations": "Genesis 9:22-25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was referred to as \"the father of Canaan\" while an account about Noah was being told.",
+        "citations": "Genesis 9:18; Genesis 9:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My family line included several peoples later associated with Egypt.",
+        "citations": "Genesis 10:6; Genesis 10:13,14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The Philistines were listed among peoples descended from my family line.",
+        "citations": "Genesis 10:13,14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Many of the nations later living in Canaan traced their ancestry through my descendants.",
+        "citations": "Genesis 10:15-19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was the grandfather of someone who was called a mighty hunter before Jehovah.",
+        "citations": "Genesis 10:8,9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The record identifies me as the youngest son involved in an incident after Noah drank wine.",
+        "citations": "Genesis 9:24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My descendants were grouped separately from those of Shem and Japheth in the Table of Nations.",
+        "citations": "Genesis 10:1; Genesis 10:6-20",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Isaac",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Abraham was my father.",
+        "citations": "Genesis 21:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I married Rebekah.",
+        "citations": "Genesis 24:67",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the son whom Abraham was willing to offer as a sacrifice.",
+        "citations": "Genesis 22:1-12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jacob and Esau were my sons.",
+        "citations": "Genesis 25:24-26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My mother was Sarah.",
+        "citations": "Genesis 21:1-3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "A ram took my place on an altar.",
+        "citations": "Genesis 22:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked my father, “Where is the sheep for the burnt offering?”",
+        "citations": "Genesis 22:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I carried the wood for the burnt offering as my father and I went up the mountain.",
+        "citations": "Genesis 22:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I loved Esau, but Rebekah favored Jacob.",
+        "citations": "Genesis 25:28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I met my future wife while I was out walking in a field.",
+        "citations": "Genesis 24:62-67",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was born when my parents were very old.",
+        "citations": "Genesis 21:1-7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was circumcised when I was eight days old.",
+        "citations": "Genesis 21:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was comforted after my mother's death when I took Rebekah as my wife.",
+        "citations": "Genesis 24:67",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was forty years old when I married Rebekah.",
+        "citations": "Genesis 25:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My father sent a servant to find a wife for me.",
+        "citations": "Genesis 24:2-4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A Philistine king observed me showing affection to my wife.",
+        "citations": "Genesis 26:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Abimelech asked me to move away because I had become much mightier than his people.",
+        "citations": "Genesis 26:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Before blessing my older son, I asked him to hunt game and prepare a tasty dish for me.",
+        "citations": "Genesis 27:1-4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "During a famine Jehovah told me not to go down to Egypt.",
+        "citations": "Genesis 26:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I became very wealthy in the land of the Philistines.",
+        "citations": "Genesis 26:13,14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prayed concerning my wife because she was barren.",
+        "citations": "Genesis 25:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I reopened wells that had been dug in my father's days.",
+        "citations": "Genesis 26:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that my wife was my sister.",
+        "citations": "Genesis 26:6,7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sowed seed during a famine and reaped a hundredfold.",
+        "citations": "Genesis 26:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was meditating in the field when I looked up and saw the camels coming.",
+        "citations": "Genesis 24:63",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was sixty years old when my twin sons were born.",
+        "citations": "Genesis 25:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah answered my prayer, and my wife conceived twins.",
+        "citations": "Genesis 25:21-24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A later inspired writer used me as an example of a child born through promise.",
+        "citations": "Galatians 4:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "By faith I blessed Jacob and Esau concerning things to come.",
+        "citations": "Hebrews 11:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Esau's Hittite wives were a source of bitterness to me and Rebekah.",
+        "citations": "Genesis 26:34,35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I built an altar and pitched my tent at Beer-sheba.",
+        "citations": "Genesis 26:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I grew dim-eyed in my old age.",
+        "citations": "Genesis 27:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I lived for 180 years.",
+        "citations": "Genesis 35:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I made a covenant with Abimelech after previous tensions.",
+        "citations": "Genesis 26:26-31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I named wells Esek, Sitnah, and Rehoboth.",
+        "citations": "Genesis 26:20-22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said, \"Now Jehovah has made room for us.\"",
+        "citations": "Genesis 26:22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sent Jacob to Paddan-aram to take a wife from his mother's family.",
+        "citations": "Genesis 28:1,2, 5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I trembled violently after learning that I had blessed the wrong son.",
+        "citations": "Genesis 27:33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jacob and Esau buried me together.",
+        "citations": "Genesis 35:29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah appeared to me at Beer-sheba.",
+        "citations": "Genesis 26:23,24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My hands were touched by someone pretending to be Esau.",
+        "citations": "Genesis 27:22,23",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ishmael",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "My mother was Hagar.",
+        "citations": "Genesis 16:15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was born before Isaac.",
+        "citations": "Genesis 16:15,16; Genesis 21:1-3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "An angel announced my name before I was born.",
+        "citations": "Genesis 16:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Isaac and I buried our father together.",
+        "citations": "Genesis 25:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was circumcised when I was thirteen years old.",
+        "citations": "Genesis 17:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "God promised that I would become a great nation.",
+        "citations": "Genesis 17:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My mother and I were sent away into the wilderness.",
+        "citations": "Genesis 21:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was with my mother when a well of water was revealed in the wilderness.",
+        "citations": "Genesis 21:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I lived in the wilderness of Paran.",
+        "citations": "Genesis 21:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became an archer.",
+        "citations": "Genesis 21:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was born when Abraham was eighty-six years old.",
+        "citations": "Genesis 16:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was fourteen years older than Isaac.",
+        "citations": "Genesis 16:16; Genesis 21:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My mother obtained an Egyptian wife for me.",
+        "citations": "Genesis 21:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "It was foretold that my hand would be against everyone and everyone's hand against me.",
+        "citations": "Genesis 16:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A later inspired letter contrasted my birth with that of Isaac.",
+        "citations": "Galatians 4:22,23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was present when Abraham was buried.",
+        "citations": "Genesis 25:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was mocking my half-brother and his mother kept noticing it.",
+        "citations": "Genesis 21:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was described as becoming a wild donkey of a man.",
+        "citations": "Genesis 16:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I fathered twelve chieftains.",
+        "citations": "Genesis 25:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My descendants settled from Havilah to Shur near Egypt.",
+        "citations": "Genesis 25:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I lived for 137 years.",
+        "citations": "Genesis 25:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A later inspired letter referred to me as being born through natural descent.",
+        "citations": "Galatians 4:23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A later inspired letter associated me with the persecution of one born through spirit.",
+        "citations": "Galatians 4:29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My name means 'God hears,' reflecting what God heard concerning my mother's affliction.",
+        "citations": "Genesis 16:11",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Jacob",
+    "aliases": [
+      "Israel"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "After I wrestled at Peniel, my name was changed.",
+        "citations": "Genesis 32:28; Genesis 35:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "At birth I was holding my brother's heel.",
+        "citations": "Genesis 25:26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Esau was my twin brother.",
+        "citations": "Genesis 25:24-26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I loved Rachel.",
+        "citations": "Genesis 29:18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I obtained my brother's birthright.",
+        "citations": "Genesis 25:29-34",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I received the blessing that Isaac intended to give to Esau.",
+        "citations": "Genesis 27:15-29",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the father of the twelve tribes.",
+        "citations": "Genesis 35:22-26; Genesis 49:28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My daughter Dinah was violated in the land of Canaan.",
+        "citations": "Genesis 34:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I dreamed of a stairway reaching from earth to heaven.",
+        "citations": "Genesis 28:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I fled from my brother.",
+        "citations": "Genesis 27:41-45",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I named that place Bethel.",
+        "citations": "Genesis 28:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I rolled the stone from a well's mouth so Rachel's flock could drink.",
+        "citations": "Genesis 29:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said that the scepter would not depart from Judah.",
+        "citations": "Genesis 49:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Surely Jehovah is in this place and I did not know it.\"",
+        "citations": "Genesis 28:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I set up the stone I had used as a pillow and poured oil on top of it.",
+        "citations": "Genesis 28:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spent the night with a stone serving as my pillow.",
+        "citations": "Genesis 28:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was given Leah instead of Rachel on my wedding night.",
+        "citations": "Genesis 29:23-25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I worked seven years to marry Rachel.",
+        "citations": "Genesis 29:18-20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I first met Rachel, I kissed her and burst into tears.",
+        "citations": "Genesis 29:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A man touched my hip socket during an all-night struggle.",
+        "citations": "Genesis 32:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Before meeting Esau, I divided the people with me into two camps.",
+        "citations": "Genesis 32:7,8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I became the father of Joseph.",
+        "citations": "Genesis 30:22-24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I erected a stone pillar as a witness to a covenant with Laban.",
+        "citations": "Genesis 31:44-52",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I made an agreement with Laban that involved striped, speckled, and spotted livestock.",
+        "citations": "Genesis 30:31-43",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I named the place Peniel because I had seen God face to face and yet my life was preserved.",
+        "citations": "Genesis 32:30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prayed that Jehovah would save me from my brother's hand.",
+        "citations": "Genesis 32:9-11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I rebuked Simeon and Levi for making me a stench to the inhabitants of the land.",
+        "citations": "Genesis 34:30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"I will not let you go until you bless me.\"",
+        "citations": "Genesis 32:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I secretly left Laban's household and headed toward Canaan.",
+        "citations": "Genesis 31:17-21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent gifts ahead of me because I feared meeting my brother.",
+        "citations": "Genesis 32:13-21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Laban he had changed my wages ten times.",
+        "citations": "Genesis 31:7, 41",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I vowed that if God was with me, I would give him a tenth of all he gave me.",
+        "citations": "Genesis 28:20-22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrestled through the night with a man.",
+        "citations": "Genesis 32:24-28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The first seven years I worked for Rachel seemed like only a few days because of my love for her.",
+        "citations": "Genesis 29:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I believed that a wild animal had torn Joseph to pieces.",
+        "citations": "Genesis 37:33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I blessed Ephraim ahead of Manasseh.",
+        "citations": "Genesis 48:17-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I bought a tract of land near Shechem for one hundred pieces of money.",
+        "citations": "Genesis 33:18-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I built booths for my livestock and called the place Succoth.",
+        "citations": "Genesis 33:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I buried foreign gods beneath a big tree near Shechem.",
+        "citations": "Genesis 35:2-4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I crossed my hands while blessing two grandsons.",
+        "citations": "Genesis 48:13-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I described Judah as a lion cub.",
+        "citations": "Genesis 49:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I died in Egypt at 147 years of age.",
+        "citations": "Genesis 47:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I hesitated to send Benjamin to Egypt.",
+        "citations": "Genesis 42:36-38",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I learned that my son was still alive after believing he was dead for many years.",
+        "citations": "Genesis 45:26-28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I limped after an encounter that changed my name.",
+        "citations": "Genesis 32:31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I made Joseph swear not to bury me in Egypt but with my fathers.",
+        "citations": "Genesis 47:29-31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I met my brother again after many years, and he embraced me.",
+        "citations": "Genesis 33:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I moved my household to Egypt during a famine.",
+        "citations": "Genesis 46:5-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I refused to be comforted after losing a beloved son.",
+        "citations": "Genesis 37:35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said I never expected to see Joseph's face again, yet God let me see his sons as well.",
+        "citations": "Genesis 48:11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sent my sons to Egypt during a famine.",
+        "citations": "Genesis 42:1-3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Pharaoh that my years had been few and distressing.",
+        "citations": "Genesis 47:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My body was carried back to Canaan for burial.",
+        "citations": "Genesis 50:12,13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My wife Rachel died while giving birth to Benjamin.",
+        "citations": "Genesis 35:16-19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "While dying, I worshiped as I leaned on the top of my staff.",
+        "citations": "Genesis 47:31; Hebrews 11:21",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Japheth",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was one of Noah's sons.",
+        "citations": "Genesis 5:32; Genesis 6:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I survived the Flood aboard the ark along with my parents and brothers.",
+        "citations": "Genesis 7:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Shem and Ham were my brothers.",
+        "citations": "Genesis 5:32; Genesis 9:18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I entered the ark with my wife and family.",
+        "citations": "Genesis 7:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was among the eight humans who survived the Flood.",
+        "citations": "Genesis 7:13; 1 Peter 3:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My brother and I walked backward with a garment to cover our father.",
+        "citations": "Genesis 9:23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A blessing spoken by Noah included me after an incident involving wine.",
+        "citations": "Genesis 9:26,27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Noah prayed that God would grant ample space to me.",
+        "citations": "Genesis 9:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "It was foretold that I would reside in the tents of Shem.",
+        "citations": "Genesis 9:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My descendants included Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+        "citations": "Genesis 10:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My family line is listed first among Noah's descendants in the Table of Nations.",
+        "citations": "Genesis 10:2-5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The coastland peoples were listed among descendants of my family line.",
+        "citations": "Genesis 10:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My descendants spread by their lands, languages, families, and nations.",
+        "citations": "Genesis 10:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A later genealogy traced many nations through my descendants.",
+        "citations": "1 Chronicles 1:5-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was present when the post-Flood world began to be repopulated.",
+        "citations": "Genesis 9:18,19",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Joseph",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I became a powerful ruler in Egypt.",
+        "citations": "Genesis 41:39-44",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I interpreted Pharaoh's dreams.",
+        "citations": "Genesis 41:25-32",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I received a special robe from my father.",
+        "citations": "Genesis 37:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was Jacob's favorite son.",
+        "citations": "Genesis 37:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was thrown into a pit by my brothers.",
+        "citations": "Genesis 37:23,24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My brothers bowed down before me.",
+        "citations": "Genesis 42:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My brothers sold me into slavery.",
+        "citations": "Genesis 37:26-28; Genesis 45:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I brought a bad report about my brothers to my father.",
+        "citations": "Genesis 37:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I dreamed that sheaves belonging to my brothers bowed down to my sheaf.",
+        "citations": "Genesis 37:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I dreamed that the sun, moon, and eleven stars bowed down to me.",
+        "citations": "Genesis 37:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had dreams that caused my brothers to hate me.",
+        "citations": "Genesis 37:5-11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I predicted seven years of abundance followed by seven years of famine.",
+        "citations": "Genesis 41:29,30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I refused the advances of my master's wife.",
+        "citations": "Genesis 39:7-12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I served in the household of Potiphar.",
+        "citations": "Genesis 39:1-4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I shocked my brothers when I revealed who I really was.",
+        "citations": "Genesis 45:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was imprisoned for a crime I did not commit.",
+        "citations": "Genesis 39:19,20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was seventeen years old when I was tending flocks with my brothers.",
+        "citations": "Genesis 37:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah made me successful in everything I did in my Egyptian master's house.",
+        "citations": "Genesis 39:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My garment was used as false evidence against me.",
+        "citations": "Genesis 39:12-18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Before I appeared before Pharaoh, I shaved and changed my clothes.",
+        "citations": "Genesis 41:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I accused my brothers of being spies.",
+        "citations": "Genesis 42:9-14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked a cupbearer to remember me after he was restored to his position.",
+        "citations": "Genesis 40:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I bound Simeon before his brothers' eyes until they brought Benjamin.",
+        "citations": "Genesis 42:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I interpreted the dreams of Pharaoh's cupbearer and baker.",
+        "citations": "Genesis 40:5-22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I married Asenath.",
+        "citations": "Genesis 41:45",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I proposed storing food during the seven years of abundance.",
+        "citations": "Genesis 41:33-36",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I recognized my brothers when they came to Egypt, but they did not recognize me.",
+        "citations": "Genesis 42:7,8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I remained in prison for two more years after a favorable interpretation came true.",
+        "citations": "Genesis 40:23; Genesis 41:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"Interpretations belong to God.\"",
+        "citations": "Genesis 40:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I seated my brothers by age, and they looked at one another in amazement.",
+        "citations": "Genesis 43:33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I served Benjamin five times as much food as his brothers.",
+        "citations": "Genesis 43:34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was thirty years old when I entered Pharaoh's service.",
+        "citations": "Genesis 41:46",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My sons were named Manasseh and Ephraim.",
+        "citations": "Genesis 41:50-52",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Pharaoh gave me authority second only to his own.",
+        "citations": "Genesis 41:40-44",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A later inspired writer praised my faith regarding Israel's departure from Egypt.",
+        "citations": "Hebrews 11:22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I arranged for a silver cup to be hidden in my brother's sack.",
+        "citations": "Genesis 44:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I asked that my bones be carried out of Egypt in the future.",
+        "citations": "Genesis 50:24,25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I asked, “Am I in the place of God?” when my brothers feared revenge.",
+        "citations": "Genesis 50:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I demanded that my youngest brother be brought to Egypt.",
+        "citations": "Genesis 42:15-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I forgave the brothers who had wronged me.",
+        "citations": "Genesis 45:4-15; Genesis 50:15-21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I lived to be 110 years old.",
+        "citations": "Genesis 50:22, 26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I provided food for many people during a severe famine.",
+        "citations": "Genesis 41:53-57",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said, \"You meant to harm me, but God meant it for good.\"",
+        "citations": "Genesis 50:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I secretly returned money to my brothers' sacks.",
+        "citations": "Genesis 42:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I settled my father and brothers in the land of Goshen.",
+        "citations": "Genesis 47:11,12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told my brothers that God had sent me ahead of them to preserve lives.",
+        "citations": "Genesis 45:5-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was embalmed and placed in a coffin in Egypt.",
+        "citations": "Genesis 50:26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I wept after seeing my brother Benjamin again.",
+        "citations": "Genesis 43:29,30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I wept so loudly that the Egyptians heard me when I made myself known to my brothers.",
+        "citations": "Genesis 45:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My bones were eventually buried at Shechem.",
+        "citations": "Joshua 24:32",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My father believed I had been torn to pieces by a wild animal.",
+        "citations": "Genesis 37:33",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Judah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was one of Jacob's sons.",
+        "citations": "Genesis 29:35",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My mother named me while praising Jehovah.",
+        "citations": "Genesis 29:35",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I suggested that my brothers sell one of our brothers instead of killing him.",
+        "citations": "Genesis 37:26,27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I helped arrange the sale of my brother to traveling merchants.",
+        "citations": "Genesis 37:27,28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "A tribe of Israel was named after me.",
+        "citations": "Genesis 49:10; Numbers 1:26,27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Kings later came from my family line.",
+        "citations": "Genesis 49:10; Ruth 4:18-22; 2 Samuel 5:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My father compared me to a lion cub.",
+        "citations": "Genesis 49:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I left my brothers for a time and associated with an Adullamite named Hirah.",
+        "citations": "Genesis 38:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I married the daughter of a Canaanite named Shua.",
+        "citations": "Genesis 38:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had sons named Er, Onan, and Shelah.",
+        "citations": "Genesis 38:3-5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Two of my sons died because they were displeasing to Jehovah.",
+        "citations": "Genesis 38:7-10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I promised my youngest son to my daughter-in-law but delayed fulfilling that promise.",
+        "citations": "Genesis 38:11,14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I unknowingly fathered children through my own daughter-in-law.",
+        "citations": "Genesis 38:15-18,24-30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave my seal ring, cord, and staff as a pledge.",
+        "citations": "Genesis 38:17,18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"She is more righteous than I am.\"",
+        "citations": "Genesis 38:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Twin sons were born through a situation that brought me public embarrassment.",
+        "citations": "Genesis 38:27-30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became the spokesman for my brothers during our trips to Egypt.",
+        "citations": "Genesis 43:3-10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I guaranteed my youngest brother's safety to our father.",
+        "citations": "Genesis 43:8,9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"I will be the one to answer for him.\"",
+        "citations": "Genesis 43:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I persuaded my father to let Benjamin travel with us to Egypt.",
+        "citations": "Genesis 43:8-14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was placed in charge of presenting our case after a silver cup was discovered.",
+        "citations": "Genesis 44:14-34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I offered myself as a slave in place of my younger brother.",
+        "citations": "Genesis 44:33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My plea moved a powerful Egyptian ruler to tears.",
+        "citations": "Genesis 44:18-34; Genesis 45:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I did not realize that the ruler of Egypt was my brother when I spoke in his defense.",
+        "citations": "Genesis 42:8; Genesis 44:18-34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I approached an Egyptian ruler and said, \"Please, my lord, let your servant speak a word in my lord's hearing.\"",
+        "citations": "Genesis 44:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My descendants camped on the east side of the tabernacle alongside Issachar and Zebulun.",
+        "citations": "Numbers 2:3-9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My daughter-in-law sent me my own seal ring, cord, and staff as evidence.",
+        "citations": "Genesis 38:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "One of my sons failed to provide offspring for his deceased brother and died for it.",
+        "citations": "Genesis 38:8-10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I thought a veiled woman by the road was a prostitute.",
+        "citations": "Genesis 38:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A friend of mine searched unsuccessfully for a woman to recover items I had pledged.",
+        "citations": "Genesis 38:20-23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was prepared to have someone executed before learning that I shared responsibility for the situation.",
+        "citations": "Genesis 38:24-26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Perez and Zerah were among my descendants.",
+        "citations": "Genesis 38:29,30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My father declared that the scepter would not depart from my line.",
+        "citations": "Genesis 49:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My father said that my brothers would praise me.",
+        "citations": "Genesis 49:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My descendants included David and Jesus Christ.",
+        "citations": "Ruth 4:18-22; Matthew 1:2,3,6,16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My name became associated with the royal tribe of Israel.",
+        "citations": "Genesis 49:10; 1 Chronicles 5:2",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Laban",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Jacob worked for me in order to marry one of my daughters.",
+        "citations": "Genesis 29:18-20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I had two daughters named Leah and Rachel.",
+        "citations": "Genesis 29:16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I tricked Jacob into marrying my older daughter first.",
+        "citations": "Genesis 29:23-25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jacob ended up serving me for fourteen years to marry both of my daughters.",
+        "citations": "Genesis 29:18-30",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the brother of Rebekah.",
+        "citations": "Genesis 24:29; Genesis 28:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Bethuel and I said that the request to take my sister Rebekah as a wife for Abraham's son had come from Jehovah.",
+        "citations": "Genesis 24:50",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the father-in-law of Jacob.",
+        "citations": "Genesis 29:21-30",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I changed Jacob's wages repeatedly.",
+        "citations": "Genesis 31:7,41",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I met Abraham's servant at a well after hearing about gifts given to my sister.",
+        "citations": "Genesis 24:28-31",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I welcomed a servant who arrived seeking a wife for his master's son.",
+        "citations": "Genesis 24:31-33,50,51",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I insisted that my older daughter marry before my younger daughter.",
+        "citations": "Genesis 29:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My flocks became the subject of an unusual breeding arrangement involving striped rods.",
+        "citations": "Genesis 30:37-43",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jacob became wealthy while tending my flocks.",
+        "citations": "Genesis 30:43",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My sons claimed that Jacob had taken everything that belonged to me.",
+        "citations": "Genesis 31:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My daughters complained that I had treated them as foreigners.",
+        "citations": "Genesis 31:14-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I pursued Jacob after he secretly departed with my family and possessions.",
+        "citations": "Genesis 31:22-25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "God warned me in a dream not to speak either good or bad to Jacob.",
+        "citations": "Genesis 31:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I accused Jacob of leaving secretly and carrying off my daughters like captives of war.",
+        "citations": "Genesis 31:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I searched for household gods that had been stolen from me.",
+        "citations": "Genesis 31:30-35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My daughter sat on the stolen household gods while I searched for them.",
+        "citations": "Genesis 31:34,35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I never found the household gods that had been taken from me.",
+        "citations": "Genesis 31:33-35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jacob reminded me that he had endured heat by day and cold by night while serving me.",
+        "citations": "Genesis 31:38-40",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jacob said that I had changed his wages ten times.",
+        "citations": "Genesis 31:41",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I made a covenant with Jacob and marked it with a heap of stones.",
+        "citations": "Genesis 31:44-48",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I called a memorial heap by an Aramaic name, while Jacob called it by a Hebrew name.",
+        "citations": "Genesis 31:47",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said, \"May Jehovah keep watch between you and me when we are hidden from each other.\"",
+        "citations": "Genesis 31:49",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I warned Jacob not to mistreat my daughters or take additional wives besides them.",
+        "citations": "Genesis 31:50",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My son-in-law offered a sacrifice near the boundary marker after we settled our dispute.",
+        "citations": "Genesis 31:54",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I kissed my daughters and grandchildren before returning home.",
+        "citations": "Genesis 31:55",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Leah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "My father substituted me for my younger sister on a wedding night.",
+        "citations": "Genesis 29:23-25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the older sister of Rachel.",
+        "citations": "Genesis 29:16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jacob worked seven years expecting to marry my sister but married me first.",
+        "citations": "Genesis 29:18-25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became one of Jacob's wives.",
+        "citations": "Genesis 29:23-28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the mother of Judah.",
+        "citations": "Genesis 29:35",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I gave birth to six of Jacob's sons.",
+        "citations": "Genesis 29:32-35; Genesis 30:17-20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah saw that I was unloved and opened my womb.",
+        "citations": "Genesis 29:31",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My sister remained childless while I gave birth repeatedly.",
+        "citations": "Genesis 29:31-35; Genesis 30:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I named my firstborn Reuben.",
+        "citations": "Genesis 29:32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Because Jehovah has looked upon my affliction.\"",
+        "citations": "Genesis 29:32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I named a son Simeon because Jehovah had heard that I was unloved.",
+        "citations": "Genesis 29:33",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I named a son Levi because I hoped my husband would become attached to me.",
+        "citations": "Genesis 29:34",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I named a son while saying, \"This time I will praise Jehovah.\"",
+        "citations": "Genesis 29:35",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I temporarily stopped bearing children after the birth of Judah.",
+        "citations": "Genesis 29:35",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became my husband's first wife through a deception arranged by my father.",
+        "citations": "Genesis 29:23-25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My servant Zilpah bore children on my behalf.",
+        "citations": "Genesis 30:9-13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I gave my servant to Jacob as a wife after I stopped having children.",
+        "citations": "Genesis 30:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I received mandrakes from my son and negotiated with my sister over them.",
+        "citations": "Genesis 30:14-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that God had rewarded me for giving my servant to my husband.",
+        "citations": "Genesis 30:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I named a son Issachar after believing I had received a reward.",
+        "citations": "Genesis 30:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I named a son Zebulun because I believed God had given me a good gift.",
+        "citations": "Genesis 30:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I became the mother of Dinah.",
+        "citations": "Genesis 30:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My sons Reuben, Simeon, Levi, Judah, Issachar, and Zebulun became founders of tribes of Israel.",
+        "citations": "Genesis 29:32-35; Genesis 30:18-20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was buried in the cave of Machpelah.",
+        "citations": "Genesis 49:31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My husband requested to be buried beside me.",
+        "citations": "Genesis 49:29-31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I became an ancestress of both Israel's priestly tribe and its royal tribe.",
+        "citations": "Genesis 29:34,35; Deuteronomy 18:1; Ruth 4:18-22; 2 Samuel 5:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was one of four women whose sons became the twelve tribes of Israel.",
+        "citations": "Genesis 29:32-35; Genesis 30:3-13,17-24; Genesis 35:16-18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My eyes had no luster.",
+        "citations": "Genesis 29:17",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Lot",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was Abraham's nephew.",
+        "citations": "Genesis 11:27,31; Genesis 12:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I lived in Sodom before its destruction.",
+        "citations": "Genesis 13:12; Genesis 19:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Angels led me out of a city before Jehovah destroyed it.",
+        "citations": "Genesis 19:15-17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My wife looked back and became a pillar of salt.",
+        "citations": "Genesis 19:26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I escaped the destruction of Sodom.",
+        "citations": "Genesis 19:15-29",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I traveled with Abraham from Haran.",
+        "citations": "Genesis 12:4,5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My herds became so numerous that the land could not support both me and Abraham together.",
+        "citations": "Genesis 13:5-7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I chose the well-watered district of the Jordan when separating from Abraham.",
+        "citations": "Genesis 13:10,11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I pitched my tents near Sodom.",
+        "citations": "Genesis 13:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was captured during a war involving several kings.",
+        "citations": "Genesis 14:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Abraham rescued me after I was taken captive.",
+        "citations": "Genesis 14:14-16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sat in the gate of Sodom.",
+        "citations": "Genesis 19:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I invited two angelic visitors into my home and urged them not to spend the night in the public square.",
+        "citations": "Genesis 19:1-3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A violent mob surrounded my house and demanded my guests.",
+        "citations": "Genesis 19:4,5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I pleaded with wicked men not to act perversely.",
+        "citations": "Genesis 19:6,7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The men of Sodom threatened me after I tried to restrain them.",
+        "citations": "Genesis 19:8,9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My sons-in-law thought I was joking when I warned them to flee.",
+        "citations": "Genesis 19:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I hesitated when told to flee, and angels took hold of my hand to lead me out.",
+        "citations": "Genesis 19:15,16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked to flee to a small city instead of the mountains.",
+        "citations": "Genesis 19:18-22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was allowed to flee to a small city, and that city was spared.",
+        "citations": "Genesis 19:21,22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I lived in Zoar after escaping judgment.",
+        "citations": "Genesis 19:22,23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Later I left Zoar and lived in a cave with my daughters.",
+        "citations": "Genesis 19:30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My daughters believed there were no men left to preserve our family line.",
+        "citations": "Genesis 19:31,32",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I became intoxicated on consecutive nights without knowing what followed.",
+        "citations": "Genesis 19:33-35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Through my daughters I became the ancestor of two neighboring nations.",
+        "citations": "Genesis 19:36-38",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Moab and Ben-ammi were born through a tragic episode involving my family.",
+        "citations": "Genesis 19:37,38",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A later inspired writer described me as distressed by the lawless deeds of wicked people around me.",
+        "citations": "2 Peter 2:7,8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was rescued from destruction because God remembered Abraham.",
+        "citations": "Genesis 19:29",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Lot's wife",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Angels led me out of Sodom with Lot and our two daughters.",
+        "citations": "Genesis 19:15,16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became a pillar of salt.",
+        "citations": "Genesis 19:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I began to look back while I was behind Lot.",
+        "citations": "Genesis 19:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was told not to look behind me while escaping.",
+        "citations": "Genesis 19:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jesus told his followers to remember me.",
+        "citations": "Luke 17:32",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "name": "Melchizedek",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I met Abraham after his victory over several kings.",
+        "citations": "Genesis 14:17-20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a priest of the Most High God.",
+        "citations": "Genesis 14:18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was king of Salem.",
+        "citations": "Genesis 14:18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I blessed Abraham after his military victory.",
+        "citations": "Genesis 14:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I brought out bread and wine for Abraham.",
+        "citations": "Genesis 14:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I praised the Most High God for delivering Abraham's enemies into his hand.",
+        "citations": "Genesis 14:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Blessed be Abram by the Most High God, Maker of heaven and earth.\"",
+        "citations": "Genesis 14:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A later inspired writer also associated me with the title \"King of Peace.\"",
+        "citations": "Hebrews 7:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A later inspired writer explained that my name means \"King of Righteousness.\"",
+        "citations": "Hebrews 7:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A psalm later foretold a priest who would serve according to the pattern of my priesthood.",
+        "citations": "Psalm 110:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Abraham gave me a tenth of the chief spoils.",
+        "citations": "Hebrews 7:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My brief appearance in Genesis becomes the basis for an extended discussion of my priesthood in Hebrews.",
+        "citations": "Genesis 14:18-20; Hebrews 5:6,10; Hebrews 6:20; Hebrews 7:1-17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A later writer said that even Levi, who receives tithes, paid tithes through Abraham when Abraham gave me a tenth.",
+        "citations": "Hebrews 7:9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was described as being \"made like the Son of God.\"",
+        "citations": "Hebrews 7:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Levi was still a future descendant of his forefather, when I met Abraham.",
+        "citations": "Hebrews 7:9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The Scriptural account does not record my father, mother, genealogy, beginning of days, or end of life.",
+        "citations": "Hebrews 7:3",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Nimrod",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I became a mighty hunter in opposition to Jehovah.",
+        "citations": "Genesis 10:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became the first mighty one on the earth after the Flood.",
+        "citations": "Genesis 10:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a grandson of Ham.",
+        "citations": "Genesis 10:6-8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My kingdom began with Babel.",
+        "citations": "Genesis 10:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I built Nineveh.",
+        "citations": "Genesis 10:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Although my account spans only a few verses, I was remembered for both hunting and kingdom-building.",
+        "citations": "Genesis 10:8-10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a son of Cush.",
+        "citations": "Genesis 10:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My account appears immediately before the Bible explains why mankind's languages were confused.",
+        "citations": "Genesis 10:8-10; Genesis 11:1-9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My reputation as a hunter became proverbial.",
+        "citations": "Genesis 10:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The Bible introduces me as a kingdom builder soon after describing the descendants of Noah.",
+        "citations": "Genesis 10:1-10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The beginning of my kingdom included Erech, Accad, and Calneh.",
+        "citations": "Genesis 10:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A later prophet spoke of my land together with the land of Assyria.",
+        "citations": "Micah 5:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I also built Rehoboth-Ir and Calah.",
+        "citations": "Genesis 10:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Out of the land where my kingdom began, I went forth into Assyria.",
+        "citations": "Genesis 10:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Resen, between Nineveh and Calah, was called the great city in connection with my building.",
+        "citations": "Genesis 10:12",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "name": "Noah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I built an ark.",
+        "citations": "Genesis 6:14-16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I survived the Flood with my family.",
+        "citations": "Genesis 7:7,23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I found favor in Jehovah's eyes.",
+        "citations": "Genesis 6:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a righteous man who walked with the true God.",
+        "citations": "Genesis 6:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became the father of Shem, Ham, and Japheth.",
+        "citations": "Genesis 5:32; Genesis 6:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I obeyed everything Jehovah commanded me to do.",
+        "citations": "Genesis 6:22; Genesis 7:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah established a covenant with me and my descendants after the Flood.",
+        "citations": "Genesis 9:8-11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "The rainbow became the sign of the covenant Jehovah made with me.",
+        "citations": "Genesis 9:12-17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah told me to be fruitful and become many.",
+        "citations": "Genesis 9:1, 7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Pairs of animals entered the ark with me, as Jehovah had instructed.",
+        "citations": "Genesis 6:19,20; Genesis 7:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I also brought groups of clean animals into the ark.",
+        "citations": "Genesis 7:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah shut the door of the ark after I entered.",
+        "citations": "Genesis 7:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I witnessed rain fall for forty days and forty nights.",
+        "citations": "Genesis 7:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I remained in the ark while the floodwaters prevailed for one hundred and fifty days.",
+        "citations": "Genesis 7:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah remembered me while I was in the ark.",
+        "citations": "Genesis 8:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The ark carrying my family came to rest on the mountains of Ararat.",
+        "citations": "Genesis 8:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After the Flood, I was permitted to eat animal flesh.",
+        "citations": "Genesis 9:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah told me not to eat flesh with its blood still in it.",
+        "citations": "Genesis 9:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah told me that human lifeblood must be accounted for.",
+        "citations": "Genesis 9:5,6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became a cultivator of the ground and planted a vineyard.",
+        "citations": "Genesis 9:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I drank wine from my vineyard and became intoxicated.",
+        "citations": "Genesis 9:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The nations after the Flood descended from my three sons.",
+        "citations": "Genesis 9:18,19; Genesis 10:1-32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I released a raven after the Flood.",
+        "citations": "Genesis 8:6,7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I released a dove three times to learn whether the waters had receded.",
+        "citations": "Genesis 8:8-12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A dove returned to me carrying a freshly plucked olive leaf.",
+        "citations": "Genesis 8:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The third time I released a dove, it did not return to me.",
+        "citations": "Genesis 8:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I removed the covering of the ark and looked upon the ground.",
+        "citations": "Genesis 8:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I remained in the ark until Jehovah instructed me to come out.",
+        "citations": "Genesis 8:15-19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I offered clean animals and clean birds as burnt offerings after the Flood.",
+        "citations": "Genesis 8:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I lay uncovered inside my tent after becoming drunk.",
+        "citations": "Genesis 9:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "One of my sons saw my nakedness and told his two brothers.",
+        "citations": "Genesis 9:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Two of my sons walked backward with a garment on their shoulders so they would not see my nakedness.",
+        "citations": "Genesis 9:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When I awoke from my wine, I learned what my youngest son had done.",
+        "citations": "Genesis 9:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I pronounced a curse upon Canaan.",
+        "citations": "Genesis 9:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"Praised be Jehovah, the God of Shem.\"",
+        "citations": "Genesis 9:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I declared that God would grant ample space to Japheth.",
+        "citations": "Genesis 9:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah smelled a pleasing aroma after I offered sacrifices.",
+        "citations": "Genesis 8:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah promised me that seedtime and harvest, cold and heat, summer and winter, day and night would never cease while the earth remains.",
+        "citations": "Genesis 8:22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah included every living creature with me in the covenant He established after the Flood.",
+        "citations": "Genesis 9:9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I foretold that Japheth would reside in the tents of Shem.",
+        "citations": "Genesis 9:27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I lived for three hundred and fifty years after the Flood.",
+        "citations": "Genesis 9:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I lived to be nine hundred and fifty years old.",
+        "citations": "Genesis 9:29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A later inspired writer called me \"a preacher of righteousness.\"",
+        "citations": "2 Peter 2:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "By faith I built an ark for the saving of my household.",
+        "citations": "Hebrews 11:7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "By my faith I condemned the world and became an heir of the righteousness that results from faith.",
+        "citations": "Hebrews 11:7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jesus compared the days before the Flood of my time to the period before his presence.",
+        "citations": "Matthew 24:37-39; Luke 17:26,27",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Pharaoh (Joseph)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I dreamed of seven fine-looking, fat cows coming up from the Nile.",
+        "citations": "Genesis 41:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I invited Joseph's father and households to come to Egypt and eat the richest part of the land.",
+        "citations": "Genesis 45:17,18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I put Joseph over all the land of Egypt.",
+        "citations": "Genesis 41:41",
+        "difficulty": "easy"
+      },
+      {
+        "text": "In my dream, seven ugly, thin cows ate up the seven fat cows.",
+        "citations": "Genesis 41:3,4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Joseph interpreted my dreams as seven years of abundance followed by seven years of famine.",
+        "citations": "Genesis 41:25-30",
+        "difficulty": "easy"
+      },
+      {
+        "text": "When Egyptians cried to me for bread, I told them to go to Joseph.",
+        "citations": "Genesis 41:55",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Egypt's magic-practicing priests and wise men could not interpret my dreams.",
+        "citations": "Genesis 41:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked Jacob how old he was.",
+        "citations": "Genesis 47:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked Joseph's brothers, “What is your occupation?”",
+        "citations": "Genesis 47:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked my servants whether another man could be found like Joseph, in whom there was the spirit of God.",
+        "citations": "Genesis 41:38",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I clothed Joseph with garments of fine linen and placed a necklace of gold around his neck.",
+        "citations": "Genesis 41:42",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I dreamed of seven full ears of grain on one stalk, then seven thin ears scorched by the east wind.",
+        "citations": "Genesis 41:5,6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave Joseph Asenath, the daughter of Potiphera the priest of On, as a wife.",
+        "citations": "Genesis 41:45",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave Joseph the name Zaphenath-paneah.",
+        "citations": "Genesis 41:45",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had Joseph ride in the second chariot of honor that I had.",
+        "citations": "Genesis 41:43",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I removed my signet ring from my hand and put it on Joseph's hand.",
+        "citations": "Genesis 41:42",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent for Joseph and had him brought quickly from prison.",
+        "citations": "Genesis 41:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Joseph that only as to the throne would I be greater than he was.",
+        "citations": "Genesis 41:40",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In my dream, the thin ears of grain swallowed up the full, choice ears.",
+        "citations": "Genesis 41:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My chief cupbearer told me about a young Hebrew who had interpreted prison dreams correctly.",
+        "citations": "Genesis 41:9-13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I commanded that wagons be taken from Egypt to bring Joseph's father and households down.",
+        "citations": "Genesis 45:19-21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I grew indignant at my chief cupbearer and chief baker and committed them to the jail of the chief of the guard.",
+        "citations": "Genesis 40:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said I had never seen such bad-looking cows in all the land of Egypt.",
+        "citations": "Genesis 41:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that if Joseph knew of any capable men among his brothers, he should put them in charge of my livestock.",
+        "citations": "Genesis 47:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Joseph not to worry about his family's belongings, for the best of all the land of Egypt was theirs.",
+        "citations": "Genesis 45:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Joseph that without his authorization no man may do a single thing in all the land of Egypt.",
+        "citations": "Genesis 41:44",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Joseph to settle his father and brothers in Goshen, the very best part of the land.",
+        "citations": "Genesis 47:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my dream, after the thin cows ate the fat ones, they still looked just as bad as at the start.",
+        "citations": "Genesis 41:20,21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In the morning after my dreams, my spirit became agitated.",
+        "citations": "Genesis 41:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jacob blessed me when Joseph presented him, and he blessed me again before leaving.",
+        "citations": "Genesis 47:7, 10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Joseph bought all the Egyptians' land for me, except the land of the priests.",
+        "citations": "Genesis 47:20-22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Joseph kept bringing into my house the money collected for grain sold in Egypt and Canaan.",
+        "citations": "Genesis 47:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Joseph made a decree over Egypt that a fifth of the produce belongs to me, and that decree remained valid.",
+        "citations": "Genesis 47:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "On my birthday I made a feast for all my servants, restored the chief cupbearer, and hanged the chief baker.",
+        "citations": "Genesis 40:20-22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "People were to call out “Avrekh!” ahead of Joseph after I elevated him.",
+        "citations": "Genesis 41:43",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A later psalm said that I sent to release Joseph and made him master of my household and ruler over all my property.",
+        "citations": "Psalm 105:20,21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After two full years, dreams of cows and grain led me to free a Hebrew prisoner and place him over Egypt.",
+        "citations": "Genesis 41:1, 14; Genesis 41:39-41",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I first jailed my cupbearer in anger, then later learned from him about the Hebrew who could interpret dreams.",
+        "citations": "Genesis 40:2,3; Genesis 41:9-14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I gave Joseph my signet ring and fine linen, then later sent wagons so his family could eat the richest part of Egypt.",
+        "citations": "Genesis 41:42; Genesis 45:17-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I settled Joseph's family in Goshen and afterward asked Jacob his age and received his blessing.",
+        "citations": "Genesis 47:5-10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Joseph's storage proposal pleased me, and when famine came I redirected the crying Egyptians to him.",
+        "citations": "Genesis 41:37; Genesis 41:55",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Potiphar",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I bought Joseph from the Ishmaelites who had brought him to Egypt.",
+        "citations": "Genesis 39:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was an Egyptian court official and the chief of Pharaoh's guard.",
+        "citations": "Genesis 39:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah blessed my house for Joseph's sake.",
+        "citations": "Genesis 39:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah made everything Joseph did in my house successful.",
+        "citations": "Genesis 39:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became furious when I heard my wife's accusation against Joseph.",
+        "citations": "Genesis 39:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I put Joseph in charge of my house and everything I had.",
+        "citations": "Genesis 39:4-6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I put my slave in the prison where Pharaoh's prisoners were held.",
+        "citations": "Genesis 39:19,20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My wife repeatedly urged Joseph to lie down with her.",
+        "citations": "Genesis 39:7-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Once Joseph was overseer, I paid attention to nothing in my house except the bread I ate.",
+        "citations": "Genesis 39:6",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "name": "Potiphar's wife",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Day after day I spoke to Joseph, but he would not consent.",
+        "citations": "Genesis 39:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told Joseph, “Lie down with me.”",
+        "citations": "Genesis 39:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Joseph fled from me and left his garment in my hand.",
+        "citations": "Genesis 39:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I began to cast my eyes on Joseph while he served in my husband's house.",
+        "citations": "Genesis 39:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Joseph told me that lying with me would be a great badness and a sin against God.",
+        "citations": "Genesis 39:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When none of the household servants were in the house, I grabbed Joseph by his garment.",
+        "citations": "Genesis 39:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After Joseph fled, I cried out to the men of my house.",
+        "citations": "Genesis 39:13,14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I accused Joseph of coming to make me a laughingstock.",
+        "citations": "Genesis 39:14, 17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I laid Joseph's garment beside me until my husband came to his house.",
+        "citations": "Genesis 39:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told my husband that his Hebrew servant had come to make me a laughingstock.",
+        "citations": "Genesis 39:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I claimed that as soon as I raised my voice and screamed, Joseph left his garment and fled outside.",
+        "citations": "Genesis 39:15, 18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told the men of my house that a Hebrew man had been brought in to make me a laughingstock.",
+        "citations": "Genesis 39:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My accusation made my husband's anger blaze, and Joseph was put in the prison where the king's prisoners were kept.",
+        "citations": "Genesis 39:19,20",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Rachel",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Benjamin was my son.",
+        "citations": "Genesis 35:16-18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the younger daughter of Laban.",
+        "citations": "Genesis 29:16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jacob loved me and agreed to work seven years to marry me.",
+        "citations": "Genesis 29:18-20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jacob worked another seven years because of me.",
+        "citations": "Genesis 29:27-30",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Joseph was my first son.",
+        "citations": "Genesis 30:22-24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My father deceived Jacob by giving him my sister instead of me.",
+        "citations": "Genesis 29:23-27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I envied my sister because she had children while I remained barren.",
+        "citations": "Genesis 30:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave my servant Bilhah to my husband so that I could have children through her.",
+        "citations": "Genesis 30:3-8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I named Dan and Naphtali.",
+        "citations": "Genesis 30:6-8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said to my husband, \"Give me children, or otherwise I will die.\"",
+        "citations": "Genesis 30:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a shepherdess when Jacob first met me.",
+        "citations": "Genesis 29:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was beautiful in form and beautiful of face.",
+        "citations": "Genesis 29:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah remembered me and opened my womb.",
+        "citations": "Genesis 30:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I died while giving birth to my second son.",
+        "citations": "Genesis 35:16-19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I hid the household gods in a camel basket and sat on them.",
+        "citations": "Genesis 31:34,35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I secretly took my father's household gods when we left his home.",
+        "citations": "Genesis 31:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I traded a night with my husband for some of my nephew's mandrakes.",
+        "citations": "Genesis 30:14-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When my first son was born, I said that God had taken away my reproach.",
+        "citations": "Genesis 30:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "As I was dying, I named my son Ben-oni.",
+        "citations": "Genesis 35:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told my father I could not stand up because I was experiencing the customary thing with women.",
+        "citations": "Genesis 31:35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was buried on the way to Ephrath, that is, Bethlehem.",
+        "citations": "Genesis 35:19,20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My husband set up a pillar over my grave.",
+        "citations": "Genesis 35:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A prophet later used my name when describing mothers weeping for their children.",
+        "citations": "Jeremiah 31:15; Matthew 2:16-18",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Rebekah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Abraham's servant met me at a well.",
+        "citations": "Genesis 24:15-20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became Isaac's wife.",
+        "citations": "Genesis 24:67",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I offered water not only to a traveler but also to all of his camels.",
+        "citations": "Genesis 24:18-20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the mother of Esau and Jacob.",
+        "citations": "Genesis 25:24-26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I favored my younger son, while my husband favored the older.",
+        "citations": "Genesis 25:28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was barren until Jehovah answered my husband's prayers.",
+        "citations": "Genesis 25:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My family asked me whether I was willing to leave with Abraham's servant, and I answered, \"I am willing to go.\"",
+        "citations": "Genesis 24:58",
+        "difficulty": "medium"
+      },
+      {
+        "text": "While I was pregnant, my children struggled within me.",
+        "citations": "Genesis 25:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After my older son said he intended to kill his brother, I urged the younger to flee.",
+        "citations": "Genesis 27:41-45",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I covered my son's hands and neck with goatskins.",
+        "citations": "Genesis 27:15,16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I helped my younger son receive his father's blessing.",
+        "citations": "Genesis 27:6-17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I inquired of Jehovah when the children struggled within me.",
+        "citations": "Genesis 25:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I overheard my husband preparing to bless our older son.",
+        "citations": "Genesis 27:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I persuaded my husband to send our younger son to my brother's household.",
+        "citations": "Genesis 27:46; Genesis 28:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prepared a meal so that my younger son could take it to his father.",
+        "citations": "Genesis 27:9-17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said I was disgusted with life because of the Hittite women my older son married.",
+        "citations": "Genesis 27:46",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me \"the older would serve the younger.\"",
+        "citations": "Genesis 25:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My brother was Laban.",
+        "citations": "Genesis 24:29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A man who met me gave me a gold nose ring and bracelets before asking my family for permission to take me away.",
+        "citations": "Genesis 24:22,47,53",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Before my marriage, my family blessed me with the wish that my offspring would possess the gate of those hating them.",
+        "citations": "Genesis 24:60",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told my son to let any curse for deceiving his father come upon me.",
+        "citations": "Genesis 27:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My husband loved me and found comfort after the death of his mother.",
+        "citations": "Genesis 24:67",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When I first saw my future husband, I got down from my camel and covered myself with a veil.",
+        "citations": "Genesis 24:64,65",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Reuben",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I lay with Bilhah, my father's concubine.",
+        "citations": "Genesis 35:22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I tried to rescue Joseph from my brothers and return him to his father.",
+        "citations": "Genesis 37:21,22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was Jacob's firstborn son.",
+        "citations": "Genesis 29:32; Genesis 35:23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My father said that with reckless license like waters I should not excel.",
+        "citations": "Genesis 49:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My mother was Leah.",
+        "citations": "Genesis 29:32",
+        "difficulty": "easy"
+      },
+      {
+        "text": "During the wheat harvest I found mandrakes in the field and brought them to Leah.",
+        "citations": "Genesis 30:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I exclaimed, “The child is gone! And I—what am I going to do?”",
+        "citations": "Genesis 37:30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I reminded my brothers, “Did I not say to you, 'Do not sin against the child,' but you would not listen?”",
+        "citations": "Genesis 42:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told my brothers not to shed blood, but to throw Joseph into a waterpit in the wilderness.",
+        "citations": "Genesis 37:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My mother named me because Jehovah had looked upon her affliction.",
+        "citations": "Genesis 29:32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I returned to the waterpit and Joseph was not there, I ripped my garments apart.",
+        "citations": "Genesis 37:29",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Because I defiled my father's bed, the right as firstborn was given to the sons of Joseph.",
+        "citations": "1 Chronicles 5:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told my father he could put my own two sons to death if I did not bring Benjamin back.",
+        "citations": "Genesis 42:37",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My father called me his vigor and the beginning of his generative power, the excellence of dignity and strength.",
+        "citations": "Genesis 49:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My father said I had gone up to his bed and profaned his lounge.",
+        "citations": "Genesis 49:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My sons were Hanoch, Pallu, Hezron, and Carmi.",
+        "citations": "Genesis 46:9; 1 Chronicles 5:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I meant to save Joseph from the waterpit, but later told my brothers that his blood was certainly being asked back.",
+        "citations": "Genesis 37:21,22, 29,30; Genesis 42:22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I offered my sons as security for Benjamin, but my father refused to send him with me.",
+        "citations": "Genesis 42:37,38",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Though I was the firstborn excellence of dignity and strength, my father said not to excel after I profaned his lounge.",
+        "citations": "Genesis 49:3,4",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Sarah",
+    "aliases": [
+      "Sarai"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I laughed when I heard that I would have a son in my old age.",
+        "citations": "Genesis 18:9-15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was Abraham's wife.",
+        "citations": "Genesis 11:29",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was barren for many years before giving birth.",
+        "citations": "Genesis 11:30; Genesis 21:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Isaac was my son.",
+        "citations": "Genesis 21:1-3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "A Christian writer used me as an example of faith because I received power to conceive despite my age.",
+        "citations": "Hebrews 11:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After my servant conceived, she began to despise me.",
+        "citations": "Genesis 16:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I dealt harshly with my servant until she ran away.",
+        "citations": "Genesis 16:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I denied laughing when questioned about it.",
+        "citations": "Genesis 18:12-15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave my servant to my husband so that he could have a child through her.",
+        "citations": "Genesis 16:1-4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was originally called by another name before Jehovah changed it.",
+        "citations": "Genesis 17:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Three visitors came while I was in the tent, and I listened from the entrance.",
+        "citations": "Genesis 18:1-10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Because of my appearance, I was taken into Pharaoh's house.",
+        "citations": "Genesis 12:14,15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I died in Kiriath-arba, that is, Hebron.",
+        "citations": "Genesis 23:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"God has prepared laughter for me. Everybody hearing about it will laugh with me.\"",
+        "citations": "Genesis 21:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, “Who would have said to Abraham that I would nurse children?”",
+        "citations": "Genesis 21:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw my servant's son making fun of my son and asked that they be sent away.",
+        "citations": "Genesis 21:9,10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told my husband to listen to my voice regarding our son.",
+        "citations": "Genesis 21:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My husband purchased the cave of Machpelah after I died.",
+        "citations": "Genesis 23:2-20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Twice my husband claimed that I was his sister.",
+        "citations": "Genesis 12:10-20; Genesis 20:1-18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A king restored me to my husband after learning that I was married.",
+        "citations": "Genesis 20:3-14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Abimelech gave my husband a thousand pieces of silver on my account.",
+        "citations": "Genesis 20:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Christian women are encouraged to imitate me by doing good and not giving way to fear.",
+        "citations": "1 Peter 3:5,6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I lived to be 127 years old.",
+        "citations": "Genesis 23:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was the only woman whose age at death is explicitly recorded in the Bible.",
+        "citations": "Genesis 23:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "God afflicted one king's household and warned another king in a dream after I was taken.",
+        "citations": "Genesis 12:17-20; Genesis 20:3-7",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Seth",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I became father to Enosh when I was 105 years old.",
+        "citations": "Genesis 5:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was born to Adam and Eve after Abel was killed.",
+        "citations": "Genesis 4:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My mother said that God had appointed me in place of Abel.",
+        "citations": "Genesis 4:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Adam became father to me in his likeness, in his image.",
+        "citations": "Genesis 5:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I lived 912 years.",
+        "citations": "Genesis 5:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was listed in Jesus' genealogy.",
+        "citations": "Luke 3:38",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my son Enosh's days, people began to call on the name of Jehovah.",
+        "citations": "Genesis 4:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My family line led to Noah.",
+        "citations": "Genesis 5:6-29",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "name": "Shem",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I became an ancestor of Abraham.",
+        "citations": "Genesis 11:10-26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I survived the Flood aboard the ark.",
+        "citations": "Genesis 7:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was one of Noah's three sons.",
+        "citations": "Genesis 5:32; Genesis 6:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became an ancestor of Jesus Christ.",
+        "citations": "Luke 3:34-36",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I lived another 500 years after becoming the father of my son.",
+        "citations": "Genesis 11:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I walked backward with one of my brothers while carrying a garment over my shoulders.",
+        "citations": "Genesis 9:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was 100 years old two years after the Flood when my son was born.",
+        "citations": "Genesis 11:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My descendants included Eber.",
+        "citations": "Genesis 10:21-24; Genesis 11:10-17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My father declared that Canaan would become a slave to me.",
+        "citations": "Genesis 9:25,26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My father praised Jehovah as my God.",
+        "citations": "Genesis 9:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "One of my brothers had seven sons, and the other had four sons.",
+        "citations": "Genesis 10:1,2,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The record calls me the father of all the sons of Eber.",
+        "citations": "Genesis 10:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Abraham was the ninth generation in line from me.",
+        "citations": "Genesis 11:10-26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Arpachshad was my son.",
+        "citations": "Genesis 10:22; Genesis 11:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was still alive when Sarah died.",
+        "citations": "Genesis 11:10-26; Genesis 17:17; Genesis 23:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When Abraham was born, I was still alive and remained alive for much of his lifetime.",
+        "citations": "Genesis 11:10-26; Genesis 25:7",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Tamar (daughter-in-law of Judah)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I gave birth to twins named Perez and Zerah.",
+        "citations": "Genesis 38:27-30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was later given in marriage to Onan, Er's brother.",
+        "citations": "Genesis 38:8-10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was married to Er, a son of Judah.",
+        "citations": "Genesis 38:6,7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw that Shelah had grown up, yet I had not been given to him as a wife.",
+        "citations": "Genesis 38:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I used a veil and sat at the entrance of Enaim to conceal my identity from Judah.",
+        "citations": "Genesis 38:14,15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Judah left his seal ring, cord, and staff with me as a pledge.",
+        "citations": "Genesis 38:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Judah ordered that I be brought out and burned when he heard I was pregnant.",
+        "citations": "Genesis 38:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Judah told me to remain a widow in my father's house until his son Shelah grew up.",
+        "citations": "Genesis 38:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Judah was going up to Timnah for the sheepshearing when he turned aside to me.",
+        "citations": "Genesis 38:12-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "During the birth of my twins, a scarlet thread was tied on Zerah's hand.",
+        "citations": "Genesis 38:28-30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sent Judah his seal ring, cord, and staff to show who had made me pregnant.",
+        "citations": "Genesis 38:24,25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Judah said that I was more righteous than he was because he had not given me to his son Shelah.",
+        "citations": "Genesis 38:26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My son Perez became an ancestor of King David and Jesus Christ.",
+        "citations": "Ruth 4:18-22; Matthew 1:3-6, 16",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Terah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the father of Abraham.",
+        "citations": "Genesis 11:26,27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the father of Nahor and Haran.",
+        "citations": "Genesis 11:26,27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I left Ur of the Chaldeans with part of my family.",
+        "citations": "Genesis 11:31",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My son Haran died during my lifetime.",
+        "citations": "Genesis 11:28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Lot was my grandson.",
+        "citations": "Genesis 11:27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Sarai was my daughter-in-law.",
+        "citations": "Genesis 11:29-31",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My family set out for Canaan but stopped before reaching it.",
+        "citations": "Genesis 11:31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I died before Abraham departed from Haran.",
+        "citations": "Genesis 11:32; Genesis 12:4; Acts 7:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Joshua later said that my household served other gods.",
+        "citations": "Joshua 24:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My grandson became a forefather of both the Moabites and the Ammonites.",
+        "citations": "Genesis 11:27; Genesis 19:30-38",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was the eighth generation in line from Shem.",
+        "citations": "Genesis 11:10-26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I began the journey to Canaan, but my son completed it without me.",
+        "citations": "Genesis 11:31; Genesis 12:4,5",
+        "difficulty": "nightmare"
+      }
+    ]
+  }
+]

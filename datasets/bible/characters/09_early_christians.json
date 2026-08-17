@@ -1,0 +1,3435 @@
+[
+  {
+    "name": "Agabus",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a prophet in Paul's day.",
+        "citations": "Acts 11:27,28; Acts 21:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I came down from Jerusalem to Antioch with other prophets.",
+        "citations": "Acts 11:27,28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said a famine would come on the entire inhabited earth.",
+        "citations": "Acts 11:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After my famine prophecy, the disciples determined to send relief to Judea.",
+        "citations": "Acts 11:28,29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I came down from Judea while Paul was in Caesarea.",
+        "citations": "Acts 21:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said the Jews in Jerusalem would bind a man and give him into the hands of people of the nations.",
+        "citations": "Acts 21:11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I stood up in Antioch and foretold a famine that later came under Claudius.",
+        "citations": "Acts 11:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I took Paul's belt and bound my own feet and hands.",
+        "citations": "Acts 21:11",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ananias (husband of Sapphira)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I brought some money and deposited it at the feet of the apostles.",
+        "citations": "Acts 5:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "With my wife's knowledge, I secretly held back some of the price of my field.",
+        "citations": "Acts 5:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I sold some property with my wife Sapphira.",
+        "citations": "Acts 5:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "On hearing Peter's words, I collapsed and died.",
+        "citations": "Acts 5:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Peter asked why Satan had emboldened me to lie to the holy spirit.",
+        "citations": "Acts 5:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Peter said that while my field remained unsold, it was mine, and after I sold it the proceeds were in my control.",
+        "citations": "Acts 5:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Younger men wrapped me in cloths, carried me out, and buried me.",
+        "citations": "Acts 5:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Great fear came over all who heard about my death.",
+        "citations": "Acts 5:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Peter said I had lied, not to men, but to God.",
+        "citations": "Acts 5:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I died first; about three hours later my wife came in, not knowing what had happened.",
+        "citations": "Acts 5:5-7",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "name": "Ananias (of Damascus)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I called Saul “brother.”",
+        "citations": "Acts 9:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I laid my hands on Saul so that he might recover sight.",
+        "citations": "Acts 9:12, 17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a disciple in Damascus.",
+        "citations": "Acts 9:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I answered the Lord: “Here I am, Lord.”",
+        "citations": "Acts 9:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I looked for Saul of Tarsus at the house of Judas.",
+        "citations": "Acts 9:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Saul had authority from the chief priests to arrest those calling on the Lord's name.",
+        "citations": "Acts 9:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told the Lord I had heard of the harm Saul did to the holy ones in Jerusalem.",
+        "citations": "Acts 9:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was sent to the street called Straight.",
+        "citations": "Acts 9:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After I came to Saul, what looked like scales fell from his eyes.",
+        "citations": "Acts 9:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I entered Judas' house and said Jesus had sent me so Saul might recover sight and be filled with holy spirit.",
+        "citations": "Acts 9:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul later said I was devout according to the Law and well-reported-on by the Jews living there.",
+        "citations": "Acts 22:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Lord told me Saul was a chosen vessel to bear His name to the nations, kings, and the sons of Israel.",
+        "citations": "Acts 9:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I explained that Saul had been chosen to see the righteous one and be a witness to all men.",
+        "citations": "Acts 22:14,15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I raised concerns about Saul's past, but the Lord told me that he was a chosen vessel.",
+        "citations": "Acts 9:13-17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Saul to rise, get baptized, and wash his sins away by calling on Jesus' name.",
+        "citations": "Acts 22:12-16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "As Paul later recounted, I stood beside him and said: “Saul, brother, regain your sight!”",
+        "citations": "Acts 22:12,13",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Apollos",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Paul planted, I watered, but God kept making it grow.",
+        "citations": "1 Corinthians 3:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was an eloquent man well-versed in the Scriptures.",
+        "citations": "Acts 18:24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Priscilla and Aquila took me into their company and explained the way of God more accurately.",
+        "citations": "Acts 18:26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was acquainted only with the baptism of John.",
+        "citations": "Acts 18:25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I arrived in Ephesus speaking and teaching about Jesus.",
+        "citations": "Acts 18:24,25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was a Jew, a native of Alexandria.",
+        "citations": "Acts 18:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Achaia I showed from the Scriptures that Jesus is the Christ.",
+        "citations": "Acts 18:27,28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Aglow with the spirit, I taught accurately the things about Jesus.",
+        "citations": "Acts 18:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I had been instructed in the way of Jehovah and began to speak boldly in the synagogue.",
+        "citations": "Acts 18:25, 26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Achaia I greatly helped those who through God's undeserved kindness had become believers.",
+        "citations": "Acts 18:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Publicly and with great intensity I thoroughly proved the Jews to be wrong.",
+        "citations": "Acts 18:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Some in Corinth said they belonged to me.",
+        "citations": "1 Corinthians 1:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wanted to go across to Achaia, so the brothers wrote urging the disciples to receive me kindly.",
+        "citations": "Acts 18:27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "While I was in Corinth, Paul came down to Ephesus.",
+        "citations": "Acts 19:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul told Titus to send me on my way diligently so that I would lack nothing.",
+        "citations": "Titus 3:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul wrote that I was not willing to come to Corinth just then, though he strongly encouraged me.",
+        "citations": "1 Corinthians 16:12",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Aquila",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I came from Italy with my wife Priscilla.",
+        "citations": "Acts 18:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a Jew, a native of Pontus.",
+        "citations": "Acts 18:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a tentmaker by trade.",
+        "citations": "Acts 18:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul stayed at my home and worked with me, since I had the same trade.",
+        "citations": "Acts 18:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Claudius had ordered all the Jews to leave Rome, so I had recently come from Italy.",
+        "citations": "Acts 18:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sailed with Paul for Syria, along with Priscilla.",
+        "citations": "Acts 18:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul found me in Corinth.",
+        "citations": "Acts 18:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul left me in Ephesus.",
+        "citations": "Acts 18:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I heard Apollos, I took him into my company and helped explain the way of God more accurately.",
+        "citations": "Acts 18:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After Corinth, I was left in Ephesus while Paul went on.",
+        "citations": "Acts 18:18-21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From Ephesus, the congregation that was in my house sent greetings.",
+        "citations": "1 Corinthians 16:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Not only Paul but all the congregations of the nations gave thanks for me.",
+        "citations": "Romans 16:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul greeted me and Prisca and said I risked my neck for his life.",
+        "citations": "Romans 16:3,4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "There was a congregation in my house.",
+        "citations": "Romans 16:5; 1 Corinthians 16:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Forced out of Rome by Claudius, I made tents in Corinth and hosted Paul in my trade.",
+        "citations": "Acts 18:2,3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "From Corinth I went on to Ephesus, where I helped correct Apollos' understanding of the way.",
+        "citations": "Acts 18:18,19, 26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul said I risked my neck for him and that a congregation met in my house.",
+        "citations": "Romans 16:3-5",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Aristarchus",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a Macedonian, a traveling companion of Paul.",
+        "citations": "Acts 19:29",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was dragged into Ephesus' theater during the disturbance.",
+        "citations": "Acts 19:29",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was from Thessalonica.",
+        "citations": "Acts 20:4; Acts 27:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "During the Artemis riot, the crowd rushed into Ephesus' theater dragging Gaius and me.",
+        "citations": "Acts 19:29",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sailed with Paul when he put out to sea for Italy.",
+        "citations": "Acts 27:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was among those who accompanied Paul into Asia.",
+        "citations": "Acts 20:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul called me his fellow worker.",
+        "citations": "Philemon 24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was listed with Sopater, Secundus, Gaius, Timothy, Tychicus, and Trophimus as Paul's travel company.",
+        "citations": "Acts 20:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "On the voyage, I was with Paul as a Macedonian of Thessalonica.",
+        "citations": "Acts 27:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul called me his fellow captive.",
+        "citations": "Colossians 4:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Dragged into Ephesus' theater as Paul's companion, I later sailed with him toward Italy.",
+        "citations": "Acts 19:29; Acts 27:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "As a Thessalonian, I accompanied Paul both toward Asia and on his voyage to Italy.",
+        "citations": "Acts 20:4; Acts 27:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul wrote of me both as a fellow captive and as a fellow worker.",
+        "citations": "Colossians 4:10; Philemon 24",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Barnabas",
+    "aliases": [
+      "Joseph"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Crowds in Lystra started calling me Zeus.",
+        "citations": "Acts 14:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I came to Saul's aid and led him to the apostles.",
+        "citations": "Acts 9:27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I sold a piece of land and deposited the money at the feet of the apostles.",
+        "citations": "Acts 4:36,37",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a Levite, a native of Cyprus.",
+        "citations": "Acts 4:36",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I went to Tarsus to make a thorough search for Saul.",
+        "citations": "Acts 11:25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "The apostles gave me a name that means “Son of Comfort.”",
+        "citations": "Acts 4:36",
+        "difficulty": "easy"
+      },
+      {
+        "text": "The congregation in Jerusalem sent me as far as Antioch.",
+        "citations": "Acts 11:22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "The holy spirit said to set Saul and me aside for the work.",
+        "citations": "Acts 13:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "After I found Saul, I brought him to Antioch.",
+        "citations": "Acts 11:25,26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After Iconium danger, I fled with Paul toward Lystra and Derbe.",
+        "citations": "Acts 14:5,6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "For a whole year Saul and I taught quite a crowd in Antioch.",
+        "citations": "Acts 11:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "From Seleucia I sailed away to Cyprus with Saul.",
+        "citations": "Acts 13:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I carried relief to the elders in Judea together with Saul.",
+        "citations": "Acts 11:29,30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I disputed in Antioch against those demanding circumcision for salvation.",
+        "citations": "Acts 15:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I encouraged the believers in Antioch to continue in the Lord with heartfelt resolve.",
+        "citations": "Acts 11:23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said that Paul and I too are humans having the same infirmities as they have.",
+        "citations": "Acts 14:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told the apostles in detail how Saul had seen the Lord on the road to Damascus.",
+        "citations": "Acts 9:27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a good man and full of holy spirit and of faith.",
+        "citations": "Acts 11:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was among the prophets and teachers in Antioch.",
+        "citations": "Acts 13:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was determined to take along John who was called Mark.",
+        "citations": "Acts 15:37",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Before the apostles renamed me, I had a different given name.",
+        "citations": "Acts 4:36",
+        "difficulty": "medium"
+      },
+      {
+        "text": "On Cyprus I proclaimed the word of God in the synagogues, with John as attendant.",
+        "citations": "Acts 13:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I saw God's undeserved kindness in Antioch, I rejoiced.",
+        "citations": "Acts 11:23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When people tried to sacrifice to Paul and me, I ripped my garments and leaped out into the crowd.",
+        "citations": "Acts 14:14,15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After Paul's stoning, on the next day he left with me for Derbe.",
+        "citations": "Acts 14:19,20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After a sharp burst of anger with Paul over Mark, I took Mark and sailed away to Cyprus.",
+        "citations": "Acts 15:39",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After fasting and prayer, the congregation laid their hands on Saul and me and sent me off.",
+        "citations": "Acts 13:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After persecution there, I shook the dust off my feet and went to Iconium.",
+        "citations": "Acts 13:50,51",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Back in Syrian Antioch, I related that God had opened to the nations the door to faith.",
+        "citations": "Acts 14:26,27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went up to Jerusalem with Paul about the circumcision issue.",
+        "citations": "Acts 15:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Paphos, Sergius Paulus called for Saul and me to hear the word of God.",
+        "citations": "Acts 13:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Pisidian Antioch, after the synagogue talk, many followed Paul and me; I urged them to remain in God's undeserved kindness.",
+        "citations": "Acts 13:43",
+        "difficulty": "hard"
+      },
+      {
+        "text": "It was first in Antioch, while Saul and I taught there, that the disciples were by divine providence called Christians.",
+        "citations": "Acts 11:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Mark was my cousin.",
+        "citations": "Colossians 4:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Alongside Paul, I boldly declared a turn to the nations after the Jews rejected the word.",
+        "citations": "Acts 13:46",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul later asked whether only he and I do not have authority to refrain from working for a living.",
+        "citations": "1 Corinthians 9:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The apostles and elders called Paul and me “beloved” in their letter.",
+        "citations": "Acts 15:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The whole group listened as Paul and I related signs and wonders God had done among the nations.",
+        "citations": "Acts 15:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I appointed elders in each congregation, praying with fasting.",
+        "citations": "Acts 14:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I returned through Lystra, Iconium, and Antioch, strengthening the disciples.",
+        "citations": "Acts 14:21,22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Antioch I was led along in the hypocrisy when certain men from James came, before Paul resisted Cephas.",
+        "citations": "Galatians 2:11-13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "James, Cephas, and John gave Paul and me the right hand of sharing, I to the nations and they to the circumcised.",
+        "citations": "Galatians 2:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After Jerusalem sent me to Antioch, I searched for Saul in Tarsus and brought him back to teach there with me for a year.",
+        "citations": "Acts 11:22-26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Set aside with Saul by holy spirit, I sailed first to my native Cyprus with John as attendant.",
+        "citations": "Acts 4:36; Acts 13:2-5",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Cornelius",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "An angel of God came to me in a vision.",
+        "citations": "Acts 10:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I feared God together with all my household.",
+        "citations": "Acts 10:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I lived in Caesarea.",
+        "citations": "Acts 10:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "An angel told me to send for Simon who is called Peter.",
+        "citations": "Acts 10:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was an army officer in what was called the Italian unit.",
+        "citations": "Acts 10:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "While Peter was still speaking, the holy spirit came upon those hearing the word in my house.",
+        "citations": "Acts 10:44",
+        "difficulty": "easy"
+      },
+      {
+        "text": "About the ninth hour of the day, I saw the vision plainly.",
+        "citations": "Acts 10:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I called two of my servants and a devout soldier from among my attendants.",
+        "citations": "Acts 10:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I made many gifts of mercy to the people.",
+        "citations": "Acts 10:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I made supplication to God continually.",
+        "citations": "Acts 10:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I related everything to my household servants and sent them to Joppa.",
+        "citations": "Acts 10:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I stared at the angel, terrified, and asked: “What is it, Lord?”",
+        "citations": "Acts 10:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was expecting Peter and had called together my relatives and close friends.",
+        "citations": "Acts 10:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was told Peter was staying as a guest with Simon a tanner by the sea.",
+        "citations": "Acts 10:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The angel said my prayers and gifts of mercy had ascended as a remembrance before God.",
+        "citations": "Acts 10:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Peter entered, I fell down at his feet and did obeisance to him.",
+        "citations": "Acts 10:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Four days after the vision, counting from that hour, I recounted it to Peter in my house.",
+        "citations": "Acts 10:30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said I and all those with me were present before God to hear all Jehovah had commanded Peter to say.",
+        "citations": "Acts 10:33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Messengers said I was a righteous and God-fearing man, well-reported-on by the whole nation of the Jews.",
+        "citations": "Acts 10:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Peter commanded that I be baptized in the name of Jesus Christ.",
+        "citations": "Acts 10:48",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Peter lifted me up, saying: “Rise; I too am just a man.”",
+        "citations": "Acts 10:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Those with me spoke in foreign languages and magnified God.",
+        "citations": "Acts 10:46",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I requested Peter to stay for some days.",
+        "citations": "Acts 10:48",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I gathered relatives and friends before Peter arrived, then fell at his feet until he raised me as only a man.",
+        "citations": "Acts 10:24-26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In my house people of the nations received holy spirit while Peter was still speaking, then were baptized.",
+        "citations": "Acts 10:44-48",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My continual prayers and gifts of mercy brought an angel's order to send for Peter in Joppa.",
+        "citations": "Acts 10:2-6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Peter later reported that an angel told me he would speak things by which my household might get saved.",
+        "citations": "Acts 11:13,14",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Dorcas",
+    "aliases": [
+      "Tabitha"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I abounded in good deeds and gifts of mercy.",
+        "citations": "Acts 9:36",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I fell sick and died.",
+        "citations": "Acts 9:37",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a disciple in Joppa.",
+        "citations": "Acts 9:36",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Peter told me to rise, and I opened my eyes and sat up.",
+        "citations": "Acts 9:40",
+        "difficulty": "easy"
+      },
+      {
+        "text": "After I died, they bathed me and laid me in an upper room.",
+        "citations": "Acts 9:37",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Disciples sent two men to Lydda to urge Peter to come to me without delay.",
+        "citations": "Acts 9:38",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Widows showed Peter many garments and robes I had made while I was with them.",
+        "citations": "Acts 9:39",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Giving me his hand, Peter raised me up.",
+        "citations": "Acts 9:41",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Peter called the holy ones and the widows and presented me alive.",
+        "citations": "Acts 9:41",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Peter put everyone outside, knelt, and prayed before turning toward my body.",
+        "citations": "Acts 9:40",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After I was presented alive, news spread through Joppa and many became believers.",
+        "citations": "Acts 9:41,42",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After my death, widows showed Peter the garments I had made.",
+        "citations": "Acts 9:36, 39",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Laid in an upper room in Joppa, I opened my eyes when Peter told me to rise.",
+        "citations": "Acts 9:37, 40",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Elymas",
+    "aliases": [
+      "Bar-Jesus"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I opposed Barnabas and Saul.",
+        "citations": "Acts 13:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a false prophet.",
+        "citations": "Acts 13:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a sorcerer.",
+        "citations": "Acts 13:6, 8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was struck blind for a time.",
+        "citations": "Acts 13:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "A thick mist and darkness fell on me.",
+        "citations": "Acts 13:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I tried to turn the proconsul away from the faith.",
+        "citations": "Acts 13:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was with the proconsul Sergius Paulus.",
+        "citations": "Acts 13:6,7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went around trying to find someone to lead me by the hand.",
+        "citations": "Acts 13:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My other name is a translation of my given name.",
+        "citations": "Acts 13:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I met Barnabas and Saul at Paphos on Cyprus.",
+        "citations": "Acts 13:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah's hand was upon me, and I would not see the sunlight for a time.",
+        "citations": "Acts 13:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul called me a son of the Devil and an enemy of everything righteous.",
+        "citations": "Acts 13:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul said I was distorting the right ways of Jehovah.",
+        "citations": "Acts 13:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul said I was full of every sort of fraud and villainy.",
+        "citations": "Acts 13:9,10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At Paphos I tried to turn the proconsul away, and mist and darkness fell on me.",
+        "citations": "Acts 13:6, 8, 11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Called a fraud and enemy of righteousness, I went blind under Jehovah's hand.",
+        "citations": "Acts 13:10,11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Opposing the faith before Sergius Paulus, I was left groping for a hand to lead me.",
+        "citations": "Acts 13:8, 11",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Epaphroditus",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I fell sick nearly to the point of death.",
+        "citations": "Philippians 2:27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul said that I nearly died on account of the work of Christ.",
+        "citations": "Philippians 2:30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul called me his brother, fellow worker and fellow soldier.",
+        "citations": "Philippians 2:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "God had mercy on me in my sickness.",
+        "citations": "Philippians 2:27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I risked my life to make up for the Philippians' not being there to render personal service to Paul.",
+        "citations": "Philippians 2:30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was depressed because the Philippians heard that I had fallen sick.",
+        "citations": "Philippians 2:26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was longing to see the Philippians.",
+        "citations": "Philippians 2:26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul called me the Philippians' envoy and personal servant for his need.",
+        "citations": "Philippians 2:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul received from me what the Philippians sent.",
+        "citations": "Philippians 4:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul considered it necessary to send me with the greatest urgency to the Philippians so they could rejoice again.",
+        "citations": "Philippians 2:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul said to keep holding men of my sort dear.",
+        "citations": "Philippians 2:29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul told the Philippians to give me the customary welcome in the Lord with all joy.",
+        "citations": "Philippians 2:29",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Eutychus",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I fell down from the third story.",
+        "citations": "Acts 20:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I sank into a deep sleep while Paul kept talking.",
+        "citations": "Acts 20:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a young man.",
+        "citations": "Acts 20:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was picked up dead.",
+        "citations": "Acts 20:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "They took me away alive.",
+        "citations": "Acts 20:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was seated at a window in the upper room.",
+        "citations": "Acts 20:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Overcome by sleep, I fell.",
+        "citations": "Acts 20:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul threw himself on me and embraced me.",
+        "citations": "Acts 20:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After I was restored, they were comforted beyond measure.",
+        "citations": "Acts 20:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul prolonged his speech until midnight before I fell.",
+        "citations": "Acts 20:7, 9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul said concerning me, “Stop making a commotion, for he is alive.”",
+        "citations": "Acts 20:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "There were quite a few lamps in the upper room where I sat listening to Paul.",
+        "citations": "Acts 20:8,9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After I fell three stories in Troas, Paul embraced me, and I later came back to life.",
+        "citations": "Acts 20:9-12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was picked up dead, but later they took me away alive and were comforted beyond measure.",
+        "citations": "Acts 20:9-12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Overcome by deep sleep as Paul prolonged his speech, I fell from the third story and was picked up dead.",
+        "citations": "Acts 20:9",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Felix",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I became frightened as Paul talked.",
+        "citations": "Acts 24:25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I left Paul in custody.",
+        "citations": "Acts 24:27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I listened to Paul speak about the belief in Christ Jesus.",
+        "citations": "Acts 24:24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the governor.",
+        "citations": "Acts 23:24, 26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul was brought safely to me.",
+        "citations": "Acts 23:24, 33",
+        "difficulty": "easy"
+      },
+      {
+        "text": "After two years I was succeeded by Porcius Festus.",
+        "citations": "Acts 24:27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Claudius Lysias wrote to me as His Excellency the governor.",
+        "citations": "Acts 23:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I allowed Paul's people to attend to his needs.",
+        "citations": "Acts 24:23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked what province Paul was from and learned he was from Cilicia.",
+        "citations": "Acts 23:34",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I came with Drusilla my wife, who was Jewish.",
+        "citations": "Acts 24:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I commanded that Paul be kept under guard in Herod's palace.",
+        "citations": "Acts 23:35",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I hoped Paul would give me money.",
+        "citations": "Acts 24:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I ordered Paul kept under arrest but given some freedom.",
+        "citations": "Acts 24:23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said I would give Paul a thorough hearing when his accusers arrived.",
+        "citations": "Acts 23:35",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Knowing quite well the facts concerning this Way, I put them off.",
+        "citations": "Acts 24:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Because I desired to gain favor with the Jews, I left Paul in custody.",
+        "citations": "Acts 24:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Hoping Paul would give me money, I sent for him frequently and conversed with him.",
+        "citations": "Acts 24:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I nodded to Paul to speak in his defense.",
+        "citations": "Acts 24:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I put the case off until Lysias the military commander would come down.",
+        "citations": "Acts 24:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, “Go away for now, but when I have an opportunity I will send for you again.”",
+        "citations": "Acts 24:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul talked before me about righteousness and self-control and the judgment to come.",
+        "citations": "Acts 24:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Hearing righteousness, self-control, and judgment, I grew frightened and sent Paul away.",
+        "citations": "Acts 24:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Hoping for money, I talked with Paul often, then left him bound to please the Jews.",
+        "citations": "Acts 24:26,27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Knowing the Way well, I delayed judgment and kept Paul under guard with some freedom.",
+        "citations": "Acts 24:22,23",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Festus",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I presented Paul's case to King Agrippa.",
+        "citations": "Acts 25:13,14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said, “To Caesar you have appealed; to Caesar you will go.”",
+        "citations": "Acts 25:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I succeeded Felix as governor.",
+        "citations": "Acts 24:27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul appealed to Caesar before me.",
+        "citations": "Acts 25:11,12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "After speaking with the assembly of counselors, I confirmed the appeal to Caesar.",
+        "citations": "Acts 25:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Desiring to gain favor with the Jews, I asked if Paul wished to go up to Jerusalem.",
+        "citations": "Acts 25:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I answered that Paul was to be kept in Caesarea.",
+        "citations": "Acts 25:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I perceived that Paul had done nothing deserving of death.",
+        "citations": "Acts 25:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said great learning was driving Paul out of his mind.",
+        "citations": "Acts 26:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sat down on the judgment seat and commanded Paul to be brought in.",
+        "citations": "Acts 25:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Agrippa Paul had been left as a prisoner by Felix.",
+        "citations": "Acts 25:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The chief priests and principal men of the Jews gave me information against Paul.",
+        "citations": "Acts 25:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Three days after arriving in the province, I went up to Jerusalem from Caesarea.",
+        "citations": "Acts 25:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Agrippa told me Paul could have been released if he had not appealed to Caesar.",
+        "citations": "Acts 26:32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Being at a loss how to handle the dispute, I asked about judgment in Jerusalem.",
+        "citations": "Acts 25:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I had nothing certain to write about Paul to my Lord.",
+        "citations": "Acts 25:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I refused to hand Paul over before he met his accusers face-to-face, citing Roman procedure.",
+        "citations": "Acts 25:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said it seemed unreasonable to send a prisoner without indicating the charges.",
+        "citations": "Acts 25:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the Jews had disputes about their own worship of the deity and about Jesus, whom Paul asserted was alive.",
+        "citations": "Acts 25:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul's accusers charged none of the wicked things I had expected.",
+        "citations": "Acts 25:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At a loss over disputes about Jesus alive, I still found nothing deserving of death.",
+        "citations": "Acts 25:19,20, 25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Seeking Jewish favor, I offered Jerusalem judgment; Paul answered with an appeal to Caesar.",
+        "citations": "Acts 25:9-12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "With Agrippa, Bernice, military commanders, and prominent men assembled, I commanded Paul to be brought in.",
+        "citations": "Acts 25:23",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Gamaliel",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I rose in the Sanhedrin.",
+        "citations": "Acts 5:34",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a Law teacher.",
+        "citations": "Acts 5:34",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a Pharisee.",
+        "citations": "Acts 5:34",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul was educated at my feet.",
+        "citations": "Acts 22:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I commanded that the men be put outside for a little while.",
+        "citations": "Acts 5:34",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I recalled Judas the Galilean in the days of the registration.",
+        "citations": "Acts 5:37",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I recalled Theudas, who rose up saying he himself was somebody.",
+        "citations": "Acts 5:36",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said if it is from God, you will not be able to overthrow them.",
+        "citations": "Acts 5:39",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said if the work is from men, it will be overthrown.",
+        "citations": "Acts 5:38",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I warned they might even be found fighters against God himself.",
+        "citations": "Acts 5:39",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I warned, “Men of Israel, be careful as to what you intend to do about these men.”",
+        "citations": "Acts 5:35",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was esteemed by all the people.",
+        "citations": "Acts 5:34",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After taking my advice, they still flogged the apostles and ordered them to stop speaking.",
+        "citations": "Acts 5:40",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I reminded the Sanhedrin that about 400 men joined Theudas before his party came to nothing.",
+        "citations": "Acts 5:36",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I reminded them that Judas the Galilean drew followers after himself and then perished.",
+        "citations": "Acts 5:37",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul said he was instructed at my feet according to the strictness of the ancestral Law.",
+        "citations": "Acts 22:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Esteemed Law teacher in the Sanhedrin, I told Israel to be careful about these men.",
+        "citations": "Acts 5:34,35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I warned that opposing a work from God could make them fighters against God.",
+        "citations": "Acts 5:39",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Using Theudas and Judas as warnings, I urged: let them alone.",
+        "citations": "Acts 5:36-38",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Luke",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I sent greetings along with Paul's letter.",
+        "citations": "Colossians 4:14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I traveled with Paul.",
+        "citations": "Acts 16:10-12; 2 Timothy 4:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was Paul's fellow worker.",
+        "citations": "Philemon 24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the beloved physician.",
+        "citations": "Colossians 4:14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Only I was with Paul.",
+        "citations": "2 Timothy 4:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "A servant girl with a demon kept following Paul and me.",
+        "citations": "Acts 16:16,17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After Paul's Macedonian vision, I tried to go into Macedonia with him.",
+        "citations": "Acts 16:9,10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Aristarchus a Macedonian was with me as I sailed for Italy with Paul.",
+        "citations": "Acts 27:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In Troas I was gathered in an upper room when Eutychus fell.",
+        "citations": "Acts 20:7-9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Lydia urged me to stay at her house.",
+        "citations": "Acts 16:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "On the Sabbath I went beside a river to a place of prayer.",
+        "citations": "Acts 16:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I began speaking to the women who had assembled.",
+        "citations": "Acts 16:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I drew the conclusion that God had summoned me to declare the good news.",
+        "citations": "Acts 16:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I put out to sea from Troas and came to Philippi.",
+        "citations": "Acts 16:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went ahead by ship and set sail for Assos.",
+        "citations": "Acts 20:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was handed over with Paul to the army officer Julius.",
+        "citations": "Acts 27:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In the same letter that calls Mark Barnabas's cousin, I was the beloved physician.",
+        "citations": "Colossians 4:10, 14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul named me with Demas when sending Colossian greetings.",
+        "citations": "Colossians 4:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul named me with Mark, Aristarchus, and Demas among his fellow workers.",
+        "citations": "Philemon 24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I arrived in Rome with Paul after the voyage.",
+        "citations": "Acts 28:14-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I navigated with Paul toward Rome and endured the storm and shipwreck voyage.",
+        "citations": "Acts 27:1-44",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I stayed in Philippi for some days.",
+        "citations": "Acts 16:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When others had gone elsewhere, Paul wrote that only I was with him.",
+        "citations": "2 Timothy 4:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Concluding God had summoned me, I crossed from Troas to Philippi's place of prayer.",
+        "citations": "Acts 16:10-13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sailed with Paul and Aristarchus when Julius took the prisoners for Italy.",
+        "citations": "Acts 27:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Named Paul's beloved physician and fellow worker, I was later the only one still with him.",
+        "citations": "Colossians 4:14; Philemon 24; 2 Timothy 4:11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Traveling with Paul, I was among those Lydia constrained to stay at her house.",
+        "citations": "Acts 16:10, 15",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Lydia",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a seller of purple.",
+        "citations": "Acts 16:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah opened my heart wide to pay attention to the things Paul was saying.",
+        "citations": "Acts 16:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My household and I got baptized after I listened to Paul speak.",
+        "citations": "Acts 16:14,15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I urged Paul and Silas: “If you have considered me to be faithful to Jehovah, come and stay at my house.”",
+        "citations": "Acts 16:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The writer of Acts said of me \"she just made us come.\"",
+        "citations": "Acts 16:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a worshipper of God from the city of Thyatira..",
+        "citations": "Acts 16:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was among the women assembled on the Sabbath, outside the gate beside a river.",
+        "citations": "Acts 16:13,14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My conversion happened at Philippi, a colony and principal city of the district of Macedonia.",
+        "citations": "Acts 16:12,14,15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After Paul and Silas left prison in Philippi, they came to my home.",
+        "citations": "Acts 16:40",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At my home Paul and Silas saw the brothers and encouraged them.",
+        "citations": "Acts 16:40",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "name": "Mark",
+    "aliases": [
+      "John Mark"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Barnabas took me along and sailed away to Cyprus.",
+        "citations": "Acts 15:39",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I left Paul and Barnabas and returned to Jerusalem.",
+        "citations": "Acts 13:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was an attendant to Barnabas and Saul.",
+        "citations": "Acts 13:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul later said I was helpful to him in the ministry.",
+        "citations": "2 Timothy 4:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Barnabas and Saul took me along with them from Jerusalem.",
+        "citations": "Acts 12:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Barnabas was determined to take me along.",
+        "citations": "Acts 15:37",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the cousin of Barnabas.",
+        "citations": "Colossians 4:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I departed from Paul and Barnabas in Pamphylia and did not go with them to the work.",
+        "citations": "Acts 13:13; Acts 15:38",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My mother was Mary, and believers gathered at her house to pray.",
+        "citations": "Acts 12:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul gave instructions that the Colossians welcome me if I came.",
+        "citations": "Colossians 4:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul named me among his fellow workers.",
+        "citations": "Philemon 24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul was not in favor of taking me along.",
+        "citations": "Acts 15:38",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Peter called me his son.",
+        "citations": "1 Peter 5:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After the split, I sailed to Cyprus with Barnabas, not with Paul and Silas.",
+        "citations": "Acts 15:39,40",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Among those circumcised, Paul said men like me had become a source of great comfort to him.",
+        "citations": "Colossians 4:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From earlier rejection to later request, Paul told Timothy to bring me along.",
+        "citations": "Acts 15:38; 2 Timothy 4:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "On Cyprus I served as attendant while Barnabas and Saul proclaimed in the synagogues.",
+        "citations": "Acts 13:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul's objection specifically recalled my departure in Pamphylia.",
+        "citations": "Acts 15:38",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Peter came to my mother's house after an angel led him out of prison.",
+        "citations": "Acts 12:7-12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "There was a sharp burst of anger over taking me along, so that Barnabas and Paul separated.",
+        "citations": "Acts 15:37-39",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After leaving the work in Pamphylia, I became the reason Barnabas insisted and Paul refused.",
+        "citations": "Acts 13:13; Acts 15:37,38",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Cousin of Barnabas and welcomed by name, I also stood among Paul's fellow workers.",
+        "citations": "Colossians 4:10; Philemon 24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Once not favored for the trip, I was later called helpful and asked for by Paul.",
+        "citations": "Acts 15:38; 2 Timothy 4:11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The sharp burst of anger over me sent me to Cyprus with Barnabas.",
+        "citations": "Acts 15:39",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Onesimus",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a slave.",
+        "citations": "Philemon 16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul became a father to me while he was in prison.",
+        "citations": "Philemon 10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul called me his child.",
+        "citations": "Philemon 10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul sent me back to my master.",
+        "citations": "Philemon 12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was from among the Colossians.",
+        "citations": "Colossians 4:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became useful to my master and to Paul.",
+        "citations": "Philemon 11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I broke away from my master for a short while.",
+        "citations": "Philemon 15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was formerly useless to my master.",
+        "citations": "Philemon 11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul asked that I be received as more than a slave, as a beloved brother.",
+        "citations": "Philemon 16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I traveled with Tychicus and was to tell the Colossians the things happening with Paul.",
+        "citations": "Colossians 4:7-9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul called me his very own heart.",
+        "citations": "Philemon 12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul said that if I did my master any wrong or owed him anything, it should be charged to Paul's account.",
+        "citations": "Philemon 18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul wanted to keep me so I might take my master's place in ministering to him in prison.",
+        "citations": "Philemon 13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul would not keep me without my master's consent.",
+        "citations": "Philemon 13-14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After I broke away, Paul sent me back so my master might have me forever, no longer as a slave but as a beloved brother.",
+        "citations": "Philemon 15-16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "As a faithful and beloved brother from among the Colossians, I traveled with Tychicus.",
+        "citations": "Colossians 4:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul, who became my father in prison, sent me back as his own heart rather than keep me without consent.",
+        "citations": "Philemon 10,12-14",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Paul",
+    "aliases": [
+      "Saul (of Tarsus)"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "A violent earthquake shook the prison where I was held.",
+        "citations": "Acts 16:26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "A voice asked why I was persecuting him, repeating my name.",
+        "citations": "Acts 9:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "At Philippi I was praying and praising God at midnight in prison.",
+        "citations": "Acts 16:25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "At Troas I raised Eutychus after he fell from the third story.",
+        "citations": "Acts 20:9-12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "For three days I neither ate nor drank.",
+        "citations": "Acts 9:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a Roman by birth.",
+        "citations": "Acts 22:27,28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I appealed to Caesar.",
+        "citations": "Acts 25:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I asked the high priest for letters to bring followers of The Way bound to Jerusalem.",
+        "citations": "Acts 9:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I breathed threat and murder against the disciples of the Lord.",
+        "citations": "Acts 9:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I once persecuted the congregation of God.",
+        "citations": "Galatians 1:13; 1 Corinthians 15:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a Pharisee.",
+        "citations": "Acts 23:6; Philippians 3:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a tentmaker.",
+        "citations": "Acts 18:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was born in Tarsus of Cilicia.",
+        "citations": "Acts 22:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was educated at the feet of Gamaliel.",
+        "citations": "Acts 22:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was led by the hand into Damascus because I could see nothing.",
+        "citations": "Acts 9:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "In Damascus I began to preach that Jesus is the Son of God.",
+        "citations": "Acts 9:20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jesus told me I was persecuting him.",
+        "citations": "Acts 9:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Near Damascus a light from heaven flashed around me.",
+        "citations": "Acts 9:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "On the voyage to Rome my ship was wrecked.",
+        "citations": "Acts 27:41-44",
+        "difficulty": "easy"
+      },
+      {
+        "text": "What looked like scales fell from my eyes, and I was baptized.",
+        "citations": "Acts 9:18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "After Jerusalem, the brothers sent me away to Tarsus.",
+        "citations": "Acts 9:30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After her owners lost their profit, I was beaten with rods and thrown into prison.",
+        "citations": "Acts 16:19-24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Agabus took my belt and bound his own feet and hands.",
+        "citations": "Acts 21:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Agrippa said to me: “In a short time you would persuade me to become a Christian.”",
+        "citations": "Acts 26:28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Ananias laid his hands on me so that I might recover sight and be filled with holy spirit.",
+        "citations": "Acts 9:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Antioch the holy spirit said to set Barnabas and me apart for the work.",
+        "citations": "Acts 13:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Cenchreae I had my hair clipped short because of a vow I had made.",
+        "citations": "Acts 18:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Lystra the crowds called me Hermes, because I was the principal speaker.",
+        "citations": "Acts 14:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Miletus I called the older men of the Ephesus congregation to me.",
+        "citations": "Acts 20:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Philippi I spoke to the women gathered at the place of prayer.",
+        "citations": "Acts 16:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Barnabas came to Tarsus looking for me and brought me to Antioch.",
+        "citations": "Acts 11:25,26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Barnabas took me and brought me to the apostles.",
+        "citations": "Acts 9:27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Before Agrippa I said I was not disobedient to the heavenly vision.",
+        "citations": "Acts 26:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Demetrius the silversmith stirred up a riot against me over the temple of Artemis.",
+        "citations": "Acts 19:24-29",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Felix hoped I would give him money, so he sent for me often.",
+        "citations": "Acts 24:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I circumcised Timothy because of the Jews in those places.",
+        "citations": "Acts 16:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I commanded a demon to come out of a girl who had a spirit of prediction.",
+        "citations": "Acts 16:16-18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I entered house after house, dragging out men and women and turning them over to prison.",
+        "citations": "Acts 8:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I refused to leave Philippi quietly after being beaten as a Roman.",
+        "citations": "Acts 16:37",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said I was ready not only to be bound but also to die in Jerusalem for the name of the Lord Jesus.",
+        "citations": "Acts 21:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I stopped the Philippian jailer when he was about to kill himself.",
+        "citations": "Acts 16:27,28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told the jailer: “Believe in the Lord Jesus, and you will be saved, you and your household.”",
+        "citations": "Acts 16:31",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told those older men I had not held back from telling them all the counsel of God.",
+        "citations": "Acts 20:27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In Athens I was irritated at seeing the city full of idols.",
+        "citations": "Acts 17:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In Corinth I stayed with Aquila and Priscilla and worked at the same trade.",
+        "citations": "Acts 18:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In Ephesus many who practiced magical arts burned their books publicly while I was there.",
+        "citations": "Acts 19:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In a vision a Macedonian man pleaded with me to step over and help.",
+        "citations": "Acts 16:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In a vision the Lord told me not to be afraid to keep speaking in Corinth.",
+        "citations": "Acts 18:9,10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In the temple I was seized while completing the days of the purification.",
+        "citations": "Acts 21:26-30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Lydia and her household were baptized after Jehovah opened her heart to my message.",
+        "citations": "Acts 16:14,15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My sister's son heard of the plot to ambush me and reported it.",
+        "citations": "Acts 23:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "On Cyprus I called Elymas a son of the Devil and announced that Jehovah's hand would make him blind temporarily.",
+        "citations": "Acts 13:9-11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "On Malta I healed the father of Publius of fever and dysentery.",
+        "citations": "Acts 28:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "On the Areopagus I spoke about the God who made the world and about the resurrection.",
+        "citations": "Acts 17:22-31",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I tried to join the disciples in Jerusalem, they were all afraid of me.",
+        "citations": "Acts 9:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Stephen's blood was spilled, I stood by approving and guarded the outer garments of those killing him.",
+        "citations": "Acts 7:58; Acts 8:1; Acts 22:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A thorn in the flesh was given me, an angel of Satan to keep slapping me.",
+        "citations": "2 Corinthians 12:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After a sharp burst of anger, Barnabas took Mark and sailed away, and I chose Silas.",
+        "citations": "Acts 15:37-40",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After my calling I went off into Arabia, then returned to Damascus.",
+        "citations": "Galatians 1:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At Lystra, after healing a man lame from birth, I tore my garments when the crowds tried to sacrifice to me.",
+        "citations": "Acts 14:8-15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At Miletus I said I knew that imprisonment and tribulations awaited me in Jerusalem.",
+        "citations": "Acts 20:22,23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At Paphos the proconsul Sergius Paulus believed after Elymas became blind.",
+        "citations": "Acts 13:6-12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At Philippi I was dragged before the civil magistrates and accused of advocating unlawful customs.",
+        "citations": "Acts 16:19-21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Berean Jews examined the Scriptures daily to see whether the things I said were so.",
+        "citations": "Acts 17:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From prison I wrote about Onesimus, once useless, now useful.",
+        "citations": "Philemon 10-11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was of the tribe of Benjamin, a Hebrew of Hebrews.",
+        "citations": "Philippians 3:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked Philemon to charge any wrong of Onesimus to my account.",
+        "citations": "Philemon 18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I baptized Crispus and Gaius, and also the household of Stephanas.",
+        "citations": "1 Corinthians 1:14-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I counted all my former gains as a lot of refuse so that I might gain Christ.",
+        "citations": "Philippians 3:7,8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I decided to know nothing among the Corinthians except Jesus Christ, and him executed on the torture stake.",
+        "citations": "1 Corinthians 2:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote that I had 'fought with wild beasts at Ephesus.'",
+        "citations": "1 Corinthians 15:32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I handed a man over to Satan for the destruction of the flesh so that the spirit might be saved.",
+        "citations": "1 Corinthians 5:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I left Troas though a door was opened for me in the Lord, because I was concerned about Titus.",
+        "citations": "2 Corinthians 2:12,13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said I would rather speak five words with my mind than ten thousand words in a tongue.",
+        "citations": "1 Corinthians 14:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told the Ephesian older men that from among them men would rise and speak twisted things.",
+        "citations": "Acts 20:29,30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was caught away to the third heaven—whether in the body or out of the body, I do not know.",
+        "citations": "2 Corinthians 12:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was praying on the street called Straight when Ananias was sent to me.",
+        "citations": "Acts 9:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went up to Jerusalem with Barnabas over the circumcision issue.",
+        "citations": "Acts 15:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I worked with my own hands so as not to be an expensive burden.",
+        "citations": "1 Corinthians 4:12; 1 Thessalonians 2:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Athens some said I seemed to be a proclaimer of foreign deities.",
+        "citations": "Acts 17:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Jerusalem, while praying in the temple, I fell into a trance and was told to leave quickly.",
+        "citations": "Acts 22:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Thessalonica a mob searched for me at Jason's house.",
+        "citations": "Acts 17:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "James and Cephas and John gave Barnabas and me the right hand of sharing.",
+        "citations": "Galatians 2:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "More than forty men bound themselves with a curse neither to eat nor drink until they had killed me.",
+        "citations": "Acts 23:12,13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Of the apostles I saw no one else except James the brother of the Lord.",
+        "citations": "Galatians 1:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "On the voyage I urged all to take a meal, saying not a hair of anyone's head would perish.",
+        "citations": "Acts 27:33,34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Three times I begged the Lord that the thorn in my flesh might depart from me.",
+        "citations": "2 Corinthians 12:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Three years later I went up to Jerusalem to visit Cephas and stayed with him fifteen days.",
+        "citations": "Galatians 1:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Titus was with me, and even he was not compelled to be circumcised.",
+        "citations": "Galatians 2:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When Gallio was proconsul, the Jews accused me, but he drove them away from the judgment seat.",
+        "citations": "Acts 18:12-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When the high priest Ananias ordered me struck, I called him a whitewashed wall—then apologized, not knowing he was high priest.",
+        "citations": "Acts 23:2-5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After my Macedonian vision, Lydia and her household were baptized in Philippi.",
+        "citations": "Acts 16:9-15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A viper fastened on my hand after the wreck; when I neither swelled up nor died, the Maltese changed their minds and said I was a god.",
+        "citations": "Acts 28:3-6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After Barnabas and I split over Mark, I went through Syria and Cilicia with Silas, strengthening the congregations.",
+        "citations": "Acts 15:39-41",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After being flogged uncondemned, I made the magistrates come and escort me out by citing my Roman citizenship.",
+        "citations": "Acts 16:37-39",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After persecuting The Way to the point of death, I was told in the temple trance that I would be sent to nations far away.",
+        "citations": "Acts 22:4, 17-21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Agabus bound himself with my belt to show how I would be bound; I still went up to Jerusalem ready even to die.",
+        "citations": "Acts 21:11-13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "At Lystra I was stoned and left for dead outside the city; the next day I left with Barnabas for Derbe.",
+        "citations": "Acts 14:19,20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "At Miletus I told the older men I was innocent of the blood of all men, having declared the whole counsel of God, though bonds awaited me.",
+        "citations": "Acts 20:22-27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Beaten and jailed at Philippi for casting out a spirit of prediction, I sang praises until an earthquake opened the doors.",
+        "citations": "Acts 16:16-26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Before Agrippa I retold the Damascus light and the heavenly commission; he said I was nearly persuading him to become a Christian.",
+        "citations": "Acts 26:12-19, 28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Before the Sanhedrin I split Pharisees from Sadducees by confessing hope in the resurrection of the dead.",
+        "citations": "Acts 23:6-9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Blinded by heavenly light on the road to Damascus, I recovered sight when Ananias laid his hands on me, and I was baptized.",
+        "citations": "Acts 9:8,9, 17,18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Caught away to the third heaven and shown things unutterable, I was afterward given a thorn in the flesh so I would not be overly exalted.",
+        "citations": "2 Corinthians 12:2-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Completing a purification in the temple to quiet rumors, I was seized on the charge of bringing Greeks into the sanctuary.",
+        "citations": "Acts 21:20-29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Felix left me in custody to gain favor with the Jews; when Festus later proposed a Jerusalem trial, I appealed to Caesar.",
+        "citations": "Acts 24:27; Acts 25:9-11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I called myself the foremost of sinners.",
+        "citations": "1 Timothy 1:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I opposed Cephas at Antioch when fear of the circumcised party made him stop eating with people of the nations.",
+        "citations": "Galatians 2:11-14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I set out for Damascus to bind disciples of The Way, but left that city lowered in a basket as one of them.",
+        "citations": "Acts 9:1,2, 25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In Athens I reasoned from an altar “To an Unknown God” to the God who made the world and raised a man from the dead.",
+        "citations": "Acts 17:22-31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In the storm I said an angel had told me I must stand before Caesar and that God had granted me all sailing with me; afterward all 276 reached land.",
+        "citations": "Acts 27:23,24, 37, 44",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The disciples in Jerusalem feared me as a persecutor until Barnabas brought me to the apostles and recounted my conversion.",
+        "citations": "Acts 9:26,27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Whatever I had as a Pharisee of Benjamin I wrote off as refuse so that I might gain Christ and be found in him.",
+        "citations": "Philippians 3:5-9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When more than forty men vowed to kill me, my sister's son exposed the plot and the commander sent me under guard to Felix.",
+        "citations": "Acts 23:12-24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When the jailer nearly killed himself after the quake, I stopped him, and he and his household were baptized that night.",
+        "citations": "Acts 16:27-34",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Philemon",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "A congregation met in my house.",
+        "citations": "Philemon 2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Onesimus was my slave.",
+        "citations": "Philemon 10,16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul appealed to me concerning Onesimus.",
+        "citations": "Philemon 10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul wrote to me as his beloved fellow worker.",
+        "citations": "Philemon 1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Apphia and Archippus were addressed with me in Paul's letter.",
+        "citations": "Philemon 1-2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul asked me to prepare a place for him to stay.",
+        "citations": "Philemon 22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul asked me to receive Onesimus kindly the same way I would receive Paul.",
+        "citations": "Philemon 17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul kept hearing of my faith and love for the Lord Jesus and for all the holy ones.",
+        "citations": "Philemon 5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The hearts of the holy ones were refreshed through me.",
+        "citations": "Philemon 7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul hoped that through my prayers he would be given back to me.",
+        "citations": "Philemon 22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul said I owed him even my own self.",
+        "citations": "Philemon 19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul was confident I would do even more than what he said.",
+        "citations": "Philemon 21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul would not keep Onesimus without my consent, so my good deed would be of my own free will.",
+        "citations": "Philemon 13-14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Though Paul could order me to do what is proper, he appealed to me on the basis of love.",
+        "citations": "Philemon 8-9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After refreshing the holy ones' hearts, I was asked to refresh Paul's heart by receiving Onesimus kindly.",
+        "citations": "Philemon 7,12,17,20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul appealed for my runaway slave to be received as a beloved brother, and would not keep him without my free consent.",
+        "citations": "Philemon 10,13-16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul asked me both to welcome Onesimus as I would welcome him and to prepare lodging for Paul's own visit.",
+        "citations": "Philemon 17,22",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Priscilla",
+    "aliases": [
+      "Prisca"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was Aquila's wife.",
+        "citations": "Acts 18:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a tentmaker.",
+        "citations": "Acts 18:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul stayed at my home and worked with me.",
+        "citations": "Acts 18:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "With Aquila I explained the way of God more accurately to Apollos.",
+        "citations": "Acts 18:26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "A congregation was in my house.",
+        "citations": "Romans 16:5; 1 Corinthians 16:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I left Italy with Aquila because Claudius had ordered all the Jews to leave Rome.",
+        "citations": "Acts 18:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sailed with Paul for Syria, together with Aquila.",
+        "citations": "Acts 18:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul called Aquila and me his fellow workers in Christ Jesus.",
+        "citations": "Romans 16:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul left Aquila and me in Ephesus.",
+        "citations": "Acts 18:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Apollos spoke boldly in the synagogue, Aquila and I took him into my company.",
+        "citations": "Acts 18:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "With Aquila I risked my neck for Paul.",
+        "citations": "Romans 16:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Even late in Paul's life he still sent greetings to Aquila and me.",
+        "citations": "2 Timothy 4:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From Ephesus, Aquila and I sent warm greetings in the Lord, with the congregation in my house.",
+        "citations": "1 Corinthians 16:8,19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Not only Paul but also all the congregations of the nations give thanks for Aquila and me.",
+        "citations": "Romans 16:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The writer of Acts used my longer name, while Paul used its shorter form when sending greetings.",
+        "citations": "Acts 18:2; Romans 16:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After Claudius drove me from Rome, I made tents with Paul in Corinth and later sailed with him as far as Ephesus.",
+        "citations": "Acts 18:2,3,18,19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "As Paul's fellow worker who risked my neck for him, I also hosted a congregation in my house.",
+        "citations": "Romans 16:3-5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In Ephesus, hearing Apollos teach only John's baptism, with Aquila I took him aside and explained God's way more accurately.",
+        "citations": "Acts 18:24-26",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Sapphira",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Ananias was my husband.",
+        "citations": "Acts 5:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I collapsed at Peter's feet and died.",
+        "citations": "Acts 5:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I lied to Peter about the price of a field my husband and I sold.",
+        "citations": "Acts 5:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My husband and I sold some property.",
+        "citations": "Acts 5:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "About three hours after my husband died, I came in.",
+        "citations": "Acts 5:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Part of the money from a land sale was held back with my knowledge.",
+        "citations": "Acts 5:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I came in, I did not know that my husband had died.",
+        "citations": "Acts 5:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After my death, great fear came over the whole congregation.",
+        "citations": "Acts 5:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Peter said my husband and I agreed to make a test of the spirit of Jehovah.",
+        "citations": "Acts 5:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Peter told me the feet of those who buried my husband were at my door.",
+        "citations": "Acts 5:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Young men carried me out and buried me alongside my husband.",
+        "citations": "Acts 5:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "For agreeing with my husband to test Jehovah's spirit, I was buried beside him the same day.",
+        "citations": "Acts 5:9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Knowing the held-back price, I later confirmed the false amount to Peter and fell dead at his feet.",
+        "citations": "Acts 5:2,8-10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Three hours after Ananias died, still unaware, I walked in and joined the same lie.",
+        "citations": "Acts 5:7-9",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Silas",
+    "aliases": [
+      "Silvanus"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "About midnight Paul and I were praying and praising God with song.",
+        "citations": "Acts 16:25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a leading man among the brothers in Jerusalem.",
+        "citations": "Acts 15:22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "In Philippi I was thrown into prison with Paul.",
+        "citations": "Acts 16:19,23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul selected me after he separated from Barnabas.",
+        "citations": "Acts 15:39,40",
+        "difficulty": "easy"
+      },
+      {
+        "text": "After the earthquake, the jailer fell down before Paul and me.",
+        "citations": "Acts 16:29",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Believers in Thessalonica associated themselves with Paul and me.",
+        "citations": "Acts 17:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "By night the brothers sent Paul and me from Thessalonica to Beroea.",
+        "citations": "Acts 17:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In Antioch I encouraged the brothers with many talks and strengthened them.",
+        "citations": "Acts 15:32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In Philippi my feet were fastened in prison stocks.",
+        "citations": "Acts 16:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Judas and I were also prophets.",
+        "citations": "Acts 15:32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The apostles and elders sent me to Antioch with Judas called Barsabbas.",
+        "citations": "Acts 15:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The brothers entrusted Paul and me to the undeserved kindness of Jehovah.",
+        "citations": "Acts 15:40",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After leaving prison I went to Lydia's home and encouraged the brothers.",
+        "citations": "Acts 16:40",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From Macedonia, Timothy and I came down to Paul in Corinth.",
+        "citations": "Acts 18:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was sent so that by word of mouth I might report the same things as the apostles' letter to Antioch.",
+        "citations": "Acts 15:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Philippi the magistrates tore my garments off me and commanded that I be beaten with rods.",
+        "citations": "Acts 16:22,23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In letters to the Thessalonians I was named with Paul and Timothy.",
+        "citations": "1 Thessalonians 1:1; 2 Thessalonians 1:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul told the constables they had flogged me publicly, uncondemned, though I was a Roman.",
+        "citations": "Acts 16:37",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Peter wrote briefly through me, calling me a faithful brother.",
+        "citations": "1 Peter 5:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Son of God, Jesus Christ, was preached among the Corinthians through Paul, through me, and through Timothy.",
+        "citations": "2 Corinthians 1:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When Paul left Beroea for the sea, Timothy and I remained behind there.",
+        "citations": "Acts 17:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After claiming Roman rights in Philippi, I left that jail, encouraged the brothers at Lydia's house, and departed.",
+        "citations": "Acts 16:37-40",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Beaten and stocked in Philippi, Paul and I prayed and sang at midnight until an earthquake opened the prison.",
+        "citations": "Acts 16:22-26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Left behind in Beroea with Timothy when Paul sailed on, I later rejoined him in Corinth from Macedonia.",
+        "citations": "Acts 17:14,15; Acts 18:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Sent from Jerusalem as a leading man and prophet, I later became Paul's chosen companion after the sharp split with Barnabas.",
+        "citations": "Acts 15:22,32,39,40",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When Thessalonica's mob failed to find me at Jason's house, the brothers sent me by night to Beroea.",
+        "citations": "Acts 17:5-10",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Stephen",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I performed great wonders and signs among the people.",
+        "citations": "Acts 6:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was full of faith and holy spirit.",
+        "citations": "Acts 6:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was one of seven reputable men appointed for the daily distribution.",
+        "citations": "Acts 6:3,5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was thrown outside the city and stoned.",
+        "citations": "Acts 7:58",
+        "difficulty": "easy"
+      },
+      {
+        "text": "As they stoned me I appealed: “Lord Jesus, receive my spirit.”",
+        "citations": "Acts 7:59",
+        "difficulty": "medium"
+      },
+      {
+        "text": "False witnesses said I spoke against the holy place and the Law.",
+        "citations": "Acts 6:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Full of holy spirit, I gazed into heaven and caught sight of God's glory.",
+        "citations": "Acts 7:55",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said I saw the heavens opened up and the Son of man standing at God's right hand.",
+        "citations": "Acts 7:56",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Men from the Synagogue of the Freedmen rose to dispute with me.",
+        "citations": "Acts 6:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The apostles prayed and laid their hands on me.",
+        "citations": "Acts 6:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "They could not hold their own against the wisdom and the spirit with which I was speaking.",
+        "citations": "Acts 6:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Those sitting in the Sanhedrin saw that my face was like an angel's face.",
+        "citations": "Acts 6:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After asking Jehovah not to charge this sin against them, I fell asleep in death.",
+        "citations": "Acts 7:60",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Devout men carried me to burial and made a great mourning over me.",
+        "citations": "Acts 8:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said their forefathers killed those who announced the coming of the righteous one, whose betrayers and murderers they had become.",
+        "citations": "Acts 7:52",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told the Sanhedrin they were obstinate and always resisting the holy spirit.",
+        "citations": "Acts 7:51",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was full of divine favor and power.",
+        "citations": "Acts 6:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Kneeling down, I cried out: “Jehovah, do not charge this sin against them.”",
+        "citations": "Acts 7:60",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Opponents secretly persuaded men to say I spoke blasphemous things against Moses and God.",
+        "citations": "Acts 6:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Saul later recalled that my blood was spilled while he stood by approving.",
+        "citations": "Acts 22:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The witnesses laid their outer garments at Saul's feet while I was being stoned.",
+        "citations": "Acts 7:58",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After my death, persecution scattered disciples; some who were scattered went as far as Phoenicia, Cyprus, and Antioch.",
+        "citations": "Acts 8:1; Acts 11:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Before the Sanhedrin I traced Israel's pattern of rejecting God-sent deliverers and charged them with betraying the righteous one.",
+        "citations": "Acts 7:35-39,51,52",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Chosen among the seven and empowered with wonders, I was seized after disputers could not answer my wisdom.",
+        "citations": "Acts 6:5,6,8-12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Seeing Jesus standing at God's right hand, I was rushed on, cast outside the city, and stoned.",
+        "citations": "Acts 7:55-58",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "While being stoned I asked Jesus to receive my spirit, then knelt and asked Jehovah not to charge them with the sin.",
+        "citations": "Acts 7:59,60",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Timothy",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a disciple from Lystra.",
+        "citations": "Acts 16:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My mother was a believing Jewish woman, but my father was a Greek.",
+        "citations": "Acts 16:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul called me his child.",
+        "citations": "1 Corinthians 4:17; 1 Timothy 1:2; 2 Timothy 1:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul wanted me to accompany him.",
+        "citations": "Acts 16:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "From Macedonia, Silas and I came down to Paul in Corinth.",
+        "citations": "Acts 18:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "From infancy I knew the holy writings.",
+        "citations": "2 Timothy 3:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was among those who accompanied Paul into Asia.",
+        "citations": "Acts 20:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was well-reported-on by the brothers in Lystra and Iconium.",
+        "citations": "Acts 16:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My grandmother Lois and my mother Eunice had faith that dwelt first in them.",
+        "citations": "2 Timothy 1:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul circumcised me because of the Jews in those places.",
+        "citations": "Acts 16:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul left me behind in Ephesus when he was going into Macedonia.",
+        "citations": "1 Timothy 1:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul sent me with Erastus into Macedonia.",
+        "citations": "Acts 19:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul told me never to let anyone look down on my youth.",
+        "citations": "1 Timothy 4:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Paul left Beroea, Silas and I remained behind there.",
+        "citations": "Acts 17:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A gift in me was given through the laying on of the hands of the body of older men.",
+        "citations": "1 Timothy 4:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I greeted the Romans as Paul's fellow worker.",
+        "citations": "Romans 16:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Letter to the Hebrews notes that I had been released and might come soon.",
+        "citations": "Hebrews 13:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul charged me before God to preach the word urgently.",
+        "citations": "2 Timothy 4:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul longed to see me, as he remembered my tears.",
+        "citations": "2 Timothy 1:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul reminded me to stir up like a fire the gift of God in me through the laying on of his hands.",
+        "citations": "2 Timothy 1:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul said I was like a child with a father in slaving with him for the good news.",
+        "citations": "Philippians 2:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul said he had no one else of equal disposition who would genuinely care for the Philippians as I would.",
+        "citations": "Philippians 2:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul sent me to Thessalonica to make them firm and comfort them in their faith.",
+        "citations": "1 Thessalonians 3:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul told me to keep holding the pattern of healthful words I heard from him.",
+        "citations": "2 Timothy 1:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul told me to use a little wine for the sake of my stomach and my frequent cases of sickness.",
+        "citations": "1 Timothy 5:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul told the Corinthians that if I came, I was to be with them without cause for fear.",
+        "citations": "1 Corinthians 16:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When I returned from the Thessalonians, I brought Paul good news of their faith and love.",
+        "citations": "1 Thessalonians 3:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After remaining in Beroea when Paul left, I later rejoined him in Corinth from Macedonia with Silas.",
+        "citations": "Acts 17:14; Acts 18:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Left in Ephesus to command certain ones not to teach different doctrine, I was told not to let anyone look down on my youth.",
+        "citations": "1 Timothy 1:3; 1 Timothy 4:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Sent to strengthen the Thessalonians, I returned with good news that comforted Paul in his distress.",
+        "citations": "1 Thessalonians 3:1-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Trusted as a child with a father in the work, I was the one Paul hoped to send to learn of the Philippians' condition.",
+        "citations": "Philippians 2:19-22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Well-reported in Lystra and Iconium, I was circumcised by Paul because the Jews there all knew that my father was Greek.",
+        "citations": "Acts 16:1-3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "With faith from Lois and Eunice and holy writings from infancy, I was reminded to stir up the gift given through laying on of hands.",
+        "citations": "2 Timothy 1:5,6; 2 Timothy 3:15",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Titus",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a Greek.",
+        "citations": "Galatians 2:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul called me his child according to a shared faith.",
+        "citations": "Titus 1:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul left me in Crete.",
+        "citations": "Titus 1:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul sent me to the Corinthians.",
+        "citations": "2 Corinthians 8:6,16,17; 2 Corinthians 12:18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "God comforted Paul by my presence.",
+        "citations": "2 Corinthians 7:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I reported to Paul the Corinthians' longing, mourning, and concern for him.",
+        "citations": "2 Corinthians 7:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was to appoint older men in city after city.",
+        "citations": "Titus 1:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went up to Jerusalem with Paul and Barnabas.",
+        "citations": "Galatians 2:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Not even I was compelled to be circumcised.",
+        "citations": "Galatians 2:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul left me in Crete to correct the things that were defective.",
+        "citations": "Titus 1:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had the same earnestness for the Corinthians that Paul did.",
+        "citations": "2 Corinthians 8:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was going to Corinth of my own accord.",
+        "citations": "2 Corinthians 8:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul asked whether I took advantage of the Corinthians—reminding them I walked in the same spirit.",
+        "citations": "2 Corinthians 12:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul boasted about the Corinthians to me, and I was not put to shame.",
+        "citations": "2 Corinthians 7:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul called me his partner and a fellow worker for the Corinthians.",
+        "citations": "2 Corinthians 8:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul had no relief in his spirit in Troas because he did not find me.",
+        "citations": "2 Corinthians 2:12,13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul planned to send Artemas or Tychicus to me so I could meet him in Nicopolis.",
+        "citations": "Titus 3:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When Demas forsook Paul, I went to Dalmatia.",
+        "citations": "2 Timothy 4:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After Paul found no relief without me, my arrival and news of Corinth's repentance comforted him.",
+        "citations": "2 Corinthians 2:12,13; 2 Corinthians 7:6,7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "As Paul's partner for Corinth, I went on my own initiative with the same earnestness Paul had.",
+        "citations": "2 Corinthians 8:16,17,23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Left in Crete to set defective things straight, I was to appoint older men city by city.",
+        "citations": "Titus 1:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Though a Greek taken to Jerusalem with Paul, I was not compelled to be circumcised.",
+        "citations": "Galatians 2:1-3",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Tychicus",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I accompanied Paul.",
+        "citations": "Acts 20:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was from the province of Asia.",
+        "citations": "Acts 20:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul called me a beloved brother.",
+        "citations": "Ephesians 6:21; Colossians 4:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul sent me to Ephesus.",
+        "citations": "2 Timothy 4:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was to tell the Colossians all the news about Paul.",
+        "citations": "Colossians 4:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was to tell the Ephesians all the news about Paul.",
+        "citations": "Ephesians 6:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul called me a faithful minister.",
+        "citations": "Ephesians 6:21; Colossians 4:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul called me a fellow slave in the Lord.",
+        "citations": "Colossians 4:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Paul sent me so that I might comfort the hearts of the brothers.",
+        "citations": "Ephesians 6:22; Colossians 4:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I came to the Colossians along with Onesimus.",
+        "citations": "Colossians 4:7-9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was among those who accompanied Paul as he was about to depart for Syria after Macedonia and Greece.",
+        "citations": "Acts 20:3,4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Onesimus and I were to tell them all the things happening where Paul was.",
+        "citations": "Colossians 4:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paul considered sending me to Crete so Titus could come to him.",
+        "citations": "Titus 3:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "As Paul's beloved brother and faithful minister, I was sent both to report his news and to comfort the congregations' hearts.",
+        "citations": "Ephesians 6:21,22; Colossians 4:7,8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul weighed sending me to Crete as the relief that would free Titus to meet him in Nicopolis.",
+        "citations": "Titus 3:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Sent to Colossae with Onesimus, I was to make known how Paul was and comfort them.",
+        "citations": "Colossians 4:7-9",
+        "difficulty": "nightmare"
+      }
+    ]
+  }
+]

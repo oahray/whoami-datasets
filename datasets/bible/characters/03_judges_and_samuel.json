@@ -1,0 +1,3100 @@
+[
+  {
+    "name": "Abimelech (son of Gideon)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a son of Gideon.",
+        "citations": "Judges 8:31",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I killed 70 of Gideon's sons on one stone, but Jotham hid and survived.",
+        "citations": "Judges 9:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The leaders of Shechem made me king.",
+        "citations": "Judges 9:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A woman dropped an upper millstone on my head and crushed my skull.",
+        "citations": "Judges 9:53",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked my attendant to strike me down so that people would not say, 'A woman killed him.'",
+        "citations": "Judges 9:54",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My mother's brothers persuaded the leaders of Shechem to support me as their own relative.",
+        "citations": "Judges 9:1-3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I used 70 pieces of silver from the house of Baal-berith to hire idle and insolent men.",
+        "citations": "Judges 9:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ruled over Israel for three years.",
+        "citations": "Judges 9:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I captured Shechem, pulled the city down, and sowed it with salt.",
+        "citations": "Judges 9:45",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After Zebul warned me about Gaal's revolt, I used four bands in an ambush against Shechem.",
+        "citations": "Judges 9:31-40",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My surviving brother compared me to a bramble whose fire could consume the cedars of Lebanon.",
+        "citations": "Judges 9:5; Judges 9:14-20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The leaders who made me king later posted men on the mountaintops to ambush me.",
+        "citations": "Judges 9:6; Judges 9:23-25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My father refused a request that he and his sons rule Israel, but after his death I was made king.",
+        "citations": "Judges 8:22,23; Judges 9:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I burned Shechem's leaders in the vault of the house of El-berith.",
+        "citations": "Judges 9:46-49",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After burning about 1,000 people in one tower, I tried to burn another tower and was fatally injured there.",
+        "citations": "Judges 9:46-54",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Joab referred to my death when speaking about the danger of fighting too close to a city wall.",
+        "citations": "2 Samuel 11:20,21",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Achsah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a daughter of Caleb.",
+        "citations": "Judges 1:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I became the wife of Othniel after he captured Kiriath-sepher.",
+        "citations": "Judges 1:12,13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My father gave me land in the south.",
+        "citations": "Judges 1:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I urged Othniel to ask my father for a field.",
+        "citations": "Judges 1:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I dismounted from my donkey when my father asked what I wanted.",
+        "citations": "Judges 1:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I asked Caleb for springs of water, and he gave me Upper Gulloth and Lower Gulloth.",
+        "citations": "Judges 1:15",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Adoni-bezek",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was found in Bezek when Judah fought the Canaanites and Perizzites.",
+        "citations": "Judges 1:4,5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I fled but was caught, and my thumbs and big toes were cut off.",
+        "citations": "Judges 1:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Seventy kings whose thumbs and big toes I had cut off picked up food under my table.",
+        "citations": "Judges 1:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that God had repaid me for what I had done.",
+        "citations": "Judges 1:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was brought to Jerusalem, where I died.",
+        "citations": "Judges 1:7",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "name": "Agag",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was king of the Amalekites.",
+        "citations": "1 Samuel 15:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was caught alive by Saul.",
+        "citations": "1 Samuel 15:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was hacked to pieces by Samuel at Gilgal.",
+        "citations": "1 Samuel 15:33",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I went to Samuel reluctantly when he summoned me.",
+        "citations": "1 Samuel 15:32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had been saying to myself that the threat of death was past.",
+        "citations": "1 Samuel 15:32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was spared along with the best of the flock, the herd, the fattened animals, and the rams.",
+        "citations": "1 Samuel 15:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was summoned when Samuel said, \"Bring the king of Amalek near to me.\"",
+        "citations": "1 Samuel 15:32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Saul claimed that the animals spared along with me were intended for sacrifice to Jehovah.",
+        "citations": "1 Samuel 15:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was spared by an enemy king while the rest of my people were killed with the sword.",
+        "citations": "1 Samuel 15:8,9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told that just as my sword had bereaved women of children, my mother would be most bereaved among women.",
+        "citations": "1 Samuel 15:33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My people had been ordered devoted to destruction, with none to be spared.",
+        "citations": "1 Samuel 15:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My people were struck down from Havilah as far as Shur, next to Egypt.",
+        "citations": "1 Samuel 15:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From my people, only the worthless goods were devoted to destruction; what was good was spared with me.",
+        "citations": "1 Samuel 15:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My city was approached with an ambush by the valley.",
+        "citations": "1 Samuel 15:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Kenites living among my people were told to leave so they would not be swept away with us.",
+        "citations": "1 Samuel 15:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was the captive Saul pointed to when claiming he had obeyed Jehovah.",
+        "citations": "1 Samuel 15:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I died after Samuel said that to obey is better than a sacrifice.",
+        "citations": "1 Samuel 15:22; 1 Samuel 15:33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My people were attacked to call them to account for opposing Israel on the way up from Egypt.",
+        "citations": "1 Samuel 15:2,3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Sparing me and the best of the spoil led to Saul being rejected as king.",
+        "citations": "1 Samuel 15:9,23,28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My people were involved in the disobedience that led Jehovah to say he regretted making Saul king.",
+        "citations": "1 Samuel 15:11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I was spared, Samuel cried out to Jehovah all night.",
+        "citations": "1 Samuel 15:9-11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After my people were defeated, a monument was erected for Saul at Carmel.",
+        "citations": "1 Samuel 15:12",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Barak",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I fought alongside Deborah against Sisera.",
+        "citations": "Judges 4:14-16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah threw Sisera and all his war chariots and army into confusion before my sword.",
+        "citations": "Judges 4:15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I sang a victory song with Deborah.",
+        "citations": "Judges 5:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was told Jehovah would bring Sisera to the stream of Kishon and give him into my hand.",
+        "citations": "Judges 4:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said that if Deborah went with me I would go, but if she did not go with me I would not go.",
+        "citations": "Judges 4:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I chased Sisera's war chariots and army as far as Harosheth of the nations.",
+        "citations": "Judges 4:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I descended from Mount Tabor only after Deborah said it was the day Jehovah would give Sisera into my hand.",
+        "citations": "Judges 4:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I left not even one of Sisera's army remaining after the chase.",
+        "citations": "Judges 4:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was told my campaign would not bring me glory, because Jehovah would give Sisera into the hand of a woman.",
+        "citations": "Judges 4:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I led 10,000 men down from Mount Tabor.",
+        "citations": "Judges 4:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I summoned Zebulun and Naphtali to Kedesh.",
+        "citations": "Judges 4:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told to march to Mount Tabor with 10,000 men of Naphtali and Zebulun.",
+        "citations": "Judges 4:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went to Jael's tent in pursuit of Sisera and found him lying dead with a tent pin through his temples.",
+        "citations": "Judges 4:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was met by Jael, who offered to show me the man I was looking for.",
+        "citations": "Judges 4:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I pursued Sisera's army while he got down from his chariot and fled on foot.",
+        "citations": "Judges 4:15,16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was reported to Sisera as having gone up to Mount Tabor.",
+        "citations": "Judges 4:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In the victory song it was said that into the valley plain I was sent on foot.",
+        "citations": "Judges 5:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I pursued Sisera's chariots while he fled on foot to Jael's tent, where a woman killed him before I arrived.",
+        "citations": "Judges 4:15-17; Judges 4:21,22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was the son of Abinoam.",
+        "citations": "Judges 4:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was sent for out of Kedesh-naphtali.",
+        "citations": "Judges 4:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I faced an army that included 900 chariots with iron scythes.",
+        "citations": "Judges 4:3; Judges 4:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In the victory song I was called to rise up and lead my captives away as the son of my father.",
+        "citations": "Judges 5:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was later listed among those who through faith defeated kingdoms.",
+        "citations": "Hebrews 11:32,33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After my battle, Jabin the king of Canaan was subdued before the Israelites.",
+        "citations": "Judges 4:23",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Cushan-rishathaim",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was king of Mesopotamia.",
+        "citations": "Judges 3:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Israel served me for eight years.",
+        "citations": "Judges 3:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah gave Israel into my hand after they did what was bad in His eyes.",
+        "citations": "Judges 3:7,8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was defeated by Othniel, the son of Kenaz.",
+        "citations": "Judges 3:9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah raised Othniel up as a savior to rescue Israel from me.",
+        "citations": "Judges 3:9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah gave me into Othniel's hand when he went out to battle.",
+        "citations": "Judges 3:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My rule followed Israel's service to the Baals and sacred poles.",
+        "citations": "Judges 3:7,8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I was defeated, the land had rest for 40 years.",
+        "citations": "Judges 3:10,11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was the oppressor defeated before Othniel died and before Israel served Eglon of Moab.",
+        "citations": "Judges 3:8-14",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Deborah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a prophetess who judged Israel.",
+        "citations": "Judges 4:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I summoned Barak to fight Sisera.",
+        "citations": "Judges 4:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I went with Barak to Kedesh.",
+        "citations": "Judges 4:9,10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I sang a song with Barak on the day of the victory.",
+        "citations": "Judges 5:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I received Israelites who came up to me for judgment.",
+        "citations": "Judges 4:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Barak Jehovah had commanded him to take 10,000 men of Naphtali and Zebulun to Mount Tabor.",
+        "citations": "Judges 4:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Barak that Jehovah would give Sisera into the hand of a woman.",
+        "citations": "Judges 4:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My palm tree was in the mountainous region of Ephraim.",
+        "citations": "Judges 4:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Barak that if he would not go without me, I would certainly go with him.",
+        "citations": "Judges 4:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I prophesied that Barak's campaign would not bring him glory.",
+        "citations": "Judges 4:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A Kenite woman fulfilled my prophecy that Sisera would fall to a woman.",
+        "citations": "Judges 4:9,21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the wife of Lappidoth.",
+        "citations": "Judges 4:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sat under a palm tree between Ramah and Bethel.",
+        "citations": "Judges 4:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Barak Jehovah would bring Sisera to the stream of Kishon.",
+        "citations": "Judges 4:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said to Barak, \"Rise up, for this is the day that Jehovah will give Sisera into your hand.\"",
+        "citations": "Judges 4:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my song I said I arose as a mother in Israel.",
+        "citations": "Judges 5:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my song I said the villagers in Israel were no more until I rose up.",
+        "citations": "Judges 5:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my song I said that from heaven the stars fought against Sisera.",
+        "citations": "Judges 5:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my song I said the torrent of Kishon washed Sisera's forces away.",
+        "citations": "Judges 5:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my song I called Jael most blessed of women.",
+        "citations": "Judges 5:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I judged Israel while Jabin harshly oppressed the people for 20 years with 900 chariots with iron scythes.",
+        "citations": "Judges 4:3,4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After the victory I shared in, the land had rest for 40 years.",
+        "citations": "Judges 5:31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said in a song that in the days of Shamgar and Jael the roads were deserted.",
+        "citations": "Judges 5:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said an angel of Jehovah cursed Meroz because its inhabitants did not come to Jehovah's assistance.",
+        "citations": "Judges 5:23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In a song I described Sisera's mother peering out from a lattice and asking why his chariot was delayed.",
+        "citations": "Judges 5:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said Zebulun and Naphtali risked their lives to the point of death.",
+        "citations": "Judges 5:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In a song I asked why Reuben sat down between the two saddlebags listening to pipes for the flocks.",
+        "citations": "Judges 5:15,16",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Delilah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the woman Samson fell in love with.",
+        "citations": "Judges 16:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I learned the secret of a man who loved me so that I could betray him to the Philistines.",
+        "citations": "Judges 16:4; Judges 16:17-21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I lived in the Valley of Sorek.",
+        "citations": "Judges 16:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I asked someone what gave him his great power.",
+        "citations": "Judges 16:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was offered 1,100 silver pieces by each of the Philistine lords to find out how a man could be subdued.",
+        "citations": "Judges 16:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "After I had a Nazirite's hair shaved, he did not know that Jehovah had left him.",
+        "citations": "Judges 16:19,20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I tied a man who loved me, with seven fresh bowstrings that had not been dried out.",
+        "citations": "Judges 16:4; Judges 16:7,8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I called out, \"The Philistines are upon you, Samson!\"",
+        "citations": "Judges 16:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I tied someone with new ropes that had not been used for work.",
+        "citations": "Judges 16:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I wove the seven braids of a man's head with the warp thread.",
+        "citations": "Judges 16:13,14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I made a man who loved me fall asleep on my knees.",
+        "citations": "Judges 16:4; Judges 16:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told someone he had fooled me and told me lies.",
+        "citations": "Judges 16:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was fooled three times before a man who loved me opened his heart to me.",
+        "citations": "Judges 16:4; Judges 16:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Because I kept nagging someone day after day, he was weary to the point of dying.",
+        "citations": "Judges 16:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked how the man who loved me could say his heart was not with me.",
+        "citations": "Judges 16:4; Judges 16:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I fixed someone's braids with a pin, but he woke and pulled out the loom pin and the warp thread.",
+        "citations": "Judges 16:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I summoned the Philistine lords when the man who loved me finally opened his heart to me.",
+        "citations": "Judges 16:4; Judges 16:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I called a man and had him shave off the seven braids of another man's head.",
+        "citations": "Judges 16:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I tested the power of a man I was trying to bind while Philistine men waited in ambush in the inner room.",
+        "citations": "Judges 16:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I learned that a man was a Nazirite of God from birth and that a razor had never touched his head.",
+        "citations": "Judges 16:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I betrayed a man, his eyes were bored out and he was bound with two copper fetters.",
+        "citations": "Judges 16:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When I tied a man with bowstrings, he tore them apart as easily as a thread of flax comes apart when it touches fire.",
+        "citations": "Judges 16:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When I tied a man with new ropes, he tore them off his arms like threads.",
+        "citations": "Judges 16:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I received the Philistine lords who came bringing the money after a man who loved me opened his heart.",
+        "citations": "Judges 16:4; Judges 16:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I began to have control over a Nazirite after his hair was shaved, for his power was leaving him.",
+        "citations": "Judges 16:19",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Eglon",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was king of Moab in the days of the Judges.",
+        "citations": "Judges 3:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a very fat man.",
+        "citations": "Judges 3:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I received tribute from Israel through Ehud.",
+        "citations": "Judges 3:15-17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was killed by a left-handed Benjaminite.",
+        "citations": "Judges 3:15,21,25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I dismissed my attendants after Ehud said he had a secret message for me.",
+        "citations": "Judges 3:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I rose up from my throne when Ehud said he had a message from God.",
+        "citations": "Judges 3:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Ehud plunged a sword into my belly with his left hand.",
+        "citations": "Judges 3:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My servants waited at the locked doors of my roof chamber, thinking I was relieving myself.",
+        "citations": "Judges 3:23-25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Israelites served me for 18 years.",
+        "citations": "Judges 3:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I brought the Ammonites and Amalekites against Israel and captured the city of palm trees.",
+        "citations": "Judges 3:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I prevailed over Israel after they again did what was bad in Jehovah's eyes following the death of the son of Kenaz.",
+        "citations": "Judges 3:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My death led to Israel capturing the fords of the Jordan and striking down about 10,000 Moabites.",
+        "citations": "Judges 3:27-30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I was killed, Moab was subdued and the land had rest for 80 years.",
+        "citations": "Judges 3:21,30",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ehud",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Gera.",
+        "citations": "Judges 3:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a left-handed Benjaminite.",
+        "citations": "Judges 3:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I killed Eglon, the king of Moab.",
+        "citations": "Judges 3:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I made a two-edged sword a cubit long.",
+        "citations": "Judges 3:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I delivered Israel's tribute to Eglon.",
+        "citations": "Judges 3:15-17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I strapped my sword underneath my garment on my right thigh.",
+        "citations": "Judges 3:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Eglon I had a secret message for him.",
+        "citations": "Judges 3:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Eglon I had a message from God for him.",
+        "citations": "Judges 3:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I came to Eglon while he was sitting alone in his cool roof chamber.",
+        "citations": "Judges 3:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I presented tribute to a very fat king.",
+        "citations": "Judges 3:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was a Benjaminite whom Jehovah raised up as a savior of Israel.",
+        "citations": "Judges 3:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I drew my sword from my right thigh with my left hand and plunged it into Eglon's belly.",
+        "citations": "Judges 3:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I locked the doors of the roof chamber behind me after killing the king of Moab.",
+        "citations": "Judges 3:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I escaped while Eglon's servants thought he was relieving himself behind locked doors.",
+        "citations": "Judges 3:24-26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The handle of my sword went in after the blade, and the fat closed in over it.",
+        "citations": "Judges 3:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After I presented the tribute, I sent away the people who had carried it, then later returned alone.",
+        "citations": "Judges 3:18,19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I waited until Eglon's attendants left him after he said, \"Silence!\"",
+        "citations": "Judges 3:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I escaped while Eglon's servants lingered, and I made it safely to Seirah.",
+        "citations": "Judges 3:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I passed by the carved images at Gilgal both when returning to a Moabite king and when escaping.",
+        "citations": "Judges 3:19; Judges 3:26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sounded the horn in the mountainous region of Ephraim, and the Israelites followed me.",
+        "citations": "Judges 3:27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I led Israel to capture the fords of the Jordan against the Moabites so that no one could cross.",
+        "citations": "Judges 3:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Under my lead, Israel struck down about 10,000 Moabites, all strong and valiant men; not a single one escaped.",
+        "citations": "Judges 3:29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I helped subdue Moab, the land had rest for 80 years.",
+        "citations": "Judges 3:30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was raised up as a savior after Israel had served Eglon for 18 years.",
+        "citations": "Judges 3:14,15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Before I delivered Israel, Eglon had brought the Ammonites and Amalekites against us and captured the city of palm trees.",
+        "citations": "Judges 3:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said to Israel, \"Follow me, because Jehovah has given your enemies, the Moabites, into your hand.\"",
+        "citations": "Judges 3:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was raised up as a savior of Israel after Othniel.",
+        "citations": "Judges 3:11-15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After me was Shamgar, son of Anath, who also saved Israel.",
+        "citations": "Judges 3:31",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Eli",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a priest in Shiloh.",
+        "citations": "1 Samuel 1:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the father of Hophni and Phinehas.",
+        "citations": "1 Samuel 1:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I judged Israel for 40 years.",
+        "citations": "1 Samuel 4:18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I thought Hannah was drunk while she was praying.",
+        "citations": "1 Samuel 1:12-14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I blessed Hannah, asking the God of Israel to grant her petition.",
+        "citations": "1 Samuel 1:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I blessed Elkanah and Hannah after they lent their son to Jehovah.",
+        "citations": "1 Samuel 2:20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I heard reports that my sons were doing bad things to all Israel.",
+        "citations": "1 Samuel 2:22-24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I rebuked my sons for lying down with the women serving at the entrance of the tent of meeting.",
+        "citations": "1 Samuel 2:22-25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I realized that Jehovah was calling Samuel and taught him how to answer.",
+        "citations": "1 Samuel 3:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked Samuel not to hide a single word of the message Jehovah gave him.",
+        "citations": "1 Samuel 3:16-18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I fell backward from my seat when I heard that the Ark had been captured.",
+        "citations": "1 Samuel 4:17,18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, “It is Jehovah. Let him do what is good in his eyes.”",
+        "citations": "1 Samuel 3:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was very old when I heard about the wrongdoing of my sons.",
+        "citations": "1 Samuel 2:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A man of God told me that I honored my sons more than Jehovah.",
+        "citations": "1 Samuel 2:27-29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told that both of my sons would die on the same day as a sign against my house.",
+        "citations": "1 Samuel 2:34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My neck was broken when I fell backward from my seat beside the gate.",
+        "citations": "1 Samuel 4:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told that the error of my house would never be atoned for by sacrifices or offerings.",
+        "citations": "1 Samuel 3:13,14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My heart trembled over the Ark of the true God while I sat by the roadside watching.",
+        "citations": "1 Samuel 4:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was 98 years old and could not see when news arrived from the battle line.",
+        "citations": "1 Samuel 4:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My daughter-in-law went into labor when she heard that I, her husband, and the Ark had been lost.",
+        "citations": "1 Samuel 4:19-22",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Elkanah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was Hannah's husband.",
+        "citations": "1 Samuel 1:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I had two wives, Hannah and Peninnah.",
+        "citations": "1 Samuel 1:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I went up to Shiloh year after year to worship and sacrifice to Jehovah.",
+        "citations": "1 Samuel 1:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was Samuel's father.",
+        "citations": "1 Samuel 1:19,20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Samuel's mother was the one I loved.",
+        "citations": "1 Samuel 1:4,5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave portions of a sacrifice to Peninnah and all her sons and daughters, but a special portion to Hannah.",
+        "citations": "1 Samuel 1:4,5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked my wife whether I was not better to her than ten sons.",
+        "citations": "1 Samuel 1:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went up with all my household to offer the yearly sacrifice and my vow offering.",
+        "citations": "1 Samuel 1:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I agreed when Hannah said she would bring our son to remain before Jehovah after he was weaned.",
+        "citations": "1 Samuel 1:22,23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I received Eli's blessing that Jehovah would grant Hannah another child in place of the one lent to Him.",
+        "citations": "1 Samuel 2:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the son of Jeroham and a descendant of Zuph.",
+        "citations": "1 Samuel 1:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Hannah to stay home until she had weaned our son.",
+        "citations": "1 Samuel 1:22,23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I bowed before Jehovah with my household before returning to Ramah.",
+        "citations": "1 Samuel 1:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I had relations with my wife after we returned home from Shiloh, and Jehovah gave attention to her.",
+        "citations": "1 Samuel 1:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I lived in Ramathaim-zophim in the mountainous region of Ephraim.",
+        "citations": "1 Samuel 1:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After my son was lent to Jehovah, I had three more sons and two daughters through my favourite wife.",
+        "citations": "1 Samuel 2:20,21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was from the mountainous region of Ephraim, although my genealogy traces through Zuph.",
+        "citations": "1 Samuel 1:1",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Gaal (son of Ebed)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Ebed.",
+        "citations": "Judges 9:26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I crossed over into Shechem with my brothers.",
+        "citations": "Judges 9:26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The leaders of Shechem put their trust in me.",
+        "citations": "Judges 9:26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I cursed Abimelech while eating and drinking in the house of a god.",
+        "citations": "Judges 9:27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I challenged the people of Shechem to stop serving Abimelech.",
+        "citations": "Judges 9:28,29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said that I would depose Abimelech if the people were under my command.",
+        "citations": "Judges 9:29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I challenged Abimelech to increase his army and come out.",
+        "citations": "Judges 9:29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When Zebul the prince of Shechem heard my words against Abimelech, his anger blazed.",
+        "citations": "Judges 9:29,30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Zebul secretly warned Abimelech that I and my brothers were inciting Shechem against him.",
+        "citations": "Judges 9:30-32",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Zebul said that I was seeing the shadows of the mountains as if they were men.",
+        "citations": "Judges 9:35,36",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I went out to fight Abimelech at the head of the leaders of Shechem.",
+        "citations": "Judges 9:38,39",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I fled from Abimelech and many men fell slain near the entrance of the city gate of Shechem.",
+        "citations": "Judges 9:39,40",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Zebul drove my brothers and me out of Shechem after Abimelech pursued me.",
+        "citations": "Judges 9:40,41",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Gideon",
+    "aliases": [
+      "Jerubbaal"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I led 300 men against the Midianites.",
+        "citations": "Judges 7:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I used horns, large jars, and torches to defeat the Midianites.",
+        "citations": "Judges 7:16-22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I tore down my father's altar of Baal and cut down its sacred pole.",
+        "citations": "Judges 6:25-27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I kept only the 300 men who lapped water by putting their hand to their mouth.",
+        "citations": "Judges 7:4-7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I divided my 300 men into three bands.",
+        "citations": "Judges 7:16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I asked God for signs involving a fleece and dew.",
+        "citations": "Judges 6:36-40",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was called a mighty warrior by Jehovah's angel.",
+        "citations": "Judges 6:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said my clan was the least in Manasseh and I was the most insignificant in my father's house.",
+        "citations": "Judges 6:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I built an altar and called it Jehovah-shalom.",
+        "citations": "Judges 6:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My father gave me a new name after I pulled down Baal's altar.",
+        "citations": "Judges 6:31,32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sounded the horn and the Abiezrites rallied behind me.",
+        "citations": "Judges 6:34",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent messengers through Manasseh, Asher, Zebulun, and Naphtali to gather men.",
+        "citations": "Judges 6:35",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was beating out wheat in a winepress to hide it from Midian.",
+        "citations": "Judges 6:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prepared a young goat, unleavened bread, and broth for Jehovah's angel.",
+        "citations": "Judges 6:19-21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Fire flared up from a rock and consumed the food I had brought to Jehovah's angel.",
+        "citations": "Judges 6:20,21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I feared my father's household and the men of the city, so I tore down Baal's altar at night.",
+        "citations": "Judges 6:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I tested my men by sending home those who were afraid and trembling.",
+        "citations": "Judges 7:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went down to the Midianite camp with Purah, my attendant.",
+        "citations": "Judges 7:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I heard a dream about a round loaf of barley bread that overturned a Midianite tent.",
+        "citations": "Judges 7:13-15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told my men to watch me and do exactly what I did.",
+        "citations": "Judges 7:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked the men of Succoth for loaves of bread while I chased Zebah and Zalmunna.",
+        "citations": "Judges 8:4-6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My concubine in Shechem bore me a son whom I named Abimelech.",
+        "citations": "Judges 8:31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I captured Zebah and Zalmunna after attacking their camp while it was off guard.",
+        "citations": "Judges 8:10-12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I killed Zebah and Zalmunna after they said they had killed my brothers at Tabor.",
+        "citations": "Judges 8:18-21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I refused Israel's request that I, my son, and my grandson rule over them.",
+        "citations": "Judges 8:22,23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was the son of Joash the Abiezrite.",
+        "citations": "Judges 6:11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I calmed the men of Ephraim by comparing their gleanings with the grape harvest of Abiezer.",
+        "citations": "Judges 8:1-3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I made an ephod from 1,700 gold shekels of nose rings and displayed it in Ophrah.",
+        "citations": "Judges 8:24-27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The ephod I made became a snare to my household after all Israel committed idolatry with it.",
+        "citations": "Judges 8:27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Midian was subdued in my days, and the land had rest for 40 years.",
+        "citations": "Judges 8:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I became father to 70 sons because I had many wives.",
+        "citations": "Judges 8:30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was told that I would strike down Midian as if they were one man.",
+        "citations": "Judges 6:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah reduced my army so Israel could not claim that its own hand had saved it.",
+        "citations": "Judges 7:2-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I heard the Midianite dream and its interpretation, I bowed down to worship before returning to my camp.",
+        "citations": "Judges 7:13-15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The 300 men with me stood in their places while Jehovah turned the Midianites' swords against one another.",
+        "citations": "Judges 7:20-22",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Hannah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was Samuel's mother.",
+        "citations": "1 Samuel 1:19,20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I prayed for a son and named him Samuel.",
+        "citations": "1 Samuel 1:10,11,20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I made a vow to give my son to Jehovah all the days of his life.",
+        "citations": "1 Samuel 1:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I gave Samuel to serve at Jehovah's house after I weaned him.",
+        "citations": "1 Samuel 1:24-28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the wife my husband loved.",
+        "citations": "1 Samuel 1:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I had no children while Peninnah had children.",
+        "citations": "1 Samuel 1:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My rival wife taunted me relentlessly, making me weep and not eat.",
+        "citations": "1 Samuel 1:6,7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was extremely bitter when I began to pray to Jehovah and weep uncontrollably.",
+        "citations": "1 Samuel 1:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I promised that no razor would touch my son's head.",
+        "citations": "1 Samuel 1:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spoke in my heart while my lips trembled, but my voice was not heard.",
+        "citations": "1 Samuel 1:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I rejoiced in Jehovah in a prayer after lending Samuel to Him.",
+        "citations": "1 Samuel 2:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Eli that I was pouring out my soul before Jehovah.",
+        "citations": "1 Samuel 1:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was mistaken for a drunk woman by the high priest.",
+        "citations": "1 Samuel 1:13,14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said I was a woman under great stress who had not drunk wine or anything alcoholic.",
+        "citations": "1 Samuel 1:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After Eli blessed me, I went on my way, ate, and my face was no longer downcast.",
+        "citations": "1 Samuel 1:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Samuel's name meant that I had asked for him from Jehovah.",
+        "citations": "1 Samuel 1:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I stayed home until Samuel was weaned while Elkanah went to offer the yearly sacrifice.",
+        "citations": "1 Samuel 1:21-23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I brought my son to Shiloh with a three-year-old bull, flour, and wine after he was weaned.",
+        "citations": "1 Samuel 1:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I reminded the high priest that I was the woman who had stood there praying to Jehovah.",
+        "citations": "1 Samuel 1:26,27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I lent my son to Jehovah for all his days.",
+        "citations": "1 Samuel 1:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I made my son a little sleeveless coat and brought it to him year after year.",
+        "citations": "1 Samuel 2:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that Jehovah raises the lowly one from the dust and lifts up the poor from the ash heap.",
+        "citations": "1 Samuel 2:7,8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said that not by power does a man prevail.",
+        "citations": "1 Samuel 2:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said Jehovah would judge to the ends of the earth and give power to his king.",
+        "citations": "1 Samuel 2:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said that the barren has given birth to seven, but the woman with many sons has become desolate.",
+        "citations": "1 Samuel 2:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After my first son, I gave birth to three more sons and two daughters.",
+        "citations": "1 Samuel 2:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The high priest asked Jehovah to grant me another child in place of the one I had lent to Him.",
+        "citations": "1 Samuel 2:20",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Hophni",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a son of Eli.",
+        "citations": "1 Samuel 1:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I served as a priest to Jehovah in Shiloh.",
+        "citations": "1 Samuel 1:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I died on the same day as my brother Phinehas.",
+        "citations": "1 Samuel 4:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was with the Ark of the covenant when it came into Israel's camp.",
+        "citations": "1 Samuel 4:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I treated Jehovah's offering with disrespect.",
+        "citations": "1 Samuel 2:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was called a wicked man who had no regard for Jehovah.",
+        "citations": "1 Samuel 2:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My attendants demanded raw meat before the fat was made to smoke.",
+        "citations": "1 Samuel 2:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My attendants threatened to take sacrificial meat by force.",
+        "citations": "1 Samuel 2:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My attendants took meat from sacrifices with a three-pronged fork.",
+        "citations": "1 Samuel 2:13,14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I lay down with women serving at the entrance of the tent of meeting.",
+        "citations": "1 Samuel 2:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I refused to listen when my father rebuked me.",
+        "citations": "1 Samuel 2:23-25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told that my death with Phinehas on one day would be a sign against my father's house.",
+        "citations": "1 Samuel 2:34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My father knew about the judgment coming on his house because of the error that included me.",
+        "citations": "1 Samuel 3:12-14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I died when the Ark of God was captured by the Philistines.",
+        "citations": "1 Samuel 4:10,11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My death, my brother's death, and the capture of the Ark caused my father to fall backward and die.",
+        "citations": "1 Samuel 4:17,18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "On the day I died, my father's daughter-in-law went into labor.",
+        "citations": "1 Samuel 4:11,19",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ichabod",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was born when the Ark of the true God was captured.",
+        "citations": "1 Samuel 4:19-21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the son of Phinehas.",
+        "citations": "1 Samuel 4:19-21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My mother gave me my name, although hers was not recorded in the Bible.",
+        "citations": "1 Samuel 4:21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was born after my father and grandfather died.",
+        "citations": "1 Samuel 4:18,19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was born while my mother was dying.",
+        "citations": "1 Samuel 4:19,20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My mother unexpectedly went into labor after hearing that the Ark had been captured.",
+        "citations": "1 Samuel 4:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The women beside my dying mother told her that she had given birth to me, but she did not answer them.",
+        "citations": "1 Samuel 4:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Ahijah, the son of my brother Ahitub, served as priest in Saul's day.",
+        "citations": "1 Samuel 14:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was the grandson of Eli.",
+        "citations": "1 Samuel 4:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My mother said that glory had gone away from Israel into exile when she named me.",
+        "citations": "1 Samuel 4:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was born into the household of Eli on the day the Ark was captured and both of his sons died.",
+        "citations": "1 Samuel 4:11; 1 Samuel 4:18,19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My mother named me after hearing of the loss of the Ark, my father, and my grandfather.",
+        "citations": "1 Samuel 4:19-22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My name means “Where Is the Glory?”",
+        "citations": "1 Samuel 4:21",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Jabin",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I harshly oppressed Israel for 20 years.",
+        "citations": "Judges 4:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Sisera was the chief of my army.",
+        "citations": "Judges 4:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My army had 900 chariots with iron scythes.",
+        "citations": "Judges 4:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "God subdued me before Israel after Sisera was killed by Jael.",
+        "citations": "Judges 4:21, 23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was king of Canaan and reigned in Hazor.",
+        "citations": "Judges 4:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah sold Israel into my hand after they did what was bad in His eyes.",
+        "citations": "Judges 4:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My army was defeated after Deborah sent Barak to Mount Tabor with 10,000 men.",
+        "citations": "Judges 4:6,7, 14-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I had peace with the house of Heber the Kenite.",
+        "citations": "Judges 4:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Israel's hand came down harder and harder against me until they destroyed me.",
+        "citations": "Judges 4:23,24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My commander assembled his chariots and troops at the stream of Kishon to fight Israel.",
+        "citations": "Judges 4:13-16",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Jael",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I gave Sisera a drink from a skin bottle of milk when he asked me for water.",
+        "citations": "Judges 4:18,19",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I invited Sisera into my tent while he was fleeing on foot.",
+        "citations": "Judges 4:17,18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I covered Sisera with a blanket in my tent.",
+        "citations": "Judges 4:18,19",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I drove a tent pin through Sisera's temples and beat it into the ground.",
+        "citations": "Judges 4:21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Sisera told me to stand at my tent entrance and say that no man was there.",
+        "citations": "Judges 4:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I took a tent pin and a hammer in my hand while Sisera was asleep and exhausted.",
+        "citations": "Judges 4:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Barak that I would show him Sisera.",
+        "citations": "Judges 4:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I fulfilled Deborah's prophecy that Sisera would be given into the hand of a woman.",
+        "citations": "Judges 4:9; Judges 4:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the wife of Heber the Kenite.",
+        "citations": "Judges 4:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Barak found Sisera dead in my tent with a tent pin through his temples.",
+        "citations": "Judges 4:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Deborah and Barak's song called me most blessed of women living in tents.",
+        "citations": "Judges 5:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Deborah and Barak's song, I offered Sisera curdled milk in a majestic banquet bowl.",
+        "citations": "Judges 5:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In a victory song, Sisera was said to have collapsed and fallen between my feet.",
+        "citations": "Judges 5:26,27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "There was peace between Jabin of Hazor and the house of my husband.",
+        "citations": "Judges 4:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I killed the commander who fled from a battle in which Jehovah threw his army into confusion.",
+        "citations": "Judges 4:15-17; Judges 4:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was named in the song as a marker of the time when travelers kept to back roads.",
+        "citations": "Judges 5:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My killing a military commander was followed by God's subduing the king of Canaan before Israel.",
+        "citations": "Judges 4:21, 23,24",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Jephthah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a mighty warrior from Gilead.",
+        "citations": "Judges 11:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I judged Israel for six years.",
+        "citations": "Judges 12:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I made a vow to Jehovah before fighting the Ammonites.",
+        "citations": "Judges 11:30,31",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said that whoever came out of my house to meet me when I returned would become Jehovah's.",
+        "citations": "Judges 11:30,31",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My one and only child came out to meet me playing the tambourine and dancing.",
+        "citations": "Judges 11:34",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I defeated the Ammonites.",
+        "citations": "Judges 11:32,33",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the son of Gilead and a prostitute.",
+        "citations": "Judges 11:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was driven out of my father's house by my brothers.",
+        "citations": "Judges 11:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became leader and commander over the inhabitants of Gilead.",
+        "citations": "Judges 11:8-11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My daughter asked to spend two months in the mountains weeping over her virginity.",
+        "citations": "Judges 11:36-38",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Young women in Israel went four days each year to give commendation to my daughter.",
+        "citations": "Judges 11:39,40",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I settled in the land of Tob after fleeing from my brothers.",
+        "citations": "Judges 11:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Idle men joined company with me in Tob.",
+        "citations": "Judges 11:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The elders of Gilead brought me back to serve as their commander against Ammon.",
+        "citations": "Judges 11:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent messengers to the king of Ammon about his attack on my land.",
+        "citations": "Judges 11:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told the king of Ammon that Israel had not taken the land of Moab or Ammon.",
+        "citations": "Judges 11:14,15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that Israel had lived in Heshbon, Aroer, and the cities by the Arnon for 300 years.",
+        "citations": "Judges 11:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that I had not sinned against the Ammonites and called on Jehovah the Judge.",
+        "citations": "Judges 11:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah's spirit came upon me as I passed through Gilead and Manasseh.",
+        "citations": "Judges 11:29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I struck down the Ammonites from Aroer to Minnith, 20 cities, and as far as Abel-keramim.",
+        "citations": "Judges 11:32,33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My daughter never had relations with a man after I carried out the vow regarding her.",
+        "citations": "Judges 11:39",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I risked my life against Ammon after Ephraim failed to save me.",
+        "citations": "Judges 12:2,3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My men used the word 'Shibboleth' to identify fleeing Ephraimites.",
+        "citations": "Judges 12:4-6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I fought Ephraim after they threatened to burn my house down with me in it.",
+        "citations": "Judges 12:1-4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After my death, I was buried in my city in Gilead.",
+        "citations": "Judges 12:7",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Jephthah's daughter",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was my father's one and only child.",
+        "citations": "Judges 11:34",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I came out to meet my father with a tambourine and dancing after his victory over the Ammonites.",
+        "citations": "Judges 11:32-34",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told my father to do to me what he had promised Jehovah.",
+        "citations": "Judges 11:35,36",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked to spend two months in the mountains with my female companions.",
+        "citations": "Judges 11:37,38",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wept over my virginity in the mountains.",
+        "citations": "Judges 11:37,38",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I never had relations with a man.",
+        "citations": "Judges 11:39",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The young women of Israel went four days each year to give me commendation.",
+        "citations": "Judges 11:39,40",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "name": "Jotham (son of Gideon)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the youngest son of Jerubbaal.",
+        "citations": "Judges 9:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I survived when Abimelech killed 70 sons of Jerubbaal on one stone.",
+        "citations": "Judges 9:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I fled to Beer and lived there because of Abimelech.",
+        "citations": "Judges 9:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I stood on top of Mount Gerizim and called out to the leaders of Shechem.",
+        "citations": "Judges 9:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told a parable in which the trees asked the bramble to rule over them.",
+        "citations": "Judges 9:8-15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I challenged the leaders of Shechem over making Abimelech king.",
+        "citations": "Judges 9:16-19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that fire should come from Abimelech and consume the leaders of Shechem and Beth-millo if they had acted dishonorably.",
+        "citations": "Judges 9:20",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "name": "Manoah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was Samson's father.",
+        "citations": "Judges 13:24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a Danite from Zorah.",
+        "citations": "Judges 13:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I pleaded with Jehovah to send the man of the true God again.",
+        "citations": "Judges 13:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My wife was told that our son would be a Nazirite of God from birth.",
+        "citations": "Judges 13:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My wife and I were childless before she gave birth to our son.",
+        "citations": "Judges 13:2,3; Judges 13:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked what our child's manner of life and work would be.",
+        "citations": "Judges 13:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went with my wife to meet the man who had spoken to her.",
+        "citations": "Judges 13:10,11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked whether he was the man who had spoken to my wife.",
+        "citations": "Judges 13:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked Jehovah's angel to stay while we prepared a young goat.",
+        "citations": "Judges 13:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked Jehovah's angel for his name so that we could honor him when his words came true.",
+        "citations": "Judges 13:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah's angel told my wife that no razor should touch our son's head.",
+        "citations": "Judges 13:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah's angel told my wife that our son would take the lead in saving Israel from the Philistines.",
+        "citations": "Judges 13:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I did not know that a man I spoke with was Jehovah's angel.",
+        "citations": "Judges 13:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I took a young goat and grain offering and offered them on a rock to Jehovah.",
+        "citations": "Judges 13:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I watched Jehovah's angel ascend in the flame from the altar.",
+        "citations": "Judges 13:19,20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My wife and I fell with our faces to the ground after Jehovah's angel ascended in the flame from an altar.",
+        "citations": "Judges 13:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I realized that I had seen Jehovah's angel only after he had left.",
+        "citations": "Judges 13:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My wife reasoned that Jehovah would not have accepted our offering or shown us these things if he intended to put us to death.",
+        "citations": "Judges 13:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that we were sure to die because we had seen God.",
+        "citations": "Judges 13:22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah's angel said to me, \"Why is it that you ask about my name, seeing that it is a wonderful one?\"",
+        "citations": "Judges 13:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah listened to my plea to send back a visitor, but when he returned to my wife, I was not with her.",
+        "citations": "Judges 13:8-10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The first time I met Jehovah's angel, I asked him what our child's work would be; the angel answered by repeating what my wife was to avoid.",
+        "citations": "Judges 13:11-14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah's angel did not appear to me again after I realized who he was.",
+        "citations": "Judges 13:21",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Micah (of Ephraim)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I lived in the mountainous region of Ephraim.",
+        "citations": "Judges 17:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I took 1,100 silver pieces from my mother and later returned them.",
+        "citations": "Judges 17:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had a house of gods.",
+        "citations": "Judges 17:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I made an ephod and teraphim statues.",
+        "citations": "Judges 17:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I installed one of my sons as priest.",
+        "citations": "Judges 17:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave silver back to my mother after hearing the curse she pronounced over it.",
+        "citations": "Judges 17:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My mother used 200 silver pieces to have a silversmith make a carved image and a metal statue.",
+        "citations": "Judges 17:3,4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I hired a Levite from Bethlehem in Judah to serve as my priest.",
+        "citations": "Judges 17:7-12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I offered the Levite ten silver pieces a year, garments, and food.",
+        "citations": "Judges 17:9,10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that Jehovah would be good to me because the Levite had become my priest.",
+        "citations": "Judges 17:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Danites took my carved image, ephod, teraphim statues, metal image, and priest.",
+        "citations": "Judges 18:14-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I pursued the Danites and asked what I had left after they took my gods and priest.",
+        "citations": "Judges 18:22-24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I turned back to my house because the Danites I pursued were stronger than I was.",
+        "citations": "Judges 18:25,26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The carved image I made remained with the Danites all the days that the house of the true God was in Shiloh.",
+        "citations": "Judges 18:30,31",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Nahash",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was an Ammonite king in the days of King Saul of Israel.",
+        "citations": "1 Samuel 12:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I camped against Jabesh in Gilead.",
+        "citations": "1 Samuel 11:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The men of Jabesh offered to make a covenant with me and serve me.",
+        "citations": "1 Samuel 11:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I would make a covenant with Jabesh only if every man's right eye was bored out.",
+        "citations": "1 Samuel 11:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said that taking the right eyes of Jabesh would humiliate all Israel.",
+        "citations": "1 Samuel 11:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The elders of Jabesh asked me for seven days to send messengers through Israel.",
+        "citations": "1 Samuel 11:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Saul's army attacked my camp during the morning watch and struck down the Ammonites.",
+        "citations": "1 Samuel 11:11",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Othniel",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Kenaz.",
+        "citations": "Judges 3:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My father was the younger brother of Caleb.",
+        "citations": "Judges 3:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah raised me up as a savior to rescue Israel when they cried to him for help.",
+        "citations": "Judges 3:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the judge raised before Ehud.",
+        "citations": "Judges 3:9-15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah's spirit came upon me and I became judge of Israel.",
+        "citations": "Judges 3:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went out to battle against the king of Mesopotamia.",
+        "citations": "Judges 3:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Israel had served the king of Mesopotamia for eight years before Jehovah raised me up.",
+        "citations": "Judges 3:8,9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The land had rest for 40 years after my victory.",
+        "citations": "Judges 3:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My son was named Hathath.",
+        "citations": "1 Chronicles 4:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I took up Caleb's challenge to strike Kiriath-sepher (Debir) and capture it.",
+        "citations": "Joshua 15:16,17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Caleb gave me his daughter Achsah as a wife.",
+        "citations": "Joshua 15:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My wife urged me to ask her father for a field.",
+        "citations": "Joshua 15:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Caleb gave my wife Upper Gulloth and Lower Gulloth after she asked for a blessing.",
+        "citations": "Joshua 15:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I prevailed over Cushan-rishathaim, king of Mesopotamia.",
+        "citations": "Judges 3:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was the first savior raised up in the book of Judges after Joshua died and Israel served foreign gods.",
+        "citations": "Judges 2:8,14-16; Judges 3:7-10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My descendant was chosen to head a service group of 24,000 during David's reign.",
+        "citations": "1 Chronicles 27:1,15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I died, Israel again did what was bad in Jehovah's eyes, leading to Moab's rule over them.",
+        "citations": "Judges 3:11,12",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Peninnah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I taunted my rival relentlessly because she had no children.",
+        "citations": "1 Samuel 1:6,7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was Hannah's rival wife.",
+        "citations": "1 Samuel 1:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was one of Elkanah's two wives.",
+        "citations": "1 Samuel 1:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My rivalry with Hannah forms the setting in which she prayed for and later gave birth to Samuel.",
+        "citations": "1 Samuel 1:6-11, 19,20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Elkanah gave portions of his sacrifice to me and all my children.",
+        "citations": "1 Samuel 1:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I had both sons and daughters.",
+        "citations": "1 Samuel 1:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I had children while my rival, the wife my husband loved, had none at that time.",
+        "citations": "1 Samuel 1:2, 5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I went up with my husband's household year after year to worship at Shiloh.",
+        "citations": "1 Samuel 1:3,7",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Phinehas (son of Eli)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a son of Eli.",
+        "citations": "1 Samuel 1:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I served as a priest to Jehovah in Shiloh.",
+        "citations": "1 Samuel 1:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I died on the same day as my brother Hophni.",
+        "citations": "1 Samuel 4:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was with the Ark of the covenant when it came into Israel's camp.",
+        "citations": "1 Samuel 4:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was called a wicked man who had no regard for Jehovah.",
+        "citations": "1 Samuel 2:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My attendants took meat from sacrifices with a three-pronged fork.",
+        "citations": "1 Samuel 2:13,14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My attendants demanded raw meat before the fat was made to smoke.",
+        "citations": "1 Samuel 2:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My attendants threatened to take sacrificial meat by force.",
+        "citations": "1 Samuel 2:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I treated Jehovah's offering with disrespect.",
+        "citations": "1 Samuel 2:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I lay down with women serving at the entrance of the tent of meeting.",
+        "citations": "1 Samuel 2:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I refused to listen when my father rebuked me.",
+        "citations": "1 Samuel 2:23-25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told that my death with Hophni on one day would be a sign against my father's house.",
+        "citations": "1 Samuel 2:34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I died when the Ark of God was captured by the Philistines.",
+        "citations": "1 Samuel 4:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My death and the capture of the Ark caused my wife to go into labor.",
+        "citations": "1 Samuel 4:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My wife named our son Ichabod after the Ark was captured and I died.",
+        "citations": "1 Samuel 4:19-22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My father's house was judged for an error that included the conduct of his sons.",
+        "citations": "1 Samuel 3:12-14",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Samson",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a Nazirite of God from birth.",
+        "citations": "Judges 13:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I killed 1,000 Philistines with the jawbone of a donkey.",
+        "citations": "Judges 15:15,16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Delilah betrayed me after I told her the secret of my strength.",
+        "citations": "Judges 16:17-21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "No razor was to touch my head.",
+        "citations": "Judges 13:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I found honey in the carcass of a lion and gave some to my parents without telling them where it came from.",
+        "citations": "Judges 14:8,9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah's spirit empowered me to tear a lion in two like a young goat.",
+        "citations": "Judges 14:5,6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told Delilah that shaving my head would cause my power to leave me.",
+        "citations": "Judges 16:15-17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I did not tell my parents that I had killed a lion.",
+        "citations": "Judges 14:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I tore down the gates of Gaza and carried them to a mountain facing Hebron.",
+        "citations": "Judges 16:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I killed more Philistines at my death than during my life.",
+        "citations": "Judges 16:29,30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the son of Manoah.",
+        "citations": "Judges 13:2; Judges 16:31",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was born after Jehovah's angel appeared to my mother and father.",
+        "citations": "Judges 13:3-5; Judges 13:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I wanted a Philistine woman from Timnah as my wife.",
+        "citations": "Judges 14:1-3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I made a riddle about something to eat coming out of an eater, and something sweet out of the strong.",
+        "citations": "Judges 14:12-14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I struck down 30 men at Ashkelon and gave their clothing to men who solved my riddle.",
+        "citations": "Judges 14:18,19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I caught 300 foxes and used torches to burn Philistine grain, vineyards, and olive groves.",
+        "citations": "Judges 15:4,5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was tied with two new ropes by 3,000 men of Judah.",
+        "citations": "Judges 15:11-13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I judged Israel for 20 years.",
+        "citations": "Judges 15:20; Judges 16:31",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My ropes became like scorched linen threads when Jehovah's spirit empowered me at Lehi.",
+        "citations": "Judges 15:13,14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah's angel told my mother that I would take the lead in saving Israel from the Philistines.",
+        "citations": "Judges 13:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I did not know that Jehovah had left me after the woman I loved had my hair shaved.",
+        "citations": "Judges 16:19,20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said my riddle-solvers had plowed with my young cow.",
+        "citations": "Judges 14:15-18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My wife was given to one of my groomsmen after I left in anger.",
+        "citations": "Judges 14:19,20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I named a place Ramath-lehi after striking down 1,000 men with a jawbone.",
+        "citations": "Judges 15:15-17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I called on Jehovah when thirsty, and water flowed from a hollow at Lehi.",
+        "citations": "Judges 15:18,19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My eyes were bored out and I became a grinder of grain in prison.",
+        "citations": "Judges 16:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked the boy holding my hand to let me feel the pillars supporting the house we were in.",
+        "citations": "Judges 16:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked Jehovah to strengthen me just once more so I could take revenge for one of my eyes.",
+        "citations": "Judges 16:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My hair began to grow back after it had been shaved.",
+        "citations": "Judges 16:21,22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, “As they did to me, so I did to them,” when the men of Judah questioned me.",
+        "citations": "Judges 15:9-11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was called out of prison to entertain Philistine worshippers of Dagon.",
+        "citations": "Judges 16:23-25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My parents did not realize that my desire for a Philistine wife was from Jehovah, who was seeking an opportunity against the Philistines.",
+        "citations": "Judges 14:3,4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The Philistines burned my wife and her father after learning that I had burned their crops.",
+        "citations": "Judges 15:5-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was captured by my own people before Jehovah's spirit enabled me to defeat the Philistines at Lehi.",
+        "citations": "Judges 15:11-15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "About 3,000 men and women watched from a roof while I entertained the Philistines.",
+        "citations": "Judges 16:25-27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was buried between Zorah and Eshtaol in the tomb of my father.",
+        "citations": "Judges 16:31",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Samuel",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a prophet of Jehovah.",
+        "citations": "1 Samuel 3:19,20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I anointed Saul as king over Israel.",
+        "citations": "1 Samuel 10:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the son of Hannah and Elkanah.",
+        "citations": "1 Samuel 1:19,20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I ministered before Jehovah as a boy.",
+        "citations": "1 Samuel 2:18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah called me while I was lying in the temple.",
+        "citations": "1 Samuel 3:3-10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I judged Israel throughout my life.",
+        "citations": "1 Samuel 7:15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I wore a linen ephod as a boy.",
+        "citations": "1 Samuel 2:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My mother made me a little sleeveless coat and brought it to me year after year.",
+        "citations": "1 Samuel 2:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was lent to Jehovah for all my days by my mother.",
+        "citations": "1 Samuel 1:27,28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I ran to Eli three times because I thought he had called me.",
+        "citations": "1 Samuel 3:4-8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, “Speak, for your servant is listening.”",
+        "citations": "1 Samuel 3:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was afraid to tell Eli the vision Jehovah gave me.",
+        "citations": "1 Samuel 3:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Eli everything Jehovah had said and hid nothing from him.",
+        "citations": "1 Samuel 3:16-18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Israel to put away foreign gods and Ashtoreth images.",
+        "citations": "1 Samuel 7:3,4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I gathered Israel at Mizpah and prayed to Jehovah for them.",
+        "citations": "1 Samuel 7:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I offered a suckling lamb as a whole burnt offering while Israel faced the Philistines.",
+        "citations": "1 Samuel 7:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I named a stone Ebenezer, saying, “Until now Jehovah has helped us.”",
+        "citations": "1 Samuel 7:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I traveled each year in a circuit to Bethel, Gilgal, and Mizpah to judge Israel.",
+        "citations": "1 Samuel 7:15-17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I built an altar to Jehovah in Ramah, where my house was.",
+        "citations": "1 Samuel 7:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Israel that asking for a king was an evil thing in Jehovah's eyes.",
+        "citations": "1 Samuel 12:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I called on Jehovah to make it thunder and rain during the wheat harvest.",
+        "citations": "1 Samuel 12:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said it would be unthinkable for me to sin against Jehovah by ceasing to pray for Israel.",
+        "citations": "1 Samuel 12:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was confirmed as Jehovah's prophet by all Israel from Dan to Beer-sheba.",
+        "citations": "1 Samuel 3:19,20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah did not let any of my words go unfulfilled.",
+        "citations": "1 Samuel 3:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I judged Israel after the Ark had remained at Kiriath-jearim for 20 years.",
+        "citations": "1 Samuel 7:1-6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah caused loud thunder against the Philistines while I was offering a burnt offering.",
+        "citations": "1 Samuel 7:9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The Philistines were subdued and their cities from Ekron to Gath were returned to Israel during my days.",
+        "citations": "1 Samuel 7:13,14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Israel that they had rejected Jehovah as their king by demanding a human king.",
+        "citations": "1 Samuel 8:6-8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I warned Israel that a king would take their sons, daughters, fields, servants, herds, and flocks.",
+        "citations": "1 Samuel 8:10-18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I met Saul while he was searching for his father's lost donkeys.",
+        "citations": "1 Samuel 9:3-6, 14-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I gave Saul the reserved portion at a meal before telling him Jehovah's word.",
+        "citations": "1 Samuel 9:22-27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I poured oil on Saul's head and told him Jehovah had anointed him as leader.",
+        "citations": "1 Samuel 10:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I called Israel to Mizpah, where Saul was selected while hiding among the luggage.",
+        "citations": "1 Samuel 10:17-24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I asked Israel to testify whether I had taken a bull, a donkey, or a bribe from anyone.",
+        "citations": "1 Samuel 12:1-5",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Shamgar",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I saved Israel from the Philistines before the time of Samson.",
+        "citations": "Judges 3:31; Judges 13:1,5,24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I came after Ehud in the time of the judges.",
+        "citations": "Judges 3:30,31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was named with Jael in Deborah and Barak's victory song.",
+        "citations": "Judges 5:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was first mentioned in the Bible immediately after the account of Moab's defeat under Ehud.",
+        "citations": "Judges 3:30,31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was the son of Anath.",
+        "citations": "Judges 3:31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In my days, the roads were deserted and travelers kept to back roads.",
+        "citations": "Judges 5:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I saved Israel after Ehud and before Israel's oppression under Jabin.",
+        "citations": "Judges 3:30,31; Judges 4:1-3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My only narrative action was striking down 600 Philistines with a cattle goad.",
+        "citations": "Judges 3:31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Deborah's song used my days to describe a time when Israel's roads were deserted.",
+        "citations": "Judges 3:31; Judges 5:6",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Sisera",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the chief of Jabin's army.",
+        "citations": "Judges 4:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was killed by Jael with a tent pin.",
+        "citations": "Judges 4:21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I fled on foot from Barak's army.",
+        "citations": "Judges 4:15-17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I fled to Jael's tent because there was peace between Jabin and the house of Heber.",
+        "citations": "Judges 4:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was asleep and exhausted when Jael drove a tent pin through my temples.",
+        "citations": "Judges 4:21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I got down from my chariot and fled on foot after Jehovah threw my army into confusion.",
+        "citations": "Judges 4:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked Jael for water because I was thirsty, but she gave me milk.",
+        "citations": "Judges 4:18,19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Jael to stand at her tent entrance and deny that any man was inside.",
+        "citations": "Judges 4:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In the song, Jael was said to have crushed my head and pierced my temples.",
+        "citations": "Judges 5:24-27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was defeated when Barak led 10,000 men down Mount Tabor.",
+        "citations": "Judges 4:10; Judges 4:14-16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had 900 chariots with iron scythes.",
+        "citations": "Judges 4:3, 13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Barak found me dead in a woman's tent with a tent pin through my temples.",
+        "citations": "Judges 4:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Deborah had foretold that I would be given into the hand of a woman.",
+        "citations": "Judges 4:9, 21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Deborah and Barak's song, the stars were said to fight against me from their orbits.",
+        "citations": "Judges 5:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In the song, the torrent of Kishon was said to wash my forces away.",
+        "citations": "Judges 5:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I lived in Harosheth of the nations.",
+        "citations": "Judges 4:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I assembled my chariots and troops at the stream of Kishon.",
+        "citations": "Judges 4:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My mother was described as peering from a lattice and asking why my chariot was delayed.",
+        "citations": "Judges 5:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I led the army that harshly oppressed Israel for 20 years.",
+        "citations": "Judges 4:2,3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I abandoned my chariot and fled on foot to the tent of the woman who later killed me.",
+        "citations": "Judges 4:13, 15-17, 21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Deborah and Barak sang a victory song that pictured my mother waiting for my chariot to return.",
+        "citations": "Judges 5:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In Deborah's song, my mother's attendants expected me to return with embroidered garments and other spoil.",
+        "citations": "Judges 5:29,30",
+        "difficulty": "nightmare"
+      }
+    ]
+  }
+]

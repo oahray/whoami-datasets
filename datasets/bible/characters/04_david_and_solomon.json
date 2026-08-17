@@ -1,0 +1,4575 @@
+[
+  {
+    "name": "Abiathar",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a son of Ahimelech.",
+        "citations": "1 Samuel 22:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I escaped when Saul had the priests of Jehovah killed at Nob.",
+        "citations": "1 Samuel 22:18-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I ran away to follow David after escaping death at the hands of Doeg the Edomite.",
+        "citations": "1 Samuel 22:19,20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I brought an ephod to David when I came to him at Keilah.",
+        "citations": "1 Samuel 23:6, 9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I carried the Ark of Jehovah before David during his hardships.",
+        "citations": "1 Kings 2:26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I supported Adonijah when he tried to become king.",
+        "citations": "1 Kings 1:7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Solomon drove me out from serving as priest and sent me to my fields in Anathoth.",
+        "citations": "1 Kings 2:26,27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David told me to stay with him, saying that whoever sought my life also sought his.",
+        "citations": "1 Samuel 22:23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "During Absalom's revolt, Zadok and I took the Ark of the true God back to Jerusalem and remained there.",
+        "citations": "2 Samuel 15:24-29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I helped relay Hushai's warning to David through my son Jonathan.",
+        "citations": "2 Samuel 15:35,36; 2 Samuel 17:15-22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David called me to sanctify myself before the Ark was brought up from Obed-edom's house.",
+        "citations": "1 Chronicles 15:11-14",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Abigail",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the wife of Nabal.",
+        "citations": "1 Samuel 25:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was discerning and beautiful.",
+        "citations": "1 Samuel 25:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I learned that Nabal had insulted David's messengers.",
+        "citations": "1 Samuel 25:14-17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I quickly loaded bread, wine, sheep, roasted grain, raisins, and figs onto donkeys.",
+        "citations": "1 Samuel 25:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I met David while riding down under cover of a mountain.",
+        "citations": "1 Samuel 25:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told my servants to go ahead of me, but I did not tell Nabal what I was doing.",
+        "citations": "1 Samuel 25:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I threw myself facedown before David and asked him to let the blame be on me.",
+        "citations": "1 Samuel 25:23,24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked David not to pay attention to my husband, whose name meant senselessness.",
+        "citations": "1 Samuel 25:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told David that Jehovah had held him back from incurring bloodguilt.",
+        "citations": "1 Samuel 25:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When David's servants asked me to become his wife, I offered to wash the feet of his servants.",
+        "citations": "1 Samuel 25:39-41",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I rode after David's messengers with five female servants.",
+        "citations": "1 Samuel 25:42",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked David to remember me when Jehovah made him leader over Israel.",
+        "citations": "1 Samuel 25:28-31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David said that my good sense had restrained him from taking revenge with his own hands.",
+        "citations": "1 Samuel 25:32-34",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Nabal about my meeting with David only after he had become sober.",
+        "citations": "1 Samuel 25:36,37",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After my husband died, David sent word to take me as his wife.",
+        "citations": "1 Samuel 25:38-42",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I lived with David in Gath as one of his two wives.",
+        "citations": "1 Samuel 27:2,3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The Amalekites carried me off captive when they raided and burned Ziklag.",
+        "citations": "1 Samuel 30:1-5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David rescued me after recovering everything the Amalekites had taken.",
+        "citations": "1 Samuel 30:17-19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I went with David to Hebron after he was directed there by Jehovah.",
+        "citations": "2 Samuel 2:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I bore David a son named Chileab in Hebron.",
+        "citations": "2 Samuel 3:2,3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told David that Jehovah would hurl away the lives of his enemies as from a sling's pouch.",
+        "citations": "1 Samuel 25:29",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Abinadab (of Kiriath-jearim)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "The Ark of Jehovah was brought to my house on the hill at Kiriath-jearim.",
+        "citations": "1 Samuel 7:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My son Eleazar was sanctified to guard the Ark of Jehovah.",
+        "citations": "1 Samuel 7:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The Ark remained at my house for at least twenty years.",
+        "citations": "1 Samuel 7:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My sons Uzzah and Ahio drove the new wagon that carried the Ark from my house.",
+        "citations": "2 Samuel 6:3,4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My son Uzzah was struck down after he reached out and took hold of the Ark.",
+        "citations": "2 Samuel 6:3, 6,7",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Abishag",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a Shunammite girl.",
+        "citations": "1 Kings 1:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I became King David's nurse when he was old.",
+        "citations": "1 Kings 1:3,4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Although David's servants chose me to lie in his arms and keep him warm, he did not have relations with me.",
+        "citations": "1 Kings 1:2-4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was described as extremely beautiful.",
+        "citations": "1 Kings 1:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Adonijah asked Bath-sheba to request that I become his wife.",
+        "citations": "1 Kings 2:13-18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Solomon treated Adonijah's request for me as a claim to the kingship.",
+        "citations": "1 Kings 2:22-25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Adonijah was put to death after requesting that I become his wife.",
+        "citations": "1 Kings 2:23-25",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Abishai",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a son of Zeruiah and a brother of Joab.",
+        "citations": "1 Samuel 26:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went with David into Saul's camp at night.",
+        "citations": "1 Samuel 26:6,7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I offered to pin Saul to the ground with one thrust of his own spear.",
+        "citations": "1 Samuel 26:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I pursued Abner after he killed my brother Asahel.",
+        "citations": "2 Samuel 2:22-24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I called Shimei a dead dog and asked David to let me take off his head.",
+        "citations": "2 Samuel 16:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I helped save David from Ishbi-benob, a Philistine descendant of the Rephaim.",
+        "citations": "2 Samuel 21:15-17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David sent me to chase after Sheba son of Bichri before he could escape into fortified cities.",
+        "citations": "2 Samuel 20:6,7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I chased after Sheba son of Bichri with Joab after he killed Amasa.",
+        "citations": "2 Samuel 20:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I struck down 18,000 Edomites in the Valley of Salt.",
+        "citations": "1 Chronicles 18:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said that Shimei should be put to death because he had cursed Jehovah's anointed one.",
+        "citations": "2 Samuel 19:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The Ammonites fled from me after they saw the Syrians flee from Joab.",
+        "citations": "2 Samuel 10:13,14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I raised my spear against 300 men and struck them down.",
+        "citations": "1 Chronicles 11:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I became head of another three mighty warriors, but I did not attain to the rank of the first three.",
+        "citations": "1 Chronicles 11:20,21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was one of three commanders when David sent his army out against Absalom, alongside Joab and Ittai.",
+        "citations": "2 Samuel 18:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Joab put me in command of the rest of Israel's army while he fought the Syrians.",
+        "citations": "2 Samuel 10:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Joab I would rescue him if the Syrians proved too strong for him, and he would rescue me if the Ammonites proved too strong for me.",
+        "citations": "2 Samuel 10:11",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Abner",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Ner, Saul's uncle.",
+        "citations": "1 Samuel 14:50,51",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the chief of Saul's army.",
+        "citations": "1 Samuel 14:50",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I lay asleep near Saul when David entered our camp at night.",
+        "citations": "1 Samuel 26:5-7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "David rebuked me for failing to guard Saul and his spear.",
+        "citations": "1 Samuel 26:14-16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I made Ish-bosheth king over Israel after Saul died.",
+        "citations": "2 Samuel 2:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I proposed that young men from my side and David's side engage in combat at Gibeon.",
+        "citations": "2 Samuel 2:13-15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I killed Asahel after he refused to stop chasing me.",
+        "citations": "2 Samuel 2:18-23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I grew angry when Ish-bosheth accused me of relations with Saul's concubine Rizpah.",
+        "citations": "2 Samuel 3:6-8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I urged Joab to stop pursuing my men, warning that the sword would leave bitterness behind.",
+        "citations": "2 Samuel 2:26-28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I promised to turn all Israel to David's side.",
+        "citations": "2 Samuel 3:9-12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Paltiel to stop following Michal and return home after she was taken from him.",
+        "citations": "2 Samuel 3:15,16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I spoke with the elders of Israel and Benjamin about making David king.",
+        "citations": "2 Samuel 3:17-19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Joab had me brought back to Hebron and stabbed me in the abdomen.",
+        "citations": "2 Samuel 3:26,27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David said that he and his kingdom were innocent of my blood.",
+        "citations": "2 Samuel 3:28,29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David held a feast for me when I arrived in Hebron with 20 men.",
+        "citations": "2 Samuel 3:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "At my funeral, David composed a dirge saying that I had died as a senseless man would.",
+        "citations": "2 Samuel 3:31-33",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Absalom",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a son of David.",
+        "citations": "2 Samuel 3:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Tamar was my beautiful sister.",
+        "citations": "2 Samuel 13:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had a daughter named Tamar.",
+        "citations": "2 Samuel 14:27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had no defect from the sole of my foot to the crown of my head.",
+        "citations": "2 Samuel 14:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I cut my hair once a year because it became too heavy for me.",
+        "citations": "2 Samuel 14:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I ordered my attendants to kill Amnon after he had humiliated Tamar.",
+        "citations": "2 Samuel 13:22, 28,29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I fled to Geshur after Amnon was killed and stayed there for three years.",
+        "citations": "2 Samuel 13:37,38",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Joab brought me back from Geshur to Jerusalem, but David would not let me see his face.",
+        "citations": "2 Samuel 14:21-24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I lived in Jerusalem for two full years without seeing David's face.",
+        "citations": "2 Samuel 14:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent for Joab twice, but he would not come to me.",
+        "citations": "2 Samuel 14:29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ordered my servants to set Joab's barley field on fire.",
+        "citations": "2 Samuel 14:30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Joab that it would have been better for me to stay in Geshur than to remain unable to see David.",
+        "citations": "2 Samuel 14:31,32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David received me after Joab spoke for me, and he kissed me.",
+        "citations": "2 Samuel 14:33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I acquired a chariot, horses, and 50 men to run before me.",
+        "citations": "2 Samuel 15:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I stood at the city gate and stole the hearts of the men of Israel.",
+        "citations": "2 Samuel 15:2-6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent spies through Israel to announce that I had become king in Hebron.",
+        "citations": "2 Samuel 15:7-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told David that I wanted to fulfill a vow I had made to Jehovah while I was living in Geshur.",
+        "citations": "2 Samuel 15:7,8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent for Ahithophel while offering sacrifices at Hebron.",
+        "citations": "2 Samuel 15:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Two hundred men from Jerusalem went with me to Hebron without knowing about my conspiracy.",
+        "citations": "2 Samuel 15:10-12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I had relations with David's concubines on a rooftop before all Israel.",
+        "citations": "2 Samuel 16:21,22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I asked Hushai whether we should follow Ahithophel's advice to pursue David that night.",
+        "citations": "2 Samuel 17:1-6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I and the men of Israel chose Hushai's advice over Ahithophel's.",
+        "citations": "2 Samuel 17:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "While David went to Mahanaim, I crossed the Jordan with all the men of Israel.",
+        "citations": "2 Samuel 17:24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I appointed Amasa over the army in place of Joab.",
+        "citations": "2 Samuel 17:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My head became entangled in a large tree while I was riding a mule.",
+        "citations": "2 Samuel 18:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Joab drove three spikes through my heart while I was still alive in the tree.",
+        "citations": "2 Samuel 18:10-15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I set up a pillar for myself because I said I had no son to preserve my name.",
+        "citations": "2 Samuel 18:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David mourned for me after I died, wishing that he had died instead of me.",
+        "citations": "2 Samuel 18:33; 2 Samuel 19:1-4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I fled to the court of my maternal grandfather, Talmai king of Geshur.",
+        "citations": "2 Samuel 3:3; 2 Samuel 13:37",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David commanded his three army chiefs to deal gently with me for his sake.",
+        "citations": "2 Samuel 18:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I died, my body was thrown into a large pit in the forest and covered with a great heap of stones.",
+        "citations": "2 Samuel 18:17",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Achish",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was king of Gath.",
+        "citations": "1 Samuel 21:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "David fled from Saul and came to me.",
+        "citations": "1 Samuel 21:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My servants recognized David as the man celebrated for tens of thousands.",
+        "citations": "1 Samuel 21:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw David making marks on doors and letting saliva run down his beard.",
+        "citations": "1 Samuel 21:13-15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked why David had been brought to me when I saw that he was acting insane.",
+        "citations": "1 Samuel 21:14,15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave David Ziklag after he asked me for a place in the countryside rather than the royal city.",
+        "citations": "1 Samuel 27:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David lived in Philistine territory for a year and four months while he was with me.",
+        "citations": "1 Samuel 27:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked David where he had made his raids, and he told me that he had raided the south of Judah, the Jerahmeelites, or the Kenites.",
+        "citations": "1 Samuel 27:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I believed David had become a stench among Israel and would always be my servant.",
+        "citations": "1 Samuel 27:11,12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told David that he and his men would go out with me and my army.",
+        "citations": "1 Samuel 28:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told David that I would make him my lifelong bodyguard.",
+        "citations": "1 Samuel 28:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David came to live with me in Gath with 600 men and their households.",
+        "citations": "1 Samuel 27:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After David came to live with me in Gath, Saul stopped searching for him.",
+        "citations": "1 Samuel 27:2-4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David and his men marched at the rear with me when the Philistines assembled at Aphek.",
+        "citations": "1 Samuel 29:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Philistine princes that I had found no fault in David from the day he deserted to me.",
+        "citations": "1 Samuel 29:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The Philistine princes made me send David back because they did not trust him in battle.",
+        "citations": "1 Samuel 29:4-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told David that he had been as good as an angel of God from my standpoint.",
+        "citations": "1 Samuel 29:8-10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told David to return in peace and not do anything to displease the Philistine lords.",
+        "citations": "1 Samuel 29:6,7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I ordered David and the servants who came with him to leave as soon as it was light.",
+        "citations": "1 Samuel 29:9-11",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Adonijah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a son of David and Haggith.",
+        "citations": "2 Samuel 3:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was born to David after Absalom.",
+        "citations": "1 Kings 1:5,6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said that I was going to be king.",
+        "citations": "1 Kings 1:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had a chariot, horsemen, and 50 men run before me.",
+        "citations": "1 Kings 1:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Joab and Abiathar supported me in my bid for kingship.",
+        "citations": "1 Kings 1:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I held a sacrifice near En-rogel and invited my brothers and the men of Judah.",
+        "citations": "1 Kings 1:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I did not invite Solomon, Nathan, Benaiah, or David's mighty warriors to my sacrifice.",
+        "citations": "1 Kings 1:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I became afraid of Solomon and grabbed hold of the horns of the altar.",
+        "citations": "1 Kings 1:49,50",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My father had never corrected me by asking why I had acted as I did.",
+        "citations": "1 Kings 1:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked Solomon to swear that he would not put me to death by the sword.",
+        "citations": "1 Kings 1:50,51",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Bath-sheba that the kingship had been mine and all Israel had looked to me, but Jehovah gave it to my brother.",
+        "citations": "1 Kings 2:13-15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I asked Bath-sheba to request Abishag the Shunammite as my wife.",
+        "citations": "1 Kings 2:16-18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Solomon treated my request for Abishag as a claim to the kingship.",
+        "citations": "1 Kings 2:21-23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Benaiah struck me down after Solomon ordered my death.",
+        "citations": "1 Kings 2:23-25",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ahimaaz",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "When I reached David, I bowed facedown and blessed Jehovah for handing over the men who had rebelled against the king.",
+        "citations": "2 Samuel 18:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was a son of Zadok.",
+        "citations": "2 Samuel 15:27, 36",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jonathan and I stayed at En-rogel because we did not dare to be seen entering Jerusalem.",
+        "citations": "2 Samuel 17:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A servant girl brought Jonathan and me a message from Hushai.",
+        "citations": "2 Samuel 17:15-17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jonathan and I hid in a well at Bahurim when Absalom's servants came looking for us.",
+        "citations": "2 Samuel 17:18-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jonathan and I warned David to cross the Jordan because of Ahithophel's advice.",
+        "citations": "2 Samuel 17:21,22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I asked Joab to let me run and take news to David after Absalom's defeat.",
+        "citations": "2 Samuel 18:19-23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I ran by the way of the district of the Jordan and overtook the Cushite.",
+        "citations": "2 Samuel 18:23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told David that Jehovah had freed him from his enemies but said I did not know what had happened to Absalom.",
+        "citations": "2 Samuel 18:28,29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David told Zadok and Abiathar to send everything they heard through Jonathan and me.",
+        "citations": "2 Samuel 15:35,36",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The watchman recognized me by the way I ran before I reached David.",
+        "citations": "2 Samuel 18:26,27",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ahimelech",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a priest at Nob.",
+        "citations": "1 Samuel 21:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I trembled when David came to me alone.",
+        "citations": "1 Samuel 21:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave David holy bread after he assured me that his young men had kept away from women.",
+        "citations": "1 Samuel 21:4-6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave David the sword of Goliath, which was kept behind the ephod.",
+        "citations": "1 Samuel 21:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Doeg the Edomite saw David come to me at Nob.",
+        "citations": "1 Samuel 21:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Saul that David was trustworthy, his son-in-law, and honored in Saul's house.",
+        "citations": "1 Samuel 22:11-15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Saul that I had not known David was a runaway.",
+        "citations": "1 Samuel 22:14,15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Saul ordered that I and my father's house be put to death.",
+        "citations": "1 Samuel 22:16,17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David told me that the king had sent him on a secret mission.",
+        "citations": "1 Samuel 21:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Saul that it was not the first time I had inquired of God for David.",
+        "citations": "1 Samuel 22:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Saul sentenced me and my father's house to death, and Doeg killed 85 priests wearing linen ephods.",
+        "citations": "1 Samuel 22:16-18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My city, Nob, was struck with the sword after Doeg killed me.",
+        "citations": "1 Samuel 22:18,19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My son Abiathar escaped from Nob and ran away to follow David.",
+        "citations": "1 Samuel 22:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was a son of Ahitub.",
+        "citations": "1 Samuel 22:11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After my death, David told my surviving son that he was personally responsible for everyone's death in my father's house.",
+        "citations": "1 Samuel 22:20-22",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ahithophel",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was David's adviser.",
+        "citations": "2 Samuel 15:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My advice was esteemed as if someone were inquiring of the true God.",
+        "citations": "2 Samuel 16:23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I joined Absalom's conspiracy against David.",
+        "citations": "2 Samuel 15:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I advised Absalom to have relations with David's concubines.",
+        "citations": "2 Samuel 16:20-22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked to choose 12,000 men and pursue David that night.",
+        "citations": "2 Samuel 17:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I planned to strike down only David and return all the people to Absalom.",
+        "citations": "2 Samuel 17:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Absalom and the men of Israel chose Hushai's advice instead of my advice.",
+        "citations": "2 Samuel 17:5-14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When I saw that my advice had not been followed, I went home, gave instructions to my household, and hanged myself.",
+        "citations": "2 Samuel 17:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Absalom and the elders initially thought my proposal was right.",
+        "citations": "2 Samuel 17:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David prayed that Jehovah would turn my advice into foolishness.",
+        "citations": "2 Samuel 15:31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah frustrated my sound advice in order to bring disaster on Absalom.",
+        "citations": "2 Samuel 17:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was from Giloh.",
+        "citations": "2 Samuel 15:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My son Eliam was one of David's mighty warriors.",
+        "citations": "2 Samuel 23:34",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Amasa",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a son of Ithra and Abigail, the sister of Zeruiah.",
+        "citations": "2 Samuel 17:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Absalom put me in charge of his army in place of Joab.",
+        "citations": "2 Samuel 17:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David later appointed me as his army chief in place of Joab.",
+        "citations": "2 Samuel 19:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David told me to gather the men of Judah within three days.",
+        "citations": "2 Samuel 20:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I arrived later than the time David had appointed.",
+        "citations": "2 Samuel 20:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Joab took hold of my beard as if to kiss me and stabbed me in the abdomen.",
+        "citations": "2 Samuel 20:8-10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was David's nephew and the cousin of Joab, Abishai, and Asahel.",
+        "citations": "1 Chronicles 2:13-17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David told Solomon not to let Joab die peacefully after he had shed my blood.",
+        "citations": "1 Kings 2:5,6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Solomon later had Joab executed after citing the blood he had shed, including my blood.",
+        "citations": "1 Kings 2:31-34",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Amnon",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was David's firstborn son.",
+        "citations": "2 Samuel 3:2; 2 Samuel 13:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I fell in love with my half sister Tamar.",
+        "citations": "2 Samuel 13:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became sick with distress over Tamar.",
+        "citations": "2 Samuel 13:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I overpowered and violated Tamar after she pleaded with me not to humiliate her.",
+        "citations": "2 Samuel 13:11-14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My companion Jehonadab advised me to pretend to be sick.",
+        "citations": "2 Samuel 13:3-5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked David to send Tamar to prepare food for me.",
+        "citations": "2 Samuel 13:6,7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I refused to eat until everyone had left me alone with Tamar.",
+        "citations": "2 Samuel 13:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked Tamar to bake two heart-shaped cakes before my eyes.",
+        "citations": "2 Samuel 13:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The companion who taught me to pretend to be sick was my cousin.",
+        "citations": "2 Samuel 13:3-5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Although a report said that all the king's sons had been killed, I was the only one who died.",
+        "citations": "2 Samuel 13:30-33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My hatred for Tamar became greater than the love I had felt for her.",
+        "citations": "2 Samuel 13:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Absalom ordered his attendants to kill me when my heart was cheerful from wine.",
+        "citations": "2 Samuel 13:22, 28,29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told my attendant to put Tamar out and lock the door behind her.",
+        "citations": "2 Samuel 13:16-18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I humiliated Tamar, she lived in isolation at Absalom's house.",
+        "citations": "2 Samuel 13:19,20",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Asahel",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a son of Zeruiah and a brother of Joab and Abishai.",
+        "citations": "2 Samuel 2:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was as swift on my feet as a gazelle in the open field.",
+        "citations": "2 Samuel 2:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I chased Abner without turning to the right or the left.",
+        "citations": "2 Samuel 2:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was counted among David's 30 mighty warriors.",
+        "citations": "2 Samuel 23:24; 1 Chronicles 11:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Joab and Abishai killed Abner because he had put me to death at Gibeon.",
+        "citations": "2 Samuel 3:30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Abner warned me twice to stop chasing him.",
+        "citations": "2 Samuel 2:21,22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Abner struck me in the abdomen with the butt end of his spear, and I died.",
+        "citations": "2 Samuel 2:23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Joab and Abishai pursued Abner after I died.",
+        "citations": "2 Samuel 2:24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was buried in my father's tomb at Bethlehem.",
+        "citations": "2 Samuel 2:32",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My mother Zeruiah was David's sister, making me David's nephew.",
+        "citations": "1 Chronicles 2:13-16",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Barzillai",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a Gileadite from Rogelim.",
+        "citations": "2 Samuel 19:31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was a very wealthy man.",
+        "citations": "2 Samuel 19:32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was eighty years old when David invited me to cross the Jordan with him.",
+        "citations": "2 Samuel 19:32-34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When David fled to Mahanaim during Absalom's rebellion, I supplied him with food.",
+        "citations": "2 Samuel 17:27-29; 2 Samuel 19:32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David asked me to cross over with him, and he would supply me with food in Jerusalem",
+        "citations": "2 Samuel 19:33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked David to let me die in my own city near the graves of my father and mother.",
+        "citations": "2 Samuel 19:37",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent Chimham with David instead of going myself.",
+        "citations": "2 Samuel 19:37,38",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said I could no longer taste what I ate and drank or hear the voices of men and women singers.",
+        "citations": "2 Samuel 19:35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I asked why I should be an added burden to the king in my old age.",
+        "citations": "2 Samuel 19:35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David said he would do for Chimham whatever I wished.",
+        "citations": "2 Samuel 19:38",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David kissed me and blessed me when I was about to return home from escorting him.",
+        "citations": "2 Samuel 19:31,39",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Along with Shobi and Machir, I brought beds, pots, grain, flour, honey, butter, sheep, and cheese when David was hungry in the wilderness.",
+        "citations": "2 Samuel 17:27-29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David told his son Solomon to let my sons eat at the royal table because I had helped when he fled from Absalom.",
+        "citations": "1 Kings 2:7",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Bath-sheba",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the daughter of Eliam.",
+        "citations": "2 Samuel 11:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the wife of Uriah the Hittite.",
+        "citations": "2 Samuel 11:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became pregnant after David lay down with me.",
+        "citations": "2 Samuel 11:4,5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I mourned when Uriah died.",
+        "citations": "2 Samuel 11:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became David's wife and bore him a son.",
+        "citations": "2 Samuel 11:27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah loved my son and had him named Jedidiah through Nathan.",
+        "citations": "2 Samuel 12:24,25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The son I bore to David became sick after Nathan confronted David.",
+        "citations": "2 Samuel 12:14,15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David comforted me after the child died, and I bore Solomon.",
+        "citations": "2 Samuel 12:18-24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Nathan warned me that Adonijah had become king so that I could save my life and Solomon's.",
+        "citations": "1 Kings 1:11-14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I reminded David that he had sworn Solomon would sit on his throne.",
+        "citations": "1 Kings 1:15-21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David renewed that oath to me and ordered Solomon anointed that day.",
+        "citations": "1 Kings 1:28-35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Adonijah asked me to request Abishag as his wife.",
+        "citations": "1 Kings 2:13-21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sat at Solomon's right hand when I brought him Adonijah's request.",
+        "citations": "1 Kings 2:19-21",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Benaiah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Jehoiada from Kabzeel.",
+        "citations": "2 Samuel 23:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a courageous man who performed many exploits.",
+        "citations": "2 Samuel 23:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I struck down two sons of Ariel of Moab.",
+        "citations": "2 Samuel 23:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I killed a lion in a waterpit on a snowy day.",
+        "citations": "2 Samuel 23:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I took an Egyptian's spear and killed him with it.",
+        "citations": "2 Samuel 23:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "David appointed me over his bodyguard.",
+        "citations": "2 Samuel 23:22,23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I did not attain to the rank of the three mighty warriors.",
+        "citations": "2 Samuel 23:22,23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I did not support Adonijah's attempt to become king.",
+        "citations": "1 Kings 1:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David ordered me to take Solomon on the king's mule to Gihon for his anointing.",
+        "citations": "1 Kings 1:32-39",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I struck Adonijah down after Solomon ordered his death.",
+        "citations": "1 Kings 2:23-25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I struck Joab down at the altar after he refused to come out.",
+        "citations": "1 Kings 2:28-34",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Solomon appointed me over the army in Joab's place.",
+        "citations": "1 Kings 2:35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I struck Shimei down after Solomon learned that he had gone to Gath.",
+        "citations": "1 Kings 2:39-46",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "David",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Jesse from Bethlehem.",
+        "citations": "1 Samuel 17:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the youngest of Jesse's eight sons.",
+        "citations": "1 Samuel 16:10,11; 1 Samuel 17:12-14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I shepherded my father's flock.",
+        "citations": "1 Samuel 16:11; 1 Samuel 17:15, 34",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Samuel anointed me while I was still a young man.",
+        "citations": "1 Samuel 16:12,13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I played the harp for Saul when a bad spirit came upon him.",
+        "citations": "1 Samuel 16:14-23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became Saul's armor-bearer after he grew fond of me.",
+        "citations": "1 Samuel 16:21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I killed Goliath with a sling and a stone.",
+        "citations": "1 Samuel 17:49-51",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jonathan and I made a covenant before Jehovah.",
+        "citations": "1 Samuel 18:1-4; 1 Samuel 20:16,17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became king over Judah at Hebron before becoming king over all Israel.",
+        "citations": "2 Samuel 2:1-4; 2 Samuel 5:1-5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I captured Jerusalem and made it my city.",
+        "citations": "2 Samuel 5:6-9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I brought the Ark of Jehovah to Jerusalem.",
+        "citations": "2 Samuel 6:12-19",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah made a covenant that my royal house and kingdom would last forever.",
+        "citations": "2 Samuel 7:8-16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I showed loyal love to Jonathan's son Mephibosheth and had him eat at my table continually.",
+        "citations": "2 Samuel 9:1-13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I committed adultery with Bath-sheba.",
+        "citations": "2 Samuel 11:2-4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I arranged for Uriah to die in battle.",
+        "citations": "2 Samuel 11:14-17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I comforted Bath-sheba after our child died, and she bore Solomon.",
+        "citations": "2 Samuel 12:24,25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I fled Jerusalem when Absalom rebelled against me.",
+        "citations": "2 Samuel 15:13-18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I wrote many Psalms.",
+        "citations": "2 Samuel 23:1,2; Psalm 3:title; Psalm 23:title; Psalm 51:title",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I assembled materials for Jehovah's house because my son Solomon was young and inexperienced.",
+        "citations": "1 Chronicles 22:2-5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I arranged for Solomon to be anointed as king before my death.",
+        "citations": "1 Kings 1:28-40",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told Solomon to be strong, courageous, and obey Jehovah's law after I was about to die.",
+        "citations": "1 Kings 2:1-4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was laid to rest with my forefathers.",
+        "citations": "1 Kings 2:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Paul quoted God as saying that I was agreeable to his heart and would do all the things he desired.",
+        "citations": "Acts 13:22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jesus was called my son.",
+        "citations": "Matthew 1:1; Matthew 21:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I killed a lion and a bear while protecting my father's flock.",
+        "citations": "1 Samuel 17:34-37",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I refused Saul's armor because I was not used to it.",
+        "citations": "1 Samuel 17:38-40",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Goliath that I came against him in the name of Jehovah of armies.",
+        "citations": "1 Samuel 17:45-47",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I cut off Goliath's head with the Philistine's own sword.",
+        "citations": "1 Samuel 17:50,51",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Saul made me a commander over his fighting men because I succeeded wherever he sent me.",
+        "citations": "1 Samuel 18:5, 14-16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The women sang that Saul had struck down his thousands, but I my tens of thousands.",
+        "citations": "1 Samuel 18:6,7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became Saul's son-in-law after striking down 200 Philistines.",
+        "citations": "1 Samuel 18:25-27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Michal helped me escape through a window when Saul sent men to kill me.",
+        "citations": "1 Samuel 19:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I pretended to be insane before the king of Gath, making marks on the doors and letting saliva run down my beard.",
+        "citations": "1 Samuel 21:10-15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "About 400 distressed, indebted, and bitter men gathered to me at the cave of Adullam.",
+        "citations": "1 Samuel 22:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spared Saul's life in a cave at En-gedi after cutting off the skirt of his sleeveless coat.",
+        "citations": "1 Samuel 24:1-7, 11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spared Saul again when I took his spear and water jug from beside his head.",
+        "citations": "1 Samuel 26:6-12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After Nabal died, I took Abigail as my wife.",
+        "citations": "1 Samuel 25:39-42",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I fled from Saul and lived among the Philistines at Ziklag.",
+        "citations": "1 Samuel 27:1-7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had the men who claimed to have killed Ish-bosheth executed for murdering a righteous man in his own house.",
+        "citations": "2 Samuel 4:5-12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I danced before Jehovah with all my might when the Ark was brought up.",
+        "citations": "2 Samuel 6:14-16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I wanted to build a house for Jehovah, but he said my offspring would build it.",
+        "citations": "2 Samuel 7:1-13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After the child born to Bath-sheba became sick, I fasted and lay on the ground; when he died, I worshipped Jehovah.",
+        "citations": "2 Samuel 12:15-23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah loved my son Solomon and had him named Jedidiah through Nathan.",
+        "citations": "2 Samuel 12:24,25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I mourned for Saul and Jonathan in a dirge after they died.",
+        "citations": "2 Samuel 1:17-27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was called the pleasant one of Israel's songs.",
+        "citations": "2 Samuel 23:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I reigned 40 years, seven in Hebron and 33 in Jerusalem.",
+        "citations": "2 Samuel 5:4,5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was prevented from building Jehovah's house because I had shed much blood.",
+        "citations": "1 Chronicles 22:7-10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave Solomon the written architectural plan for Jehovah's temple and its service arrangements.",
+        "citations": "1 Chronicles 28:11-19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a descendant of Ruth and Boaz through Jesse.",
+        "citations": "Ruth 4:17-22; 1 Samuel 17:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I composed a psalm when Saul sent men to watch my house and put me to death.",
+        "citations": "Psalm 59:title",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I composed a psalm when the Philistines seized me in Gath.",
+        "citations": "Psalm 56:title",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I composed a psalm after the Ziphites told Saul that I was hiding among them.",
+        "citations": "Psalm 54:title",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I composed a psalm when I fled from Absalom my son.",
+        "citations": "Psalm 3:title",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I composed a psalm after Nathan came to me about Bath-sheba.",
+        "citations": "Psalm 51:title",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Stephen said that I asked for the privilege of providing a dwelling place for the God of Jacob.",
+        "citations": "Acts 7:46",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Peter said that I had died and been buried, and that my tomb was still among them.",
+        "citations": "Acts 2:29",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Saul hurled his spear at me, seeking to pin me to the wall.",
+        "citations": "1 Samuel 18:10,11; 1 Samuel 19:9,10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jonathan warned me to hide after Saul spoke openly of killing me.",
+        "citations": "1 Samuel 19:1-3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked Jonathan to discover whether Saul's anger toward me had become deadly.",
+        "citations": "1 Samuel 20:1-13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jonathan and I arranged a signal with arrows to reveal whether I could safely return.",
+        "citations": "1 Samuel 20:18-23, 35-42",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ate the showbread that Ahimelech gave me at Nob.",
+        "citations": "1 Samuel 21:1-6; Matthew 12:3,4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Ahimelech gave me Goliath's sword, which had been kept wrapped behind the ephod.",
+        "citations": "1 Samuel 21:8,9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I entrusted my parents to the king of Moab while I was in the stronghold.",
+        "citations": "1 Samuel 22:3,4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Gad told me not to stay in the stronghold but to go into the land of Judah.",
+        "citations": "1 Samuel 22:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When Abiathar fled to me after Nob was struck, I told him I was responsible for the death of his father's house.",
+        "citations": "1 Samuel 22:20-23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After rescuing Keilah from the Philistines, I left because Jehovah said its citizens would hand me over to Saul.",
+        "citations": "1 Samuel 23:1-13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jonathan came to me at Horesh and strengthened my hand in God.",
+        "citations": "1 Samuel 23:16-18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Abigail restrained me from avenging myself against Nabal and his household.",
+        "citations": "1 Samuel 25:21-35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Philistine rulers refused to let me fight alongside them at Aphek.",
+        "citations": "1 Samuel 29:1-11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When my men spoke of stoning me at Ziklag, I strengthened myself in Jehovah.",
+        "citations": "1 Samuel 30:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Amalekites carried off my wives when they raided Ziklag, but I recovered everything.",
+        "citations": "1 Samuel 30:1-19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I made it a regulation that those guarding supplies would share equally with those who went into battle.",
+        "citations": "1 Samuel 30:21-25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I had an Amalekite put to death after he claimed to have finished off Saul.",
+        "citations": "2 Samuel 1:1-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "As a condition of alliance, I required Abner to bring Michal back to me.",
+        "citations": "2 Samuel 3:13-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I walked behind Abner's bier, fasted until evening, and said a prince and a great man had fallen.",
+        "citations": "2 Samuel 3:31-38",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Hiram of Tyre sent cedar logs, carpenters, and stonemasons to build a house for me.",
+        "citations": "2 Samuel 5:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I inquired of Jehovah twice before fighting the Philistines, and the second time he directed me to circle behind them.",
+        "citations": "2 Samuel 5:17-25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When Uzzah died for taking hold of the Ark, I became afraid and left it at the house of Obed-edom.",
+        "citations": "2 Samuel 6:6-11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When Michal despised me for dancing before the Ark, I told her I would humble myself still more before Jehovah.",
+        "citations": "2 Samuel 6:16, 20-22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent messengers to comfort Hanun after his father died, but Hanun humiliated them.",
+        "citations": "2 Samuel 10:1-5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Nathan told me, “You are the man!”",
+        "citations": "2 Samuel 12:1-7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I confessed to Nathan that I had sinned against Jehovah.",
+        "citations": "2 Samuel 12:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After Joab captured Rabbah's water city, I went and took the Ammonite king's crown.",
+        "citations": "2 Samuel 12:26-30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I allowed Absalom to return to Jerusalem, but for two years he did not see my face.",
+        "citations": "2 Samuel 14:21-24, 28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent the Ark back to Jerusalem with Zadok and Abiathar when I fled Absalom.",
+        "citations": "2 Samuel 15:24-29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent Hushai back to Jerusalem to frustrate Ahithophel's advice.",
+        "citations": "2 Samuel 15:32-37",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ascended the Mount of Olives weeping, with my head covered, as I fled Absalom.",
+        "citations": "2 Samuel 15:30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Abishai not to kill Shimei when he cursed me during my flight from Jerusalem.",
+        "citations": "2 Samuel 16:5-14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I commanded my commanders to deal gently with Absalom for my sake.",
+        "citations": "2 Samuel 18:1-5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I mourned so intensely for Absalom that Joab warned my servants were ashamed to face me.",
+        "citations": "2 Samuel 19:1-8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I gathered Saul's and Jonathan's bones and buried them in Benjamin after the Gibeonite affair.",
+        "citations": "2 Samuel 21:12-14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I assigned Levites to assist the priests in temple service because the Ark would no longer need to be carried.",
+        "citations": "1 Chronicles 23:24-32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jesse sent me to Saul's camp with roasted grain, bread, and cheeses for my brothers.",
+        "citations": "1 Samuel 17:17-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I chose five smooth stones from the streambed before facing Goliath.",
+        "citations": "1 Samuel 17:40",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After killing Goliath, I took his head to Jerusalem and put his armor in my tent.",
+        "citations": "1 Samuel 17:54",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "While living under Achish, I raided other peoples but led him to believe I was raiding Judah.",
+        "citations": "1 Samuel 27:8-12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sent spoil from the Amalekites to elders in Judah, including places where I and my men had traveled.",
+        "citations": "1 Samuel 30:26-31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I measured Moab with a line, putting two lines to death and one full line to keep alive.",
+        "citations": "2 Samuel 8:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sent Uriah carrying the letter that ordered his own death.",
+        "citations": "2 Samuel 11:14-17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When I finally received Absalom, I kissed him.",
+        "citations": "2 Samuel 14:33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I left ten concubines to care for the house when I fled from my son, and afterward I kept them in a house under guard until the day of their death.",
+        "citations": "2 Samuel 15:16; 2 Samuel 20:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I replaced Joab with Amasa over the army after Absalom's revolt.",
+        "citations": "2 Samuel 19:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Although I swore not to put Shimei to death when he submitted to me, I later told Solomon not to leave him unpunished.",
+        "citations": "2 Samuel 19:18-23; 1 Kings 2:8,9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "To end a famine, I handed over seven descendants of Saul to the Gibeonites.",
+        "citations": "2 Samuel 21:1-9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After Ishbi-benob tried to kill me in battle, my men swore I would no longer go out with them, so that the lamp of Israel might not be extinguished.",
+        "citations": "2 Samuel 21:15-17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I refused to drink water that three mighty men risked their lives to bring from Bethlehem's well, and I poured it out to Jehovah.",
+        "citations": "2 Samuel 23:13-17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sinned by numbering Israel and chose to fall into Jehovah's hand rather than man's.",
+        "citations": "2 Samuel 24:1-14; 1 Chronicles 21:1-13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I bought Araunah's threshing floor because I would not offer Jehovah sacrifices that cost me nothing.",
+        "citations": "2 Samuel 24:18-25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I instructed Solomon to deal wisely with Joab because he had killed Abner and Amasa in peacetime.",
+        "citations": "1 Kings 2:5,6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I gave from my personal treasure for Jehovah's house, and Israel's leaders then offered willingly with me.",
+        "citations": "1 Chronicles 29:1-9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I praised Jehovah for making his people willing to offer for the temple and asked him to preserve that inclination in their hearts.",
+        "citations": "1 Chronicles 29:10-18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I composed a psalm concerning Doeg the Edomite after he told Saul that I had come to Ahimelech.",
+        "citations": "Psalm 52:title",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I composed a psalm in the cave when I fled from Saul.",
+        "citations": "Psalm 57:title",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jesus cited my eating the showbread when answering the Pharisees.",
+        "citations": "Matthew 12:3,4; Mark 2:25,26; Luke 6:3,4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Peter said I was a prophet and knew Jehovah had sworn an oath about placing one of my heirs on my throne.",
+        "citations": "Acts 2:30,31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jesus identified himself as my root and my offspring.",
+        "citations": "Revelation 22:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The letter to the Hebrews names me among those who through faith subdued kingdoms.",
+        "citations": "Hebrews 11:32,33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When Adonijah exalted himself, Bath-sheba and Nathan prompted me to confirm Solomon as king.",
+        "citations": "1 Kings 1:5-35",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Doeg (the Edomite)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was an Edomite servant of Saul.",
+        "citations": "1 Samuel 21:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was detained before Jehovah at Nob when David came to Ahimelech.",
+        "citations": "1 Samuel 21:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Saul that I had seen David come to Ahimelech at Nob.",
+        "citations": "1 Samuel 22:9,10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I reported that Ahimelech gave David provisions and Goliath's sword.",
+        "citations": "1 Samuel 22:9,10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Saul ordered me to assault the priests after his guards refused to do so.",
+        "citations": "1 Samuel 22:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was the chief of Saul's shepherds.",
+        "citations": "1 Samuel 21:7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I killed 85 priests wearing linen ephods.",
+        "citations": "1 Samuel 22:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I struck Nob, the city of priests, with the sword.",
+        "citations": "1 Samuel 22:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was present at Nob before Saul ordered the killing of Ahimelech and the other priests.",
+        "citations": "1 Samuel 21:7; 1 Samuel 22:16-19",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Gad (the prophet)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a prophet who lived around the time of David.",
+        "citations": "1 Samuel 22:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told David not to stay in the stronghold but to go into the land of Judah.",
+        "citations": "1 Samuel 22:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was called David's visionary.",
+        "citations": "2 Samuel 24:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah sent me to give David three options after he numbered Israel.",
+        "citations": "2 Samuel 24:11-13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told David to build an altar to Jehovah on Araunah's threshing floor.",
+        "citations": "2 Samuel 24:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David acted on Jehovah's command that I delivered concerning Araunah's threshing floor.",
+        "citations": "2 Samuel 24:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David chose to fall into Jehovah's hand after I presented him with famine, flight, or pestilence.",
+        "citations": "2 Samuel 24:13,14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The altar I told David to build preceded the end of the scourge against Israel.",
+        "citations": "2 Samuel 24:18-25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told David to leave the stronghold shortly after he escaped to the cave of Adullam.",
+        "citations": "1 Samuel 22:1-5",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Goliath",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a Philistine from Gath.",
+        "citations": "1 Samuel 17:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a champion of the Philistine army.",
+        "citations": "1 Samuel 17:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was six cubits and a span tall.",
+        "citations": "1 Samuel 17:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I wore a coat of mail of copper that weighed 5,000 shekels.",
+        "citations": "1 Samuel 17:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My spear shaft was like the beam of loom workers.",
+        "citations": "1 Samuel 17:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I challenged Israel to send one man to fight me.",
+        "citations": "1 Samuel 17:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I taunted the battle line of Israel for 40 days.",
+        "citations": "1 Samuel 17:16, 26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I cursed David by my gods and promised to give his flesh to birds and beasts.",
+        "citations": "1 Samuel 17:43,44",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David told me that he came against me in the name of Jehovah of armies.",
+        "citations": "1 Samuel 17:45-47",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A stone from David's sling sank into my forehead, and I fell facedown.",
+        "citations": "1 Samuel 17:48,49",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David cut off my head with my own sword after striking me down.",
+        "citations": "1 Samuel 17:50,51",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My sword was wrapped up in a cloth and placed behind an ephod in Nob.",
+        "citations": "1 Samuel 21:8,9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Ahimelech gave David my sword.",
+        "citations": "1 Samuel 21:8,9",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Hiram (king of Tyre)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was king of Tyre.",
+        "citations": "1 Kings 5:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I had always been a friend of David.",
+        "citations": "1 Kings 5:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I rejoiced when I heard Solomon's words and praised Jehovah for giving David a wise son.",
+        "citations": "1 Kings 5:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I agreed to provide cedar and juniper timbers for Solomon.",
+        "citations": "1 Kings 5:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I had my servants make the Lebanon logs into rafts for shipment by sea.",
+        "citations": "1 Kings 5:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Solomon gave my household wheat and fine olive oil year after year.",
+        "citations": "1 Kings 5:10,11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Solomon and I made a treaty, and there was peace between us.",
+        "citations": "1 Kings 5:12",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Hushai",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was an Archite and David's friend.",
+        "citations": "2 Samuel 15:32, 37",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I met David with my robe ripped apart and dirt on my head as he fled Absalom.",
+        "citations": "2 Samuel 15:30-32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David sent me back to Jerusalem to frustrate Ahithophel's advice.",
+        "citations": "2 Samuel 15:33-37",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Absalom that Ahithophel's advice was not good in that instance.",
+        "citations": "2 Samuel 17:5-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I advised Absalom to gather all Israel and lead them into battle himself.",
+        "citations": "2 Samuel 17:8-13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Absalom and the men of Israel chose my advice over Ahithophel's.",
+        "citations": "2 Samuel 17:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I warned David through Zadok and Abiathar not to stay at the fords of the wilderness.",
+        "citations": "2 Samuel 17:15,16",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ish-bosheth",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a son of Saul.",
+        "citations": "2 Samuel 2:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Abner made me king over Israel after Saul died.",
+        "citations": "2 Samuel 2:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was 40 years old when I became king, and I reigned for two years.",
+        "citations": "2 Samuel 2:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I accused Abner of relations with my father's concubine Rizpah.",
+        "citations": "2 Samuel 3:6,7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was afraid to answer Abner after he grew angry at my accusation.",
+        "citations": "2 Samuel 3:8-11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sent for Michal and had her taken from her husband Paltiel.",
+        "citations": "2 Samuel 3:13-16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My courage failed when I heard that Abner had died.",
+        "citations": "2 Samuel 4:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Rechab and Baanah killed me in my bedroom during my midday rest and took my head to David.",
+        "citations": "2 Samuel 4:5-8",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ittai",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a Gittite.",
+        "citations": "2 Samuel 15:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I had come from Gath and was a foreigner and an exile.",
+        "citations": "2 Samuel 15:19,20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told David that wherever he was, whether for death or life, I would be.",
+        "citations": "2 Samuel 15:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I crossed the Kidron Valley with my men and children as David fled Absalom.",
+        "citations": "2 Samuel 15:22,23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David put one third of his army under my command when it went out against Absalom.",
+        "citations": "2 Samuel 18:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David told Joab, Abishai, and me to deal gently with Absalom for his sake.",
+        "citations": "2 Samuel 18:5",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Jesse",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the father of David.",
+        "citations": "1 Samuel 16:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I lived in Bethlehem.",
+        "citations": "1 Samuel 16:1; 1 Samuel 17:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I had eight sons.",
+        "citations": "1 Samuel 16:10,11; 1 Samuel 17:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Samuel came to my house to anoint one of my sons.",
+        "citations": "1 Samuel 16:1-13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent David to the camp with roasted grain, bread, and cheeses.",
+        "citations": "1 Samuel 17:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My three oldest sons followed Saul to war.",
+        "citations": "1 Samuel 17:12-14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Saul accused his servants of siding with my son.",
+        "citations": "1 Samuel 22:7,8",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "name": "Joab",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a son of Zeruiah, David's sister.",
+        "citations": "1 Chronicles 2:13-16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Abishai and Asahel were my brothers.",
+        "citations": "2 Samuel 2:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was over David's army.",
+        "citations": "2 Samuel 8:16; 1 Chronicles 18:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went up first against the Jebusites after David promised command to the first man to strike them.",
+        "citations": "1 Chronicles 11:4-6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I met Abner by the pool of Gibeon, where men from both sides rose up and fought.",
+        "citations": "2 Samuel 2:13-17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After Abner warned that the sword would end in bitterness, I blew the horn and stopped the pursuit.",
+        "citations": "2 Samuel 2:26-28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I confronted David for sending Abner away in peace, saying Abner had come to fool him.",
+        "citations": "2 Samuel 3:23-25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I secretly sent messengers after Abner and brought him back from the cistern of Sirah without David knowing.",
+        "citations": "2 Samuel 3:26,27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I killed Abner in Hebron after he had killed my brother Asahel.",
+        "citations": "2 Samuel 3:26-30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When enemies were positioned in front of me and behind me, I chose Israel's best men to face the Syrians and put Abishai against the Ammonites.",
+        "citations": "2 Samuel 10:9,10; 1 Chronicles 19:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Abishai that we would help each other if either battle line proved too strong.",
+        "citations": "2 Samuel 10:11; 1 Chronicles 19:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I urged Abishai to be strong for our people and the cities of our God, leaving the outcome to Jehovah.",
+        "citations": "2 Samuel 10:12; 1 Chronicles 19:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent Uriah into the fiercest fighting after David sent me a letter by Uriah's own hand.",
+        "citations": "2 Samuel 11:14-17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I captured Rabbah's city of waters and called David to finish the capture so the city would not be called by my name.",
+        "citations": "2 Samuel 12:26-28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw that David's heart was toward Absalom and sent for a wise woman from Tekoa.",
+        "citations": "2 Samuel 14:1-3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The woman from Tekoa admitted that I had urged her and put words in her mouth.",
+        "citations": "2 Samuel 14:18-20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I brought Absalom back from Geshur to Jerusalem, but David would not let him see his face.",
+        "citations": "2 Samuel 14:21-24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Absalom set my barley field on fire after I twice refused to come to him.",
+        "citations": "2 Samuel 14:29-32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David put one third of the army under my command when we went out against Absalom.",
+        "citations": "2 Samuel 18:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I killed Absalom after David had commanded me, Abishai, and Ittai to deal gently with him.",
+        "citations": "2 Samuel 18:5, 10-15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I rebuked David for mourning Absalom so intensely that his servants felt ashamed after saving him.",
+        "citations": "2 Samuel 19:1-8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I took Amasa by the beard as if to kiss him, then stabbed him in the abdomen.",
+        "citations": "2 Samuel 20:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At Abel of Beth-maacah, a wise woman negotiated with me and Sheba's head was thrown over the wall to me.",
+        "citations": "2 Samuel 20:15-22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I objected when David ordered me to count Israel, but the king's word prevailed.",
+        "citations": "2 Samuel 24:2-4; 1 Chronicles 21:2-4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Adonijah consulted me and Abiathar, and we supported him.",
+        "citations": "1 Kings 1:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David ordered me and the people with me to tear our garments, wear sackcloth, and mourn before Abner.",
+        "citations": "2 Samuel 3:31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I refused to let Ahimaaz carry the first news to David after Absalom died, sending the Cushite instead.",
+        "citations": "2 Samuel 18:19-23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Both Absalom and David moved to put Amasa over the army in my place.",
+        "citations": "2 Samuel 17:25; 2 Samuel 19:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I killed Amasa, one of my young men called out that whoever favored me and David should follow me.",
+        "citations": "2 Samuel 20:10-13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I did not include Levi and Benjamin in the count because the king's command was detestable to me.",
+        "citations": "1 Chronicles 21:5,6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I began the census but did not finish it, and the number was not entered in David's records because wrath came against Israel.",
+        "citations": "1 Chronicles 27:24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After David lived in the stronghold, I repaired the rest of the city.",
+        "citations": "1 Chronicles 11:7,8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "At Adonijah's feast, I heard the sound of the horn and asked why the city was in an uproar.",
+        "citations": "1 Kings 1:41",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David told Solomon not to let me go down to the Grave in peace because I had killed Abner and Amasa in peacetime.",
+        "citations": "1 Kings 2:5,6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I followed Adonijah, though I had not followed Absalom, and fled to the tent of Jehovah to hold the horns of the altar.",
+        "citations": "1 Kings 2:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When Benaiah ordered me to come out from the altar, I said I would die there.",
+        "citations": "1 Kings 2:29,30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Benaiah struck me down at the altar, and I was buried at my own house in the wilderness.",
+        "citations": "1 Kings 2:31-34",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The man who killed me was appointed over the army in my place.",
+        "citations": "1 Kings 2:34,35",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Jonathan",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I loved David as I loved myself.",
+        "citations": "1 Samuel 18:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I made a covenant with the house of David.",
+        "citations": "1 Samuel 20:16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I gave David my sleeveless coat, garments, sword, bow, and belt.",
+        "citations": "1 Samuel 18:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was Saul's son, listed among his sons in Samuel and in Benjamin's genealogy.",
+        "citations": "1 Samuel 14:49; 1 Chronicles 8:33; 1 Chronicles 9:39",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I warned David to hide while I spoke with Saul about him.",
+        "citations": "1 Samuel 19:1-3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told my armor-bearer that nothing could prevent Jehovah from saving by many or by few.",
+        "citations": "1 Samuel 14:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I tasted honey with the tip of my staff because I had not heard my father put the army under oath.",
+        "citations": "1 Samuel 14:24-27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "David later looked for someone from Saul's house so he could show loyal love for my sake.",
+        "citations": "2 Samuel 9:1-7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I struck down the Philistine garrison in Geba.",
+        "citations": "1 Samuel 13:3,4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I crossed toward the Philistine outpost with only my armor-bearer, without telling my father.",
+        "citations": "1 Samuel 14:1-3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I treated the Philistines' invitation to come up to them as the sign that Jehovah had given them into Israel's hand.",
+        "citations": "1 Samuel 14:8-12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I climbed up on my hands and feet with my armor-bearer behind me, and we struck down about 20 Philistines.",
+        "citations": "1 Samuel 14:13,14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said my father had brought trouble on the land after the tired troops told me about his oath.",
+        "citations": "1 Samuel 14:28-30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Saul said I should die for tasting honey, but the people rescued me because I had worked with God that day.",
+        "citations": "1 Samuel 14:43-45",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I spoke well of David to Saul, reminding him that David had risked his life and struck down the Philistine.",
+        "citations": "1 Samuel 19:4-7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked David never to withdraw loyal love from my house.",
+        "citations": "1 Samuel 20:14,15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At the New Moon meal, I excused David by saying he had gone to Bethlehem for a family sacrifice.",
+        "citations": "1 Samuel 20:24-29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Saul said David threatened my kingship, and then he hurled a spear at me when I asked why David should die.",
+        "citations": "1 Samuel 20:30-33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I left Saul's table in burning anger and did not eat on the second day of the month because David had been humiliated.",
+        "citations": "1 Samuel 20:34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I used an arrow signal with a boy in a field to let David know whether he was safe.",
+        "citations": "1 Samuel 20:18-23, 35-42",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went to David at Horesh, helped him find strength in Jehovah, and said he would become king while I would become second to him.",
+        "citations": "1 Samuel 23:16-18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Philistines struck me down on Mount Gilboa along with my brothers Abinadab and Malchi-shua.",
+        "citations": "1 Samuel 31:1,2; 1 Chronicles 10:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David mourned me in a dirge and said that my love was more wonderful to him than the love of women.",
+        "citations": "2 Samuel 1:17, 25,26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After news of Saul and me came from Jezreel, my five-year-old son Mephibosheth became crippled as his nurse fled.",
+        "citations": "2 Samuel 4:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Only Saul and I had a sword or spear among the people with us on the day of battle.",
+        "citations": "1 Samuel 13:22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The lot singled me out after Saul asked Jehovah to identify the fault between me and the people.",
+        "citations": "1 Samuel 14:40-42",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David spared my son Mephibosheth because of the oath between David and me before Jehovah.",
+        "citations": "2 Samuel 21:7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Chronicles traces my line through Merib-baal and Micah.",
+        "citations": "1 Chronicles 8:33,34; 1 Chronicles 9:39,40",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David's dirge said that my bow did not turn back from the slain.",
+        "citations": "2 Samuel 1:17, 22",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Kish",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a wealthy man of Benjamin.",
+        "citations": "1 Samuel 9:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was the father of Saul.",
+        "citations": "1 Samuel 9:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I lost donkeys and sent Saul with a servant to find them.",
+        "citations": "1 Samuel 9:3,4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Samuel told Saul that my lost donkeys had been found.",
+        "citations": "1 Samuel 9:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Saul's uncle asked him what the seer had said about my donkeys.",
+        "citations": "1 Samuel 10:14-16",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Mephibosheth",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Jonathan and the grandson of Saul.",
+        "citations": "2 Samuel 9:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My feet were crippled when I fell as my nurse fled after Saul and Jonathan died.",
+        "citations": "2 Samuel 4:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David restored Saul's land to me and had me eat at his table continually.",
+        "citations": "2 Samuel 9:7-13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I lived in Lo-debar with Machir son of Ammiel.",
+        "citations": "2 Samuel 9:3-5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Ziba told David that I had stayed in Jerusalem hoping for Saul's kingdom to be returned to me.",
+        "citations": "2 Samuel 16:1-4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told David that Ziba had tricked and slandered me.",
+        "citations": "2 Samuel 19:24-27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said Ziba could take everything once David had returned in peace.",
+        "citations": "2 Samuel 19:28-30",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Michal",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a daughter of King Saul.",
+        "citations": "1 Samuel 14:49",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was in love with David.",
+        "citations": "1 Samuel 18:20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became David's wife.",
+        "citations": "1 Samuel 18:27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was Saul's younger daughter.",
+        "citations": "1 Samuel 14:49; 1 Samuel 18:17-20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Merab was my older sister.",
+        "citations": "1 Samuel 14:49; 1 Samuel 18:17-20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Saul gave me to David after David brought Philistine foreskins as a bride price.",
+        "citations": "1 Samuel 18:25-27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I warned David that if he did not escape that night, tomorrow he would be a dead man.",
+        "citations": "1 Samuel 19:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I let David down through a window so he could escape.",
+        "citations": "1 Samuel 19:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Saul later gave me, David's wife, to Palti the son of Laish from Gallim.",
+        "citations": "1 Samuel 25:44",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Saul meant to give me to David as a snare so that the Philistines might bring David down.",
+        "citations": "1 Samuel 18:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Saul realized that Jehovah was with David and that I loved him.",
+        "citations": "1 Samuel 18:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I placed a teraphim statue on the bed and covered it with a garment.",
+        "citations": "1 Samuel 19:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I put a net of goat hair at the place of the head on the bed.",
+        "citations": "1 Samuel 19:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When Saul's messengers came for David, I said he was sick.",
+        "citations": "1 Samuel 19:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Saul that David had said, “Send me away, or I will kill you!”",
+        "citations": "1 Samuel 19:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Ish-bosheth took me from my husband Paltiel and sent me back to David.",
+        "citations": "2 Samuel 3:14,15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From a window I saw King David leaping and dancing before Jehovah as the Ark entered the City of David.",
+        "citations": "2 Samuel 6:16; 1 Chronicles 15:29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Paltiel walked with me weeping as far as Bahurim when I was taken back to David.",
+        "citations": "2 Samuel 3:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David demanded that Abner bring me before Abner could see his face.",
+        "citations": "2 Samuel 3:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David reminded Ish-bosheth that he had become engaged to me for 100 foreskins of the Philistines.",
+        "citations": "2 Samuel 3:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I began to despise David in my heart when I saw him dancing before Jehovah.",
+        "citations": "2 Samuel 6:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I came out to meet David and mocked him for uncovering himself before the slave girls of his servants.",
+        "citations": "2 Samuel 6:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David answered me that he had celebrated before Jehovah, who chose him rather than my father and all his household.",
+        "citations": "2 Samuel 6:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David told me he would become even more lightly esteemed for celebrating before Jehovah than he already was.",
+        "citations": "2 Samuel 6:22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I had no child down to the day of my death.",
+        "citations": "2 Samuel 6:23",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Nabal",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the husband of Abigail.",
+        "citations": "1 Samuel 25:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was very wealthy; I had 3,000 sheep and 1,000 goats.",
+        "citations": "1 Samuel 25:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was harsh and bad in my practices.",
+        "citations": "1 Samuel 25:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a man in Maon whose work was in Carmel.",
+        "citations": "1 Samuel 25:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a Calebite.",
+        "citations": "1 Samuel 25:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was shearing my sheep at Carmel when David sent messengers to me.",
+        "citations": "1 Samuel 25:2, 4-9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I screamed insults at David's messengers.",
+        "citations": "1 Samuel 25:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked who David was and who the son of Jesse was.",
+        "citations": "1 Samuel 25:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that nowadays many servants were breaking away from their masters.",
+        "citations": "1 Samuel 25:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I refused to give my bread, water, and meat for my shearers to men whose origin I did not know.",
+        "citations": "1 Samuel 25:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "One of my young men said I was too much of a good-for-nothing fellow to speak to.",
+        "citations": "1 Samuel 25:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I held a feast in my house like the feast of a king.",
+        "citations": "1 Samuel 25:36",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was as drunk as could be when Abigail returned from meeting David.",
+        "citations": "1 Samuel 25:36",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David's men had been a wall around my shepherds by day and by night.",
+        "citations": "1 Samuel 25:15,16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After Abigail told me what she had done, my heart died within me and I became like a stone.",
+        "citations": "1 Samuel 25:37",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "About ten days after my heart died within me, Jehovah struck me and I died.",
+        "citations": "1 Samuel 25:37,38",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David said Jehovah had brought my own badness back on my own head.",
+        "citations": "1 Samuel 25:39",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Nathan (the prophet)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a prophet in the days of David.",
+        "citations": "2 Samuel 7:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah sent me to confront David after his sin involving Bath-sheba.",
+        "citations": "2 Samuel 12:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told David, “You are the man!”",
+        "citations": "2 Samuel 12:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I helped make Solomon king in place of Adonijah.",
+        "citations": "1 Kings 1:11-14, 32-39",
+        "difficulty": "easy"
+      },
+      {
+        "text": "David told me he was dwelling in a house of cedars while the ark of the true God sat among tent cloths.",
+        "citations": "2 Samuel 7:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At first I told David to go and do all that was in his heart, because Jehovah was with him.",
+        "citations": "2 Samuel 7:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah sent me back to David with the message that it is his offspring that will build a house for His name.",
+        "citations": "2 Samuel 7:4,5,12,13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I came to David with a parable about a rich man and a poor man's ewe lamb.",
+        "citations": "2 Samuel 12:1-4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When David said he had sinned against Jehovah, I told him Jehovah had let his sin pass by and he would not die.",
+        "citations": "2 Samuel 12:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I warned Bath-sheba that Adonijah had become king.",
+        "citations": "1 Kings 1:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I accompanied Zadok when he anointed Solomon as king at Gihon.",
+        "citations": "1 Kings 1:38,39",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I announced that Jehovah would make a house for David.",
+        "citations": "2 Samuel 7:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told David that his house and kingdom would be secure forever.",
+        "citations": "2 Samuel 7:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my parable, the poor man's only ewe lamb ate from his morsel and drank from his cup.",
+        "citations": "2 Samuel 12:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David said the man in my parable deserved to die and should repay the ewe lamb four times over.",
+        "citations": "2 Samuel 12:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told David that Jehovah had anointed him king and given him his master's house and wives.",
+        "citations": "2 Samuel 12:7,8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I declared that the sword would not depart from David's house.",
+        "citations": "2 Samuel 12:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told David that because he had treated Jehovah with utter disrespect, the child just born to him would die.",
+        "citations": "2 Samuel 12:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah sent word through me to name Solomon Jedidiah.",
+        "citations": "2 Samuel 12:24,25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Adonijah did not invite me when he sacrificed and claimed the kingship.",
+        "citations": "1 Kings 1:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Bath-sheba that while she was still speaking with David, I would come in and confirm her words.",
+        "citations": "1 Kings 1:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked David whether he himself had said Adonijah would become king after him.",
+        "citations": "1 Kings 1:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David ordered Zadok, Benaiah, and me to put Solomon on the king's she-mule and take him to Gihon.",
+        "citations": "1 Kings 1:32-34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told David that Jehovah had not dwelt in a house from the day He brought Israel out of Egypt, but had walked in a tent and a tabernacle.",
+        "citations": "2 Samuel 7:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told David that when his offspring did wrong, Jehovah would reprove him with the rod of men.",
+        "citations": "2 Samuel 7:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said Jehovah's loyal love would not be taken away from David's offspring as it had been from Saul.",
+        "citations": "2 Samuel 7:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told David that what he had done in secret, Jehovah would do before all Israel and in broad daylight.",
+        "citations": "2 Samuel 12:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After speaking to David, I went to my own house, and Jehovah struck the child so that it became sick.",
+        "citations": "2 Samuel 12:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I bowed with my face to the ground when I came in to speak with King David.",
+        "citations": "1 Kings 1:23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I reported that Adonijah's guests were saying, “Long live King Adonijah!”",
+        "citations": "1 Kings 1:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The acts of David were written in the words of Samuel the seer, of me the prophet, and of Gad the visionary.",
+        "citations": "1 Chronicles 29:29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A record attributed to me included the rest of Solomon's acts.",
+        "citations": "2 Chronicles 9:29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Centuries later, Hezekiah stationed Levite musicians according to the commandment of David, of Gad, and of me; the commandment was from Jehovah through his prophets.",
+        "citations": "2 Chronicles 29:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A psalm of David recalls when I came in to him after he had relations with Bath-sheba.",
+        "citations": "Psalm 51:title",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Queen of Sheba",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I came to test Solomon with perplexing questions.",
+        "citations": "1 Kings 10:1; 2 Chronicles 9:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I heard the report about Solomon in connection with the name of Jehovah.",
+        "citations": "1 Kings 10:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I gave Solomon 120 talents of gold, balsam oil, and precious stones.",
+        "citations": "1 Kings 10:10; 2 Chronicles 9:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I arrived in Jerusalem with a very impressive entourage, with camels carrying balsam oil, gold, and precious stones.",
+        "citations": "1 Kings 10:2; 2 Chronicles 9:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spoke to Solomon about everything that was close to my heart.",
+        "citations": "1 Kings 10:2; 2 Chronicles 9:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Solomon answered all my questions; nothing was too difficult for him to explain to me.",
+        "citations": "1 Kings 10:3; 2 Chronicles 9:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After seeing Solomon's wisdom, his house, his table service, and his burnt sacrifices at Jehovah's house, I was left completely breathless.",
+        "citations": "1 Kings 10:4,5; 2 Chronicles 9:3,4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Solomon I had not put faith in the reports until I saw with my own eyes, and I had not been told the half.",
+        "citations": "1 Kings 10:6,7; 2 Chronicles 9:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said happy are Solomon's men and servants who stand before him constantly, listening to his wisdom.",
+        "citations": "1 Kings 10:8; 2 Chronicles 9:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Never again was such a quantity of balsam oil brought in as what I gave King Solomon.",
+        "citations": "1 Kings 10:10; 2 Chronicles 9:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After Solomon gave me whatever I desired and asked for, I returned to my own land with my servants.",
+        "citations": "1 Kings 10:13; 2 Chronicles 9:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I praised Jehovah for putting Solomon on His throne as king for Jehovah his God, because God loves Israel.",
+        "citations": "2 Chronicles 9:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Solomon gave me whatever I desired and asked for, more than what I had brought to him.",
+        "citations": "2 Chronicles 9:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jesus called me the queen of the south who came from the ends of the earth to hear Solomon's wisdom.",
+        "citations": "Matthew 12:42; Luke 11:31",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Saul",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Kish, a Benjaminite, and God gave me as king when Israel demanded a king.",
+        "citations": "1 Samuel 9:1,2; Acts 13:21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I stood head and shoulders taller than all the people.",
+        "citations": "1 Samuel 9:2; 1 Samuel 10:23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Samuel anointed me with oil as leader over Jehovah's inheritance.",
+        "citations": "1 Samuel 10:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "The people shouted “Long live the king!” when Samuel presented me at Mizpah.",
+        "citations": "1 Samuel 10:24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I rescued Jabesh-gilead from Nahash the Ammonite.",
+        "citations": "1 Samuel 11:1-11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah rejected me from being king because I rejected his word.",
+        "citations": "1 Samuel 15:23, 26",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I repeatedly tried to kill David and became his enemy for the rest of my life.",
+        "citations": "1 Samuel 18:10,11, 29; 1 Samuel 19:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I fell on my own sword on Mount Gilboa after the archers severely wounded me.",
+        "citations": "1 Samuel 31:3,4; 1 Chronicles 10:3,4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My father Kish sent me to look for his lost donkeys, and that journey led me to Samuel.",
+        "citations": "1 Samuel 9:3-14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Jehovah selected me by lot at Mizpah, I was hiding among the luggage.",
+        "citations": "1 Samuel 10:20-22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The spirit of God empowered me, and I began to prophesy among the prophets.",
+        "citations": "1 Samuel 10:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I cut a pair of bulls into pieces and sent them throughout Israel to summon the people.",
+        "citations": "1 Samuel 11:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I offered up the burnt sacrifice at Gilgal before Samuel arrived, and Samuel said I had acted foolishly.",
+        "citations": "1 Samuel 13:8-13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spared Agag the king of Amalek alive, along with the best of the flock and herd.",
+        "citations": "1 Samuel 15:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After Jehovah's spirit departed from me, a bad spirit from Jehovah terrorized me.",
+        "citations": "1 Samuel 16:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "David played the harp for me and became my armor-bearer.",
+        "citations": "1 Samuel 16:21-23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Women sang that I had struck down my thousands, and David his tens of thousands.",
+        "citations": "1 Samuel 18:6-8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I required 100 Philistine foreskins as the bride price for my daughter Michal.",
+        "citations": "1 Samuel 18:25-27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I ordered Doeg the Edomite to assault the priests of Jehovah at Nob.",
+        "citations": "1 Samuel 22:17-19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I consulted a spirit medium at En-dor after Jehovah would no longer answer me.",
+        "citations": "1 Samuel 28:6-8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jonathan, Abinadab, and Malchi-shua, my sons, were struck down with me on Mount Gilboa.",
+        "citations": "1 Samuel 31:2; 1 Chronicles 10:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went home to Gibeah after I was presented as king.",
+        "citations": "1 Samuel 10:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When worthless men despised me and brought no gift, I said nothing about it.",
+        "citations": "1 Samuel 10:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was coming from the field behind the herd when messengers from Jabesh reached Gibeah.",
+        "citations": "1 Samuel 11:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After Jehovah rescued Israel, I refused to put to death the men who had rejected my kingship.",
+        "citations": "1 Samuel 11:12,13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My kingship was reconfirmed before Jehovah at Gilgal.",
+        "citations": "1 Samuel 11:14,15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Samuel said that if I had obeyed, Jehovah would have made my kingdom firm forever, but now it would not last.",
+        "citations": "1 Samuel 13:13,14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "On the day of battle, only Jonathan and I had a sword or spear among the people with us.",
+        "citations": "1 Samuel 13:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I put the people under oath not to eat food until evening, until I had taken vengeance on my enemies.",
+        "citations": "1 Samuel 14:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I built an altar to Jehovah; it was the first altar I built to him.",
+        "citations": "1 Samuel 14:35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jonathan must die for tasting honey, but the people rescued him.",
+        "citations": "1 Samuel 14:43-45",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My wife was Ahinoam the daughter of Ahimaaz.",
+        "citations": "1 Samuel 14:50",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Abner the son of Ner, my uncle's son, was chief of my army.",
+        "citations": "1 Samuel 14:50,51",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I warned the Kenites to leave Amalek because they had shown loyal love to Israel.",
+        "citations": "1 Samuel 15:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After striking Amalek, I went to Carmel and erected a monument for myself.",
+        "citations": "1 Samuel 15:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I grabbed the hem of Samuel's sleeveless coat as he turned to go, and it ripped away.",
+        "citations": "1 Samuel 15:27,28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After confessing I had sinned, I asked Samuel to honor me before the elders of my people.",
+        "citations": "1 Samuel 15:24, 30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Samuel did not see me again until the day of his death, for he went into mourning for me.",
+        "citations": "1 Samuel 15:35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I hurled a spear at David while he played music, trying to pin him to the wall.",
+        "citations": "1 Samuel 18:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I offered my oldest daughter Merab to David as a snare, but she was given to Adriel the Meholathite.",
+        "citations": "1 Samuel 18:17-19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I gave Michal to David intending her to serve as a snare so the Philistines might strike him.",
+        "citations": "1 Samuel 18:20,21, 25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent messengers to watch David's house and kill him in the morning, but Michal let him escape.",
+        "citations": "1 Samuel 19:11,12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At Naioth in Ramah I stripped off my garments and behaved as a prophet before Samuel.",
+        "citations": "1 Samuel 19:23,24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I hurled a spear at Jonathan when he asked why David should die.",
+        "citations": "1 Samuel 20:30-33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sat under the tamarisk tree at Gibeah with my spear in my hand when Doeg reported on Ahimelech.",
+        "citations": "1 Samuel 22:6-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In a cave at En-gedi, David cut off the edge of my sleeveless coat but did not kill me.",
+        "citations": "1 Samuel 24:3-11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wept and told David I knew he would surely rule as king.",
+        "citations": "1 Samuel 24:16-20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "While I slept in the camp, David took the spear stuck in the ground next to my head, and the water jug.",
+        "citations": "1 Samuel 26:7-12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told David I had sinned and acted foolishly after he spared my life again.",
+        "citations": "1 Samuel 26:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I had removed the spirit mediums and the fortune-tellers from the land.",
+        "citations": "1 Samuel 28:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I disguised myself, put on other garments, and went by night to the woman at En-dor.",
+        "citations": "1 Samuel 28:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told that the next day I and my sons would be with “Samuel.”",
+        "citations": "1 Samuel 28:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My armor-bearer refused to run me through, so I fell on my sword myself.",
+        "citations": "1 Samuel 31:4; 1 Chronicles 10:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Philistines put my armor in the house of the Ashtoreth images and fastened my corpse to the wall of Beth-shan.",
+        "citations": "1 Samuel 31:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The warriors of Jabesh-gilead took our bodies from Beth-shan, burned them, and buried our bones under the tamarisk tree in Jabesh.",
+        "citations": "1 Samuel 31:11-13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I later gave Michal, who had been David's wife, to Palti son of Laish.",
+        "citations": "1 Samuel 25:44",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my zeal for Israel and Judah, I sought to strike down the Gibeonites.",
+        "citations": "2 Samuel 21:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "People asked if I was also among the prophets.",
+        "citations": "1 Samuel 10:11,12; 1 Samuel 19:24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When I ate with Samuel, the cook set before me the reserved leg portion among about 30 invited men.",
+        "citations": "1 Samuel 9:22-24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told my uncle that Samuel had said the donkeys were found, but I did not tell him about the kingship.",
+        "citations": "1 Samuel 10:14-16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "God began changing my heart, and all the signs Samuel gave me came true that day.",
+        "citations": "1 Samuel 10:7-9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When I inquired of God about pursuing the Philistines after Jonathan's attack, God did not answer me that day.",
+        "citations": "1 Samuel 14:36,37",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I claimed I had carried out Jehovah's word, but Samuel asked about the sound of the flock in his ears.",
+        "citations": "1 Samuel 15:13,14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said I feared the people and listened to them when I spared what was devoted to destruction.",
+        "citations": "1 Samuel 15:24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Three groups of messengers I sent to seize David at Naioth began behaving as prophets, and then so did I.",
+        "citations": "1 Samuel 19:20-24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Chronicles says I died for my unfaithfulness against Jehovah and for consulting a spirit medium instead of inquiring of Jehovah.",
+        "citations": "1 Chronicles 10:13,14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The Philistines fastened my skull to the house of Dagon.",
+        "citations": "1 Chronicles 10:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David later took my bones and Jonathan's from Jabesh-gilead and buried them in Zela in the tomb of my father Kish.",
+        "citations": "2 Samuel 21:12-14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul said that God gave me to Israel as king for 40 years.",
+        "citations": "Acts 13:21",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Sheba (son of Bichri)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a Benjaminite, the son of Bichri.",
+        "citations": "2 Samuel 20:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Scripture calls me a troublemaker.",
+        "citations": "2 Samuel 20:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I blew the horn and called Israel away from David.",
+        "citations": "2 Samuel 20:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I shouted that we had no share in David and no inheritance in the son of Jesse.",
+        "citations": "2 Samuel 20:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told everyone in Israel to go to his gods.",
+        "citations": "2 Samuel 20:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "All the men of Israel quit following David to follow me.",
+        "citations": "2 Samuel 20:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The men of Judah stuck to David from the Jordan to Jerusalem when Israel followed me.",
+        "citations": "2 Samuel 20:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David feared I might do more harm than Absalom had done.",
+        "citations": "2 Samuel 20:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David ordered that I be chased so I would not find fortified cities and escape.",
+        "citations": "2 Samuel 20:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Joab's men, the Cherethites, the Pelethites, and all the mighty men left Jerusalem to chase me.",
+        "citations": "2 Samuel 20:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I passed through all the tribes of Israel to Abel of Beth-maacah.",
+        "citations": "2 Samuel 20:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Bichrites gathered together and went in after me.",
+        "citations": "2 Samuel 20:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Joab described me as a man from the mountainous region of Ephraim who had rebelled against King David.",
+        "citations": "2 Samuel 20:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Joab besieged me in Abel of Beth-maacah and raised a siege rampart against the city.",
+        "citations": "2 Samuel 20:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Joab told a wise woman that if the city handed me over, he would withdraw.",
+        "citations": "2 Samuel 20:20,21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The people of Abel of Beth-maacah cut off my head and threw it to Joab.",
+        "citations": "2 Samuel 20:21,22",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Shimei (son of Gera)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a Benjaminite, the son of Gera, from Bahurim.",
+        "citations": "2 Samuel 16:5; 2 Samuel 19:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was of the family of Saul's house.",
+        "citations": "2 Samuel 16:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I came out shouting curses at David when he reached Bahurim.",
+        "citations": "2 Samuel 16:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I threw stones at David and at all his servants.",
+        "citations": "2 Samuel 16:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I called David a bloodguilty man and a worthless man.",
+        "citations": "2 Samuel 16:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah had brought back on David all the bloodguilt for the house of Saul.",
+        "citations": "2 Samuel 16:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah was giving the kingship into Absalom's hand.",
+        "citations": "2 Samuel 16:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I walked alongside the mountain abreast of David, shouting curses, throwing stones, and throwing a lot of dust.",
+        "citations": "2 Samuel 16:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Abishai asked to take off my head for cursing King David.",
+        "citations": "2 Samuel 16:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David told his men to leave me alone so that I could curse him.",
+        "citations": "2 Samuel 16:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I hurried down with the men of Judah to meet David when he returned.",
+        "citations": "2 Samuel 19:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A thousand men from Benjamin were with me when I met David at the Jordan.",
+        "citations": "2 Samuel 19:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I fell down before David when he was about to cross the Jordan.",
+        "citations": "2 Samuel 19:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked David not to hold me guilty for the wrong I did the day he left Jerusalem.",
+        "citations": "2 Samuel 19:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I confessed that I had sinned and said I was the first of all the house of Joseph to come down to meet King David.",
+        "citations": "2 Samuel 19:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David swore that I would not die.",
+        "citations": "2 Samuel 19:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David later told Solomon that I had cursed him with a vicious curse on the day he was going to Mahanaim.",
+        "citations": "1 Kings 2:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David told Solomon that when I met him at the Jordan, he had sworn by Jehovah not to put me to death by the sword.",
+        "citations": "1 Kings 2:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David told Solomon not to leave me unpunished and to bring my gray hairs down to the Grave with blood.",
+        "citations": "1 Kings 2:8,9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Solomon ordered me to build a house in Jerusalem and not go out from there to any other place.",
+        "citations": "1 Kings 2:36",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Solomon warned that on the day I crossed the Kidron Valley, I would die.",
+        "citations": "1 Kings 2:37",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I agreed that Solomon's word was fair and stayed in Jerusalem for many days.",
+        "citations": "1 Kings 2:38",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After three years, two of my slaves ran away to Achish the son of Maacah the king of Gath.",
+        "citations": "1 Kings 2:39",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I saddled my donkey and went to Gath to find my slaves, then returned with them.",
+        "citations": "1 Kings 2:40",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Solomon reminded me that I had been put under oath by Jehovah not to go out to any other place.",
+        "citations": "1 Kings 2:42,43",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Solomon said I knew in my heart all the injury I had done to David.",
+        "citations": "1 Kings 2:44",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Benaiah struck me down at Solomon's command, and I died.",
+        "citations": "1 Kings 2:46",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Solomon",
+    "aliases": [
+      "Jedidiah"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of David and Bath-sheba.",
+        "citations": "2 Samuel 12:24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became king over Israel in place of David my father.",
+        "citations": "1 Kings 1:39; 1 Kings 2:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah appeared to me in a dream at Gibeon and told me to ask for what I wanted.",
+        "citations": "1 Kings 3:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I asked Jehovah for an obedient heart to judge His people and discern between good and bad.",
+        "citations": "1 Kings 3:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I ordered a living child cut in two to identify his true mother.",
+        "citations": "1 Kings 3:24-27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I built the house of Jehovah in Jerusalem.",
+        "citations": "1 Kings 6:1,2, 14; 1 Kings 8:20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "The queen of Sheba came to test me with perplexing questions.",
+        "citations": "1 Kings 10:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was greater than all the other kings of the earth in riches and wisdom.",
+        "citations": "1 Kings 10:23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I loved many foreign women besides the daughter of Pharaoh.",
+        "citations": "1 Kings 11:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "In my old age my wives inclined my heart to follow other gods.",
+        "citations": "1 Kings 11:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I composed 3,000 proverbs, and my songs numbered 1,005.",
+        "citations": "1 Kings 4:32",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jesus said that not even I in all my glory was arrayed as one of the lilies of the field.",
+        "citations": "Matthew 6:28,29; Luke 12:27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Judah and Israel dwelt in security throughout my days, each one under his own vine and under his own fig tree.",
+        "citations": "1 Kings 4:25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I made a marriage alliance with Pharaoh king of Egypt and married his daughter.",
+        "citations": "1 Kings 3:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah loved me and sent word through Nathan the prophet to give me a name meaning Beloved of Jehovah.",
+        "citations": "2 Samuel 12:24,25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I rode on King David's mule to Gihon, where Zadok the priest anointed me as king.",
+        "citations": "1 Kings 1:33-39",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Adonijah grabbed the horns of the altar, I said that if he behaved in a worthy manner not a single hair of his would fall to the ground.",
+        "citations": "1 Kings 1:50-53",
+        "difficulty": "medium"
+      },
+      {
+        "text": "David told me to be strong, prove myself a man, and keep Jehovah's commandments in the Law of Moses.",
+        "citations": "1 Kings 2:1-3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I rose to meet my mother Bath-sheba, bowed down to her, and had a throne set for her at my right.",
+        "citations": "1 Kings 2:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I treated Adonijah's request for Abishag the Shunammite as a claim to the kingship.",
+        "citations": "1 Kings 2:21-24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent Benaiah, and he struck Adonijah down.",
+        "citations": "1 Kings 2:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Gibeon I offered 1,000 burnt sacrifices on the altar.",
+        "citations": "1 Kings 3:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I did not ask Jehovah for long life, riches, or the death of my enemies, so He also gave me riches and glory.",
+        "citations": "1 Kings 3:11-13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My wisdom surpassed the wisdom of all the people of the East and all the wisdom of Egypt.",
+        "citations": "1 Kings 4:30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent word to Hiram king of Tyre that I intended to build a house for the name of Jehovah.",
+        "citations": "1 Kings 5:2-5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Hiram and I made a treaty, and there was peace between us.",
+        "citations": "1 Kings 5:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spent seven years building Jehovah's house.",
+        "citations": "1 Kings 6:38",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I brought the ark of the covenant of Jehovah into the Most Holy of the house I built.",
+        "citations": "1 Kings 8:1, 6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I answered all the queen of Sheba's questions; nothing was too difficult for me to explain to her.",
+        "citations": "1 Kings 10:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave the queen of Sheba whatever she desired and asked for, in addition to what I gave her out of my own generosity.",
+        "citations": "1 Kings 10:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I made the silver in Jerusalem as plentiful as the stones.",
+        "citations": "1 Kings 10:27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had 700 wives who were princesses and 300 concubines.",
+        "citations": "1 Kings 11:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I built a high place to Chemosh on the mountain in front of Jerusalem and to Molech.",
+        "citations": "1 Kings 11:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The length of my reign in Jerusalem over all Israel was 40 years.",
+        "citations": "1 Kings 11:42",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah said I would be a man of peace and that I would build a house for His name.",
+        "citations": "1 Chronicles 22:9,10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David prepared materials for Jehovah's house because I was young and inexperienced.",
+        "citations": "1 Chronicles 22:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David gave me the written architectural plan for Jehovah's temple and its service arrangements.",
+        "citations": "1 Chronicles 28:11-19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I drove Abiathar out from serving as a priest of Jehovah and sent him to his fields in Anathoth.",
+        "citations": "1 Kings 2:26,27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When Joab fled to the tent of Jehovah and grabbed the horns of the altar, I ordered Benaiah to strike him down.",
+        "citations": "1 Kings 2:28-34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I appointed Benaiah over the army in Joab's place and Zadok the priest in place of Abiathar.",
+        "citations": "1 Kings 2:35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I confined Shimei to Jerusalem and later had him struck down after he went to Gath.",
+        "citations": "1 Kings 2:36-46",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I gave Hiram 20,000 cor measures of wheat and 20 cor measures of fine olive oil year after year.",
+        "citations": "1 Kings 5:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I conscripted 30,000 men for forced labor and sent them to Lebanon in shifts of 10,000 each month.",
+        "citations": "1 Kings 5:13,14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I built Jehovah's house with prepared quarry stone, so that no hammers or axes or any iron tools were heard while it was being built.",
+        "citations": "1 Kings 6:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my dedication prayer I said that the heavens, yes, the heaven of the heavens, cannot contain Jehovah, much less the house I built.",
+        "citations": "1 Kings 8:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After I finished praying, fire came down from the heavens and consumed the burnt offering and the sacrifices.",
+        "citations": "2 Chronicles 7:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah appeared to me a second time, just as He had appeared to me in Gibeon.",
+        "citations": "1 Kings 9:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I gave Hiram 20 cities in the land of Galilee, but he was not satisfied with them.",
+        "citations": "1 Kings 9:11-13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I made a fleet of ships in Ezion-geber, and with Hiram's seamen I brought gold from Ophir.",
+        "citations": "1 Kings 9:26-28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The weight of the gold that came to me in one year amounted to 666 talents of gold.",
+        "citations": "1 Kings 10:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I made a great ivory throne overlaid with refined gold, with six steps and lions beside the armrests.",
+        "citations": "1 Kings 10:18-20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Once every three years my fleet of ships of Tarshish came loaded with gold and silver, ivory, apes, and peacocks.",
+        "citations": "1 Kings 10:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I would speak about the trees, from the cedar in Lebanon to the hyssop that grows on the wall, and about the animals, the birds, the creeping things, and the fish.",
+        "citations": "1 Kings 4:33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was wiser than Ethan the Ezrahite and Heman, Calcol, and Darda, the sons of Mahol.",
+        "citations": "1 Kings 4:31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The book of Proverbs opens by identifying me as a son of David and king of Israel.",
+        "citations": "Proverbs 1:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The Song of Songs is attributed to me.",
+        "citations": "Song of Solomon 1:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I brought Pharaoh's daughter up from the City of David to her own house because the places to which the Ark of Jehovah had come were holy.",
+        "citations": "2 Chronicles 8:11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah became furious at me because I had inclined away from Him after He had appeared to me twice.",
+        "citations": "1 Kings 11:9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah told me He would rip the kingdom away from me and give it to one of my servants, but not in my lifetime; one tribe He would give to my son.",
+        "citations": "1 Kings 11:11-13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When I saw that Jeroboam was a hard worker, I made him overseer over all the compulsory service of the house of Joseph.",
+        "citations": "1 Kings 11:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I tried to put Jeroboam to death, but he fled to Egypt, to Shishak the king of Egypt.",
+        "citations": "1 Kings 11:40",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Nehemiah said that among the many nations there was no king like me, and that I was loved by my God, but foreign wives caused even me to sin.",
+        "citations": "Nehemiah 13:26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jesus said the queen of the south came from the ends of the earth to hear my wisdom, yet something more than me was there.",
+        "citations": "Matthew 12:42; Luke 11:31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Matthew records that David became father to me by the wife of Uriah.",
+        "citations": "Matthew 1:6",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Tamar (daughter of David)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a daughter of David.",
+        "citations": "2 Samuel 13:1; 1 Chronicles 3:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Absalom was my brother.",
+        "citations": "2 Samuel 13:1, 20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Amnon, David's son, fell in love with me.",
+        "citations": "2 Samuel 13:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a virgin, and Amnon became sick with distress over me.",
+        "citations": "2 Samuel 13:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "David sent me to Amnon's house to prepare food for him.",
+        "citations": "2 Samuel 13:7,8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I kneaded dough into cakes before Amnon's eyes and cooked them.",
+        "citations": "2 Samuel 13:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Amnon asked me to bring the food into the bedroom so he could eat from my hand.",
+        "citations": "2 Samuel 13:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Amnon grabbed me, I pleaded with him not to humiliate me.",
+        "citations": "2 Samuel 13:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Amnon grabbed me, I told him not to humiliate me, for such a thing is not done in Israel.",
+        "citations": "2 Samuel 13:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked Amnon how I could live down my shame.",
+        "citations": "2 Samuel 13:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I urged Amnon to speak to the king my father, saying he would not withhold me from him.",
+        "citations": "2 Samuel 13:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Amnon overpowered me and humiliated me by raping me.",
+        "citations": "2 Samuel 13:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Afterward Amnon's hatred for me became greater than the love he had felt for me.",
+        "citations": "2 Samuel 13:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When Amnon told me to get up and go away, I said sending me away was worse than what he had done with me.",
+        "citations": "2 Samuel 13:15,16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Amnon's attendant led me outside and locked the door behind me.",
+        "citations": "2 Samuel 13:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was wearing a special robe, the garment that the virgin daughters of King David wore.",
+        "citations": "2 Samuel 13:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I put ashes on my head, ripped apart my fine robe, kept my hands on my head, and walked off crying out.",
+        "citations": "2 Samuel 13:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Absalom told me to keep silent and not let my heart dwell on the matter, because Amnon was my brother.",
+        "citations": "2 Samuel 13:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After Amnon humiliated me, I lived in isolation at Absalom's house.",
+        "citations": "2 Samuel 13:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Absalom hated Amnon because he had humiliated me.",
+        "citations": "2 Samuel 13:22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Two years later Absalom's attendants killed Amnon because of what he had done to me.",
+        "citations": "2 Samuel 13:28-32",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Uriah (the Hittite)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a Hittite.",
+        "citations": "2 Samuel 11:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Bath-sheba was my wife.",
+        "citations": "2 Samuel 11:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was listed among David's mighty warriors.",
+        "citations": "2 Samuel 23:39",
+        "difficulty": "easy"
+      },
+      {
+        "text": "David sent for me while Joab's army was besieging Rabbah.",
+        "citations": "2 Samuel 11:1, 6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "David asked me how Joab, the troops, and the war were getting along.",
+        "citations": "2 Samuel 11:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "David told me to go down to my house and relax.",
+        "citations": "2 Samuel 11:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I slept at the entrance of King David's house with the other servants and did not go down to my own house.",
+        "citations": "2 Samuel 11:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When David asked why I had not gone home, I answered that the Ark and Israel and Judah were dwelling in temporary shelters.",
+        "citations": "2 Samuel 11:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said my lord Joab and the servants of my lord were camping in the open field.",
+        "citations": "2 Samuel 11:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I refused to go into my house to eat and drink and lie down with my wife.",
+        "citations": "2 Samuel 11:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I swore I would not do that thing as surely as David lived.",
+        "citations": "2 Samuel 11:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David told me to stay another day, and I stayed in Jerusalem that day and the following day.",
+        "citations": "2 Samuel 11:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David had me eat and drink with him and got me drunk, but that evening I still slept with the servants and did not go down to my house.",
+        "citations": "2 Samuel 11:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David wrote a letter to Joab and sent it by my hand.",
+        "citations": "2 Samuel 11:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David's letter told Joab to put me in the front lines where the fighting was fiercest and then retreat from behind me.",
+        "citations": "2 Samuel 11:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Joab stationed me where he knew there were mighty warriors.",
+        "citations": "2 Samuel 11:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I died among David's servants when the men of the city came out and fought against Joab.",
+        "citations": "2 Samuel 11:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah later told David through Nathan that he had taken my wife.",
+        "citations": "2 Samuel 12:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah said David had killed me by the sword of the Ammonites.",
+        "citations": "2 Samuel 12:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My wife mourned me when she heard that I had died.",
+        "citations": "2 Samuel 11:26",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Zadok (the priest)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a priest who served with David.",
+        "citations": "2 Samuel 8:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Ahimaaz was my son.",
+        "citations": "2 Samuel 15:27, 36; 1 Chronicles 6:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I took the horn of oil out of the tent and anointed Solomon.",
+        "citations": "1 Kings 1:39",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a son of Ahitub.",
+        "citations": "2 Samuel 8:17; 1 Chronicles 6:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I descended from Aaron through Eleazar.",
+        "citations": "1 Chronicles 6:3-8, 50-53",
+        "difficulty": "medium"
+      },
+      {
+        "text": "As a mighty and courageous young man, I came to David at Hebron with 22 chiefs from my paternal house.",
+        "citations": "1 Chronicles 12:27,28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "David called Abiathar and me when the Ark was brought up.",
+        "citations": "1 Chronicles 15:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After the Ark came to Jerusalem, I and my fellow priests served before the tabernacle of Jehovah on the high place at Gibeon.",
+        "citations": "1 Chronicles 16:39,40",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Gibeon we offered burnt offerings to Jehovah regularly on the altar of burnt offering, morning and evening.",
+        "citations": "1 Chronicles 16:39,40",
+        "difficulty": "medium"
+      },
+      {
+        "text": "During Absalom's revolt I was there with the Levites carrying the ark of the covenant of the true God.",
+        "citations": "2 Samuel 15:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David told me to take the Ark of the true God back to the city.",
+        "citations": "2 Samuel 15:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David called me a seer and told me to return to the city in peace.",
+        "citations": "2 Samuel 15:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David told me to take my son Ahimaaz and Jonathan the son of Abiathar with me.",
+        "citations": "2 Samuel 15:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Abiathar and I took the Ark of the true God back to Jerusalem and remained there.",
+        "citations": "2 Samuel 15:29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David said Hushai must tell Abiathar and me everything he heard from the palace.",
+        "citations": "2 Samuel 15:35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Hushai told Abiathar and me Ahithophel's advice and his own advice, and said to warn David quickly.",
+        "citations": "2 Samuel 17:15,16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David sent a message to Abiathar and me to speak to the elders of Judah about bringing him back as king.",
+        "citations": "2 Samuel 19:11,12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Along with Ahimelech from the sons of Ithamar, I helped David make divisions of the priests for their service.",
+        "citations": "1 Chronicles 24:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was listed as leader of Aaron among the tribal leaders under David.",
+        "citations": "1 Chronicles 27:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I did not support Adonijah when he tried to become king.",
+        "citations": "1 Kings 1:7,8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "David called Nathan, Benaiah, and me and ordered that Solomon ride on the king's mule down to Gihon.",
+        "citations": "1 Kings 1:32,33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "David said Nathan and I would anoint Solomon as king over Israel at Gihon.",
+        "citations": "1 Kings 1:34",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Nathan, Benaiah, the Cherethites, the Pelethites, and I brought Solomon to Gihon on David's mule.",
+        "citations": "1 Kings 1:38",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After Solomon became king, he appointed me priest in place of Abiathar.",
+        "citations": "1 Kings 2:35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When Solomon was made king a second time, I was also anointed as priest.",
+        "citations": "1 Chronicles 29:22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Under Solomon, my son Azariah was listed as the priest among the high officials.",
+        "citations": "1 Kings 4:2",
+        "difficulty": "nightmare"
+      }
+    ]
+  }
+]

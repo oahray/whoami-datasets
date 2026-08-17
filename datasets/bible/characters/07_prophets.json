@@ -1,0 +1,3402 @@
+[
+  {
+    "name": "Amaziah (priest of Bethel)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the priest of Bethel.",
+        "citations": "Amos 7:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I sent a message to King Jeroboam of Israel about Amos.",
+        "citations": "Amos 7:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told Amos to run away to the land of Judah.",
+        "citations": "Amos 7:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told Amos he must no longer prophesy at Bethel.",
+        "citations": "Amos 7:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Amos was conspiring against Jeroboam in the midst of the house of Israel.",
+        "citations": "Amos 7:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said the land could not put up with all of Amos's words.",
+        "citations": "Amos 7:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I reported that Amos said Jeroboam would die by the sword.",
+        "citations": "Amos 7:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I reported that Amos said Israel would surely go into exile from its land.",
+        "citations": "Amos 7:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I called Amos a visionary and told him to earn his bread in Judah.",
+        "citations": "Amos 7:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Bethel was the sanctuary of a king and the house of a kingdom.",
+        "citations": "Amos 7:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Amos answered me that he was not a prophet nor the son of a prophet.",
+        "citations": "Amos 7:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Amos told me Jehovah took him from following the flock to prophesy to Israel.",
+        "citations": "Amos 7:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah's word through Amos said my wife would become a prostitute in the city.",
+        "citations": "Amos 7:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah's word through Amos said my sons and daughters would fall by the sword.",
+        "citations": "Amos 7:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I tried to send away a Judean visionary at Bethel's royal sanctuary.",
+        "citations": "Amos 7:12,13; Amos 1:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I heard that I would die in an unclean land while Israel went into exile.",
+        "citations": "Amos 7:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I reported to Jeroboam that Amos was conspiring against him, then forbade prophesying against the house of Isaac.",
+        "citations": "Amos 7:10, 13, 16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I ordered Amos to stop prophesying at Bethel, Jehovah said my land would be apportioned with a measuring line.",
+        "citations": "Amos 7:13, 17",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Amos",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was among the sheep raisers from Tekoa.",
+        "citations": "Amos 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah took me from following the flock and told me to prophesy to Israel.",
+        "citations": "Amos 7:15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a herdsman and took care of sycamore fig trees.",
+        "citations": "Amos 7:14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Amaziah the priest of Bethel told me to run away to Judah.",
+        "citations": "Amos 7:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said I was not a prophet nor the son of a prophet.",
+        "citations": "Amos 7:14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah showed me a basket of summer fruit.",
+        "citations": "Amos 8:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My words concerned Israel in the days of Uzziah of Judah and Jeroboam son of Joash of Israel.",
+        "citations": "Amos 1:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I received my message two years before the earthquake.",
+        "citations": "Amos 1:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jehovah will roar out of Zion and raise his voice out of Jerusalem.",
+        "citations": "Amos 1:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Jehovah showed me a locust swarm, I pleaded for Jacob, and Jehovah reconsidered.",
+        "citations": "Amos 7:1-3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Jehovah showed me fire consuming the land, I pleaded again, and he reconsidered.",
+        "citations": "Amos 7:4-6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah showed me a plumb line among his people Israel.",
+        "citations": "Amos 7:7,8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Amaziah told King Jeroboam that I was conspiring against him.",
+        "citations": "Amos 7:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Amaziah said Bethel was the sanctuary of a king and I must not prophesy there.",
+        "citations": "Amos 7:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After the plumb line, Jehovah told me he would no longer pardon his people Israel.",
+        "citations": "Amos 7:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I announced that the high places of Isaac would be desolated.",
+        "citations": "Amos 7:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Amaziah Jehovah said his wife would become a prostitute in the city.",
+        "citations": "Amos 7:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At the summer-fruit vision Jehovah said, “The end has come for my people Israel.”",
+        "citations": "Amos 8:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I declared a famine, not for bread or water, but for hearing the words of Jehovah.",
+        "citations": "Amos 8:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw Jehovah stationed above the altar and heard him say to strike the pillar.",
+        "citations": "Amos 9:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prophesied Jehovah would raise up the fallen booth of David.",
+        "citations": "Amos 9:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Zechariah later recalled the earthquake in Uzziah's days that dated my words.",
+        "citations": "Amos 1:1; Zechariah 14:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From Tekoa's flocks I was sent to Israel; at Bethel Amaziah tried to send me back to Judah.",
+        "citations": "Amos 1:1; Amos 7:12-15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Twice Jehovah reconsidered judgment when I pleaded for weak Jacob, then set a plumb line and stopped pardoning.",
+        "citations": "Amos 7:1-8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I faced Amaziah's ban at Bethel's royal sanctuary and answered with Jehovah's exile word on his house and on Israel.",
+        "citations": "Amos 7:13, 17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After summer fruit marked Israel's end, I foresaw people roving sea to sea seeking Jehovah's word and not finding it.",
+        "citations": "Amos 8:2, 11,12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "James in Jerusalem cited my word about rebuilding David's booth among the nations.",
+        "citations": "Amos 9:11,12; Acts 15:15-17",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ezekiel",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was among the exiled people by the river Chebar.",
+        "citations": "Ezekiel 1:1, 3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I saw visions of God.",
+        "citations": "Ezekiel 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the son of Buzi the priest.",
+        "citations": "Ezekiel 1:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah appointed me as a watchman to the house of Israel.",
+        "citations": "Ezekiel 3:17; Ezekiel 33:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I ate a scroll, and it was as sweet as honey in my mouth.",
+        "citations": "Ezekiel 3:1-3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I engraved Jerusalem on a brick and laid siege to it.",
+        "citations": "Ezekiel 4:1-3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My wife died, and I did not observe mourning rites as commanded.",
+        "citations": "Ezekiel 24:16-18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "In a valley full of dry bones, I prophesied and they came to life.",
+        "citations": "Ezekiel 37:1-10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I saw the glory of Jehovah and fell facedown.",
+        "citations": "Ezekiel 1:28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I prophesied against Gog of the land of Magog.",
+        "citations": "Ezekiel 38:2,3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My call came in the fifth year of the exile of King Jehoiachin.",
+        "citations": "Ezekiel 1:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was in the land of the Chaldeans by the river Chebar.",
+        "citations": "Ezekiel 1:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw four living creatures, each with four faces and four wings.",
+        "citations": "Ezekiel 1:5,6, 10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw wheels within wheels, their rims full of eyes.",
+        "citations": "Ezekiel 1:15-18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Above the expanse I saw the likeness of a throne like sapphire.",
+        "citations": "Ezekiel 1:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah made my forehead like a diamond, harder than flint.",
+        "citations": "Ezekiel 3:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went to the exiles at Tel-abib by the river Chebar.",
+        "citations": "Ezekiel 3:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In a dazed condition I stayed among them for seven days.",
+        "citations": "Ezekiel 3:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I lay on my left side 390 days for the guilt of Israel.",
+        "citations": "Ezekiel 4:4,5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I lay on my right side 40 days for the guilt of Judah.",
+        "citations": "Ezekiel 4:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I baked my bread over cattle manure instead of human excrement.",
+        "citations": "Ezekiel 4:12-15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I shaved my head and beard with a sharp sword used as a razor.",
+        "citations": "Ezekiel 5:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I weighed my hair into thirds for fire, sword, and wind.",
+        "citations": "Ezekiel 5:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I packed luggage for exile and bore a hole through a wall by hand.",
+        "citations": "Ezekiel 12:3-7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I carried my belongings on my shoulder in the darkness as a sign.",
+        "citations": "Ezekiel 12:6,7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I ate my bread with trembling and drank water with agitation.",
+        "citations": "Ezekiel 12:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah said in a single blow he would take away my dear one.",
+        "citations": "Ezekiel 24:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spoke to the people in the morning, and my wife died in the evening.",
+        "citations": "Ezekiel 24:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah said I had become a sign for them.",
+        "citations": "Ezekiel 24:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I took two sticks, for Judah and for Joseph, and joined them as one.",
+        "citations": "Ezekiel 37:16,17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A man who escaped from Jerusalem told me the city had been struck down.",
+        "citations": "Ezekiel 33:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah opened my mouth, and I was no longer speechless.",
+        "citations": "Ezekiel 24:27; Ezekiel 33:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw a temple vision in which a man whose appearance was like copper measured the structure.",
+        "citations": "Ezekiel 40:3-5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah promised through me to give a new heart and put a new spirit within his people.",
+        "citations": "Ezekiel 36:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sat in my house with the elders of Judah before me when Jehovah's hand fell upon me.",
+        "citations": "Ezekiel 8:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Spirit brought me back to the exiles in Chaldea, and I told them everything Jehovah had shown me.",
+        "citations": "Ezekiel 11:24,25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah had me set an iron griddle as an iron wall between me and the city.",
+        "citations": "Ezekiel 4:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah said that if I failed to warn the wicked, their blood would be on me.",
+        "citations": "Ezekiel 3:18-20; Ezekiel 33:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah asked me if those bones could live, and I answered that he was the One who knew.",
+        "citations": "Ezekiel 37:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw the glory of Jehovah enter the temple by way of the gate that faces east.",
+        "citations": "Ezekiel 43:1-5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw a scroll written on the front and on the back with dirges, moaning, and wailing.",
+        "citations": "Ezekiel 2:9,10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In the 30th year, on the fifth day of the fourth month, the heavens were opened to me.",
+        "citations": "Ezekiel 1:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The hand of Jehovah came upon me there by Chebar.",
+        "citations": "Ezekiel 1:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Spirit entered me and made me stand up on my feet.",
+        "citations": "Ezekiel 2:1,2; Ezekiel 3:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said my tongue would stick to the roof of my mouth until he opened it.",
+        "citations": "Ezekiel 3:26,27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I protested that from my youth no unclean meat had entered my mouth.",
+        "citations": "Ezekiel 4:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrapped a few strands of hair in the folds of my garment.",
+        "citations": "Ezekiel 5:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Spirit lifted me between the earth and the heavens and brought me to Jerusalem in visions.",
+        "citations": "Ezekiel 8:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I dug through a wall and saw detestable things practiced in the temple.",
+        "citations": "Ezekiel 8:7-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw a man in linen mark the foreheads of those sighing over the detestable things.",
+        "citations": "Ezekiel 9:3,4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw the glory of Jehovah depart from over the threshold of Jehovah's house.",
+        "citations": "Ezekiel 10:4, 18,19; Ezekiel 11:22,23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me not to cover over the mustache or eat bread brought by others when my wife died.",
+        "citations": "Ezekiel 24:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prophesied to the wind, and breath entered the slain so they stood as a large army.",
+        "citations": "Ezekiel 37:9,10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the bones are the whole house of Israel.",
+        "citations": "Ezekiel 37:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said my people treat me like a romantic love song; they hear but do not act.",
+        "citations": "Ezekiel 33:30-32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In the 12th year of our exile, in the tenth month, the escaped man reached me.",
+        "citations": "Ezekiel 33:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my vision a man with the appearance of copper held a linen cord and a measuring reed.",
+        "citations": "Ezekiel 40:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw water going out from under the threshold of the temple toward the east.",
+        "citations": "Ezekiel 47:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prophesied that Jehovah's servant David would be their king and one shepherd.",
+        "citations": "Ezekiel 37:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah set me down in the middle of a valley plain full of very dry bones.",
+        "citations": "Ezekiel 37:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw women sitting and weeping over Tammuz.",
+        "citations": "Ezekiel 8:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw about 25 men with their backs to Jehovah's temple, worshiping the sun.",
+        "citations": "Ezekiel 8:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "While I was prophesying, Pelatiah the son of Benaiah died, and I fell facedown and cried out.",
+        "citations": "Ezekiel 11:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went in the heat of my spirit, with Jehovah's hand strong upon me.",
+        "citations": "Ezekiel 3:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my vision the temple stream rose until there was enough water to swim in.",
+        "citations": "Ezekiel 47:3-5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Elders of Israel sat before me to inquire of Jehovah.",
+        "citations": "Ezekiel 14:1; Ezekiel 20:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me to groan with bitter grief before their eyes.",
+        "citations": "Ezekiel 21:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told to recite a proverb about a cooking pot set on the fire for the rebellious house.",
+        "citations": "Ezekiel 24:3-5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prophesied as I was commanded, and as I prophesied there was a noise and bones began to come together.",
+        "citations": "Ezekiel 37:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I lived among the Tel-abib exiles as a mute watchman.",
+        "citations": "Ezekiel 3:15, 26,27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The morning I taught the people, my wife died that evening; I groaned in silence as a sign of the sanctuary's fall.",
+        "citations": "Ezekiel 24:16-24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My mouth was opened the evening before an escapee arrived to report Jerusalem's fall.",
+        "citations": "Ezekiel 24:27; Ezekiel 33:21,22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "From living creatures by Chebar to glory departing Jehovah's house, my visions tracked Jehovah's judgment.",
+        "citations": "Ezekiel 1:4-28; Ezekiel 10:18,19; Ezekiel 11:22,23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah said he was not sending me to a people of unintelligible speech.",
+        "citations": "Ezekiel 3:5,6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In my vision the name of the city from that day was Jehovah Is There.",
+        "citations": "Ezekiel 48:35",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Gomer",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I conceived and bore Hosea a son.",
+        "citations": "Hosea 1:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told Hosea to marry a woman of prostitution, and he married me.",
+        "citations": "Hosea 1:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I conceived again after my first son and gave birth to a daughter.",
+        "citations": "Hosea 1:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My son was named Jezreel.",
+        "citations": "Hosea 1:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My daughter was named Lo-ruhamah.",
+        "citations": "Hosea 1:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I weaned Lo-ruhamah, I conceived and gave birth to a son.",
+        "citations": "Hosea 1:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My second son was named Lo-ammi.",
+        "citations": "Hosea 1:8,9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah linked my son Jezreel's name to an accounting against the house of Jehu.",
+        "citations": "Hosea 1:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was the daughter of Diblaim.",
+        "citations": "Hosea 1:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I bore Jezreel, Lo-ruhamah, and Lo-ammi in turn, weaning one daughter between the births.",
+        "citations": "Hosea 1:3,4, 6, 8,9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My children's names marked mercy withdrawn and “not my people,” while Jezreel named bloodshed's accounting.",
+        "citations": "Hosea 1:4, 6, 9",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Habakkuk",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a prophet who received a pronouncement in a vision.",
+        "citations": "Habakkuk 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I asked, “How long, O Jehovah, must I cry for help, but you do not hear?”",
+        "citations": "Habakkuk 1:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I stationed myself on the rampart to keep watch.",
+        "citations": "Habakkuk 2:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah told me the righteous one will live by his faithfulness.",
+        "citations": "Habakkuk 2:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said that even if the fig tree does not blossom, I will exult in Jehovah.",
+        "citations": "Habakkuk 3:17,18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I asked why Jehovah made me witness wrongdoing and tolerate oppression.",
+        "citations": "Habakkuk 1:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah told me he was raising up the Chaldeans, a ruthless nation.",
+        "citations": "Habakkuk 1:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jehovah's eyes are too pure to look on what is evil.",
+        "citations": "Habakkuk 1:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked why Jehovah keeps silent when a wicked man swallows someone more righteous.",
+        "citations": "Habakkuk 1:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah told me to write down the vision and inscribe it clearly on tablets.",
+        "citations": "Habakkuk 2:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah told me that even if the vision delays, keep in expectation of it.",
+        "citations": "Habakkuk 2:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I prayed a prayer in dirges.",
+        "citations": "Habakkuk 3:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I pictured the Chaldean hauling nations with a fishhook and dragnet.",
+        "citations": "Habakkuk 1:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked whether he would keep emptying his dragnet, slaughtering nations without compassion.",
+        "citations": "Habakkuk 1:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I stood at my guardpost to see what Jehovah would speak by means of me.",
+        "citations": "Habakkuk 2:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Woe oracles I recorded include building a city by bloodshed.",
+        "citations": "Habakkuk 2:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote that the earth will be filled with the knowledge of Jehovah's glory as waters cover the sea.",
+        "citations": "Habakkuk 2:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah is in his holy temple; be silent before him, all the earth.",
+        "citations": "Habakkuk 2:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I trembled within and quietly waited for the day of distress.",
+        "citations": "Habakkuk 3:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the Sovereign Lord Jehovah would make my feet like those of a deer.",
+        "citations": "Habakkuk 3:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I cried over unchecked violence, then wrestled with Jehovah using the Chaldeans as his tool.",
+        "citations": "Habakkuk 1:2-4, 6, 12,13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "From the rampart I was told to write a vision that would not lie, and that the righteous live by faithfulness.",
+        "citations": "Habakkuk 2:1-4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I recorded five woes against the plunderer.",
+        "citations": "Habakkuk 2:6-19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Though flock and fields fail, I vowed joy in the God of my salvation and deer-like tread on high places.",
+        "citations": "Habakkuk 3:17-19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul and others cited my line that the righteous one will live by faithfulness.",
+        "citations": "Habakkuk 2:4; Romans 1:17; Galatians 3:11; Hebrews 10:38",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Haggai",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a prophet who spoke Jehovah's word to Zerubbabel and Joshua.",
+        "citations": "Haggai 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I asked if it was time to dwell in paneled houses while Jehovah's house lay in ruins.",
+        "citations": "Haggai 1:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "The people listened to me and began to show fear because of Jehovah.",
+        "citations": "Haggai 1:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I delivered Jehovah's message to the people: “I am with you people.”",
+        "citations": "Haggai 1:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "With Zechariah I prophesied, and the Jews resumed building God's house.",
+        "citations": "Ezra 5:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told the people to go up to the mountain, bring lumber, and build Jehovah's house.",
+        "citations": "Haggai 1:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah stirred up Zerubbabel, Joshua, and the people after my message, and they began to work.",
+        "citations": "Haggai 1:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked who among the remnant had seen Jehovah's house in its former glory.",
+        "citations": "Haggai 2:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Zerubbabel, Joshua, and the people to be strong and work.",
+        "citations": "Haggai 2:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said the future glory of this house would be greater than the former.",
+        "citations": "Haggai 2:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said they had sown much but harvested little, and wages went into a bag full of holes.",
+        "citations": "Haggai 1:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After my message, work on Jehovah's house restarted on the 24th day of the sixth month in Darius's second year.",
+        "citations": "Haggai 1:14,15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah would shake the heavens and the earth and the sea and the dry land.",
+        "citations": "Haggai 2:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked the priests whether holiness transfers by touch, and whether uncleanness does.",
+        "citations": "Haggai 2:11-13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From the day the temple foundation was laid, I announced Jehovah would send a blessing.",
+        "citations": "Haggai 2:18,19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Zerubbabel Jehovah would make him like a seal ring.",
+        "citations": "Haggai 2:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Ezra records that through Zechariah and me the elders prospered until Jehovah's house was finished.",
+        "citations": "Ezra 6:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I rebuked paneled houses beside a ruined temple, then Jehovah stirred leaders and people to rebuild.",
+        "citations": "Haggai 1:4, 14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In Darius's second year I moved them from “not yet time” to foundation-day blessing.",
+        "citations": "Haggai 1:2; Haggai 2:18,19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Hebrews recalls my word that Jehovah would shake not only the earth but also the heaven.",
+        "citations": "Haggai 2:6; Hebrews 12:26",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Hananiah (false prophet)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a prophet who opposed Jeremiah in the house of Jehovah.",
+        "citations": "Jeremiah 28:1, 5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I broke the yoke bar off Jeremiah's neck.",
+        "citations": "Jeremiah 28:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Jehovah would break the yoke of the king of Babylon.",
+        "citations": "Jeremiah 28:2, 11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I died in the same year I prophesied, in the seventh month.",
+        "citations": "Jeremiah 28:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the son of Azzur from Gibeon.",
+        "citations": "Jeremiah 28:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spoke in the beginning of Zedekiah's reign, in the fourth year, in the fifth month.",
+        "citations": "Jeremiah 28:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said within two years Jehovah would bring back the temple utensils from Babylon.",
+        "citations": "Jeremiah 28:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jeconiah and all the exiles of Judah would return within two years.",
+        "citations": "Jeremiah 28:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jeremiah said “Amen” to my peace words, then warned that only fulfillment proves a peace prophet.",
+        "citations": "Jeremiah 28:6-9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spoke before the priests and all the people in Jehovah's house.",
+        "citations": "Jeremiah 28:1, 5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After I broke the wooden yoke, Jehovah said iron yoke bars would replace it.",
+        "citations": "Jeremiah 28:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jeremiah told me Jehovah had not sent me, and I had caused the people to trust in a lie.",
+        "citations": "Jeremiah 28:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jeremiah said I would die that year for urging rebellion against Jehovah.",
+        "citations": "Jeremiah 28:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I claimed that as I broke the yoke bar, Jehovah would break Nebuchadnezzar's yoke from all the nations within two years.",
+        "citations": "Jeremiah 28:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From Gibeon I promised a two-year end to Babylon's yoke.",
+        "citations": "Jeremiah 28:1, 3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I predicted that the temple vessels and Jeconiah would return.",
+        "citations": "Jeremiah 28:3,4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "For urging rebellion, Jehovah sentenced me to die that year, and I died in the seventh month.",
+        "citations": "Jeremiah 28:13-17",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Hosea",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Beeri.",
+        "citations": "Hosea 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah told me to marry a woman of prostitution.",
+        "citations": "Hosea 1:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I married Gomer the daughter of Diblaim.",
+        "citations": "Hosea 1:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Gomer bore me a son.",
+        "citations": "Hosea 1:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah told me to name my son Jezreel.",
+        "citations": "Hosea 1:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah told me again to love an adulterous woman.",
+        "citations": "Hosea 3:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I purchased her for myself.",
+        "citations": "Hosea 3:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I prophesied during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah.",
+        "citations": "Hosea 1:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My ministry also fell in the days of Jeroboam son of Joash, king of Israel.",
+        "citations": "Hosea 1:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah told me the land had turned away from him by prostitution.",
+        "citations": "Hosea 1:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah told me Jezreel's name pointed to an accounting against Jehu's house.",
+        "citations": "Hosea 1:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah told me he would break Israel's bow in the Valley of Jezreel.",
+        "citations": "Hosea 1:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah told me to name Gomer's daughter Lo-ruhamah.",
+        "citations": "Hosea 1:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah told me to name her next son Lo-ammi.",
+        "citations": "Hosea 1:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I paid 15 silver pieces and a homer and a half of barley for her.",
+        "citations": "Hosea 3:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told her she must remain mine and not commit prostitution.",
+        "citations": "Hosea 3:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jehovah delights in loyal love, not in sacrifice.",
+        "citations": "Hosea 6:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah told me Lo-ruhamah meant he would no longer show mercy to Israel's house.",
+        "citations": "Hosea 1:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me he would still show mercy to Judah's house.",
+        "citations": "Hosea 1:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said Lo-ammi meant “you are not my people.”",
+        "citations": "Hosea 1:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Israel would dwell long without king, prince, sacrifice, pillar, ephod, or teraphim.",
+        "citations": "Hosea 3:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Israel would afterward look for Jehovah and for David their king.",
+        "citations": "Hosea 3:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I announced Jehovah's legal case against the land: no truth, loyal love, or knowledge of God.",
+        "citations": "Hosea 4:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah's people are silenced because there is no knowledge.",
+        "citations": "Hosea 4:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Ephraim is like a round cake left unturned.",
+        "citations": "Hosea 7:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said they sow wind and will reap a storm wind.",
+        "citations": "Hosea 8:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I recorded Jehovah's word: “Out of Egypt I called my son.”",
+        "citations": "Hosea 11:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I called Israel to come back to Jehovah their God.",
+        "citations": "Hosea 14:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah compared my love for an adulterous woman to his love for Israel while they turned to other gods and loved raisin cakes.",
+        "citations": "Hosea 3:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I recorded Jehovah's promise that his people would call him “My husband,” not “My Baal.”",
+        "citations": "Hosea 2:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said Jehovah would betroth his people to himself in righteousness, justice, loyal love, and mercy.",
+        "citations": "Hosea 2:19,20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I recorded Jehovah asking how he could give Ephraim up or treat Israel like Admah and Zeboiim.",
+        "citations": "Hosea 11:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said Jehovah would heal their unfaithfulness and love them of his own free will.",
+        "citations": "Hosea 14:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jesus cited my recorded words that Jehovah wants mercy and not sacrifice.",
+        "citations": "Hosea 6:6; Matthew 9:13; Matthew 12:7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul cited my words about those called “Not my people” becoming “sons of the living God.”",
+        "citations": "Hosea 1:10; Hosea 2:23; Romans 9:25,26",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Huldah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a prophetess.",
+        "citations": "2 Kings 22:14; 2 Chronicles 34:22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the wife of Shallum.",
+        "citations": "2 Kings 22:14; 2 Chronicles 34:22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Josiah's men came to me to inquire of Jehovah.",
+        "citations": "2 Kings 22:13,14; 2 Chronicles 34:21,22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I dwelt in the Second Quarter of Jerusalem.",
+        "citations": "2 Kings 22:14; 2 Chronicles 34:22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I spoke Jehovah's reply for the king of Judah.",
+        "citations": "2 Kings 22:15-20; 2 Chronicles 34:23-28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My husband was son of Tikvah son of Harhas.",
+        "citations": "2 Kings 22:14; 2 Chronicles 34:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My husband was caretaker of the wardrobe.",
+        "citations": "2 Kings 22:14; 2 Chronicles 34:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Hilkiah the priest was among those who spoke to me.",
+        "citations": "2 Kings 22:14; 2 Chronicles 34:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jehovah would bring calamity on that place and its inhabitants.",
+        "citations": "2 Kings 22:16; 2 Chronicles 34:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said the calamity matched the words of the book the king of Judah had read.",
+        "citations": "2 Kings 22:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said they abandoned Jehovah and made sacrifices smoke to other gods.",
+        "citations": "2 Kings 22:17; 2 Chronicles 34:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah's rage against that place would not be extinguished.",
+        "citations": "2 Kings 22:17; 2 Chronicles 34:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the king of Judah's heart was responsive and he had humbled himself.",
+        "citations": "2 Kings 22:19; 2 Chronicles 34:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the king of Judah had ripped his garments apart and wept before Jehovah.",
+        "citations": "2 Kings 22:19; 2 Chronicles 34:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After the book of the Law was found, I was the prophetess who answered the king of Judah's inquiry.",
+        "citations": "2 Kings 22:8, 13,14; 2 Chronicles 34:14, 21,22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I gave one word of nationwide calamity and a separate word of peace for the inquiring king.",
+        "citations": "2 Kings 22:16-20; 2 Chronicles 34:24-28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said the king of Judah would be gathered to his ancestors and laid in his grave in peace.",
+        "citations": "2 Kings 22:20; 2 Chronicles 34:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said his eyes would not see all the calamity coming on that place.",
+        "citations": "2 Kings 22:20; 2 Chronicles 34:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Chronicles records I spoke of all the curses written in the book they read before the king of Judah.",
+        "citations": "2 Chronicles 34:24",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Isaiah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Amoz.",
+        "citations": "Isaiah 1:1; 2 Kings 19:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I saw Jehovah sitting on a lofty throne.",
+        "citations": "Isaiah 6:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "In my vision seraphs stood above him, each with six wings.",
+        "citations": "Isaiah 6:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "A seraph touched my mouth with a glowing coal from the altar.",
+        "citations": "Isaiah 6:6,7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said, “Here I am! Send me.”",
+        "citations": "Isaiah 6:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My vision concerned Judah and Jerusalem.",
+        "citations": "Isaiah 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I prophesied in the days of Uzziah, Jotham, Ahaz, and Hezekiah.",
+        "citations": "Isaiah 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I met King Ahaz with a message from Jehovah.",
+        "citations": "Isaiah 7:3,4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I announced a sign: a young woman would give birth to a son named Immanuel.",
+        "citations": "Isaiah 7:14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I walked naked and barefoot for three years as a sign.",
+        "citations": "Isaiah 20:2,3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "King Hezekiah sent messengers to me during the Assyrian threat.",
+        "citations": "2 Kings 19:2; Isaiah 37:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told Hezekiah to set his house in order, because he would die.",
+        "citations": "2 Kings 20:1; Isaiah 38:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Jehovah would add 15 years to Hezekiah's life.",
+        "citations": "2 Kings 20:5,6; Isaiah 38:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said a cake of pressed dried figs should be applied to Hezekiah's boil.",
+        "citations": "2 Kings 20:7; Isaiah 38:21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Jehovah would make the shadow go back ten steps as a sign.",
+        "citations": "2 Kings 20:8-11; Isaiah 38:7,8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I wrote, “Comfort, comfort my people.”",
+        "citations": "Isaiah 40:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I wrote of a voice calling out in the wilderness.",
+        "citations": "Isaiah 40:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I named Cyrus in my prophecy.",
+        "citations": "Isaiah 44:28; Isaiah 45:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "In the year that King Uzziah died, I saw Jehovah.",
+        "citations": "Isaiah 6:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said I was a man of unclean lips dwelling among a people of unclean lips.",
+        "citations": "Isaiah 6:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The seraph said the coal had touched my lips, and my error had departed.",
+        "citations": "Isaiah 6:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah asked whom he should send, and who would go for us, and I heard him.",
+        "citations": "Isaiah 6:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I took my son Shear-jashub with me to meet Ahaz.",
+        "citations": "Isaiah 7:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I met Ahaz at the end of the conduit of the upper pool by the highway of the laundryman's field.",
+        "citations": "Isaiah 7:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Ahaz not to fear Rezin and the son of Remaliah.",
+        "citations": "Isaiah 7:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I called those two kings stumps of smoldering logs.",
+        "citations": "Isaiah 7:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Ahaz that unless he had firm faith, he would not be firmly established.",
+        "citations": "Isaiah 7:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah told me to tell Ahaz to ask for a sign as deep as the Grave or as high as the sky.",
+        "citations": "Isaiah 7:10,11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I took a large tablet and wrote on it with an ordinary stylus.",
+        "citations": "Isaiah 8:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I wrote the name Maher-shalal-hash-baz.",
+        "citations": "Isaiah 8:1, 3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had relations with the prophetess, and she became pregnant.",
+        "citations": "Isaiah 8:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said I and the children Jehovah gave me were as signs and miracles in Israel.",
+        "citations": "Isaiah 8:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My naked-and-barefoot walk was a sign against Egypt and Cush.",
+        "citations": "Isaiah 20:3,4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Eliakim, Shebnah, and the elders of the priests came to me in sackcloth.",
+        "citations": "2 Kings 19:2; Isaiah 37:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told them not to be afraid because of the words with which the Assyrian servants had taunted Jehovah.",
+        "citations": "2 Kings 19:5,6; Isaiah 37:5,6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Sennacherib would hear a report and return to his own land.",
+        "citations": "2 Kings 19:7; Isaiah 37:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said he would fall by the sword in his own land.",
+        "citations": "2 Kings 19:7; Isaiah 37:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jehovah would defend Jerusalem for his own sake and for the sake of his servant David.",
+        "citations": "2 Kings 19:34; Isaiah 37:35",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Before I left the middle courtyard, Jehovah told me to turn back and speak again to Hezekiah.",
+        "citations": "2 Kings 20:4,5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked Hezekiah what the men from Babylon had said and where they were from.",
+        "citations": "2 Kings 20:14; Isaiah 39:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I wrote that a child would be called Wonderful Counselor, Mighty God, Eternal Father, Prince of Peace.",
+        "citations": "Isaiah 9:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I wrote of a twig that would grow out of the stump of Jesse.",
+        "citations": "Isaiah 11:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I wrote that the wolf would reside with the lamb.",
+        "citations": "Isaiah 11:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah sent me to tell this people to hear again and again but not understand.",
+        "citations": "Isaiah 6:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked how long, and Jehovah answered until cities crash in ruins.",
+        "citations": "Isaiah 6:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Syria and Ephraim planned to set up the son of Tabeel as king in Judah.",
+        "citations": "Isaiah 7:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that before the boy Immanuel knew how to reject bad and choose good, the land of the two kings Ahaz dreaded would be abandoned.",
+        "citations": "Isaiah 7:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I secured faithful witnesses for my tablet writing: Uriah the priest and Zechariah the son of Jeberechiah.",
+        "citations": "Isaiah 8:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me to call my son Maher-shalal-hash-baz.",
+        "citations": "Isaiah 8:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that before my son Maher-shalal-hash-baz could call “My father!” or “My mother!,” Damascus's wealth and Samaria's spoil would be carried off.",
+        "citations": "Isaiah 8:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me to remove the sackcloth from my hips and to take my sandals off my feet.",
+        "citations": "Isaiah 20:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In the year that Ahaz died, I made a pronouncement against Philistia.",
+        "citations": "Isaiah 14:28,29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent word to Hezekiah after he prayed about Sennacherib's letters.",
+        "citations": "2 Kings 19:20; Isaiah 37:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the daughter of Jerusalem would shake her head at Sennacherib.",
+        "citations": "2 Kings 19:21; Isaiah 37:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Sennacherib would not enter the city, shoot an arrow there, or cast up a siege rampart against it.",
+        "citations": "2 Kings 19:32,33; Isaiah 37:33,34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Hezekiah that everything in his house would one day be carried to Babylon.",
+        "citations": "2 Kings 20:16,17; Isaiah 39:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said some of Hezekiah's own sons would become court officials in the palace of the king of Babylon.",
+        "citations": "2 Kings 20:18; Isaiah 39:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The rest of Uzziah's history was recorded in my writings.",
+        "citations": "2 Chronicles 26:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The rest of Hezekiah's history is written in the vision of me, the son of Amoz.",
+        "citations": "2 Chronicles 32:32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote of nations beating their swords into plowshares.",
+        "citations": "Isaiah 2:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote of a precious cornerstone laid in Zion.",
+        "citations": "Isaiah 28:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote of a despised servant avoided by men.",
+        "citations": "Isaiah 53:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote that he would be pierced for our transgression.",
+        "citations": "Isaiah 53:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw Jehovah in the year Uzziah died, and my prophetic vision spanned the reigns of Uzziah, Jotham, Ahaz, and Hezekiah.",
+        "citations": "Isaiah 6:1; Isaiah 1:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "With Shear-jashub I met Ahaz at the laundryman's-field highway; later the Rabshakeh took his stand at that same place.",
+        "citations": "Isaiah 7:3; 2 Kings 18:17; Isaiah 36:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After Ahaz refused a sign deep as the Grave or high as the sky, I announced Immanuel.",
+        "citations": "Isaiah 7:11-14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My sons Shear-jashub and Maher-shalal-hash-baz were among the signs Jehovah gave through me.",
+        "citations": "Isaiah 7:3; Isaiah 8:3, 18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I wrote Maher-shalal-hash-baz on a tablet before witnesses, then gave that name to the son the prophetess bore.",
+        "citations": "Isaiah 8:1-3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "For three years I went naked and barefoot as a portent that captives of Egypt and Cush would go that way.",
+        "citations": "Isaiah 20:2-4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When Hezekiah's sackcloth envoys reached me, I said Sennacherib would hear a report, return, and fall by the sword at home.",
+        "citations": "2 Kings 19:2, 6,7; Isaiah 37:2, 6,7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told the dying Hezekiah he would die; then, still in the middle courtyard, I was turned back to promise 15 more years.",
+        "citations": "2 Kings 20:1, 4-6; Isaiah 38:1, 5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I prescribed pressed dried figs for Hezekiah's boil and announced the shadow's ten-step return as Jehovah's sign.",
+        "citations": "2 Kings 20:7-11; Isaiah 38:7,8, 21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After Hezekiah showed Babylon everything, I asked what they had seen, then said house and sons would go to Babylon.",
+        "citations": "2 Kings 20:14-18; Isaiah 39:3-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I recorded Uzziah's remaining deeds, and Hezekiah's remaining history stands in my vision.",
+        "citations": "2 Chronicles 26:22; 2 Chronicles 32:32",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I wrote of one despised, avoided, and pierced for transgression.",
+        "citations": "Isaiah 53:3, 5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I named Cyrus Jehovah's shepherd and anointed one who would fulfill Jehovah's pleasure toward Jerusalem.",
+        "citations": "Isaiah 44:28; Isaiah 45:1",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Jeremiah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Hilkiah, of the priests in Anathoth.",
+        "citations": "Jeremiah 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah made me a prophet to the nations.",
+        "citations": "Jeremiah 1:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said I was only a boy and did not know how to speak.",
+        "citations": "Jeremiah 1:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah touched my mouth and put his words in my mouth.",
+        "citations": "Jeremiah 1:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I saw the branch of an almond tree.",
+        "citations": "Jeremiah 1:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I saw a boiling pot, its mouth tilted away from the north.",
+        "citations": "Jeremiah 1:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I warned that Jehovah's house would become like Shiloh.",
+        "citations": "Jeremiah 7:12-14; Jeremiah 26:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I wore yoke bars on my neck.",
+        "citations": "Jeremiah 27:2; Jeremiah 28:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Hananiah broke the yoke bar off my neck.",
+        "citations": "Jeremiah 28:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I dictated Jehovah's words, and Baruch wrote them in a scroll.",
+        "citations": "Jeremiah 36:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "King Jehoiakim burned the scroll written at my dictation.",
+        "citations": "Jeremiah 36:23, 27,28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "They threw me into a cistern, and I sank down into the mud.",
+        "citations": "Jeremiah 38:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Ebed-melech pulled me up out of the cistern.",
+        "citations": "Jeremiah 38:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I bought a field in Anathoth while the city was under siege.",
+        "citations": "Jeremiah 32:6-9, 24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told the exiles in Babylon to build houses and plant gardens.",
+        "citations": "Jeremiah 29:4,5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah told me not to take a wife in that place.",
+        "citations": "Jeremiah 16:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "In my heart Jehovah's word became like a burning fire shut up in my bones.",
+        "citations": "Jeremiah 20:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I chanted over Josiah, and singers kept singing about him in their dirges.",
+        "citations": "2 Chronicles 35:25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah formed me in the belly and knew me before I came out of the womb.",
+        "citations": "Jeremiah 1:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah made me a fortified city, an iron pillar, and copper walls.",
+        "citations": "Jeremiah 1:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My call began in the 13th year of Josiah.",
+        "citations": "Jeremiah 1:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I stood in the courtyard of Jehovah's house and spoke to those coming to worship.",
+        "citations": "Jeremiah 26:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After I prophesied against the temple, the priests and prophets said I must die.",
+        "citations": "Jeremiah 26:8, 11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Ahikam son of Shaphan supported me so I was not handed over to be put to death.",
+        "citations": "Jeremiah 26:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I bought a linen belt and put it around my waist, but did not dip it in water.",
+        "citations": "Jeremiah 13:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I hid the linen belt in a cleft of the crag by the Euphrates.",
+        "citations": "Jeremiah 13:4,5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I dug up the belt, it was ruined and completely useless.",
+        "citations": "Jeremiah 13:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah sent me down to the potter's house.",
+        "citations": "Jeremiah 18:1-3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I bought an earthenware flask from a potter and smashed it in the Valley of the Son of Hinnom.",
+        "citations": "Jeremiah 19:1,2, 10,11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Pashhur struck me and put me in the stocks at the Upper Gate of Benjamin.",
+        "citations": "Jeremiah 20:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Pashhur that Jehovah had named him, not Pashhur, but Terror All Around.",
+        "citations": "Jeremiah 20:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I cursed the day I was born.",
+        "citations": "Jeremiah 20:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Amen to Hananiah, then warned that a peace prophet is known when his word comes true.",
+        "citations": "Jeremiah 28:5-9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After my wooden yoke was broken, Jehovah said iron yoke bars would take its place.",
+        "citations": "Jeremiah 28:12,13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Hananiah Jehovah had not sent him, and that he would die that year.",
+        "citations": "Jeremiah 28:15,16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I wrote to the elders and priests taken into exile with Jeconiah.",
+        "citations": "Jeremiah 29:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told them to seek the peace of the city where they were exiled.",
+        "citations": "Jeremiah 29:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Babylon's domination would last 70 years.",
+        "citations": "Jeremiah 25:11,12; Jeremiah 29:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My cousin Hanamel asked me to buy his field in Anathoth.",
+        "citations": "Jeremiah 32:7,8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I weighed out 17 shekels of silver for Hanamel's field.",
+        "citations": "Jeremiah 32:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave the purchase deed to Baruch to put in an earthenware vessel.",
+        "citations": "Jeremiah 32:12-14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was confined and unable to enter Jehovah's house, so I sent Baruch to read the scroll.",
+        "citations": "Jeremiah 36:5,6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehoiakim ordered men to seize me and Baruch, but Jehovah kept us concealed.",
+        "citations": "Jeremiah 36:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After the scroll was burned, I dictated another, and many more words were added.",
+        "citations": "Jeremiah 36:32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Officials accused me of deserting to the Chaldeans when I went out toward Benjamin.",
+        "citations": "Jeremiah 37:11-13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "They beat me and put me in the house of Jonathan the secretary as a prison.",
+        "citations": "Jeremiah 37:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "While confined, I was given a loaf of bread daily from the Street of the Bakers.",
+        "citations": "Jeremiah 37:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In the cistern of Malchijah where they threw me there was no water, only mud.",
+        "citations": "Jeremiah 38:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I put worn-out rags between my armpits and the ropes.",
+        "citations": "Jeremiah 38:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Until Jerusalem was captured, I remained in the Courtyard of the Guard.",
+        "citations": "Jeremiah 38:28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Nebuzaradan released me from handcuffs at Ramah.",
+        "citations": "Jeremiah 40:1, 4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went to Gedaliah at Mizpah and stayed among those left in the land.",
+        "citations": "Jeremiah 40:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Johanan and the army chiefs took me down to Egypt as far as Tahpanhes.",
+        "citations": "Jeremiah 43:5-7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Tahpanhes I hid large stones in the mortar at the entrance of Pharaoh's house.",
+        "citations": "Jeremiah 43:8-10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My word continued until the 11th year of Zedekiah, when Jerusalem went into exile.",
+        "citations": "Jeremiah 1:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me not to say I was only a boy.",
+        "citations": "Jeremiah 1:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me he was wide awake concerning his word to carry it out.",
+        "citations": "Jeremiah 1:11,12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Men of Anathoth sought my life, saying I must not prophesy in Jehovah's name.",
+        "citations": "Jeremiah 11:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah's words were found, and I ate them, and they became the joy of my heart.",
+        "citations": "Jeremiah 15:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sat alone because of Jehovah's hand.",
+        "citations": "Jeremiah 15:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said woe to me, my mother, that she gave birth to me, a man of quarreling.",
+        "citations": "Jeremiah 15:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me not to enter a house where a mourners' feast was held.",
+        "citations": "Jeremiah 16:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me not to enter a house of feasting to sit and eat and drink.",
+        "citations": "Jeremiah 16:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wished my head were waters and my eyes a fountain of tears.",
+        "citations": "Jeremiah 9:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said I would speak no more in Jehovah's name, but I grew tired of holding it in.",
+        "citations": "Jeremiah 20:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I became a laughingstock all day long; everyone ridiculed me.",
+        "citations": "Jeremiah 20:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Pashhur was the leading commissioner in Jehovah's house when he struck me.",
+        "citations": "Jeremiah 20:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prophesied that Pashhur and all in his house would go to Babylon and die there.",
+        "citations": "Jeremiah 20:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I brought the Rechabites into a temple chamber and offered them wine.",
+        "citations": "Jeremiah 35:2-5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah showed me two baskets of figs set before his temple.",
+        "citations": "Jeremiah 24:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said I had spoken Jehovah's word from Josiah's 13th year for 23 years.",
+        "citations": "Jeremiah 25:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me to take the cup of the wine of his wrath and make the nations drink.",
+        "citations": "Jeremiah 25:15-17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Jehovah's house, Hananiah told me within two years the Babylonian yoke would be broken.",
+        "citations": "Jeremiah 28:1-3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Hananiah the prophet died that year in the seventh month, as I had said.",
+        "citations": "Jeremiah 28:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote against Shemaiah the Nehelamite, who sent letters opposing me.",
+        "citations": "Jeremiah 29:24-32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Hanamel was the son of Shallum my uncle.",
+        "citations": "Jeremiah 32:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said houses, fields, and vineyards would again be bought in that land.",
+        "citations": "Jeremiah 32:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Zedekiah sent men to ask me to plead with Jehovah as Babylon's army approached.",
+        "citations": "Jeremiah 37:3, 6,7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Zedekiah that even if he defeated the Chaldeans, they would still burn the city.",
+        "citations": "Jeremiah 37:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Zedekiah secretly swore he would not put me to death or hand me over to those seeking my life.",
+        "citations": "Jeremiah 38:14-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Zedekiah that if he surrendered to Babylon's princes, the city would not be burned.",
+        "citations": "Jeremiah 38:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When princes questioned me, I answered as King Zedekiah had commanded about Jonathan's house.",
+        "citations": "Jeremiah 38:24-27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Nebuchadnezzar ordered that I be looked after and that no harm be done to me.",
+        "citations": "Jeremiah 39:11,12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Nebuzaradan gave me a food allowance and a gift and let me go.",
+        "citations": "Jeremiah 40:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The remnant asked me to inquire of Jehovah whether they should go to Egypt.",
+        "citations": "Jeremiah 42:1-3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After ten days Jehovah's answer came to me: stay in the land; do not go to Egypt.",
+        "citations": "Jeremiah 42:7, 10-19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Presumptuous men said I was lying and that Baruch was inciting me against them.",
+        "citations": "Jeremiah 43:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote calamity against Babylon in a book and gave it to Seraiah son of Neriah.",
+        "citations": "Jeremiah 51:59,60",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Uriah prophesied with words like mine and was killed; Ahikam kept me from the same fate.",
+        "citations": "Jeremiah 26:20-24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I prophesied through Josiah, Jehoiakim, and Zedekiah until Jerusalem fell.",
+        "citations": "Jeremiah 1:2,3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I bought Anathoth land as a sign of restoration while confined in the Courtyard of the Guard.",
+        "citations": "Jeremiah 32:2,3, 6-15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "From cistern mud to Courtyard confinement, I still urged Zedekiah to surrender and live.",
+        "citations": "Jeremiah 38:6, 13, 17-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Bound among the deportees at Ramah, I chose to stay in Judah rather than go to Babylon.",
+        "citations": "Jeremiah 40:1, 4-6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I warned against Egypt, was forced there anyway, and buried stones as a sign of Babylon's throne.",
+        "citations": "Jeremiah 42:19; Jeremiah 43:5-10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I delivered Jehovah's promise of a new covenant written on hearts.",
+        "citations": "Jeremiah 31:31-33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Zedekiah did not humble himself before me, the prophet who spoke from Jehovah's mouth.",
+        "citations": "2 Chronicles 36:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The land kept sabbath until 70 years were fulfilled, according to Jehovah's word by my mouth.",
+        "citations": "2 Chronicles 36:21; Jeremiah 25:11,12; Jeremiah 29:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In Cyrus's first year Jehovah stirred his spirit to fulfill the word spoken through me.",
+        "citations": "2 Chronicles 36:22; Ezra 1:1; Jeremiah 29:10",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Joel",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Pethuel.",
+        "citations": "Joel 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I warned that the day of Jehovah is near.",
+        "citations": "Joel 1:15; Joel 2:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I described a locust invasion that stripped the land.",
+        "citations": "Joel 1:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Jehovah would pour out his spirit on every sort of flesh.",
+        "citations": "Joel 2:28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I asked whether anything like this had happened in their days or their forefathers' days.",
+        "citations": "Joel 1:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said what one locust left, another kind ate.",
+        "citations": "Joel 1:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said grain offering and drink offering had ceased from Jehovah's house.",
+        "citations": "Joel 1:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said to blow a horn in Zion.",
+        "citations": "Joel 2:1, 15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I called for a return to Jehovah with all the heart.",
+        "citations": "Joel 2:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said to rip apart hearts, not garments.",
+        "citations": "Joel 2:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said sons and daughters would prophesy.",
+        "citations": "Joel 2:28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said everyone who calls on Jehovah's name will be saved.",
+        "citations": "Joel 2:32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I named swarming, unwinged, voracious, and devouring locusts in sequence.",
+        "citations": "Joel 2:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said even livestock groaned for lack of pasture.",
+        "citations": "Joel 1:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah would compensate for the years his great locust army had eaten.",
+        "citations": "Joel 2:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said old men would dream dreams and young men see visions.",
+        "citations": "Joel 2:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said even male and female slaves would receive the spirit.",
+        "citations": "Joel 2:29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the sun would turn to darkness and the moon to blood.",
+        "citations": "Joel 2:31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I spoke of judgment in the Valley of Jehoshaphat.",
+        "citations": "Joel 3:2, 12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said to beat plowshares into swords and pruning shears into spears.",
+        "citations": "Joel 3:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said crowds, crowds are in the valley of the decision.",
+        "citations": "Joel 3:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said Jehovah would be a refuge for his people and a fortress for Israel.",
+        "citations": "Joel 3:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Peter said the Pentecost outpouring was what was spoken through me.",
+        "citations": "Joel 2:28-32; Acts 2:16-21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said the day of Jehovah is coming, a day of darkness and gloom.",
+        "citations": "Joel 2:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I joined spirit outpouring with wonders of blood, fire, and columns of smoke before Jehovah's day.",
+        "citations": "Joel 2:28-31",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Jonah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Amittai.",
+        "citations": "Jonah 1:1; 2 Kings 14:25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah told me to go to Nineveh the great city.",
+        "citations": "Jonah 1:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I ran away from Jehovah toward Tarshish.",
+        "citations": "Jonah 1:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I boarded a ship at Joppa.",
+        "citations": "Jonah 1:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah sent a huge fish to swallow me.",
+        "citations": "Jonah 1:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was in the belly of the fish three days and three nights.",
+        "citations": "Jonah 1:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I proclaimed that in 40 days more Nineveh would be overthrown.",
+        "citations": "Jonah 3:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Nineveh's people put faith in God at my proclamation.",
+        "citations": "Jonah 3:4,5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a prophet from Gath-hepher.",
+        "citations": "2 Kings 14:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I paid the fare and went aboard to flee.",
+        "citations": "Jonah 1:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "During the storm I was asleep in a ship's inner part.",
+        "citations": "Jonah 1:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The lot cast during a storm fell to me.",
+        "citations": "Jonah 1:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, “I am a Hebrew, and I fear Jehovah the God of the heavens, the One who made the sea and the dry land.”",
+        "citations": "Jonah 1:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told mariners to throw me into the sea so it would calm.",
+        "citations": "Jonah 1:5,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I prayed to Jehovah from a fish's belly.",
+        "citations": "Jonah 2:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah commanded a fish, and it vomited me onto dry land.",
+        "citations": "Jonah 2:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After I fled the first time, Jehovah's word came to me a second time.",
+        "citations": "Jonah 3:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went to Nineveh in obedience the second time Jehovah sent me.",
+        "citations": "Jonah 3:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah spoke through me concerning restoring Israel's boundary",
+        "citations": "2 Kings 14:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Through me that boundary stretched from Lebo-hamath to the Sea of the Arabah.",
+        "citations": "2 Kings 14:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Mariners learned I was fleeing Jehovah because I had told them.",
+        "citations": "Jonah 1:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said weeds were wrapped around my head in the deep.",
+        "citations": "Jonah 2:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prayer to Jehovah my God, I said salvation is from Him.",
+        "citations": "Jonah 2:1,9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Nineveh was a walking distance of three days when I went there.",
+        "citations": "Jonah 3:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I walked a day's journey into Nineveh proclaiming a message from Jehovah.",
+        "citations": "Jonah 3:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "God reconsidered the calamity he announced through me and did not bring it.",
+        "citations": "Jonah 3:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah sparing Nineveh was highly displeasing to me.",
+        "citations": "Jonah 4:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said I fled because I knew Jehovah is compassionate and merciful.",
+        "citations": "Jonah 4:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked Jehovah to take my life; it was better to die than live.",
+        "citations": "Jonah 4:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sat east of the city under a shelter to see what would happen.",
+        "citations": "Jonah 4:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah provided a bottle-gourd plant to shade my head and relieve my misery.",
+        "citations": "Jonah 4:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was very pleased with a bottle-gourd plant.",
+        "citations": "Jonah 4:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A worm attacked my bottle-gourd plant, and it withered.",
+        "citations": "Jonah 4:7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After experiencing a scorching east wind and the sun beating down on my head, I again said it was better to die than live.",
+        "citations": "Jonah 4:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah asked if I was right to be so angry over a certain bottle-gourd plant.",
+        "citations": "Jonah 4:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told God that I have a right to be angry, so angry that I want to die.",
+        "citations": "Jonah 4:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jesus said that the Son of man would be in the heart of the earth just as I was in the belly of the huge fish.",
+        "citations": "Jonah 1:17; Matthew 12:40",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jesus said Nineveh's men would rise in the judgment because they repented at my preaching.",
+        "citations": "Jonah 3:5; Matthew 12:41; Luke 11:32",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Malachi",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Jehovah's word to Israel came through me.",
+        "citations": "Malachi 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I recorded Jehovah's charge that priests presented polluted food on his altar.",
+        "citations": "Malachi 1:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I recorded Jehovah's question: “Will a mere human rob God?”",
+        "citations": "Malachi 3:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Jehovah was sending his messenger to clear up a way before him.",
+        "citations": "Malachi 3:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I recorded Jehovah's promise to send Elijah the prophet.",
+        "citations": "Malachi 4:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I recorded the dispute “How have you shown us love?” answered with Jacob and Esau.",
+        "citations": "Malachi 1:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said they presented blind, lame, or sick animals as sacrifices.",
+        "citations": "Malachi 1:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said they called Jehovah's table something to be despised.",
+        "citations": "Malachi 1:7, 12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said they were robbing God in the tithes and the contributions.",
+        "citations": "Malachi 3:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said to bring the entire tithe into the storehouse.",
+        "citations": "Malachi 3:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jehovah invited them to test him regarding the tithe blessing.",
+        "citations": "Malachi 3:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spoke of a book of remembrance for those fearing Jehovah.",
+        "citations": "Malachi 3:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said the sun of righteousness would shine with healing in its rays.",
+        "citations": "Malachi 4:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said they sniffed scornfully and called the service tiresome.",
+        "citations": "Malachi 1:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the cunning one vowed a sound animal then sacrificed a blemished one.",
+        "citations": "Malachi 1:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the lips of a priest should safeguard knowledge.",
+        "citations": "Malachi 2:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah acted as witness against those dealing treacherously with the wife of their youth.",
+        "citations": "Malachi 2:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I recorded Jehovah's word: “I hate divorce.”",
+        "citations": "Malachi 2:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said they weary Jehovah by asking, “Where is the God of justice?”",
+        "citations": "Malachi 2:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the messenger of the covenant would come to his temple.",
+        "citations": "Malachi 3:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said he would sit as a refiner and cleanser of silver.",
+        "citations": "Malachi 3:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah would make those who fear him a special property.",
+        "citations": "Malachi 3:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said you will again see the distinction between a righteous person and a wicked person.",
+        "citations": "Malachi 3:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said to remember the Law of Moses commanded at Horeb.",
+        "citations": "Malachi 4:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said Elijah would turn fathers' hearts back toward sons, and sons' toward fathers.",
+        "citations": "Malachi 4:5,6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I recorded Jehovah's charge that Judah had married the daughter of a foreign god.",
+        "citations": "Malachi 2:11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said the day is coming that will burn like a furnace.",
+        "citations": "Malachi 4:1",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Micah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I came from Moresheth.",
+        "citations": "Micah 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah's word came to me concerning Samaria and Jerusalem.",
+        "citations": "Micah 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I prophesied in the days of Jotham, Ahaz, and Hezekiah.",
+        "citations": "Micah 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said a ruler would come out of Bethlehem Ephrathah.",
+        "citations": "Micah 5:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I declared what Jehovah requires: exercise justice, cherish loyalty, and walk in modesty with God.",
+        "citations": "Micah 6:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Zion would be plowed up as a field.",
+        "citations": "Micah 3:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Samaria would become a heap of ruins of the field.",
+        "citations": "Micah 1:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Because of the coming plague I wailed and howled.",
+        "citations": "Micah 1:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I walked barefoot and naked in mourning.",
+        "citations": "Micah 1:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jerusalem would become heaps of ruins.",
+        "citations": "Micah 3:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said the mountain of the house of Jehovah would become like high places in a forest.",
+        "citations": "Micah 3:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said nations would beat their swords into plowshares.",
+        "citations": "Micah 4:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said each one would sit under his vine and under his fig tree.",
+        "citations": "Micah 4:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Against false prophets I said night would come with no vision.",
+        "citations": "Micah 3:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said those prophets proclaim “Peace!” when fed, but declare war when they get nothing.",
+        "citations": "Micah 3:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, “I am filled with power by the spirit of Jehovah, and with justice and might.”",
+        "citations": "Micah 3:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said I tell Jacob his revolt and Israel his sin.",
+        "citations": "Micah 3:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said leaders judge for a bribe, priests instruct for a price, and prophets practice divination for money.",
+        "citations": "Micah 3:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "People preached at me: “Stop preaching!”",
+        "citations": "Micah 2:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said if a man preached about wine and alcoholic drink, he would be just the preacher for this people.",
+        "citations": "Micah 2:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I presented Jehovah's legal case before the mountains.",
+        "citations": "Micah 6:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the daughter of Zion would go as far as to Babylon and there be rescued.",
+        "citations": "Micah 4:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Elders later recalled my Hezekiah-era warning that Zion would be plowed as a field.",
+        "citations": "Micah 3:12; Jeremiah 26:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In Hezekiah's day my words led the king to fear Jehovah, so Jehovah changed his mind about the calamity.",
+        "citations": "Jeremiah 26:18,19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "From Moresheth I foresaw both Samaria's ruin and a ruler from little Bethlehem.",
+        "citations": "Micah 1:1, 6; Micah 5:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I opposed prophets who practiced divination for money.",
+        "citations": "Micah 3:5, 11",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Nahum",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I received a vision concerning Nineveh.",
+        "citations": "Nahum 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My pronouncement was against Nineveh.",
+        "citations": "Nahum 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Jehovah takes vengeance against his foes.",
+        "citations": "Nahum 1:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I declared Jehovah is good, a stronghold in the day of distress.",
+        "citations": "Nahum 1:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said distress would not arise a second time.",
+        "citations": "Nahum 1:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said the worthless one would never pass through Judah again.",
+        "citations": "Nahum 1:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I pictured Nineveh's war chariots racing madly through the streets.",
+        "citations": "Nahum 2:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said the gates of the rivers would be opened and the palace dissolved.",
+        "citations": "Nahum 2:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked where the lair of lions was, where the young lions feed.",
+        "citations": "Nahum 2:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I cried woe to the city of bloodshed.",
+        "citations": "Nahum 3:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jehovah of armies is against Nineveh.",
+        "citations": "Nahum 2:13; Nahum 3:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said on the mountains are the feet of one bringing good news, proclaiming peace.",
+        "citations": "Nahum 1:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Nineveh was like a pool of waters, but now they are fleeing.",
+        "citations": "Nahum 2:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked if Nineveh was better than No-amon by the Nile canals.",
+        "citations": "Nahum 3:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Ethiopia was No-amon's source of boundless strength, also Egypt.",
+        "citations": "Nahum 3:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Nineveh's fortifications are like fig trees with the first ripe fruits.",
+        "citations": "Nahum 3:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I addressed the king of Assyria: your shepherds are drowsy.",
+        "citations": "Nahum 3:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said all who hear the report about Nineveh will clap their hands.",
+        "citations": "Nahum 3:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was an Elkoshite, and I told Judah to celebrate its festivals.",
+        "citations": "Nahum 1:1, 15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I paired the lion's lair emptied with the city of bloodshed never without prey.",
+        "citations": "Nahum 2:11-13; Nahum 3:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I measured proud Nineveh against fallen No-amon and found no healing for Assyria's wound.",
+        "citations": "Nahum 3:8-10, 19",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Obadiah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "My message was what the Sovereign Lord Jehovah says regarding Edom.",
+        "citations": "Obadiah 1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I declared judgment against Esau's mountainous region.",
+        "citations": "Obadiah 8-9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Edom did violence to his brother Jacob.",
+        "citations": "Obadiah 10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Edom's presumptuousness had deceived him.",
+        "citations": "Obadiah 3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Edom resided in the retreats of the crag.",
+        "citations": "Obadiah 3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said even if Edom nested among the stars, Jehovah would bring him down.",
+        "citations": "Obadiah 4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said on the day strangers took Jacob captive, Edom acted like one of them.",
+        "citations": "Obadiah 11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Edom should not have gloated over his brother's day of misfortune.",
+        "citations": "Obadiah 12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said the day of Jehovah against all the nations is near.",
+        "citations": "Obadiah 15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Edom's allies would deceive him and place a net under him.",
+        "citations": "Obadiah 7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah would destroy the wise ones out of Edom.",
+        "citations": "Obadiah 8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Teman's warriors would become terrified.",
+        "citations": "Obadiah 9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Edom should not have stood at the crossroads to slaughter escapees.",
+        "citations": "Obadiah 14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the house of Jacob would become a fire and the house of Esau like stubble.",
+        "citations": "Obadiah 18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said saviors would go up on Mount Zion to judge Esau's mountainous region.",
+        "citations": "Obadiah 21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Much of my vision condemns Edom for its conduct when Jerusalem fell.",
+        "citations": "Obadiah 1, 11-14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I tied Edom's crag pride to the same measure returning on his own head.",
+        "citations": "Obadiah 3-4, 15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said saviors would ascend Mount Zion and the kingship would become Jehovah's.",
+        "citations": "Obadiah 1, 21",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Pashhur",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Immer.",
+        "citations": "Jeremiah 20:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a priest.",
+        "citations": "Jeremiah 20:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the leading commissioner in the house of Jehovah.",
+        "citations": "Jeremiah 20:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I struck Jeremiah the prophet.",
+        "citations": "Jeremiah 20:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I put Jeremiah in the stocks.",
+        "citations": "Jeremiah 20:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I listened while Jeremiah prophesied.",
+        "citations": "Jeremiah 20:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The stocks I used were at the Upper Gate of Benjamin in Jehovah's house.",
+        "citations": "Jeremiah 20:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The following day I released Jeremiah from the stocks.",
+        "citations": "Jeremiah 20:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jeremiah told me Jehovah had renamed me Terror All Around.",
+        "citations": "Jeremiah 20:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jeremiah said I had prophesied lies.",
+        "citations": "Jeremiah 20:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jeremiah said I would become an object of terror to myself and to all my friends.",
+        "citations": "Jeremiah 20:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jeremiah said my friends would fall by the sword while my eyes looked on.",
+        "citations": "Jeremiah 20:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jeremiah said I and all who live in my house would go into captivity.",
+        "citations": "Jeremiah 20:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jeremiah said I would go off to Babylon and die there.",
+        "citations": "Jeremiah 20:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jeremiah said I would be buried in Babylon with all my friends.",
+        "citations": "Jeremiah 20:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "As Immer's son and temple commissioner, I answered Jeremiah's temple preaching with stocks.",
+        "citations": "Jeremiah 20:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I freed him, Jeremiah renamed me Terror All Around and sentenced my household to Babylon.",
+        "citations": "Jeremiah 20:3, 6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I both struck Jehovah's prophet and prophesied lies to my friends.",
+        "citations": "Jeremiah 20:2, 6",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Zechariah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a prophet, the son of Berechiah son of Iddo.",
+        "citations": "Zechariah 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I prophesied alongside Haggai to the Jews in Judah and Jerusalem.",
+        "citations": "Ezra 5:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "With Haggai I supported Zerubbabel and Jeshua rebuilding God's house.",
+        "citations": "Ezra 5:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I saw visions in the night.",
+        "citations": "Zechariah 1:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I saw Joshua the high priest standing before Jehovah's angel.",
+        "citations": "Zechariah 3:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I delivered Jehovah's word to Zerubbabel: not by a military force, nor by power, but by Jehovah's spirit.",
+        "citations": "Zechariah 4:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I urged the people to return to Jehovah, who promised to return to them.",
+        "citations": "Zechariah 1:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw a man riding on a red horse among the myrtle trees.",
+        "citations": "Zechariah 1:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw four horns that dispersed Judah, Israel, and Jerusalem.",
+        "citations": "Zechariah 1:18,19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah showed me four craftsmen.",
+        "citations": "Zechariah 1:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw a man with a measuring line going to measure Jerusalem.",
+        "citations": "Zechariah 2:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw Joshua clothed in filthy garments.",
+        "citations": "Zechariah 3:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said: Let a clean turban be put on Joshua's head.",
+        "citations": "Zechariah 3:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw a lampstand entirely of gold with two olive trees beside it.",
+        "citations": "Zechariah 4:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Zerubbabel's hands laid the foundation of Jehovah's house and would finish it.",
+        "citations": "Zechariah 4:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was told to put a crown on Joshua's head.",
+        "citations": "Zechariah 6:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My night vision came on the 24th day of Shebat in Darius's second year.",
+        "citations": "Zechariah 1:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I heard that the whole earth was quiet and undisturbed.",
+        "citations": "Zechariah 1:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my vision an angel asked how long Jehovah would withhold mercy after 70 years of indignation.",
+        "citations": "Zechariah 1:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I heard Jerusalem would be inhabited as open rural country.",
+        "citations": "Zechariah 2:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I heard Jehovah would become a wall of fire all around her.",
+        "citations": "Zechariah 2:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw Satan standing at Joshua's right hand to resist him.",
+        "citations": "Zechariah 3:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I heard Jehovah was bringing in his servant Sprout.",
+        "citations": "Zechariah 3:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw a flying scroll 20 cubits long and 10 cubits wide.",
+        "citations": "Zechariah 5:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw Wickedness sitting inside an ephah container.",
+        "citations": "Zechariah 5:7,8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw four chariots coming from between two copper mountains.",
+        "citations": "Zechariah 6:1-3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told to make a crown from silver and gold brought by the exiles.",
+        "citations": "Zechariah 6:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Zion's king would come humble, riding on a donkey.",
+        "citations": "Zechariah 9:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Darius's day I joined Haggai so Zerubbabel and Jeshua restarted the temple.",
+        "citations": "Zechariah 1:1; Ezra 5:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "From myrtle-tree horsemen to a measuring line, my night visions answered Zion's 70-year indignation.",
+        "citations": "Zechariah 1:8, 12; Zechariah 2:1-5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I saw Joshua's filthy garments removed.",
+        "citations": "Zechariah 3:3-5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Zerubbabel the work was by spirit, not force, and that his hands would finish what they began.",
+        "citations": "Zechariah 4:6, 9",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Zephaniah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the son of Cushi.",
+        "citations": "Zephaniah 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My line runs through Gedaliah, Amariah, back to Hezekiah.",
+        "citations": "Zephaniah 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I prophesied in the days of Josiah son of Amon.",
+        "citations": "Zephaniah 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said the great day of Jehovah is near and approaching very quickly.",
+        "citations": "Zephaniah 1:14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Jehovah would completely sweep away everything from the surface of the ground.",
+        "citations": "Zephaniah 1:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jehovah would stretch out his hand against Judah and Jerusalem.",
+        "citations": "Zephaniah 1:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jehovah would wipe out every vestige of Baal.",
+        "citations": "Zephaniah 1:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I warned those who bow down on the rooftops to the army of the heavens.",
+        "citations": "Zephaniah 1:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said that day is a day of fury, distress, storm, darkness, and thick gloom.",
+        "citations": "Zephaniah 1:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I urged the meek of the earth to seek Jehovah, righteousness, and meekness.",
+        "citations": "Zephaniah 2:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jehovah would make Nineveh desolate, as dry as a desert.",
+        "citations": "Zephaniah 2:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I condemned those who pledge loyalty to Jehovah while pledging loyalty to Malcam.",
+        "citations": "Zephaniah 1:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah would carefully search Jerusalem with lamps.",
+        "citations": "Zephaniah 1:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I targeted the complacent who say Jehovah will not do good and will not do bad.",
+        "citations": "Zephaniah 1:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said there would be an outcry from the Fish Gate and a wailing from the Second Quarter.",
+        "citations": "Zephaniah 1:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Moab would become like Sodom and the Ammonites like Gomorrah.",
+        "citations": "Zephaniah 2:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I called Jerusalem a rebellious, polluted, oppressive city.",
+        "citations": "Zephaniah 3:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah would change the language of the peoples to a pure language.",
+        "citations": "Zephaniah 3:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Jehovah would allow a humble and lowly people to remain.",
+        "citations": "Zephaniah 3:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In Josiah's reign I warned of a day of fury, distress, storm, darkness, and thick gloom.",
+        "citations": "Zephaniah 1:1, 15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I tied rooftop star worship and Malcam double loyalty to a lamp-search of complacent Jerusalem.",
+        "citations": "Zephaniah 1:5, 12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "From sweeping the ground clean I moved to a remnant calling on Jehovah shoulder to shoulder.",
+        "citations": "Zephaniah 1:2,3; Zephaniah 3:9, 12",
+        "difficulty": "nightmare"
+      }
+    ]
+  }
+]

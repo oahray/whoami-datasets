@@ -1,0 +1,4418 @@
+[
+  {
+    "name": "Aaron",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I played a role in helping bring some of the Ten Plagues upon Egypt.",
+        "citations": "Exodus 7:19,20; Exodus 8:5,6,16,17; Exodus 9:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I made a golden calf for the Israelites.",
+        "citations": "Exodus 32:1-4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I served as Israel's first high priest.",
+        "citations": "Exodus 28:1; Leviticus 8:12; Numbers 20:25-28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I spoke to Pharaoh on behalf of Moses.",
+        "citations": "Exodus 7:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was Moses' brother.",
+        "citations": "Exodus 4:14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My sister was Miriam.",
+        "citations": "Numbers 26:59",
+        "difficulty": "easy"
+      },
+      {
+        "text": "God made me Moses' spokesman because I could speak very well.",
+        "citations": "Exodus 4:14-16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My rod swallowed the rods of Egypt's magic-practicing priests.",
+        "citations": "Exodus 7:10-12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I entered the priesthood together with four sons.",
+        "citations": "Exodus 28:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My sons included Nadab, Abihu, Eleazar, and Ithamar.",
+        "citations": "Exodus 6:23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I met Moses in the wilderness after Jehovah sent me to him.",
+        "citations": "Exodus 4:27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was eighty-three years old when I spoke to Pharaoh.",
+        "citations": "Exodus 7:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was instructed to wear a breastpiece bearing the names of Israel's tribes.",
+        "citations": "Exodus 28:15-21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "God said I would serve as a prophet to Moses.",
+        "citations": "Exodus 7:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Fire came out from Jehovah and consumed the offering I made on behalf of the people.",
+        "citations": "Leviticus 9:7,24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I built an altar before a calf and called for a festival to Jehovah.",
+        "citations": "Exodus 32:4,5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I held up one of Moses' hands during a battle, while Hur held the other.",
+        "citations": "Exodus 17:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I pleaded with Moses after Miriam was struck with leprosy.",
+        "citations": "Numbers 12:10-13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I tried to explain how a calf appeared, saying that it came out after gold was thrown into a fire.",
+        "citations": "Exodus 32:22-24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went up a mountain with Nadab, Abihu, and seventy elders of Israel.",
+        "citations": "Exodus 24:1,9,10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wore the Urim and the Thummim over my heart when going in before Jehovah.",
+        "citations": "Exodus 28:30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Incense in my hand helped stop a plague among the Israelites.",
+        "citations": "Numbers 16:46-48",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My rod budded, blossomed, and produced ripe almonds.",
+        "citations": "Numbers 17:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Together with Miriam, I spoke against Moses because of his wife.",
+        "citations": "Numbers 12:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wore the breastpiece of judgement.",
+        "citations": "Exodus 28:4,15,29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I married Elisheba, Amminadab's daughter.",
+        "citations": "Exodus 6:23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I died on Mount Hor.",
+        "citations": "Numbers 20:27,28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I stood between the dead and the living while a plague was halted.",
+        "citations": "Numbers 16:46,48",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was forbidden from entering the Promised Land because of an incident involving water from a crag.",
+        "citations": "Numbers 20:10-12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was older than Moses by three years.",
+        "citations": "Exodus 7:7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After two of my sons died for offering unauthorized fire, I kept silent.",
+        "citations": "Leviticus 10:1-3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah told me to bless Israel with the words, “May Jehovah bless you and safeguard you.”",
+        "citations": "Numbers 6:22-24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Korah and his company gathered together against Moses and me.",
+        "citations": "Numbers 16:1-3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My priestly garments were removed and given to my son before I died.",
+        "citations": "Numbers 20:25-28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My rod was kept before the Testimony as a sign to the rebels.",
+        "citations": "Numbers 17:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The entire house of Israel mourned me for thirty days.",
+        "citations": "Numbers 20:29",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Abiram",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "One of my brothers was named Dathan.",
+        "citations": "Numbers 26:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I came out and took my stand at the entrance of my tent with Dathan and our families.",
+        "citations": "Numbers 16:27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I rose up against Moses with Korah.",
+        "citations": "Numbers 16:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I accused Moses of failing to give the Israelites an inheritance of field and vineyard.",
+        "citations": "Numbers 16:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Moses had brought the people up only to put them to death in the wilderness.",
+        "citations": "Numbers 16:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a Reubenite son of Eliab.",
+        "citations": "Numbers 16:1; Deuteronomy 11:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was one of the chosen ones of the assembly who fought against Moses and Aaron.",
+        "citations": "Numbers 26:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Moses sent for me, I said I was not going to come.",
+        "citations": "Numbers 16:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "One of my brothers was named Nemuel.",
+        "citations": "Numbers 26:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I stood at my tent entrance with my wife, my sons, and my little children while the assembly of Israel moved away from us.",
+        "citations": "Numbers 16:25-27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Moses said that if the ground opened and swallowed me alive, Israel would know I had treated Jehovah disrespectfully.",
+        "citations": "Numbers 16:28-30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Moses told the assembly not to touch anything that belonged to me, my brother or our families.",
+        "citations": "Numbers 16:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My tents and household were swallowed before the eyes of all Israel.",
+        "citations": "Deuteronomy 11:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A psalmist said that the earth covered those assembled with me.",
+        "citations": "Psalm 106:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I went down alive into the Grave with all who belonged to me.",
+        "citations": "Numbers 16:33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Moses mentioned what God did to me as a reminder, before Israel entered the promised land.",
+        "citations": "Deuteronomy 11:6-8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My judgment proved that my opposition was against Jehovah, not only against Moses.",
+        "citations": "Numbers 16:30; Numbers 26:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The earth opened and swallowed me, and I became a warning example.",
+        "citations": "Numbers 26:9,10",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Achan",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I secretly kept some of the spoils from Jericho.",
+        "citations": "Joshua 7:20,21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I took things that had been devoted to destruction.",
+        "citations": "Joshua 7:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My theft brought trouble on all Israel.",
+        "citations": "Joshua 7:1-5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "A military defeat helped expose what I had done in secret.",
+        "citations": "Joshua 7:4,5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I belonged to the tribe of Judah.",
+        "citations": "Joshua 7:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I took a beautiful garment from Shinar, silver, and a bar of gold.",
+        "citations": "Joshua 7:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Joshua spoke directly to me before I confessed my wrongdoing.",
+        "citations": "Joshua 7:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The items I stole were found buried beneath my tent.",
+        "citations": "Joshua 7:21,22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A sacred lot was used to identify me.",
+        "citations": "Joshua 7:14-18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I admitted that I saw, desired, and took forbidden items.",
+        "citations": "Joshua 7:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"I am the one who sinned against Jehovah the God of Israel.\"",
+        "citations": "Joshua 7:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Israel burned me with fire after stoning me.",
+        "citations": "Joshua 7:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My household was examined before I was singled out.",
+        "citations": "Joshua 7:14-18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The place where I was judged was called the Valley of Achor.",
+        "citations": "Joshua 7:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A pile of stones was raised after judgment was executed on me.",
+        "citations": "Joshua 7:25,26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "All Israel stoned me in a valley.",
+        "citations": "Joshua 7:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was the son of Carmi.",
+        "citations": "Joshua 7:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My desire for forbidden items played a role in my downfall.",
+        "citations": "Joshua 7:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Silver weighing 200 shekels and a gold bar weighing 50 shekels became evidence against me.",
+        "citations": "Joshua 7:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The defeat at Ai was linked to what I had done.",
+        "citations": "Joshua 7:4,5; Joshua 7:11",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Balaam",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "My donkey spoke to me.",
+        "citations": "Numbers 22:28-30",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was hired to curse Israel.",
+        "citations": "Numbers 22:5,6; Deuteronomy 23:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "An angel stood in my path with a drawn sword.",
+        "citations": "Numbers 22:31",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I blessed Israel when others wanted me to curse them.",
+        "citations": "Numbers 23:7-12; Numbers 24:3-9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said only what Jehovah allowed me to say.",
+        "citations": "Numbers 22:18; Numbers 22:38",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Messengers carrying divination fees came to me.",
+        "citations": "Numbers 22:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I lived near the Euphrates River.",
+        "citations": "Numbers 22:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked God for direction after receiving visitors from Moab.",
+        "citations": "Numbers 22:8-13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I rose early in the morning and sent visiting officials away.",
+        "citations": "Numbers 22:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Even if Balak should give me his house full of silver and gold, I could not go beyond the order of Jehovah my God.\"",
+        "citations": "Numbers 22:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saddled my donkey and traveled with Moabite officials.",
+        "citations": "Numbers 22:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My donkey saw danger that I could not see.",
+        "citations": "Numbers 22:22-27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I struck my donkey three times.",
+        "citations": "Numbers 22:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I bowed low after my eyes were uncovered.",
+        "citations": "Numbers 22:31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I offered sacrifices from three different locations overlooking Israel.",
+        "citations": "Numbers 23:1,2; Numbers 23:13,14; Numbers 23:27-30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I declared, \"How can I curse whom God has not cursed?\"",
+        "citations": "Numbers 23:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I foretold that a star would come out of Jacob.",
+        "citations": "Numbers 24:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The spirit of God came upon me while I was delivering a prophecy.",
+        "citations": "Numbers 24:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"Let me die the death of the upright.\"",
+        "citations": "Numbers 23:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I described myself as a man whose eye had been opened.",
+        "citations": "Numbers 24:3,4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I compared Israel's tents to valleys, gardens, and aloes planted by Jehovah.",
+        "citations": "Numbers 24:5,6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was present when a king struck his hands together in anger.",
+        "citations": "Numbers 24:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My counsel later became associated with Israel's sin involving Moab and Peor.",
+        "citations": "Numbers 31:16; Revelation 2:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was killed by the sword during Israel's campaign against Midian.",
+        "citations": "Numbers 31:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Centuries later, my name was used as a warning against greed and corrupt influence.",
+        "citations": "2 Peter 2:15; Jude 11; Revelation 2:14",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Balak",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I offered rewards in an attempt to influence a prophet.",
+        "citations": "Numbers 22:7; Numbers 22:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I sent for Balaam because I wanted Israel to be cursed.",
+        "citations": "Numbers 22:5,6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a king of Moab.",
+        "citations": "Numbers 22:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was afraid because the Israelites had become very numerous.",
+        "citations": "Numbers 22:2,3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I believed a curse could help me defeat a nation.",
+        "citations": "Numbers 22:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I honored a visitor whom I hoped would curse Israel.",
+        "citations": "Numbers 22:37",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Come, now, do curse this people for me.\"",
+        "citations": "Numbers 22:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent a second group of officials after my first request was unsuccessful.",
+        "citations": "Numbers 22:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent messengers to a man living near the Euphrates River.",
+        "citations": "Numbers 22:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became angry when blessings were pronounced instead of curses.",
+        "citations": "Numbers 24:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I built altars and provided sacrifices in an effort to obtain a curse.",
+        "citations": "Numbers 23:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I moved from one location to another hoping for a different prophecy.",
+        "citations": "Numbers 23:13,14; Numbers 23:27,28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I struck my hands together in frustration.",
+        "citations": "Numbers 24:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I took someone to view part of Israel's camp before asking for a curse.",
+        "citations": "Numbers 22:41",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A prophecy about a star coming out of Jacob was delivered while I was present.",
+        "citations": "Numbers 24:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I took a prophet to Bamoth-baal, the field of Zophim, and the top of Peor.",
+        "citations": "Numbers 22:41; Numbers 23:14; Numbers 23:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was told, \"How can I curse whom God has not cursed?\"",
+        "citations": "Numbers 23:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah later reminded Israel of the counsel I gave and of Balaam's answer.",
+        "citations": "Micah 6:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Joshua later recalled that I fought against Israel and that I hired Balaam to curse them.",
+        "citations": "Joshua 24:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My attempts to curse Israel resulted in repeated blessings instead.",
+        "citations": "Numbers 23:7-12; Numbers 23:18-24; Numbers 24:3-9",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Bezalel",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Jehovah chose me to help build the tabernacle.",
+        "citations": "Exodus 31:1-5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was filled with God's spirit for craftsmanship.",
+        "citations": "Exodus 31:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I worked on the construction of the tabernacle and its furnishings.",
+        "citations": "Exodus 36:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Oholiab worked alongside me.",
+        "citations": "Exodus 31:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was given wisdom, understanding, and knowledge for a special assignment.",
+        "citations": "Exodus 31:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was skilled in working with gold, silver, and copper.",
+        "citations": "Exodus 31:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was skilled in stonecutting and wood carving.",
+        "citations": "Exodus 31:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah specifically called me by name.",
+        "citations": "Exodus 31:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I helped teach others the skills needed for sacred construction work.",
+        "citations": "Exodus 35:34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I received contributions from the Israelites for a major building project.",
+        "citations": "Exodus 36:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The people kept bringing me more materials than were needed.",
+        "citations": "Exodus 36:5-7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I helped create the Ark of the Covenant.",
+        "citations": "Exodus 37:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I made two gold cherubs whose wings overshadowed a sacred cover.",
+        "citations": "Exodus 37:7-9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I made the table used for the showbread.",
+        "citations": "Exodus 37:10-16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I made the lampstand from pure gold.",
+        "citations": "Exodus 37:17-24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I made the incense altar.",
+        "citations": "Exodus 37:25-28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I made the altar for burnt offerings.",
+        "citations": "Exodus 38:1-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I made the copper basin and its stand.",
+        "citations": "Exodus 38:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My grandfather was Hur.",
+        "citations": "Exodus 31:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was the son of Uri.",
+        "citations": "Exodus 31:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The record says that I did everything just as Jehovah had commanded Moses.",
+        "citations": "Exodus 38:22",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Bildad (the Shuhite)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Along with Job's other two companions, I did not recognize him from a distance and began to weep loudly.",
+        "citations": "Job 2:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Along with Job's other two companions, I did what Jehovah required, and Job prayed for me.",
+        "citations": "Job 42:8,9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Along with Job's other two companions, I sat with him on the ground for seven days and seven nights in silence.",
+        "citations": "Job 2:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I answered Job more than once during his suffering.",
+        "citations": "Job 8:1; Job 18:1; Job 25:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I came from my own place with Job's other two companions to comfort him.",
+        "citations": "Job 2:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah's anger burned against Job's three companions, including me, for what had been said about Him.",
+        "citations": "Job 42:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Along with Job's other two companions, I offered seven bulls and seven rams as Jehovah required.",
+        "citations": "Job 42:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked whether God would pervert justice, or the Almighty pervert righteousness.",
+        "citations": "Job 8:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I met by agreement with Eliphaz and Zophar before going to Job.",
+        "citations": "Job 2:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said God will not reject those who keep integrity, nor support evil men.",
+        "citations": "Job 8:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said that if Job's sons had sinned against God, He let them be punished for their revolt.",
+        "citations": "Job 8:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said that those living only a short while know nothing, for their days on earth are a shadow.",
+        "citations": "Job 8:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Job that if he were truly pure and upright, God would restore him to his rightful place.",
+        "citations": "Job 8:5,6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I urged Job to ask the former generation and pay attention to what their fathers found out.",
+        "citations": "Job 8:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a Shuhite.",
+        "citations": "Job 2:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After my shortest speech of all, I stopped answering Job along with his other two companions.",
+        "citations": "Job 25:1-6; Job 32:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked whether a papyrus plant can grow tall where there is no marsh.",
+        "citations": "Job 8:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked why Job's companions should be viewed as animals and considered stupid in his eyes.",
+        "citations": "Job 18:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I compared mortal man to a maggot, and a son of man to a worm.",
+        "citations": "Job 25:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I compared the hope of the godless to something as fragile as a spider's web.",
+        "citations": "Job 8:13,14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I described the wicked man's feet leading him into a net, with snares catching his heel.",
+        "citations": "Job 18:8,9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said even the moon is not bright and the stars are not pure in God's eyes.",
+        "citations": "Job 25:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said sulfur would be scattered on the wicked man's home.",
+        "citations": "Job 18:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the light of the wicked will be extinguished, and the lamp over him will go out.",
+        "citations": "Job 18:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the wicked man is torn from his tent and marched to the king of terrors.",
+        "citations": "Job 18:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked how mortal man can be righteous before God, or how one born of a woman can be innocent.",
+        "citations": "Job 25:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I pictured the wicked with no offspring among his people.",
+        "citations": "Job 18:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said the memory of the wicked would fade from the earth, and in the street his name would be unknown.",
+        "citations": "Job 18:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Job that though his beginning was small, his future would be great if he looked to God.",
+        "citations": "Job 8:5-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said that rulership and fearsome power belong to God, who establishes peace in the heights.",
+        "citations": "Job 25:2",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Caleb",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I represented the tribe of Judah among the twelve spies sent into Canaan.",
+        "citations": "Numbers 13:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Joshua and I encouraged Israel to enter the Promised Land.",
+        "citations": "Numbers 14:6-9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I survived the wilderness journey while most of my generation did not.",
+        "citations": "Numbers 14:30",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I received Hebron as an inheritance.",
+        "citations": "Joshua 14:13,14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I followed Jehovah wholeheartedly.",
+        "citations": "Numbers 14:24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I tried to calm the people after the spies gave their report.",
+        "citations": "Numbers 13:30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Let us go up immediately, and we will certainly conquer it.\"",
+        "citations": "Numbers 13:30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw giants in the land but still believed we could take it.",
+        "citations": "Numbers 13:28-30; Numbers 14:6-9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the son of Jephunneh.",
+        "citations": "Numbers 13:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I tore my garments when the people talked about rebelling.",
+        "citations": "Numbers 14:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that the inhabitants of Canaan would be bread for us.",
+        "citations": "Numbers 14:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was nearly stoned for encouraging faith in Jehovah's promise.",
+        "citations": "Numbers 14:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said that I had a different spirit from the rest of the people.",
+        "citations": "Numbers 14:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I crossed the Jordan after spending about forty years in the wilderness.",
+        "citations": "Numbers 14:30; Joshua 14:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that I was still as strong as I had been decades earlier.",
+        "citations": "Joshua 14:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At eighty-five years of age, I asked for a mountainous region as my inheritance.",
+        "citations": "Joshua 14:10-12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I requested the very area where the Anakim lived.",
+        "citations": "Joshua 14:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I drove out Sheshai, Ahiman, and Talmai.",
+        "citations": "Joshua 15:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said, \"Give me this mountainous region.\"",
+        "citations": "Joshua 14:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My daughter Achsah asked me for springs of water.",
+        "citations": "Joshua 15:18,19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I offered my daughter in marriage to the man who captured Kiriath-sepher.",
+        "citations": "Joshua 15:16,17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Othniel became my son-in-law.",
+        "citations": "Joshua 15:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My inheritance remained with my descendants because I followed Jehovah wholeheartedly.",
+        "citations": "Joshua 14:9; Joshua 14:14",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Dathan",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I rebelled against Moses with Korah.",
+        "citations": "Numbers 16:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was from the tribe of Reuben.",
+        "citations": "Numbers 16:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "The earth opened and swallowed me.",
+        "citations": "Numbers 16:31-33",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I accused Moses of wanting to make himself an absolute ruler.",
+        "citations": "Numbers 16:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Abiram and I accused Moses of bringing us up out of a land flowing with milk and honey.",
+        "citations": "Numbers 16:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I refused to come when Moses sent for me.",
+        "citations": "Numbers 16:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a chosen one of the assembly who fought against Moses and Aaron.",
+        "citations": "Numbers 26:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a son of Eliab.",
+        "citations": "Numbers 16:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I also had a brother named Nemuel.",
+        "citations": "Numbers 26:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked Moses whether he would bore out the eyes of those men.",
+        "citations": "Numbers 16:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I belonged to the line of Pallu through my father Eliab.",
+        "citations": "Numbers 26:8,9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Moses had not brought Israel into any land flowing with milk and honey.",
+        "citations": "Numbers 16:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Moses had not given an inheritance of field and vineyard.",
+        "citations": "Numbers 16:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I took my stand at the entrance of my tent with my wife, my sons, and my little children.",
+        "citations": "Numbers 16:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Moses came to me with the elders of Israel.",
+        "citations": "Numbers 16:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The assembly was told to get away from around my tent before I was judged.",
+        "citations": "Numbers 16:24-27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After the earth swallowed me, I became a warning example.",
+        "citations": "Numbers 26:9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "An inspired song recalled that the earth opened up and swallowed me.",
+        "citations": "Psalm 106:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I fought against Moses and Aaron along with Korah's group, and against Jehovah.",
+        "citations": "Numbers 26:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I went down alive into the Grave, and the earth covered me over.",
+        "citations": "Numbers 16:33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Moses later reminded Israel of what Jehovah did to me and my brother before all Israel's eyes.",
+        "citations": "Deuteronomy 11:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My household, my tents, and every living thing that followed me were swallowed with me.",
+        "citations": "Deuteronomy 11:6",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Eleazar",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I became high priest after my father died.",
+        "citations": "Numbers 20:25-28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My father was Aaron.",
+        "citations": "Exodus 6:23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Joshua and I helped divide the Promised Land among the tribes.",
+        "citations": "Joshua 14:1; Joshua 19:51",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I survived when two of my brothers offered unauthorized fire.",
+        "citations": "Leviticus 10:1-6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My brothers Nadab and Abihu died before Jehovah.",
+        "citations": "Leviticus 10:1,2; Numbers 3:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My father removed his priestly garments and placed them on me before he died.",
+        "citations": "Numbers 20:25-28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was from the tribe of Levi.",
+        "citations": "Exodus 6:16-23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I supervised the oil of the lighting, incense, grain offering, and anointing oil used at the tabernacle.",
+        "citations": "Numbers 4:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I married one of the daughters of Putiel.",
+        "citations": "Exodus 6:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My son was Phinehas.",
+        "citations": "Exodus 6:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was instructed to consult the Urim when guidance was needed for Joshua.",
+        "citations": "Numbers 27:18-21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I helped count the Israelites on the plains of Moab.",
+        "citations": "Numbers 26:1-4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I participated in the distribution of conquered Midianite spoil.",
+        "citations": "Numbers 31:21-31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My son was sent with representatives of the tribes to investigate an altar built near the Jordan.",
+        "citations": "Joshua 22:13-16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My son approved the explanation given by the tribes east of the Jordan regarding a disputed altar.",
+        "citations": "Joshua 22:30-34",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I came down from Mount Hor with Moses after receiving my father's priestly garments following his death there.",
+        "citations": "Numbers 20:27,28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I died and was buried at Gibeah, a city associated with my son.",
+        "citations": "Joshua 24:33",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When David divided the priesthood, more headmen were found among my sons than among Ithamar's sons.",
+        "citations": "1 Chronicles 24:4",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Elihu",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I spoke after Job's three companions stopped answering him.",
+        "citations": "Job 32:1-3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I became angry with Job and his three companions.",
+        "citations": "Job 32:2,3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was younger than the men I addressed.",
+        "citations": "Job 32:4-6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I waited before speaking because I respected the age of those present.",
+        "citations": "Job 32:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Days themselves should speak, And a multitude of years should make wisdom known.\"",
+        "citations": "Job 32:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I believed that age alone does not guarantee wisdom.",
+        "citations": "Job 32:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I listened carefully while older men searched for answers to Job's arguments.",
+        "citations": "Job 32:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said that I was full of words and compelled to speak.",
+        "citations": "Job 32:18-20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I compared myself to wineskins ready to burst.",
+        "citations": "Job 32:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I promised not to show partiality or flatter anyone.",
+        "citations": "Job 32:21,22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that God speaks in more than one way even when people do not notice it.",
+        "citations": "Job 33:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I described dreams and visions as one way God may communicate.",
+        "citations": "Job 33:14-18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that God is greater than mortal man.",
+        "citations": "Job 33:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I urged Job to listen while I continued speaking.",
+        "citations": "Job 33:31-33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I declared that true justice cannot be perverted by God.",
+        "citations": "Job 34:10-12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I argued that God repays a person according to his actions.",
+        "citations": "Job 34:11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I spoke about the formation of ice, snow, rain, and clouds.",
+        "citations": "Job 37:6-13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I described thunder as the voice of God.",
+        "citations": "Job 37:2-5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was the son of Barachel the Buzite.",
+        "citations": "Job 32:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was from the family of Ram.",
+        "citations": "Job 32:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I finished speaking immediately before Jehovah answered out of the windstorm.",
+        "citations": "Job 37:24; Job 38:1",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Eliphaz (the Temanite)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "After Jehovah spoke to me, Job prayed for his three companions, including me.",
+        "citations": "Job 42:8,9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Along with Job's other two companions, I did not recognize him from a distance.",
+        "citations": "Job 2:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Along with Job's other two companions, I sat on the ground with him for seven days and seven nights without saying a word.",
+        "citations": "Job 2:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I argued with Job about why he was suffering.",
+        "citations": "Job 4:1; Job 15:1; Job 22:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I came with Job's other two companions to sympathize with him and comfort him.",
+        "citations": "Job 2:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah told me that my two companions and I had not spoken the truth about Him as Job had.",
+        "citations": "Job 42:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Along with Job's other two companions, I ripped my garments apart and threw dust onto my head.",
+        "citations": "Job 2:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Along with Job's other two companions, I took seven bulls and seven rams and offered up a burnt sacrifice.",
+        "citations": "Job 42:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I agreed with Bildad and Zophar to meet together before going to Job.",
+        "citations": "Job 2:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked what innocent person had ever perished, or when the upright had been destroyed.",
+        "citations": "Job 4:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I reminded Job that he had once strengthened weak hands and buckling knees.",
+        "citations": "Job 4:3,4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said man is born for trouble as surely as sparks fly upward.",
+        "citations": "Job 5:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said those who plow what is harmful and sow trouble will reap the same.",
+        "citations": "Job 4:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, “Happy is the man whom God reproves.”",
+        "citations": "Job 5:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spoke first among Job's three companions.",
+        "citations": "Job 4:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I urged Job not to reject the discipline of the Almighty.",
+        "citations": "Job 5:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a Temanite.",
+        "citations": "Job 2:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah addressed me when He rebuked Job's companions.",
+        "citations": "Job 42:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Job that a word was brought to me in secret, and a whisper of it reached my ear.",
+        "citations": "Job 4:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Along with Job's other two companions, I stopped answering him when he remained convinced of his own righteousness.",
+        "citations": "Job 32:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "During a night vision, a spirit passed over my face and the hair of my flesh bristled.",
+        "citations": "Job 4:13-15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I accused Job of holding back food from the hungry and sending widows away empty-handed.",
+        "citations": "Job 22:7, 9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I accused Job of seizing a pledge from his brothers for no reason.",
+        "citations": "Job 22:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked if Job had been the first man ever born, or if his birth was before that of the hills.",
+        "citations": "Job 15:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I compared mortal men to those dwelling in houses of clay, crushed as easily as a moth.",
+        "citations": "Job 4:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I heard a voice ask whether a mortal man can be more righteous than God.",
+        "citations": "Job 4:16,17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said God would save Job from six calamities, and even the seventh would not harm him.",
+        "citations": "Job 5:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Job's own mouth condemned him, and his own lips testified against him.",
+        "citations": "Job 15:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said a man drinks in unrighteousness just like water.",
+        "citations": "Job 15:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said gray-haired and aged men among Job's companions were much older than Job's father.",
+        "citations": "Job 15:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that then the Almighty would become Job's gold.",
+        "citations": "Job 22:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Job to throw his gold into the dust and the gold of Ophir into the rocky ravines.",
+        "citations": "Job 22:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I filled Job's hearing with a night vision, then later charged that there was no end to his errors.",
+        "citations": "Job 4:12-17; Job 22:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said God has no faith in his servants and finds fault with his angels.",
+        "citations": "Job 4:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said even the heavens are not pure in God's eyes.",
+        "citations": "Job 15:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I spoke against Job three times before Jehovah said my anger-worthy words about Him were untrue.",
+        "citations": "Job 4:1; Job 15:1; Job 22:1; Job 42:7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Job that if he returned to the Almighty and removed unrighteousness from his tent, he would be restored.",
+        "citations": "Job 22:23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Job to get to know God and he would be at peace.",
+        "citations": "Job 22:21",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Jethro",
+    "aliases": [
+      "Reuel"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Moses married my daughter.",
+        "citations": "Exodus 2:21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a priest of Midian.",
+        "citations": "Exodus 3:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Zipporah was one of my daughters.",
+        "citations": "Exodus 2:21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Moses cared for my flock before returning to Egypt.",
+        "citations": "Exodus 3:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Moses encountered the burning bush while leading my flock.",
+        "citations": "Exodus 3:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had seven daughters.",
+        "citations": "Exodus 2:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My daughters told me about an Egyptian who rescued them from shepherds.",
+        "citations": "Exodus 2:17-19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I welcomed Moses into my household after he fled from Egypt.",
+        "citations": "Exodus 2:20,21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked my daughters where the man who helped them was and why they had left him behind.",
+        "citations": "Exodus 2:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I advised Moses to appoint capable men over thousands, hundreds, fifties, and tens.",
+        "citations": "Exodus 18:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I brought Moses' wife and sons to him in the wilderness.",
+        "citations": "Exodus 18:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I listened as Moses described Jehovah's deliverance of Israel from Egypt.",
+        "citations": "Exodus 18:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I offered sacrifices to God in the presence of Aaron and Israel's elders.",
+        "citations": "Exodus 18:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I watched Moses spend morning to evening serving as judge for the people.",
+        "citations": "Exodus 18:13,14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Moses, \"What you are doing is not good.\"",
+        "citations": "Exodus 18:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My advice helped establish a system of delegated judging in Israel.",
+        "citations": "Exodus 18:21-26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I recommended choosing men who feared God, were trustworthy, and hated dishonest profit.",
+        "citations": "Exodus 18:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After visiting Israel's camp, Moses saw me off and I returned to my own land.",
+        "citations": "Exodus 18:27",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Job",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I lost my children, wealth, and health in a series of disasters.",
+        "citations": "Job 1:13-19; Job 2:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I remained faithful despite severe suffering.",
+        "citations": "Job 1:20-22; Job 2:9,10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My body became covered with painful boils.",
+        "citations": "Job 2:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Satan claimed that I served God only because I was protected and prosperous.",
+        "citations": "Job 1:9-11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Three companions came to comfort me during my suffering.",
+        "citations": "Job 2:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Before my trials I had seven sons and three daughters.",
+        "citations": "Job 1:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I lived in the land of Uz.",
+        "citations": "Job 1:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I regularly offered sacrifices on behalf of my children.",
+        "citations": "Job 1:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Jehovah gave, and Jehovah has taken away. Let the name of Jehovah continue to be praised.\"",
+        "citations": "Job 1:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Should we accept only what is good from the true God and not also accept what is bad?\"",
+        "citations": "Job 2:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was described as blameless, upright, and fearing God.",
+        "citations": "Job 1:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the greatest of all the Orientals.",
+        "citations": "Job 1:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My companions sat with me in silence for seven days and seven nights.",
+        "citations": "Job 2:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My wife urged me to curse God and die.",
+        "citations": "Job 2:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A younger man became angry with both me and my companions and later spoke at length.",
+        "citations": "Job 32:1-5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Eliphaz, Bildad, and Zophar argued with me about my suffering.",
+        "citations": "Job 2:11; Job 4:1; Job 8:1; Job 11:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Even if God killed me, I would wait for him and defend my ways before him.",
+        "citations": "Job 13:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I cursed the day of my birth.",
+        "citations": "Job 3:1-3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wished that my words could be written in a book and carved forever in rock.",
+        "citations": "Job 19:23,24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I longed for an audience with God so that I could present my case.",
+        "citations": "Job 13:3; Job 23:3-7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said I had been eyes to the blind and feet to the lame.",
+        "citations": "Job 29:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"For I well know that my redeemer is alive.\"",
+        "citations": "Job 19:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I tore my garment, shaved my head, and fell to the ground when disaster struck.",
+        "citations": "Job 1:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wished that I had died at birth.",
+        "citations": "Job 3:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In one day Sabeans, fire from the heavens, Chaldeans, and a great wind each brought me news of ruin.",
+        "citations": "Job 1:14-19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After my trials, I received twice as much as I had before.",
+        "citations": "Job 42:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Afterward my brothers, sisters, and former acquaintances each gave me a piece of money and a gold ring.",
+        "citations": "Job 42:11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I died old and satisfied with days.",
+        "citations": "Job 42:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I gave my daughters an inheritance among their brothers.",
+        "citations": "Job 42:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I lived for 140 years after my trials ended.",
+        "citations": "Job 42:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I made a covenant with my eyes.",
+        "citations": "Job 31:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I prayed in behalf of the very men who had criticized me.",
+        "citations": "Job 42:8-10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I repented in dust and ashes after Jehovah answered me.",
+        "citations": "Job 42:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said, \"My ears have heard about you, but now I do see you with my eyes.\"",
+        "citations": "Job 42:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said, \"The thing I greatly feared has come upon me.\"",
+        "citations": "Job 3:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I scraped my skin with a piece of pottery while sitting among ashes.",
+        "citations": "Job 2:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was questioned about Behemoth and Leviathan.",
+        "citations": "Job 40:15-24; Job 41:1-34",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah asked me from a windstorm where I was when he founded the earth.",
+        "citations": "Job 38:1-4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah told my companions to ask me to pray for them.",
+        "citations": "Job 42:7-9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My daughters were named Jemimah, Keziah, and Keren-happuch.",
+        "citations": "Job 42:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My three daughters were more beautiful than all other women in the land.",
+        "citations": "Job 42:15",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Jochebed",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I placed my baby in a papyrus basket among the reeds of the Nile.",
+        "citations": "Exodus 2:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was paid to nurse my own son.",
+        "citations": "Exodus 2:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the mother of Moses.",
+        "citations": "Exodus 6:20; Numbers 26:59",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I also bore Aaron and Miriam.",
+        "citations": "Numbers 26:59",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I belonged to the house of Levi.",
+        "citations": "Exodus 2:1; Numbers 26:59",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I coated a papyrus basket with bitumen and pitch.",
+        "citations": "Exodus 2:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the wife of Amram.",
+        "citations": "Exodus 6:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I saw how beautiful my son was, I kept him concealed.",
+        "citations": "Exodus 2:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After my son grew older, I brought him to the woman who had taken him from the Nile.",
+        "citations": "Exodus 2:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "An Egyptian royal woman hired me to nurse the child I had hidden.",
+        "citations": "Exodus 2:7-9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was Amram's father's sister.",
+        "citations": "Exodus 6:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was Levi's daughter, born to Levi in Egypt.",
+        "citations": "Numbers 26:59",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My daughter stood at a distance after I placed my son among the reeds.",
+        "citations": "Exodus 2:3,4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When I could no longer conceal my son, I set him by the bank of the Nile.",
+        "citations": "Exodus 2:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "By faith I hid my son for three months and did not fear the order of the king.",
+        "citations": "Exodus 2:2; Hebrews 11:23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "One of my sons became high priest, and the other led Israel out of Egypt.",
+        "citations": "Exodus 3:10; Exodus 6:20; Exodus 28:1; Numbers 26:59",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I nursed the future deliverer of Israel while being paid by the woman who had drawn him from the water.",
+        "citations": "Exodus 2:9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The child I hid in the Nile later became a son to the woman who found him.",
+        "citations": "Exodus 2:3,10",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Joshua",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I commanded Israel when Jericho fell.",
+        "citations": "Joshua 6:1-20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I defeated Amalek and his people with the sword.",
+        "citations": "Exodus 17:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I led Israel across the Jordan into the Promised Land.",
+        "citations": "Joshua 3:14-17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said, \"Sun, stand still over Gibeon, and moon, over the Valley of Aijalon!\"",
+        "citations": "Joshua 10:12,13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I succeeded Moses as leader of Israel.",
+        "citations": "Deuteronomy 31:7,8; Joshua 1:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was one of the twelve spies sent into Canaan.",
+        "citations": "Numbers 13:1-16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Only Caleb and I urged Israel to enter the Promised Land.",
+        "citations": "Numbers 14:6-9,30",
+        "difficulty": "easy"
+      },
+      {
+        "text": "The sun stood still while I fought a battle.",
+        "citations": "Joshua 10:12-14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "From Shiloh I sent men to walk through the land and map it out.",
+        "citations": "Joshua 18:4-9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I blessed Caleb and gave him Hebron as an inheritance.",
+        "citations": "Joshua 14:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I divided the Promised Land among the tribes of Israel.",
+        "citations": "Joshua 14:1-5; Joshua 19:51",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I would not depart from the tent of meeting when Moses returned to the camp.",
+        "citations": "Exodus 33:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Do not fear the people of the land, for they are bread for us.\"",
+        "citations": "Numbers 14:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I urged the people not to rebel against Jehovah after the spies returned.",
+        "citations": "Numbers 14:6-9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was Moses' attendant while I was still a young man.",
+        "citations": "Exodus 24:13; Exodus 33:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was chosen to lead Israel after Moses was told he would not enter the Promised Land.",
+        "citations": "Numbers 27:12-14,18-23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was deceived by people who carried worn-out sandals and moldy bread.",
+        "citations": "Joshua 9:3-15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was of the tribe of Ephraim.",
+        "citations": "Numbers 13:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went up from Gilgal to rescue Gibeon from five Amorite kings.",
+        "citations": "Joshua 10:6-9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Descending with Moses, I said, “There is the sound of battle in the camp.”",
+        "citations": "Exodus 32:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I built an altar to Jehovah on Mount Ebal.",
+        "citations": "Joshua 8:30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I gave God's command to priests carrying the Ark before Israel crossed the Jordan.",
+        "citations": "Joshua 3:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I made flint knives and circumcised the men of Israel at Gibeath-haaraloth.",
+        "citations": "Joshua 5:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I appointed twelve men to take twelve stones from the Jordan as a memorial.",
+        "citations": "Joshua 4:4-7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, “Cursed be the man before Jehovah who undertakes to rebuild this city of Jericho.”",
+        "citations": "Joshua 6:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent two spies secretly into Jericho.",
+        "citations": "Joshua 2:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was instructed to be courageous because Jehovah would be with me wherever I went.",
+        "citations": "Joshua 1:5-9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told Moses to write a memorial and repeat to me that He would wipe out the memory of Amalek.",
+        "citations": "Exodus 17:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Moses laid his hands on me before all Israel.",
+        "citations": "Numbers 27:22,23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Rahab hid the men I sent to spy out a city.",
+        "citations": "Joshua 2:1-6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When Eldad and Medad were prophesying, I said, “My lord Moses, restrain them!”",
+        "citations": "Numbers 11:26-28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "With Caleb I ripped my garments apart after the spies brought a bad report.",
+        "citations": "Numbers 14:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Hazor was the only city of that northern campaign that I burned.",
+        "citations": "Joshua 11:10-13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I died at 110 years of age.",
+        "citations": "Joshua 24:29",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I fell facedown before Jehovah after Israel's defeat at Ai.",
+        "citations": "Joshua 7:6-9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I hamstrung the horses of the northern kings and burned their chariots.",
+        "citations": "Joshua 11:6-9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I marched around a fortified city for seven days before its walls collapsed.",
+        "citations": "Joshua 6:3-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I met a man with a drawn sword near Jericho.",
+        "citations": "Joshua 5:13-15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I oversaw the judgment of the man who had taken devoted things from Jericho.",
+        "citations": "Joshua 7:19-26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I renewed a covenant with Israel at Shechem.",
+        "citations": "Joshua 24:1-28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said, \"As for me and my household, we will serve Jehovah.\"",
+        "citations": "Joshua 24:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I set up a large stone as a witness after speaking to the people.",
+        "citations": "Joshua 24:26,27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I stretched out a javelin toward a city during battle.",
+        "citations": "Joshua 8:18-26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told my chiefs to place their feet on the backs of the necks of five kings taken from a cave at Makkedah.",
+        "citations": "Joshua 10:16-24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was told, \"Remove your sandals from your feet, because the place where you are standing is holy.\"",
+        "citations": "Joshua 5:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Moses gave me a new name that I came to be known by.",
+        "citations": "Numbers 13:16; Joshua 1:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The Israelites gave me Timnath-serah in the mountainous region of Ephraim, the city I asked for.",
+        "citations": "Joshua 19:49,50",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Korah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I rebelled against Moses and Aaron.",
+        "citations": "Numbers 16:1-3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I died when fire consumed me along with 250 men.",
+        "citations": "Numbers 26:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I challenged the leadership that Jehovah had established for Israel.",
+        "citations": "Numbers 16:1-11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I gathered 250 prominent men to support my rebellion.",
+        "citations": "Numbers 16:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a Kohathite Levite.",
+        "citations": "Numbers 16:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I argued that the entire congregation was holy.",
+        "citations": "Numbers 16:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked why Moses and Aaron had exalted themselves over the congregation.",
+        "citations": "Numbers 16:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Moses reminded me that I had already been given special service among the Levites.",
+        "citations": "Numbers 16:8-10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sought the priesthood in addition to my assigned responsibilities.",
+        "citations": "Numbers 16:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I stood at the entrance of the tent of meeting with censers.",
+        "citations": "Numbers 16:18,19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The glory of Jehovah appeared while my rebellion was being judged.",
+        "citations": "Numbers 16:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Moses warned the people to move away from the tents associated with my rebellion.",
+        "citations": "Numbers 16:24-27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was a son of Izhar.",
+        "citations": "Numbers 16:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was a descendant of Kohath.",
+        "citations": "Numbers 16:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I joined forces with Dathan and Abiram in a challenge to Moses.",
+        "citations": "Numbers 16:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Fire consumed the 250 men who offered incense in support of my rebellion.",
+        "citations": "Numbers 16:35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The censers used in my rebellion were hammered into plating for the altar.",
+        "citations": "Numbers 16:36-40",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My rebellion became a warning against unauthorized priestly service.",
+        "citations": "Numbers 16:40",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A plague struck Israel after many people complained about the judgment connected to me.",
+        "citations": "Numbers 16:41-50",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Aaron stood between the dead and the living to stop a plague that followed my rebellion.",
+        "citations": "Numbers 16:46-48",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My name became associated with one of the most famous rebellions in Israel's wilderness history.",
+        "citations": "Numbers 16:1-35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I belonged to the same broader Levitical family as Moses and Aaron.",
+        "citations": "Exodus 6:16-21; Numbers 16:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was not satisfied with the privileges I already had among God's people.",
+        "citations": "Numbers 16:8-10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Later writers used my rebellion as an example of dangerous opposition to divine authority.",
+        "citations": "Jude 11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My sons survived even though I did not.",
+        "citations": "Numbers 26:11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Some inspired songs were later associated with my descendants.",
+        "citations": "Psalm 42:title; Psalm 44:title; Psalm 84:title",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Miriam",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the sister of Moses and Aaron.",
+        "citations": "Exodus 15:20; Numbers 26:59",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I watched over my baby brother after he was placed among the reeds of the Nile.",
+        "citations": "Exodus 2:3-8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I suggested that Pharaoh's daughter hire my own mother to nurse my baby brother.",
+        "citations": "Exodus 2:7-9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was called a prophetess.",
+        "citations": "Exodus 15:20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I led the women with tambourines after Israel crossed the Red Sea.",
+        "citations": "Exodus 15:20,21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I sang, \"Sing to Jehovah, for he has become highly exalted. The horse and its rider he has hurled into the sea.\"",
+        "citations": "Exodus 15:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I celebrated Jehovah's victory at the Red Sea with singing and dancing.",
+        "citations": "Exodus 15:20,21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I took a tambourine in my hand, and many women followed me.",
+        "citations": "Exodus 15:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spoke against Moses because of the Cushite woman he had married.",
+        "citations": "Numbers 12:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I questioned whether Jehovah had spoken only through Moses.",
+        "citations": "Numbers 12:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah defended my brother when I challenged his unique position.",
+        "citations": "Numbers 12:4-8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was struck with leprosy as white as snow.",
+        "citations": "Numbers 12:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Aaron pleaded with Moses after I was struck with leprosy.",
+        "citations": "Numbers 12:11,12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Moses cried out, \"O God, please heal her!\" because of me.",
+        "citations": "Numbers 12:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I remained outside the camp for seven days.",
+        "citations": "Numbers 12:14,15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The entire nation waited until I returned from quarantine before continuing its journey.",
+        "citations": "Numbers 12:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I died at Kadesh.",
+        "citations": "Numbers 20:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My death is recorded shortly before Israel's final approach to the Promised Land.",
+        "citations": "Numbers 20:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The prophet Micah later mentioned me alongside my two brothers.",
+        "citations": "Micah 6:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "God reminded Israel that he had sent Moses, Aaron, and I before them.",
+        "citations": "Micah 6:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah asked why my brother and I did not fear to speak against His servant.",
+        "citations": "Numbers 12:5-8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I led women in a victory song, but later I was disciplined after speaking against Moses.",
+        "citations": "Exodus 15:20,21; Numbers 12:1-15",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Moses",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "My brother and I were not allowed to enter the Promised Land because we did not sanctify God before the eyes of the people.",
+        "citations": "Numbers 20:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I came down from the mountain carrying two stone tablets.",
+        "citations": "Exodus 32:15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I died before Israel crossed the Jordan River.",
+        "citations": "Deuteronomy 34:1-5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I ground a golden calf into powder and made Israel drink it.",
+        "citations": "Exodus 32:20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I removed my sandals because I was standing on holy ground.",
+        "citations": "Exodus 3:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I repeatedly went before Pharaoh with Jehovah's message.",
+        "citations": "Exodus 5:1; Exodus 7:10; Exodus 8:1; Exodus 9:1; Exodus 10:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I saw a thornbush that was on fire but was not being consumed.",
+        "citations": "Exodus 3:2,3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I shattered the stone tablets when I saw Israel's idolatry.",
+        "citations": "Exodus 32:19",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I spent forty days and forty nights on Mount Sinai.",
+        "citations": "Exodus 24:18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I stretched out my staff over the Red Sea.",
+        "citations": "Exodus 14:16,21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I struck a rock instead of speaking to it.",
+        "citations": "Numbers 20:7-11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I struck a rock so that water came out for the people.",
+        "citations": "Exodus 17:5,6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was adopted into Pharaoh's household.",
+        "citations": "Exodus 2:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was born at a time when Hebrew baby boys were being put to death.",
+        "citations": "Exodus 1:22; Exodus 2:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was educated in all the wisdom of the Egyptians.",
+        "citations": "Acts 7:22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was placed in an ark of papyrus among the reeds of the Nile.",
+        "citations": "Exodus 2:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was told to lead the Israelites out of Egypt.",
+        "citations": "Exodus 3:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah buried me in the land of Moab.",
+        "citations": "Deuteronomy 34:5,6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah gave me the Ten Commandments.",
+        "citations": "Exodus 20:1-17; Deuteronomy 4:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Joshua succeeded me as Israel's leader.",
+        "citations": "Numbers 27:18-23; Deuteronomy 34:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My brother Aaron became my spokesman.",
+        "citations": "Exodus 4:14-16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My face became radiant after speaking with Jehovah.",
+        "citations": "Exodus 34:29-35",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My mother hid me for three months after I was born.",
+        "citations": "Exodus 2:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My own mother was hired to nurse me.",
+        "citations": "Exodus 2:7-9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "No one knows my burial place to this day.",
+        "citations": "Deuteronomy 34:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Pharaoh's daughter found me in the Nile.",
+        "citations": "Exodus 2:5,6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I chose to be mistreated with God's people rather than enjoy the temporary pleasure of sin.",
+        "citations": "Hebrews 11:24-26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Aaron and Hur supported my hands until sunset.",
+        "citations": "Exodus 17:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked God what I should say if the Israelites wanted to know his name.",
+        "citations": "Exodus 3:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked one Hebrew, 'Why do you strike your companion?'",
+        "citations": "Exodus 2:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, 'Please show me your glory.'",
+        "citations": "Exodus 33:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I ate no bread and drank no water for forty days and forty nights on the mountain.",
+        "citations": "Exodus 34:28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I became the father of Eliezer and Gershom.",
+        "citations": "Exodus 18:3,4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I blessed the tribes of Israel before my death.",
+        "citations": "Deuteronomy 33:1-29",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I carved out two stone tablets like the first ones I had shattered.",
+        "citations": "Exodus 34:1, 4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave Hoshea son of Nun the name Joshua.",
+        "citations": "Numbers 13:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went up Mount Nebo and Jehovah showed me the Promised Land.",
+        "citations": "Deuteronomy 34:1-4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I commissioned Joshua by laying my hands on him.",
+        "citations": "Numbers 27:18-23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I fled from Pharaoh to the land of Midian.",
+        "citations": "Exodus 2:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I hid the Egyptian's body in the sand.",
+        "citations": "Exodus 2:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I killed an Egyptian who was beating one of my fellow Hebrews.",
+        "citations": "Exodus 2:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I married Zipporah.",
+        "citations": "Exodus 2:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I pleaded with Jehovah not to destroy Israel after they made a golden calf.",
+        "citations": "Exodus 32:11-14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I raised my hands during a battle, and Israel prevailed while they remained raised.",
+        "citations": "Exodus 17:11-13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I realized my actions had become known after two Hebrews confronted me.",
+        "citations": "Exodus 2:13-15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went up and down Mount Sinai multiple times.",
+        "citations": "Exodus 19:3,14,20,25; Exodus 24:12-18; Exodus 32:15; Exodus 34:4,29",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I rescued seven sisters from shepherds who were driving them away.",
+        "citations": "Exodus 2:16,17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I returned to Egypt after hearing that those seeking my life were dead.",
+        "citations": "Exodus 4:19,20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Pardon me, Jehovah, please send anyone whom you want to send.\"",
+        "citations": "Exodus 4:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, \"Who am I that I should go to Pharaoh?\"",
+        "citations": "Exodus 3:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, 'I have become a foreign resident in a foreign land.'",
+        "citations": "Exodus 2:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, 'If you are not going with us, do not lead us up from here.'",
+        "citations": "Exodus 33:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spoke rashly before bringing water from a rock.",
+        "citations": "Numbers 20:10-12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I threw my staff to the ground, and it became a serpent.",
+        "citations": "Exodus 4:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Jehovah that I was not a fluent speaker.",
+        "citations": "Exodus 4:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I took my position in the gate of the camp and said, “Who is on Jehovah's side? Come to me!”",
+        "citations": "Exodus 32:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was eighty years old when I spoke to Pharaoh.",
+        "citations": "Exodus 7:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was one hundred and twenty years old when I died.",
+        "citations": "Deuteronomy 34:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I wrote a song to teach future generations.",
+        "citations": "Deuteronomy 31:19-22; Deuteronomy 32:1-43",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah directed me to a tree, and when I threw it into the water at Marah, the water became sweet.",
+        "citations": "Exodus 15:23-25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah spoke with me from the mountain while thunder and lightning surrounded it.",
+        "citations": "Exodus 19:16-20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My father-in-law advised me to appoint capable men to help judge the people.",
+        "citations": "Exodus 18:13-26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My hand became leprous and was then restored.",
+        "citations": "Exodus 4:6,7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Water that I poured onto the ground became blood.",
+        "citations": "Exodus 4:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When my rod became a serpent, I fled from it.",
+        "citations": "Exodus 4:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "By faith I kept the Passover and the sprinkling of the blood.",
+        "citations": "Hebrews 11:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I appeared with Elijah during Jesus' transfiguration.",
+        "citations": "Matthew 17:1-3; Mark 9:2-4; Luke 9:28-31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked Jehovah why he had allowed greater trouble to come upon His people.",
+        "citations": "Exodus 5:22,23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I became a shepherd in Midian after living in Pharaoh's household.",
+        "citations": "Exodus 3:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I complained to Jehovah that the burden of leading the nation was too heavy for me.",
+        "citations": "Numbers 11:10-15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I considered the reproach of the Christ greater riches than the treasures of Egypt.",
+        "citations": "Hebrews 11:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I deposited twelve rods before Jehovah, and Aaron's rod budded, blossomed, and bore ripe almonds.",
+        "citations": "Numbers 17:6-8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I heard Jehovah proclaim His own name and qualities before me.",
+        "citations": "Exodus 34:5-7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I instructed Israel to observe the first Passover.",
+        "citations": "Exodus 12:1-28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I lived with a priest of Midian.",
+        "citations": "Exodus 2:16,21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I met Aaron at the mountain of the true God after Jehovah sent him to me.",
+        "citations": "Exodus 4:27,28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I performed signs and miracles before Pharaoh and all Egypt.",
+        "citations": "Deuteronomy 34:10-12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I pleaded to pass over the Jordan and see the good land, but Jehovah said, “Enough from you!”",
+        "citations": "Deuteronomy 3:23-27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I prayed, 'O God, please heal her!'",
+        "citations": "Numbers 12:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, “If you are willing, pardon their sin; if not, please wipe me out from your book that you have written.”",
+        "citations": "Exodus 32:32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent twelve men to spy out the Promised Land.",
+        "citations": "Numbers 13:1-20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I spent about forty years in Midian before God called me.",
+        "citations": "Acts 7:29-32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sprinkled blood on the people and said, “This is the blood of the covenant that Jehovah has made with you.”",
+        "citations": "Exodus 24:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I supervised the construction of the tabernacle according to the pattern shown to me.",
+        "citations": "Exodus 25:9; Exodus 39:42,43; Exodus 40:16-33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told the Israelites to apply blood to their doorposts.",
+        "citations": "Exodus 12:7,21-23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I warned Pharaoh about the death of every firstborn in Egypt.",
+        "citations": "Exodus 11:4-8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wished that all of Jehovah's people were prophets.",
+        "citations": "Numbers 11:29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote this Law and had it placed beside the ark of the covenant of Jehovah.",
+        "citations": "Deuteronomy 31:9, 24-26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Israel mourned me for thirty days.",
+        "citations": "Deuteronomy 34:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Israel's elders believed after seeing the signs Jehovah had given me.",
+        "citations": "Exodus 4:29-31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah described me as the most humble man on the face of the earth.",
+        "citations": "Numbers 12:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah placed me in a cleft of the rock while His glory passed by.",
+        "citations": "Exodus 33:21-23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah sent quail after the people I led complained about the manna.",
+        "citations": "Numbers 11:31-34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah showed me the entire Promised Land before my death.",
+        "citations": "Deuteronomy 34:1-4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah spoke with me face-to-face, as one man speaks to another.",
+        "citations": "Exodus 33:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jesus said that I wrote about him.",
+        "citations": "John 5:46",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My brother and sister spoke against me because of my Cushite wife.",
+        "citations": "Numbers 12:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My decision to help one Hebrew led to my exile from Egypt.",
+        "citations": "Exodus 2:11-15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My eyesight had not grown dim, nor had my strength diminished when I died.",
+        "citations": "Deuteronomy 34:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My father-in-law was also known as Reuel.",
+        "citations": "Exodus 2:18; Exodus 3:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My first audience with Pharaoh resulted in harsher labor for the Israelites.",
+        "citations": "Exodus 5:1-21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "No prophet like me had yet arisen in Israel after my death.",
+        "citations": "Deuteronomy 34:10-12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "On Mount Hor I removed Aaron's garments and clothed Eleazar his son with them.",
+        "citations": "Numbers 20:25-28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At a lodging place, my wife circumcised our son with a flint.",
+        "citations": "Exodus 4:24-26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Pharaoh sought to kill me after learning what I had done.",
+        "citations": "Exodus 2:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Seventy elders received some of the spirit that had been upon me.",
+        "citations": "Numbers 11:16,17,24,25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Devil disputed with Michael over my body.",
+        "citations": "Jude 9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The magicians of Egypt copied some of the early signs that Jehovah performed through me.",
+        "citations": "Exodus 7:11,12,22; Exodus 8:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When I finished speaking with the Israelites, I would put a veil over my face.",
+        "citations": "Exodus 34:33-35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When the Ark would set out, I said, “Rise up, Jehovah!”",
+        "citations": "Numbers 10:35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "With Aaron, Nadab, Abihu, and seventy elders of Israel, I saw a vision of the true God.",
+        "citations": "Exodus 24:9-11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A bronze serpent was made during my leadership so that those who looked at it would live.",
+        "citations": "Numbers 21:4-9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A pillar of cloud and a pillar of fire guided the nation I was leading.",
+        "citations": "Exodus 13:21,22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A song bearing my name appears in both the Hebrew Scriptures and the Christian Greek Scriptures.",
+        "citations": "Exodus 15:1-19; Revelation 15:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Balak wanted Balaam to curse the nation I was leading.",
+        "citations": "Numbers 22:1-6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "By faith I left Egypt, not fearing the rage of the king.",
+        "citations": "Hebrews 11:27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I announced that Jehovah would raise up a prophet like me, and Peter later applied that promise to Jesus.",
+        "citations": "Deuteronomy 18:15-18; Acts 3:22,23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I asked the Israelites to remember the day they left Egypt throughout future generations.",
+        "citations": "Exodus 13:3-10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I carried Joseph's bones out of Egypt.",
+        "citations": "Exodus 13:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I faced Korah's rebellion during my leadership.",
+        "citations": "Numbers 16:1-35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I instructed Aaron to take a censer into the congregation to stop a plague.",
+        "citations": "Numbers 16:46-48",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I interceded for Israel after they refused to enter the Promised Land.",
+        "citations": "Numbers 14:13-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I led Israel in singing after Jehovah's victory at the Red Sea.",
+        "citations": "Exodus 15:1-19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I led Israel out of Egypt, but Joshua led them into the Promised Land.",
+        "citations": "Exodus 3:10; Joshua 1:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said, \"Jehovah himself will fight for you, and you will keep silent.\"",
+        "citations": "Exodus 14:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sang, \"My strength and my might is Jah, since he has become my salvation.\"",
+        "citations": "Exodus 15:2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I stretched out my hand again, and the sea returned upon the Egyptian army.",
+        "citations": "Exodus 14:26-28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I stretched out my hand, and Jehovah drove the sea back with a strong east wind all night.",
+        "citations": "Exodus 14:21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told the frightened Israelites, \"Do not be afraid. Stand firm and see the salvation of Jehovah.\"",
+        "citations": "Exodus 14:13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was faithful in all God's house as a servant.",
+        "citations": "Numbers 12:7; Hebrews 3:2-5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah defended my leadership repeatedly when others challenged it.",
+        "citations": "Numbers 12:1-15; Numbers 16:1-35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah knew me 'face to face.'",
+        "citations": "Deuteronomy 34:10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah told me that my assistant would receive some of my authority.",
+        "citations": "Numbers 27:18-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jesus compared his being lifted up to the copper serpent made in my day.",
+        "citations": "Numbers 21:8,9; John 3:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My brothers did not realize at first that God was using me to bring them salvation.",
+        "citations": "Acts 7:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "At forty I fled Egypt, and forty years later Jehovah appeared to me while I was tending a flock.",
+        "citations": "Acts 7:23,30; Exodus 3:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul used the veil I wore to explain the fading glory of the old covenant.",
+        "citations": "Exodus 34:33-35; 2 Corinthians 3:7, 13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Paul wrote that our forefathers got baptized into me by means of the cloud and of the sea.",
+        "citations": "1 Corinthians 10:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Stephen described me as being powerful in both my words and my deeds.",
+        "citations": "Acts 7:22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Stephen summarized my life as three periods of forty years each.",
+        "citations": "Acts 7:20-42",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The Law covenant became closely associated with my name.",
+        "citations": "John 1:17; Hebrews 10:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The man who rejected my intervention asked, 'Who appointed you ruler and judge over us?'",
+        "citations": "Exodus 2:14; Acts 7:27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When I was forty years old, it came into my heart to see how my brothers, the sons of Israel, were doing.",
+        "citations": "Acts 7:23",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Nadab",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Fire came out from before Jehovah and consumed me.",
+        "citations": "Leviticus 10:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I offered unauthorized fire before Jehovah.",
+        "citations": "Leviticus 10:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was Aaron's firstborn.",
+        "citations": "Numbers 3:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a son of Aaron.",
+        "citations": "Exodus 6:23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I died before Jehovah in the wilderness of Sinai.",
+        "citations": "Numbers 3:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw a vision of the true God.",
+        "citations": "Exodus 24:10,11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was named among Aaron's sons summoned to serve as priests.",
+        "citations": "Exodus 28:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went up with Moses, Aaron, my brother, and 70 elders of Israel.",
+        "citations": "Exodus 24:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My brother and I each took a fire holder and placed incense on it.",
+        "citations": "Leviticus 10:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My mother was Elisheba.",
+        "citations": "Exodus 6:23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After I died, Eleazar and Ithamar continued to serve as priests with Aaron.",
+        "citations": "Numbers 3:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After seeing a vision of the true God, I ate and drank.",
+        "citations": "Exodus 24:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I did not have any sons.",
+        "citations": "Numbers 3:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was an anointed priest who had been installed to serve.",
+        "citations": "Numbers 3:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah had not commanded the fire I offered.",
+        "citations": "Leviticus 10:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told Moses to bring me up before the covenant was confirmed.",
+        "citations": "Exodus 24:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My cousins carried me outside the camp in my robes.",
+        "citations": "Leviticus 10:4,5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A later census still recorded that I died for presenting unauthorized fire before Jehovah.",
+        "citations": "Numbers 26:61",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After seeing a vision of the true God, I later offered fire He had not commanded.",
+        "citations": "Exodus 24:9-11; Leviticus 10:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I died after fire from Jehovah had just consumed the inaugural offerings on the altar.",
+        "citations": "Leviticus 9:24; Leviticus 10:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Moses told Aaron that Jehovah would be made holy among those near to him after I died.",
+        "citations": "Leviticus 10:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Under God's feet I saw what seemed like a sapphire pavement.",
+        "citations": "Exodus 24:10",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Og",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I came out to fight Israel at Edrei.",
+        "citations": "Numbers 21:33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was king of Bashan.",
+        "citations": "Numbers 21:33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Israel defeated me and took possession of my land.",
+        "citations": "Numbers 21:35",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went out against Israel with all my people.",
+        "citations": "Numbers 21:33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Rahab later said she had heard what Jehovah did to Sihon and to me.",
+        "citations": "Joshua 2:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told Moses not to be afraid of me.",
+        "citations": "Numbers 21:34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was one of the last of the Rephaim.",
+        "citations": "Deuteronomy 3:11; Joshua 12:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I reigned in Ashtaroth and Edrei.",
+        "citations": "Joshua 12:4; Joshua 13:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Israel struck me down along with my sons and all my people, until none survived.",
+        "citations": "Numbers 21:35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My cities were fortified with high walls, gates, and bars.",
+        "citations": "Deuteronomy 3:5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My kingdom included 60 cities in the region of Argob.",
+        "citations": "Deuteronomy 3:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A psalm later named me among the mighty kings Jehovah struck down.",
+        "citations": "Psalm 135:10,11; Psalm 136:18-20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My iron bier was nine cubits long and four cubits wide, and it was kept in Rabbah of the Ammonites.",
+        "citations": "Deuteronomy 3:11",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Oholiab",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I helped do the work of the holy service for the tabernacle.",
+        "citations": "Exodus 36:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was filled with skill for sacred craftsmanship.",
+        "citations": "Exodus 35:35",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah appointed me to assist Bezalel.",
+        "citations": "Exodus 31:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I belonged to the tribe of Dan.",
+        "citations": "Exodus 31:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah put it into my heart to teach, along with Bezalel.",
+        "citations": "Exodus 35:34",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Moses called Bezalel and me to the construction work.",
+        "citations": "Exodus 36:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the son of Ahisamach.",
+        "citations": "Exodus 31:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I worked with blue thread, purple wool, scarlet material, and fine linen.",
+        "citations": "Exodus 38:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah appointed me so that skillful workers could make everything he had commanded Moses.",
+        "citations": "Exodus 31:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Bezalel was called from Judah, and I was appointed from Dan to assist him.",
+        "citations": "Exodus 31:2, 6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was skilled for the work of a craftsman, an embroiderer, a weaver, and a loom worker.",
+        "citations": "Exodus 35:35",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The record names me with Bezalel when summarizing who carried out the holy work.",
+        "citations": "Exodus 38:22,23",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Pharaoh (Moses' birth)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I enslaved the Israelites.",
+        "citations": "Exodus 1:11-14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I ordered the death of every newborn Hebrew boy.",
+        "citations": "Exodus 1:22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I ordered the Hebrew midwives Shiphrah and Puah to put newborn Israelite boys to death.",
+        "citations": "Exodus 1:15,16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a new king who did not know Joseph.",
+        "citations": "Exodus 1:8",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "name": "Pharaoh (the plagues)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I asked, \"Who is Jehovah, that I should obey his voice...?\"",
+        "citations": "Exodus 5:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Moses repeatedly appeared before me with Jehovah's message.",
+        "citations": "Exodus 5:1; Exodus 7-12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My forces were overwhelmed in the Red Sea.",
+        "citations": "Exodus 14:26-28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I repeatedly hardened my heart.",
+        "citations": "Exodus 7:13,22; Exodus 8:15,19,32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I stopped supplying straw but still demanded the same number of bricks.",
+        "citations": "Exodus 5:7,8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I suggested that only the men should leave to worship Jehovah.",
+        "citations": "Exodus 10:8-11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I summoned Moses and Aaron many times during a series of devastating plagues.",
+        "citations": "Exodus 8-12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah also allowed my heart to become obstinate in order to display His power.",
+        "citations": "Exodus 9:12; Exodus 10:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After letting Israel leave, I changed my mind and pursued them.",
+        "citations": "Exodus 14:5-9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I admitted, \"I have sinned this time. Jehovah is righteous.\"",
+        "citations": "Exodus 9:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked Moses to plead with Jehovah to remove several of the plagues.",
+        "citations": "Exodus 8:8; Exodus 8:28; Exodus 9:27,28; Exodus 10:16,17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I confessed my sin again after the plague of locusts.",
+        "citations": "Exodus 10:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I finally released the Israelites after the death of the firstborn.",
+        "citations": "Exodus 12:29-32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I offered to let Israel sacrifice inside the land instead of leaving.",
+        "citations": "Exodus 8:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I suggested that Israel leave their livestock behind.",
+        "citations": "Exodus 10:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I threatened to kill Moses if he appeared before me again.",
+        "citations": "Exodus 10:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I took six hundred chosen chariots with me when pursuing Israel.",
+        "citations": "Exodus 14:6,7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My magic-practicing priests said, “It is the finger of God!”",
+        "citations": "Exodus 8:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A later inspired writer used me as an example of someone who stubbornly opposed God's purpose.",
+        "citations": "Romans 9:17,18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "At night I called Moses and Aaron and told them to get out from among my people.",
+        "citations": "Exodus 12:31,32",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "During the darkness my people could not see one another, but the Israelites had light where they lived.",
+        "citations": "Exodus 10:21-23",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah said He had allowed me to continue existing in order to declare His name throughout the earth.",
+        "citations": "Exodus 9:16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My own firstborn died during the final plague.",
+        "citations": "Exodus 12:29,30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My refusal to submit resulted in Egypt experiencing ten devastating plagues.",
+        "citations": "Exodus 7-12",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Pharaoh's daughter",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I drew a Hebrew baby out of the water and named him Moses.",
+        "citations": "Exodus 2:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I found a crying baby in a basket among the reeds.",
+        "citations": "Exodus 2:5,6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I took a Hebrew child and brought him up as my own son.",
+        "citations": "Exodus 2:10; Acts 7:21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I felt compassion for the crying boy.",
+        "citations": "Exodus 2:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I hired a Hebrew woman to nurse the child for me.",
+        "citations": "Exodus 2:7-9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I paid the child's own mother to nurse him.",
+        "citations": "Exodus 2:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, “This is one of the children of the Hebrews.”",
+        "citations": "Exodus 2:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent my slave girl to get a basket from among the reeds.",
+        "citations": "Exodus 2:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went down to bathe in the Nile while my female attendants walked by the side of the river.",
+        "citations": "Exodus 2:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I opened the basket myself and saw the child inside.",
+        "citations": "Exodus 2:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, “It is because I have drawn him out of the water.”",
+        "citations": "Exodus 2:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When a Hebrew girl offered to call a nursing woman, I told her to go.",
+        "citations": "Exodus 2:7,8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When the child grew older, he was brought to me and became a son to me.",
+        "citations": "Exodus 2:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I preserved a Hebrew child my father the king had ordered put to death.",
+        "citations": "Exodus 1:22; Exodus 2:5-10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I unknowingly paid a Hebrew mother to nurse the very child she had hidden on the Nile.",
+        "citations": "Exodus 2:3, 7-9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The boy I raised later refused to be called my son.",
+        "citations": "Hebrews 11:24",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The son I brought up was instructed in all the wisdom of the Egyptians.",
+        "citations": "Acts 7:21,22",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Phinehas",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I followed the Israelite and Midianite woman into the tent and pierced them both with a spear.",
+        "citations": "Numbers 25:7,8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw an Israelite take a Midianite woman into his tent during a plague.",
+        "citations": "Numbers 25:6,7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was a grandson of Aaron.",
+        "citations": "Exodus 6:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was a son of Eleazar.",
+        "citations": "Numbers 25:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went to war against Midian carrying the holy utensils and the trumpets for signaling.",
+        "citations": "Numbers 31:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My action stopped a plague among the Israelites.",
+        "citations": "Numbers 25:8,9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Israelite man I pierced was a chieftain of a Simeonite paternal house.",
+        "citations": "Numbers 25:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The Midianite woman I pierced was the daughter of a Midianite chieftain.",
+        "citations": "Numbers 25:15, 18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A psalm later said that what I did was counted to me as righteousness for generation after generation forever.",
+        "citations": "Psalm 106:30,31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "During a civil conflict involving Benjamin, I was serving before the ark and inquired of God.",
+        "citations": "Judges 20:27,28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I went with ten chiefs to investigate an altar built by the tribes east of the Jordan.",
+        "citations": "Joshua 22:13-16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I approved the explanation given by the tribes east of the Jordan regarding a disputed altar.",
+        "citations": "Joshua 22:30-34",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah gave me a covenant of peace and a lasting priesthood.",
+        "citations": "Numbers 25:12,13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah said that I turned His wrath away from the Israelites because I tolerated no rivalry toward Him.",
+        "citations": "Numbers 25:10,11",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Puah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I kept Hebrew baby boys alive.",
+        "citations": "Exodus 1:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I would not do what the king of Egypt told me.",
+        "citations": "Exodus 1:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "The king of Egypt spoke to me about Hebrew childbirth.",
+        "citations": "Exodus 1:15,16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I reported that Hebrew women were lively and gave birth quickly.",
+        "citations": "Exodus 1:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The king of Egypt told me and my fellow midwife how to act when we saw a Hebrew woman on the stool for childbirth.",
+        "citations": "Exodus 1:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Shiphrah served with me among the Hebrew midwives.",
+        "citations": "Exodus 1:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I answered the king of Egypt after he learned that Hebrew boys were being kept alive.",
+        "citations": "Exodus 1:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My fear of the true God was followed by God giving me a family.",
+        "citations": "Exodus 1:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The king of Egypt summoned me and demanded to know why the male children were still alive.",
+        "citations": "Exodus 1:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My defiance as a midwife came before the king's wider Nile decree against every Hebrew newborn son.",
+        "citations": "Exodus 1:15-17, 22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The king of Egypt first tried to stop Israel through me and my coworker, then through all his people.",
+        "citations": "Exodus 1:15,16, 22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When answering the king of Egypt, I contrasted Hebrew mothers with Egyptian women.",
+        "citations": "Exodus 1:19",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Rahab",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I hid two Israelite spies.",
+        "citations": "Joshua 2:1-6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I lived in Jericho.",
+        "citations": "Joshua 2:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I tied a scarlet cord in my window.",
+        "citations": "Joshua 2:18,21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Joshua instructed that my household be spared when Jericho was destroyed.",
+        "citations": "Joshua 6:22-25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "A scarlet cord in my window became the sign by which my household would be identified.",
+        "citations": "Joshua 2:15,18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My house was built into the city wall.",
+        "citations": "Joshua 2:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was told to gather my family inside my house for their safety.",
+        "citations": "Joshua 2:18,19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The king of Jericho sent messengers looking for the men who had come to my house.",
+        "citations": "Joshua 2:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I came to live among the Israelites after the fall of Jericho.",
+        "citations": "Joshua 6:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I believed that Jehovah had given the land to Israel before my city fell.",
+        "citations": "Joshua 2:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said that the fear of Israel had fallen upon my people.",
+        "citations": "Joshua 2:9-11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I declared, \"Jehovah your God is God in the heavens above and on the earth beneath.\"",
+        "citations": "Joshua 2:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said, \"I had heard what Jehovah did to the Red Sea and to Sihon and Og.\"",
+        "citations": "Joshua 2:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I hid two men beneath stalks of flax on my roof.",
+        "citations": "Joshua 2:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I became an ancestress of King David.",
+        "citations": "Matthew 1:5,6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Two Israelite men stayed hidden in the hill country for three days after leaving my house.",
+        "citations": "Joshua 2:16,22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A later Bible writer cited my works as evidence that faith must be accompanied by action.",
+        "citations": "James 2:25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My faith preserved not only my life but also the lives of my family.",
+        "citations": "Joshua 2:12-21; Joshua 6:22-25; Hebrews 11:31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I misdirected my king's messengers to protect two foreigners.",
+        "citations": "Joshua 2:2-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I asked that my family receive the same loyal love I showed to two strangers.",
+        "citations": "Joshua 2:12,13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The agreement of protection made with me did not cover anyone leaving my house.",
+        "citations": "Joshua 2:19",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Shiphrah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I feared the true God and kept the male children alive.",
+        "citations": "Exodus 1:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a Hebrew midwife in Egypt.",
+        "citations": "Exodus 1:15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "The king of Egypt ordered me to put newborn Hebrew boys to death.",
+        "citations": "Exodus 1:15,16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I explained that Hebrew women had already given birth before a midwife could come in to them.",
+        "citations": "Exodus 1:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Puah worked with me as a midwife.",
+        "citations": "Exodus 1:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The king of Egypt told me that if the newborn was a daughter, she must live.",
+        "citations": "Exodus 1:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Because I feared the true God, he later gave me a family.",
+        "citations": "Exodus 1:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "God dealt well with me after I refused the king's command.",
+        "citations": "Exodus 1:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The king of Egypt called me in and asked why the male children had been kept alive.",
+        "citations": "Exodus 1:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "God dealt well with me at the same time Israel kept increasing and becoming very mighty.",
+        "citations": "Exodus 1:20",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told the king of Egypt that Hebrew women were not like Egyptian women.",
+        "citations": "Exodus 1:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The king of Egypt had already failed to make me kill Hebrew sons before he ordered all his people to throw them into the Nile.",
+        "citations": "Exodus 1:15-17, 22",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Sihon",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I refused to let Israel pass through my territory.",
+        "citations": "Numbers 21:23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a king of the Amorites.",
+        "citations": "Numbers 21:21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was king of Heshbon.",
+        "citations": "Numbers 21:26; Deuteronomy 2:24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Heshbon was my city.",
+        "citations": "Numbers 21:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went out against Israel in battle at Jahaz.",
+        "citations": "Numbers 21:23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Israel asked to march through my land on the King's Road.",
+        "citations": "Numbers 21:21,22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Before Israel came, I had fought Moab and taken land as far as the Arnon.",
+        "citations": "Numbers 21:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Israel took my land from the Arnon to the Jabbok.",
+        "citations": "Numbers 21:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah allowed my spirit to become obstinate and my heart to become hard.",
+        "citations": "Deuteronomy 2:30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Moses sent me peaceful messengers from the wilderness of Kedemoth.",
+        "citations": "Deuteronomy 2:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After my defeat, a taunting proverb was composed about my city.",
+        "citations": "Numbers 21:27-30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jephthah later recounted that I would not trust Israel to cross my land and that I fought at Jahaz.",
+        "citations": "Judges 11:19-21",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Later songs remembered me as a mighty Amorite king Jehovah struck down.",
+        "citations": "Psalm 135:10,11; Psalm 136:19",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Zelophehad",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I had no sons.",
+        "citations": "Numbers 26:33",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the father of five daughters.",
+        "citations": "Numbers 26:33",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My daughters appealed to Moses because I left no sons.",
+        "citations": "Numbers 27:1-5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Mahlah, Noah, Hoglah, Milcah, and Tirzah were my daughters.",
+        "citations": "Numbers 26:33",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I belonged to the tribe of Manasseh.",
+        "citations": "Numbers 26:28-33",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I died in the wilderness.",
+        "citations": "Numbers 27:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My daughters received an inheritance in my name.",
+        "citations": "Numbers 27:6-8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah ruled in favor of my daughters' request.",
+        "citations": "Numbers 27:6,7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I died for my own sin, not because I joined Korah's rebellion.",
+        "citations": "Numbers 27:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My name was preserved through my daughters instead of through sons.",
+        "citations": "Numbers 27:4-8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My daughters stood before Moses, Eleazar, the chieftains, and the entire assembly.",
+        "citations": "Numbers 27:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My family's case became the basis for Israel's inheritance law when a man died without a son.",
+        "citations": "Numbers 27:5-11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My daughters obeyed the instruction to marry within our father's tribal family.",
+        "citations": "Numbers 36:10-12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My inheritance was granted after my death because my daughters spoke up.",
+        "citations": "Numbers 27:1-8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Joshua later carried out Jehovah's command concerning my family's inheritance.",
+        "citations": "Joshua 17:3-6",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Zipporah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the wife of Moses.",
+        "citations": "Exodus 2:21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the daughter of Jethro.",
+        "citations": "Exodus 2:16-21; Exodus 3:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a Midianite.",
+        "citations": "Exodus 2:15-21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I had two sons with Moses.",
+        "citations": "Exodus 18:2-4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My sons were named Gershom and Eliezer.",
+        "citations": "Exodus 18:3,4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I met Moses after he fled from Egypt.",
+        "citations": "Exodus 2:15-21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My father gave me to Moses as his wife.",
+        "citations": "Exodus 2:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I circumcised my son with a flint.",
+        "citations": "Exodus 4:24-26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After Moses had sent me away, I was reunited with him in the wilderness.",
+        "citations": "Exodus 18:2-6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My father brought me and my two sons back to Moses.",
+        "citations": "Exodus 18:2-6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I spoke of a 'bridegroom of blood' after circumcising my son.",
+        "citations": "Exodus 4:25,26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My husband named one of our sons because he had become a foreign resident.",
+        "citations": "Exodus 2:22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "One of my sons was named to express that Jehovah had helped Moses against Pharaoh.",
+        "citations": "Exodus 18:4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was reunited with Moses after Israel had already left Egypt.",
+        "citations": "Exodus 18:1-6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My father witnessed Moses recount Jehovah's deliverance after bringing me back to him.",
+        "citations": "Exodus 18:5-12",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Zophar (the Naamathite)",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "Along with Job's other two companions, I spent seven days and seven nights sitting on the ground with him in silence.",
+        "citations": "Job 2:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Along with Job's other two companions, I threw dust into the air and onto my head when I saw him from far off.",
+        "citations": "Job 2:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I answered Job during the long debate over his suffering.",
+        "citations": "Job 11:1; Job 20:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I came with Job's other two companions to sympathize with him.",
+        "citations": "Job 2:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah said that Job's three companions, including me, had not spoken the truth about Him as Job had.",
+        "citations": "Job 42:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Job prayed for his three companions, including me, and Jehovah accepted that prayer.",
+        "citations": "Job 42:8,9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Along with Job's other two companions, I offered the burnt sacrifice Jehovah required.",
+        "citations": "Job 42:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I came with Eliphaz and Bildad after agreeing to meet together.",
+        "citations": "Job 2:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said God knows when men are deceitful and takes notice of what is evil.",
+        "citations": "Job 11:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Job's life would become brighter than midday.",
+        "citations": "Job 11:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said that if Job put wrongdoing far away, he could lift up his face with no defect.",
+        "citations": "Job 11:14,15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Job to prepare his heart and stretch out his hands to God.",
+        "citations": "Job 11:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a Naamathite.",
+        "citations": "Job 2:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I wished that God would speak and open his lips to Job.",
+        "citations": "Job 11:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After only two speeches, I stopped answering Job along with his other two companions.",
+        "citations": "Job 20:1; Job 32:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked whether Job could discover the deep things of God, or everything about the Almighty.",
+        "citations": "Job 11:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said God allows some of a person's error to be forgotten.",
+        "citations": "Job 11:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said God's wisdom is higher than heaven and deeper than the Grave.",
+        "citations": "Job 11:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said I had heard a reproof that insulted me, so my understanding impelled me to reply.",
+        "citations": "Job 20:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said an empty-headed man will understand only when a wild donkey can give birth to a man.",
+        "citations": "Job 11:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the joyful cry of the wicked is brief, and the rejoicing of the godless is for a moment.",
+        "citations": "Job 20:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the wicked man swallows wealth but will vomit it up.",
+        "citations": "Job 20:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the wicked will never see streams of water, the torrents of honey and butter.",
+        "citations": "Job 20:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the wicked will suck the venom of cobras, and the fangs of a viper will kill him.",
+        "citations": "Job 20:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My own troubling thoughts urged me to answer Job because of the agitation I felt.",
+        "citations": "Job 20:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said a fire that no one fanned will consume the wicked man.",
+        "citations": "Job 20:26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said heaven will uncover the wicked man's error, and the earth will rise up against him.",
+        "citations": "Job 20:27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I said the wicked man will perish forever like his own dung.",
+        "citations": "Job 20:7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I told Job that practical wisdom has many sides, then later answered him from agitation and insult.",
+        "citations": "Job 11:6; Job 20:2,3",
+        "difficulty": "nightmare"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4091 @@
+[
+  {
+    "name": "Ahasuerus",
+    "aliases": [
+      "King Ahasuerus"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a Persian king.",
+        "citations": "Esther 1:1-3; Ezra 4:5,6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I ruled over 127 provinces from India to Ethiopia.",
+        "citations": "Esther 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I made Esther queen instead of Vashti.",
+        "citations": "Esther 2:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I promoted Haman the Agagite above the other princes.",
+        "citations": "Esther 3:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I ordered Haman hanged on his own stake.",
+        "citations": "Esther 7:9,10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I sat on my royal throne in Shushan the citadel.",
+        "citations": "Esther 1:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In the third year of my reign I held a great banquet for my princes.",
+        "citations": "Esther 1:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Queen Vashti refused to come at my order.",
+        "citations": "Esther 1:10-12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I held out the golden scepter to Esther.",
+        "citations": "Esther 5:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Esther that even to the half of my kingdom, her request would be granted.",
+        "citations": "Esther 5:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I could not sleep, so the book of historical records was read to me.",
+        "citations": "Esther 6:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked what honor had been given to Mordecai for saving my life.",
+        "citations": "Esther 6:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave Haman's house to Queen Esther.",
+        "citations": "Esther 8:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave Mordecai the signet ring I had taken from Haman.",
+        "citations": "Esther 8:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I showed the wealth of my glorious kingdom for 180 days.",
+        "citations": "Esther 1:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I consulted seven princes of Persia and Media who had access to me.",
+        "citations": "Esther 1:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sent letters that every husband should be master in his own house.",
+        "citations": "Esther 1:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In the seventh year of my reign I put the royal headdress on Esther.",
+        "citations": "Esther 2:16,17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I proclaimed an amnesty for the provinces at Esther's banquet.",
+        "citations": "Esther 2:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I removed my signet ring and gave it to Haman for use against the Jews.",
+        "citations": "Esther 3:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ordered Haman to honor Mordecai with royal attire and the horse I ride.",
+        "citations": "Esther 6:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When I saw Haman on Esther's couch, I exclaimed.",
+        "citations": "Esther 7:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Esther and Mordecai to write in my name for the Jews and seal it with my ring.",
+        "citations": "Esther 8:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At the beginning of my reign, enemies wrote an accusation against Judah and Jerusalem.",
+        "citations": "Ezra 4:6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I imposed forced labor on the land and the islands of the sea.",
+        "citations": "Esther 10:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I deposed Vashti in my third year and crowned Esther in my seventh",
+        "citations": "Esther 1:3, 19; Esther 2:16,17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I first sealed Haman's decree to annihilate the Jews, then authorized Mordecai's counter-decree that could not be revoked.",
+        "citations": "Esther 3:10-12; Esther 8:8-11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After sleepless reading of the records, I made Haman parade the Jew who had exposed a plot against me.",
+        "citations": "Esther 2:21-23; Esther 6:1-11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My mighty acts and Mordecai's greatness were written in the book of the history of the times of the kings of Media and Persia.",
+        "citations": "Esther 10:2",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Artaxerxes",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a king of Persia in the days of Ezra and Nehemiah.",
+        "citations": "Ezra 7:1; Nehemiah 2:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Nehemiah was cupbearer to me.",
+        "citations": "Nehemiah 1:11; Nehemiah 2:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I sent Nehemiah to Judah to rebuild the city.",
+        "citations": "Nehemiah 2:5,6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I granted Ezra everything he requested.",
+        "citations": "Ezra 7:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I issued an order that willing Israelites could go with Ezra to Jerusalem.",
+        "citations": "Ezra 7:13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Enemies wrote to me accusing the Jews of rebuilding a rebellious city.",
+        "citations": "Ezra 4:7-12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After an investigation, I ordered the work in Jerusalem to stop until I issued another order.",
+        "citations": "Ezra 4:19-21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I gave Ezra a letter as priest and copyist of the Law of the God of the heavens.",
+        "citations": "Ezra 7:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent Ezra with my seven advisers to investigate whether God's Law was being applied in Judah and Jerusalem.",
+        "citations": "Ezra 7:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said the expenses for Jehovah's house could come from the royal treasury.",
+        "citations": "Ezra 7:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I ordered the treasurers Beyond the River to give Ezra whatever he requested, promptly.",
+        "citations": "Ezra 7:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Nehemiah looked gloomy, I asked what he was seeking.",
+        "citations": "Nehemiah 2:2, 4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "With my royal consort beside me, I asked how long Nehemiah's journey would be.",
+        "citations": "Nehemiah 2:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Rehum and Shimshai that powerful kings once ruled from Jerusalem over the region Beyond the River.",
+        "citations": "Ezra 4:17, 20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I warned Rehum and Shimshai not to neglect stopping the work, so my interests would not be harmed.",
+        "citations": "Ezra 4:22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I forbade tax, tribute, or toll on priests, Levites, musicians, doorkeepers, temple servants, and workers of God's house.",
+        "citations": "Ezra 7:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I authorized Ezra to appoint magistrates and judges Beyond the River for those who knew God's laws.",
+        "citations": "Ezra 7:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said judgment for breaking God's Law or the king's law could be death, banishment, a fine, or imprisonment.",
+        "citations": "Ezra 7:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I gave Nehemiah letters for the governors Beyond the River and for Asaph, keeper of the Royal Park.",
+        "citations": "Nehemiah 2:7,8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I also sent army chiefs and horsemen with Nehemiah.",
+        "citations": "Nehemiah 2:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From my 20th year to my 32nd year, Nehemiah served as governor in Judah.",
+        "citations": "Nehemiah 5:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my 32nd year, Nehemiah came back to me, then later asked leave to return to Jerusalem.",
+        "citations": "Nehemiah 13:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ordered rebuilding in Jerusalem halted, but I also sent Ezra with silver, gold, and authority concerning Jehovah's house.",
+        "citations": "Ezra 4:21-23; Ezra 7:15-20, 27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My cupbearer Nehemiah asked for timber for the Fortress of the House and the city walls, and I gave him the letters.",
+        "citations": "Nehemiah 2:8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Ezra praised Jehovah because I was moved to beautify Jehovah's house in Jerusalem and showed him loyal love before my advisers and princes.",
+        "citations": "Ezra 7:27,28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The elders finished Jehovah's house by the order of the God of Israel and by the order of Cyrus, Darius, and me.",
+        "citations": "Ezra 6:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I capped Ezra's supplies at 100 talents of silver, 100 cor of wheat, 100 bath of wine, 100 bath of oil, and salt without limit.",
+        "citations": "Ezra 7:22",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Azariah (companion of Daniel)",
+    "aliases": [
+      "Abednego"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a companion of Daniel in Babylon.",
+        "citations": "Daniel 1:6; Daniel 2:17,18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "With Hananiah and Mishael, I refused to worship the image of gold.",
+        "citations": "Daniel 3:12, 18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "King Nebuchadnezzar had me and two others thrown into the burning fiery furnace.",
+        "citations": "Daniel 3:20,21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Together with Hananiah and Mishael, I stepped out of the fire unharmed.",
+        "citations": "Daniel 3:26,27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was among youths from the tribe of Judah taken for the king's service.",
+        "citations": "Daniel 1:3-6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The principal court official also gave me a Babylonian name.",
+        "citations": "Daniel 1:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "For ten days, my companions and I ate vegetables and drank water instead of the king's delicacies.",
+        "citations": "Daniel 1:12-16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Daniel's request, Nebuchadnezzar appointed me over the administration of the province of Babylon.",
+        "citations": "Daniel 2:49",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Some Chaldeans accused me before Nebuchadnezzar of refusing his image.",
+        "citations": "Daniel 3:8, 12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My two companions and I told Nebuchadnezzar that we had no need to answer him in that matter.",
+        "citations": "Daniel 3:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My companions and I said that even if our God did not rescue us, we would not worship the King's image.",
+        "citations": "Daniel 3:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After three years of training, Nebuchadnezzar found no one like Daniel, Hananiah, Mishael, and me.",
+        "citations": "Daniel 1:5, 18,19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In matters of wisdom, Nebuchadnezzar found my companions and me ten times better than his magic-practicing priests and conjurers.",
+        "citations": "Daniel 1:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When the wise men were to be killed, Daniel informed me and my companions and asked us to pray for mercy.",
+        "citations": "Daniel 2:13, 17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Mighty men from the king's army bound me and my companions and threw us into the furnace still wearing our clothes.",
+        "citations": "Daniel 3:20,21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The furnace was heated seven times hotter than usual because of me and my companions.",
+        "citations": "Daniel 3:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Not a hair of my head was singed, and there was not even the smell of fire on me.",
+        "citations": "Daniel 3:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I answered Nebuchadnezzar along with Hananiah and Mishael that our God could rescue us from the furnace and from his hand.",
+        "citations": "Daniel 3:16,17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The men who took my companions and me up to the furnace were killed by the flames, but we fell bound into the fire and later walked out free.",
+        "citations": "Daniel 3:22,23, 25,26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After the fire had no effect on my body or cloaks, Nebuchadnezzar promoted me and my companions again in the province of Babylon.",
+        "citations": "Daniel 3:27, 30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "From Judah's youths in the palace school to administrators of Babylon, I stood with Hananiah and Mishael against the golden image on the plain of Dura.",
+        "citations": "Daniel 1:6; Daniel 2:49; Daniel 3:1, 12, 18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Daniel asked that I be set over Babylon's administration; later Nebuchadnezzar's officials saw that the fire had not touched me.",
+        "citations": "Daniel 2:49; Daniel 3:27",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Baruch",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was Jeremiah's secretary.",
+        "citations": "Jeremiah 36:4, 32",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I wrote Jehovah's words in a scroll at Jeremiah's dictation.",
+        "citations": "Jeremiah 36:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I read aloud from the scroll at the house of Jehovah.",
+        "citations": "Jeremiah 36:8, 10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "King Jehoiakim burned the scroll I had written.",
+        "citations": "Jeremiah 36:23, 27,28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the son of Neriah.",
+        "citations": "Jeremiah 32:12; Jeremiah 36:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jeremiah called me when he could not enter Jehovah's house, and sent me to read the scroll on a fast day.",
+        "citations": "Jeremiah 36:5,6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I read in Gemariah's chamber in the upper courtyard, at the entrance of the new gate.",
+        "citations": "Jeremiah 36:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The princes sent Jehudi to bring me and the scroll, and I read it to them.",
+        "citations": "Jeremiah 36:14,15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told the princes Jeremiah dictated the words and I wrote them with ink in the scroll.",
+        "citations": "Jeremiah 36:17,18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The princes told me to hide, myself and Jeremiah, and not let anyone know where we were.",
+        "citations": "Jeremiah 36:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehoiakim ordered men to seize me and Jeremiah, but Jehovah kept us concealed.",
+        "citations": "Jeremiah 36:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After the first scroll was burned, Jeremiah gave me another scroll and I wrote the same words again, with many more added.",
+        "citations": "Jeremiah 36:32",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jeremiah gave me the deed of purchase for the field in Anathoth.",
+        "citations": "Jeremiah 32:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Before witnesses, Jeremiah commanded me to put the sealed and unsealed deeds into an earthenware vessel.",
+        "citations": "Jeremiah 32:13,14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My grandfather was Mahseiah.",
+        "citations": "Jeremiah 32:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote the scroll in the fourth year of Jehoiakim son of Josiah.",
+        "citations": "Jeremiah 36:1, 4; Jeremiah 45:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I read it in the fifth year of Jehoiakim, in the ninth month, during a proclaimed fast.",
+        "citations": "Jeremiah 36:9,10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Men accused me of inciting Jeremiah against them so they would be handed over to the Chaldeans.",
+        "citations": "Jeremiah 43:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Johanan and the army chiefs took me and Jeremiah down to Egypt, as far as Tahpanhes.",
+        "citations": "Jeremiah 43:5-7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said I had groaned, “Woe to me,” weary and with no resting-place.",
+        "citations": "Jeremiah 45:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me to stop seeking great things for myself.",
+        "citations": "Jeremiah 45:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah promised that wherever I went, he would grant me my life as a spoil.",
+        "citations": "Jeremiah 45:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My brother Seraiah son of Neriah went with Zedekiah to Babylon as quartermaster.",
+        "citations": "Jeremiah 32:12; Jeremiah 51:59",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote Jeremiah's words, read them in the temple, then after the king burned that scroll I wrote a second scroll with still more words.",
+        "citations": "Jeremiah 36:4, 10, 23, 32",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "During Babylon's siege I stored Jeremiah's land deeds in earthenware for a long time, as Jehovah said fields would again be bought.",
+        "citations": "Jeremiah 32:2, 14,15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After Jerusalem fell, I was blamed for Jeremiah's message and forced into Egypt with him.",
+        "citations": "Jeremiah 43:3, 6,7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In Jehoiakim's fourth year, while I wrote the scroll, Jehovah answered my grief: calamity was coming, yet my life would be spared wherever I went.",
+        "citations": "Jeremiah 45:1-5",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Belshazzar",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a king of Babylon.",
+        "citations": "Daniel 5:1, 30",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I held a great feast for a thousand of my nobles.",
+        "citations": "Daniel 5:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Fingers of a man's hand wrote on the plaster of my palace wall.",
+        "citations": "Daniel 5:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Daniel read the writing and told me its interpretation.",
+        "citations": "Daniel 5:17, 25-28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "That very night I was killed.",
+        "citations": "Daniel 5:30",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Under the influence of wine, I ordered the gold and silver vessels from Jehovah's temple brought in.",
+        "citations": "Daniel 5:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My nobles, concubines, and secondary wives drank from those vessels with me.",
+        "citations": "Daniel 5:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "While drinking, we praised gods of gold, silver, copper, iron, wood, and stone.",
+        "citations": "Daniel 5:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I saw the hand writing, I turned pale and my knees knocked together.",
+        "citations": "Daniel 5:5,6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I loudly summoned the conjurers, the Chaldeans, and the astrologers.",
+        "citations": "Daniel 5:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I promised purple clothing, a gold necklace, and third place in the kingdom to whoever read the writing.",
+        "citations": "Daniel 5:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My wise men could not read the writing or make known its interpretation.",
+        "citations": "Daniel 5:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The queen told me to summon Daniel, whom my father had named Belteshazzar.",
+        "citations": "Daniel 5:10-12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked Daniel if he was of the exiles of Judah whom my father the king brought out of Judah.",
+        "citations": "Daniel 5:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Daniel he would rule as the third one in the kingdom if he interpreted the writing.",
+        "citations": "Daniel 5:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Daniel said I could keep my gifts and give my presents to others.",
+        "citations": "Daniel 5:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Daniel said I had not humbled my heart, though I knew what happened to Nebuchadnezzar my father.",
+        "citations": "Daniel 5:18-22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Daniel said I had exalted myself against the Lord of the heavens and had not glorified the God in whose hand was my breath.",
+        "citations": "Daniel 5:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The writing against me was MENE, MENE, TEKEL, and PARSIN.",
+        "citations": "Daniel 5:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After the interpretation, I clothed Daniel with purple and put a gold necklace on him.",
+        "citations": "Daniel 5:29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "They heralded that Daniel was to become the third ruler in my kingdom.",
+        "citations": "Daniel 5:29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I drank from the temple vessels while praising lifeless gods, then saw a hand write my judgment opposite the lampstand.",
+        "citations": "Daniel 5:2-5",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I offered third place in the kingdom for the interpretation; that same night my kingdom ended and I was killed.",
+        "citations": "Daniel 5:7, 28-30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Daniel weighed me as lacking and said my kingdom was divided and given to the Medes and the Persians, and Darius the Mede received it after me.",
+        "citations": "Daniel 5:27,28, 30,31",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Cyrus",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was king of Persia.",
+        "citations": "Ezra 1:1,2; 2 Chronicles 36:22,23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I made a proclamation letting the Jews go up to rebuild Jehovah's house in Jerusalem.",
+        "citations": "Ezra 1:1-3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah stirred my spirit to fulfill his word spoken by Jeremiah.",
+        "citations": "Ezra 1:1; 2 Chronicles 36:22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I said Jehovah the God of the heavens had given me all the kingdoms of the earth.",
+        "citations": "Ezra 1:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I brought out the utensils of Jehovah's house that Nebuchadnezzar had taken.",
+        "citations": "Ezra 1:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah called me his shepherd.",
+        "citations": "Isaiah 44:28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah called me his anointed one.",
+        "citations": "Isaiah 45:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah said I would completely carry out all his will.",
+        "citations": "Isaiah 44:28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah said I would build his city and set his exiles free without a price or a bribe.",
+        "citations": "Isaiah 45:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I put my proclamation in writing throughout my kingdom.",
+        "citations": "Ezra 1:1; 2 Chronicles 36:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I commissioned the rebuilding of Jehovah's house in Jerusalem, which is in Judah.",
+        "citations": "Ezra 1:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said neighbors should help the returning people with silver, gold, goods, and livestock.",
+        "citations": "Ezra 1:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I released the temple vessels under Mithredath the treasurer for Sheshbazzar the chieftain of Judah.",
+        "citations": "Ezra 1:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In my first year I ordered that the house of God in Jerusalem be rebuilt as a place for sacrifices.",
+        "citations": "Ezra 6:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah said he took hold of my right hand to subdue nations and open double doors before me.",
+        "citations": "Isaiah 45:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said he called me by name for the sake of Jacob his servant, though I did not know him.",
+        "citations": "Isaiah 45:3-5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ordered the temple's height 60 cubits and width 60 cubits, with expenses from the king's house.",
+        "citations": "Ezra 6:3,4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ordered the gold and silver vessels returned to their place in the temple in Jerusalem.",
+        "citations": "Ezra 6:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I made Sheshbazzar governor and told him to deposit the vessels in the temple and rebuild that house.",
+        "citations": "Ezra 5:14,15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Daniel remained until the first year of my kingship.",
+        "citations": "Daniel 1:21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Daniel prospered during the reign of Darius and during my reign as king.",
+        "citations": "Daniel 6:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In the third year of my kingship, a revelation was given to Daniel concerning a great conflict.",
+        "citations": "Daniel 10:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Advisers were hired against Judah's builders throughout my days until the reign of Darius.",
+        "citations": "Ezra 4:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Long before my decree, Jehovah named me as the shepherd who would say of Jerusalem that she would be rebuilt and of the temple that its foundation would be laid.",
+        "citations": "Isaiah 44:28; Ezra 1:1-3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I proclaimed freedom for Jehovah's people and returned Nebuchadnezzar's looted temple vessels for Jehovah's house in Jerusalem.",
+        "citations": "Ezra 1:3, 7-11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jews later told Persian officials that in my first year as king of Babylon I ordered God's house rebuilt and appointed Sheshbazzar.",
+        "citations": "Ezra 5:13-16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah said he would go before me, break copper doors, and give me hidden treasures so I would know he is the God of Israel who called me by name.",
+        "citations": "Isaiah 45:2,3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My written decree for Jehovah's house was later found and confirmed under Darius, and the builders also worked by my order along with Darius and Artaxerxes.",
+        "citations": "Ezra 6:1-5, 14",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Daniel",
+    "aliases": [
+      "Belteshazzar"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was thrown into a pit of lions.",
+        "citations": "Daniel 6:16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "My God sent his angel and shut the mouth of the lions.",
+        "citations": "Daniel 6:22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I resolved not to defile myself with the king's delicacies or his wine.",
+        "citations": "Daniel 1:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was among youths of Judah taken to serve in Babylon.",
+        "citations": "Daniel 1:3-6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I made known both a king's dream and its interpretation.",
+        "citations": "Daniel 2:26-45",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I read mysterious writing on a palace wall and explained it.",
+        "citations": "Daniel 5:17, 25-28",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Three times a day I got down on my knees and prayed.",
+        "citations": "Daniel 6:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I kept praying even after a royal ban forbade petitions to anyone but the king.",
+        "citations": "Daniel 6:7-10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told a king that God would set up a kingdom that will never be destroyed.",
+        "citations": "Daniel 2:44",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah held me up with Noah and Job as an example of righteousness.",
+        "citations": "Ezekiel 14:14, 20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was lifted unharmed out of the lions' pit because I had trusted in my God.",
+        "citations": "Daniel 6:23",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Officials could find no negligence or corruption in me.",
+        "citations": "Daniel 6:4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I asked to be tested for ten days on vegetables and water.",
+        "citations": "Daniel 1:12-14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After ten days my appearance was better than those eating the king's delicacies.",
+        "citations": "Daniel 1:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The true God gave me understanding in all sorts of visions and dreams.",
+        "citations": "Daniel 1:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In matters of wisdom Nebuchadnezzar found me ten times better than his magic-practicing priests and conjurers.",
+        "citations": "Daniel 1:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I remained in Babylon until the first year of King Cyrus.",
+        "citations": "Daniel 1:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Babylon's wise men faced death, I asked Nebuchadnezzar to grant me time.",
+        "citations": "Daniel 2:13-16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked my companions to pray for mercy so God would reveal Nebuchadnezzar's dream.",
+        "citations": "Daniel 2:17,18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Nebuchadnezzar's dream was revealed to me in a vision at night.",
+        "citations": "Daniel 2:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said there is a God in the heavens who is a Revealer of secrets.",
+        "citations": "Daniel 2:28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I described an immense image with a head of gold and feet of iron mixed with clay.",
+        "citations": "Daniel 2:31-33",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said a stone cut not by hands struck the image and became a mountain filling the earth.",
+        "citations": "Daniel 2:34,35",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Nebuchadnezzar made me ruler over the province of Babylon and chief prefect over all the wise men.",
+        "citations": "Daniel 2:48",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At my request, Nebuchadnezzar appointed Hananiah, Mishael, and Azariah over Babylon's administration.",
+        "citations": "Daniel 2:49",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I interpreted a dream about an enormous tree that was to be chopped down.",
+        "citations": "Daniel 4:19-26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I urged a king to turn away from his sins by doing what is right and showing mercy to the poor.",
+        "citations": "Daniel 4:27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Belshazzar he could keep his gifts; I would still read the writing.",
+        "citations": "Daniel 5:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I read the writing: MENE, MENE, TEKEL, and PARSIN.",
+        "citations": "Daniel 5:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said a kingdom had been numbered, weighed, divided, and given to the Medes and the Persians.",
+        "citations": "Daniel 5:26-28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was one of three high officials under Darius the Mede.",
+        "citations": "Daniel 6:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Darius intended to elevate me over the entire kingdom.",
+        "citations": "Daniel 6:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My roof-chamber windows were open toward Jerusalem when I prayed.",
+        "citations": "Daniel 6:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A stone was placed over the entrance of the pit and sealed concerning me.",
+        "citations": "Daniel 6:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Darius I had done him no wrong.",
+        "citations": "Daniel 6:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I prospered in the kingdom of Darius and in the kingdom of Cyrus the Persian.",
+        "citations": "Daniel 6:28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was trained for three years before entering the king's service.",
+        "citations": "Daniel 1:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was to be taught the writing and the language of the Chaldeans.",
+        "citations": "Daniel 1:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I spoke discreetly and cautiously to Arioch, chief of the king's bodyguard.",
+        "citations": "Daniel 2:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Nebuchadnezzar that his dream was not revealed to me because I had greater wisdom than anyone living.",
+        "citations": "Daniel 2:30",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Nebuchadnezzar fell facedown and paid homage to me after I revealed the secret.",
+        "citations": "Daniel 2:46",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was alarmed for a moment when I grasped the meaning of the tree dream.",
+        "citations": "Daniel 4:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The queen recommended me when the wise men could not read the writing on the wall.",
+        "citations": "Daniel 5:10-12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Belshazzar he had not humbled his heart, though he knew Nebuchadnezzar's fall.",
+        "citations": "Daniel 5:18-22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Belshazzar had praised gods that see nothing, hear nothing, and know nothing.",
+        "citations": "Daniel 5:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Accusers said they would find no grounds against me unless against the law of my God.",
+        "citations": "Daniel 6:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In a night vision I saw four huge beasts come out of the sea.",
+        "citations": "Daniel 7:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw someone like a son of man coming with the clouds of the heavens.",
+        "citations": "Daniel 7:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went near to one standing there to ask the true meaning of what I saw.",
+        "citations": "Daniel 7:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My spirit was distressed, and the visions of my head frightened me.",
+        "citations": "Daniel 7:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In vision I was in Shushan the citadel, next to the watercourse of Ulai.",
+        "citations": "Daniel 8:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw a two-horned ram and a male goat with a conspicuous horn between its eyes.",
+        "citations": "Daniel 8:3-5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A voice called concerning me, “Gabriel, make that one understand what he saw.”",
+        "citations": "Daniel 8:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After the vision I felt exhausted and was sick for some days.",
+        "citations": "Daniel 8:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From Jeremiah's books I discerned 70 years for Jerusalem's desolation.",
+        "citations": "Daniel 9:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I entreated Jehovah with prayer, fasting, sackcloth, and ashes.",
+        "citations": "Daniel 9:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "While I was still praying, Gabriel came about the time of the evening gift offering.",
+        "citations": "Daniel 9:20,21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told there are 70 weeks determined for my people and my holy city.",
+        "citations": "Daniel 9:24",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told that from the word to restore Jerusalem until Messiah the Leader there would be 7 weeks, also 62 weeks.",
+        "citations": "Daniel 9:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I mourned three full weeks; no rich food, meat, or wine entered my mouth.",
+        "citations": "Daniel 10:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "On the bank of the Tigris I saw a man clothed in linen with a belt of gold from Uphaz.",
+        "citations": "Daniel 10:4,5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Only I saw the vision; the men with me trembled and ran away to hide.",
+        "citations": "Daniel 10:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was addressed as someone very precious.",
+        "citations": "Daniel 9:23; Daniel 10:11, 19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I learned the prince of Persia opposed the messenger for 21 days until Michael helped.",
+        "citations": "Daniel 10:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told to keep the words secret and seal up the book until the time of the end.",
+        "citations": "Daniel 12:4, 9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told to go on to the end; I would rest and stand up for my lot at the end of the days.",
+        "citations": "Daniel 12:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jesus pointed to a prophecy I wrote about the disgusting thing that causes desolation.",
+        "citations": "Matthew 24:15; Daniel 9:27; Daniel 11:31; Daniel 12:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah used my wisdom as a measuring stick when rebuking a proud ruler of Tyre.",
+        "citations": "Ezekiel 28:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I refused royal delicacies as a youth and later refused royal gifts before announcing a king's doom.",
+        "citations": "Daniel 1:8; Daniel 5:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I secured Babylon posts for three companions who later faced a furnace; I myself later faced lions for praying.",
+        "citations": "Daniel 2:49; Daniel 6:10, 16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I explained successive kingdoms from a metal image, then saw four beasts representing kings rise from the sea.",
+        "citations": "Daniel 2:31-40; Daniel 7:3, 17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I announced an everlasting God-set kingdom from the image dream, then saw holy ones receive an everlasting kingdom in night visions.",
+        "citations": "Daniel 2:44; Daniel 7:18, 27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I studied Jeremiah's 70 years, then received a further timetable of 70 weeks until Messiah the Leader.",
+        "citations": "Daniel 9:2, 24,25",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I warned Nebuchadnezzar he would dwell with beasts; later I charged Belshazzar with knowing that history and still exalting himself.",
+        "citations": "Daniel 4:25; Daniel 5:21,22",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After weeks of mourning by the Tigris, I learned angelic opposition had delayed the answer from the first day I humbled myself.",
+        "citations": "Daniel 10:2,3, 12,13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was told to seal the book until the time of the end, yet Jesus later cited my desolation prophecy for his disciples.",
+        "citations": "Daniel 12:4, 9; Matthew 24:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Scripture set my righteousness beside Noah and Job, and my wisdom was used in a rebuke directed to the ruler of Tyre.",
+        "citations": "Ezekiel 14:14, 20; Ezekiel 28:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I served from Nebuchadnezzar's court through Belshazzar's fall into the reigns of Darius and Cyrus.",
+        "citations": "Daniel 1:21; Daniel 5:30,31; Daniel 6:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I received dream-insight as a youth, then had night visions of my own that left me pale and alarmed.",
+        "citations": "Daniel 1:17; Daniel 7:28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Opponents trapped me with a Medo-Persian ban that could not be annulled, knowing only my worship of God could accuse me.",
+        "citations": "Daniel 6:5, 8-15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I heard that from the removal of the constant feature and the placing of the disgusting thing that causes desolation there would be 1,290 days.",
+        "citations": "Daniel 12:11",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Darius (the Mede)",
+    "aliases": [
+      "King Darius"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I received the kingdom after Belshazzar the Chaldean king was killed.",
+        "citations": "Daniel 5:30,31",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was about 62 years old when I received the kingdom.",
+        "citations": "Daniel 5:31",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I appointed 120 satraps over the whole kingdom.",
+        "citations": "Daniel 6:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Daniel was one of my three high officials.",
+        "citations": "Daniel 6:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I intended to elevate Daniel over the entire kingdom.",
+        "citations": "Daniel 6:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I signed a decree that for 30 days petitions could be made only to me.",
+        "citations": "Daniel 6:7-9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I had Daniel thrown into the pit of lions.",
+        "citations": "Daniel 6:16",
+        "difficulty": "easy"
+      },
+      {
+        "text": "At dawn I hurried to the lions' pit and called out to Daniel.",
+        "citations": "Daniel 6:19,20",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was made king over the kingdom of the Chaldeans.",
+        "citations": "Daniel 9:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was the son of Ahasuerus.",
+        "citations": "Daniel 9:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a descendant of the Medes.",
+        "citations": "Daniel 9:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The satraps were to report to my high officials so I would not suffer loss.",
+        "citations": "Daniel 6:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "High officials and satraps came as a group and asked me to establish a royal ban.",
+        "citations": "Daniel 6:6-8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "They told me the law of the Medes and the Persians cannot be annulled.",
+        "citations": "Daniel 6:8, 12, 15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I heard Daniel had prayed, I was greatly distressed.",
+        "citations": "Daniel 6:13,14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Until sunset I made every effort to save Daniel.",
+        "citations": "Daniel 6:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Daniel his God whom he continually served would rescue him.",
+        "citations": "Daniel 6:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sealed the pit with my signet ring and with the signet rings of my nobles.",
+        "citations": "Daniel 6:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I passed the night fasting and could not sleep.",
+        "citations": "Daniel 6:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked whether Daniel's God had been able to rescue him from the lions.",
+        "citations": "Daniel 6:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was overjoyed and commanded that Daniel be lifted out of the pit.",
+        "citations": "Daniel 6:23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I ordered Daniel's accusers thrown into the lions' pit with their sons and wives.",
+        "citations": "Daniel 6:24",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Daniel prospered in my kingdom and in the kingdom of Cyrus the Persian.",
+        "citations": "Daniel 6:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my first year Daniel discerned from the books Jeremiah's 70 years for Jerusalem.",
+        "citations": "Daniel 9:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote to peoples, nations, and language groups throughout the earth.",
+        "citations": "Daniel 6:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ordered that in every domain of my kingdom people tremble before the God of Daniel.",
+        "citations": "Daniel 6:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said Daniel's God is the living God who endures forever.",
+        "citations": "Daniel 6:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said his kingdom will never be destroyed and his rulership is eternal.",
+        "citations": "Daniel 6:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said he rescues, saves, and performs signs and wonders, for he rescued Daniel from the paw of the lions.",
+        "citations": "Daniel 6:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my first year an angel stood up to strengthen and fortify me.",
+        "citations": "Daniel 11:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After Belshazzar fell, I received the Chaldean kingdom at about 62, of Median descent, son of Ahasuerus.",
+        "citations": "Daniel 5:31; Daniel 9:1",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Tricked into an unchangeable ban, I spent a sleepless night, then found Daniel unharmed and praised his God throughout my realm.",
+        "citations": "Daniel 6:8,9, 14-18, 23-27",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I set Daniel among three high officials over 120 satraps, meant to elevate him over all, then threw him to lions under my own sealed decree.",
+        "citations": "Daniel 6:1-3, 16,17",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ebed-melech",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was an Ethiopian in the king's house.",
+        "citations": "Jeremiah 38:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a eunuch in the king's house.",
+        "citations": "Jeremiah 38:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I heard that they had put Jeremiah into the cistern.",
+        "citations": "Jeremiah 38:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I went out and spoke to King Zedekiah about Jeremiah.",
+        "citations": "Jeremiah 38:8,9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I pulled Jeremiah up out of the cistern.",
+        "citations": "Jeremiah 38:11-13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah promised I would have my life as a spoil.",
+        "citations": "Jeremiah 39:18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "King Zedekiah was sitting in the Gate of Benjamin when I went to him.",
+        "citations": "Jeremiah 38:7,8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told King Zedekiah what had been done to Jeremiah the prophet was evil.",
+        "citations": "Jeremiah 38:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said Jeremiah would die in the cistern because of the famine.",
+        "citations": "Jeremiah 38:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said there was no bread left in the city.",
+        "citations": "Jeremiah 38:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "King Zedekiah commanded me to take 30 men and pull Jeremiah up before he died.",
+        "citations": "Jeremiah 38:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went beneath the treasury and took worn-out rags and pieces of cloth.",
+        "citations": "Jeremiah 38:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I let the rags and cloth down by ropes to Jeremiah in the cistern.",
+        "citations": "Jeremiah 38:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Jeremiah to put the rags between his armpits and the ropes.",
+        "citations": "Jeremiah 38:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After we drew him up, Jeremiah remained in the Courtyard of the Guard.",
+        "citations": "Jeremiah 38:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "While Jeremiah was confined in the Courtyard of the Guard, Jehovah sent Jeremiah a word for me.",
+        "citations": "Jeremiah 39:15,16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said I would see his words of calamity fulfilled on the city.",
+        "citations": "Jeremiah 39:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said I would not be handed over to the men I feared.",
+        "citations": "Jeremiah 39:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said I would not fall by the sword.",
+        "citations": "Jeremiah 39:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said he would surely provide me with escape.",
+        "citations": "Jeremiah 39:17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said I trusted in him.",
+        "citations": "Jeremiah 39:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From the king's house I protested Jeremiah's confinement in the cistern, got 30 men, padded the ropes with rags, and hauled him out.",
+        "citations": "Jeremiah 38:7-13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah promised that when Jerusalem's calamity came, I would escape the sword because I trusted in him.",
+        "citations": "Jeremiah 39:16-18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "An Ethiopian court official, I spoke against the princes' cruelty and became Jeremiah the prophet's rescuer.",
+        "citations": "Jeremiah 38:7-10, 13",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Esther",
+    "aliases": [
+      "Hadassah"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I became queen instead of Vashti.",
+        "citations": "Esther 2:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a Jewish woman in Shushan the citadel.",
+        "citations": "Esther 2:5-7, 10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Mordecai took me as his daughter.",
+        "citations": "Esther 2:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I went in to Ahasuerus against the law to plead for my people.",
+        "citations": "Esther 4:16; Esther 5:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Ahasuerus held out to me the golden scepter.",
+        "citations": "Esther 5:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I invited Ahasuerus and Haman to a banquet I prepared.",
+        "citations": "Esther 5:4,5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told Ahasuerus the adversary and enemy was evil Haman.",
+        "citations": "Esther 7:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I asked that my life and my people be granted as my petition.",
+        "citations": "Esther 7:3,4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Ahasuerus gave me the house of Haman.",
+        "citations": "Esther 8:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I helped establish the days of Purim among the Jews.",
+        "citations": "Esther 9:29-32",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the daughter of Abihail, Mordecai's uncle.",
+        "citations": "Esther 2:15; Esther 9:29",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had neither father nor mother when Mordecai took me.",
+        "citations": "Esther 2:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was beautifully formed and attractive in appearance.",
+        "citations": "Esther 2:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was taken to the king's house under Hegai's care.",
+        "citations": "Esther 2:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I did not say anything about my people or relatives.",
+        "citations": "Esther 2:10, 20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Mordecai had instructed me not to tell anyone.",
+        "citations": "Esther 2:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Hegai promptly arranged my beauty treatments and diet.",
+        "citations": "Esther 2:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Hegai assigned me seven selected young women from the king's house.",
+        "citations": "Esther 2:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When my turn came, I requested only what Hegai recommended.",
+        "citations": "Esther 2:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was taken to Ahasuerus in the tenth month, Tebeth, in his seventh year.",
+        "citations": "Esther 2:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Ahasuerus put the royal headdress on my head.",
+        "citations": "Esther 2:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Ahasuerus held a great banquet in my honor.",
+        "citations": "Esther 2:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I spoke to Ahasuerus in Mordecai's name about a plot against him.",
+        "citations": "Esther 2:21,22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I heard Mordecai was in sackcloth, I was deeply distressed.",
+        "citations": "Esther 4:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent garments for Mordecai, but he refused them.",
+        "citations": "Esther 4:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent Hathach to find out from Mordecai what was happening.",
+        "citations": "Esther 4:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said I had not been summoned to Ahasuerus for 30 days.",
+        "citations": "Esther 4:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said anyone entering the inner courtyard unsummoned faces death unless the golden scepter is held out.",
+        "citations": "Esther 4:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Mordecai to gather the Jews in Shushan to fast for three days.",
+        "citations": "Esther 4:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said my female attendants and I would also fast.",
+        "citations": "Esther 4:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, “If I am to perish, I will perish.”",
+        "citations": "Esther 4:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "On the third day I put on my royal robes and stood in the inner courtyard.",
+        "citations": "Esther 5:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I approached and touched the top of the scepter.",
+        "citations": "Esther 5:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked Ahasuerus and Haman to come again to a banquet the next day.",
+        "citations": "Esther 5:7,8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At the second banquet I said we had been sold to be annihilated, killed, and destroyed.",
+        "citations": "Esther 7:3,4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I fell at the king's feet and wept, pleading for my people.",
+        "citations": "Esther 8:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked for an order to annul Haman's documents against the Jews.",
+        "citations": "Esther 8:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I put Mordecai in charge of the house of Haman.",
+        "citations": "Esther 8:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I revealed to Ahasuerus how Mordecai was related to me.",
+        "citations": "Esther 8:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked that the Jews in Shushan act a second day according to the law.",
+        "citations": "Esther 9:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked that the ten sons of Haman be hanged on the stake.",
+        "citations": "Esther 9:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I continued to do what Mordecai said even after I became queen.",
+        "citations": "Esther 2:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was winning the favor of everyone who saw me.",
+        "citations": "Esther 2:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Mordecai day after day walked before the courtyard to learn about my welfare.",
+        "citations": "Esther 2:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I completed the prescribed 12-month beauty treatment before going in to Ahasuerus.",
+        "citations": "Esther 2:12, 15,16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Ahasuerus that if my people had only been sold as slaves, I would have kept silent.",
+        "citations": "Esther 7:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said the distress was not proper, for it would be damaging to Ahasuerus.",
+        "citations": "Esther 7:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Haman stood up to plead with me for his life.",
+        "citations": "Esther 7:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Ahasuerus saw Haman thrown on the couch where I was.",
+        "citations": "Esther 7:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked how I could bear to look upon the disaster coming on my people.",
+        "citations": "Esther 8:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "With Mordecai I wrote with full authority to confirm a second letter about Purim.",
+        "citations": "Esther 9:29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My command confirmed the matters concerning Purim, and it was recorded in a book.",
+        "citations": "Esther 9:32",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I instructed observance of Purim including fasting and supplication.",
+        "citations": "Esther 9:31",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When I came in before Ahasuerus, he ordered Haman's evil scheme to come back on his own head.",
+        "citations": "Esther 9:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Orphaned cousin raised by Mordecai, I hid my people until I risked death to expose Haman's annihilation decree.",
+        "citations": "Esther 2:7, 10, 20; Esther 4:16; Esther 7:3-6",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Twice I banqueted Ahasuerus and Haman, then named Haman before receiving his house and placing Mordecai over it.",
+        "citations": "Esther 5:4-8; Esther 7:1-6; Esther 8:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After Haman fell, I wept for a counter-decree, won a second day in Shushan, and with Mordecai established Purim.",
+        "citations": "Esther 8:3-8; Esther 9:13, 29-32",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Unsummoned for 30 days, I fasted three days, touched the golden scepter, and said if I perish, I perish.",
+        "citations": "Esther 4:11, 16; Esther 5:1,2",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Ezra",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a priest and a copyist of the Law.",
+        "citations": "Ezra 7:11,12; Nehemiah 8:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I came up from Babylon to Jerusalem.",
+        "citations": "Ezra 7:6, 8,9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "King Artaxerxes granted everything I requested.",
+        "citations": "Ezra 7:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I read aloud the book of the Law before the people.",
+        "citations": "Nehemiah 8:2,3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I led former exiles who had married foreign women to send them away.",
+        "citations": "Ezra 10:10-12, 44",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I prepared my heart to consult Jehovah's Law, practice it, and teach it in Israel.",
+        "citations": "Ezra 7:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the son of Seraiah, a descendant of Aaron the chief priest.",
+        "citations": "Ezra 7:1-5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was well-versed in the Law of Moses.",
+        "citations": "Ezra 7:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I began the journey from Babylon on the first day of the first month.",
+        "citations": "Ezra 7:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I arrived in Jerusalem on the first day of the fifth month.",
+        "citations": "Ezra 7:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Artaxerxes sent me with his seven advisers to investigate whether God's Law was being applied.",
+        "citations": "Ezra 7:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I praised Jehovah for putting it into the king's heart to beautify Jehovah's house.",
+        "citations": "Ezra 7:27",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I took courage because Jehovah's hand was upon me.",
+        "citations": "Ezra 7:28",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I assembled the travelers at the river that comes to Ahava.",
+        "citations": "Ezra 8:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Ahava I found no Levites among the people and priests.",
+        "citations": "Ezra 8:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent for ministers from Iddo at Casiphia.",
+        "citations": "Ezra 8:17,18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I proclaimed a fast at the river Ahava to seek guidance for our journey.",
+        "citations": "Ezra 8:21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was ashamed to ask Artaxerxes for soldiers and horsemen for protection.",
+        "citations": "Ezra 8:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "We fasted and made request of our God, and he listened.",
+        "citations": "Ezra 8:23",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I weighed out silver, gold, and utensils to 12 chiefs of the priests.",
+        "citations": "Ezra 8:24-26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jehovah's hand rescued us from the enemy and from ambush along the way.",
+        "citations": "Ezra 8:31",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I heard of foreign marriages, I ripped my garment and pulled out hair of my head and beard.",
+        "citations": "Ezra 9:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sat in shock until the evening grain offering.",
+        "citations": "Ezra 9:3,4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I got down on my knees and spread out my hands to Jehovah.",
+        "citations": "Ezra 9:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said I felt ashamed and embarrassed to raise my face to God.",
+        "citations": "Ezra 9:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "While I prayed and lay prostrate, a large crowd gathered weeping.",
+        "citations": "Ezra 10:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had the chiefs of the priests, Levites, and all Israel take an oath.",
+        "citations": "Ezra 10:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I ate no food and drank no water, mourning over the unfaithfulness.",
+        "citations": "Ezra 10:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I stood on a wooden podium and opened the book in the sight of all the people.",
+        "citations": "Nehemiah 8:4,5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "As I opened the book, all the people stood up.",
+        "citations": "Nehemiah 8:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I praised Jehovah, and the people answered “Amen! Amen!”",
+        "citations": "Nehemiah 8:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went before a thanksgiving choir at the inauguration of Jerusalem's wall.",
+        "citations": "Nehemiah 12:36",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My genealogy runs through Phinehas and Eleazar to Aaron.",
+        "citations": "Ezra 7:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I came in the seventh year of King Artaxerxes.",
+        "citations": "Ezra 7:7,8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told the holy vessels' guardians to weigh them out in Jehovah's house in Jerusalem.",
+        "citations": "Ezra 8:28,29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "On the fourth day in Jerusalem we weighed the silver and gold in God's house.",
+        "citations": "Ezra 8:33",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Princes told me the holy offspring had become mingled with the peoples of the lands.",
+        "citations": "Ezra 9:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went to the chamber of Jehohanan son of Eliashib while fasting.",
+        "citations": "Ezra 10:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I rose and told the people to separate from foreign wives.",
+        "citations": "Ezra 10:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In heavy rain the men of Judah and Benjamin sat in the courtyard before God's house at my summons.",
+        "citations": "Ezra 10:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "With family heads I looked into the foreign-wife cases from the tenth month to the first.",
+        "citations": "Ezra 10:16,17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I read from daybreak until midday before the Water Gate.",
+        "citations": "Nehemiah 8:3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "On the second day heads of houses gathered around me for further insight into the Law.",
+        "citations": "Nehemiah 8:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From that reading under my teaching the people learned to dwell in booths in the seventh month.",
+        "citations": "Nehemiah 8:13-17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I served in the days of Nehemiah the governor as priest and copyist.",
+        "citations": "Nehemiah 12:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Copyist from Aaron's line, I left Babylon in Artaxerxes' seventh year without a military escort, trusting Jehovah's hand at Ahava.",
+        "citations": "Ezra 7:1-6, 9; Ezra 8:21-23, 31",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I tore hair and clothes over mixed marriages, then led an oath and months-long inquiry to send the foreign wives away.",
+        "citations": "Ezra 9:3-5; Ezra 10:3, 5, 10-12, 16,17, 44",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "At the Water Gate I opened Moses' Law from daybreak to midday; the people wept, then rejoiced and kept booths as written.",
+        "citations": "Nehemiah 8:2-12, 13-17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Sent to beautify Jehovah's house and teach his Law, I later walked ahead of Jerusalem's wall thanksgiving choir as copyist.",
+        "citations": "Ezra 7:10, 27; Nehemiah 12:36",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Gedaliah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "The king of Babylon appointed me over the people left in Judah.",
+        "citations": "2 Kings 25:22; Jeremiah 40:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the son of Ahikam the son of Shaphan.",
+        "citations": "2 Kings 25:22; Jeremiah 40:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I stayed at Mizpah.",
+        "citations": "Jeremiah 40:6, 10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told the people to live in the land and serve the king of Babylon.",
+        "citations": "2 Kings 25:24; Jeremiah 40:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Ishmael struck me down with the sword at Mizpah.",
+        "citations": "Jeremiah 41:2; 2 Kings 25:25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jeremiah came and stayed with me among the people left in the land.",
+        "citations": "Jeremiah 40:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Nebuzaradan handed Jeremiah over to me to be brought to my house.",
+        "citations": "Jeremiah 39:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Army chiefs came to me at Mizpah when they heard of my appointment.",
+        "citations": "2 Kings 25:23; Jeremiah 40:7,8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Ishmael son of Nethaniah was among those who came to me.",
+        "citations": "Jeremiah 40:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Johanan son of Kareah also came to me with the army chiefs.",
+        "citations": "Jeremiah 40:8, 13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I swore an oath that they should not be afraid of serving the Chaldeans.",
+        "citations": "Jeremiah 40:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said I would stay in Mizpah to represent them to the Chaldeans who came.",
+        "citations": "Jeremiah 40:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told them to gather wine, summer fruits, and oil into storage.",
+        "citations": "Jeremiah 40:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Jews returned from Moab, Ammon, Edom, and other lands to me at Mizpah.",
+        "citations": "Jeremiah 40:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Under my care the people gathered wine and summer fruits in very great quantity.",
+        "citations": "Jeremiah 40:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Johanan warned me that Baalis king of the Ammonites had sent Ishmael to kill me.",
+        "citations": "Jeremiah 40:13,14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I did not believe Johanan's warning.",
+        "citations": "Jeremiah 40:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Johanan secretly offered to strike Ishmael down for me.",
+        "citations": "Jeremiah 40:15",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Johanan not to do it, saying his report about Ishmael was a lie.",
+        "citations": "Jeremiah 40:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Nebuzaradan told Jeremiah he could return to me, whom Babylon's king had appointed over Judah's cities.",
+        "citations": "Jeremiah 40:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was appointed over the men, women, and children from the poor left in the land.",
+        "citations": "Jeremiah 40:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Ishmael was of the royal line when he came to eat with me.",
+        "citations": "Jeremiah 41:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Ishmael and ten men rose up against me while we were eating a meal together.",
+        "citations": "Jeremiah 41:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was put to death in the seventh month.",
+        "citations": "2 Kings 25:25; Jeremiah 41:1,2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Chaldean soldiers with me in Mizpah were also struck down.",
+        "citations": "Jeremiah 41:3; 2 Kings 25:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After my death the remnant feared the Chaldeans and headed toward Egypt.",
+        "citations": "Jeremiah 41:17,18; 2 Kings 25:26",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Son of Ahikam, I governed Judah's remnant at Mizpah, urged service to Babylon, and hosted Jeremiah.",
+        "citations": "2 Kings 25:22-24; Jeremiah 39:14; Jeremiah 40:6, 9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Warned that Baalis had sent Ishmael to kill me, I called it a lie and forbade Johanan's preemptive strike.",
+        "citations": "Jeremiah 40:13-16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "In the seventh month, while eating with Ishmael of the royal line, I was slain as the governor Babylon had appointed.",
+        "citations": "Jeremiah 41:1,2; 2 Kings 25:25",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Haman",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was the Agagite enemy of the Jews in Esther's day.",
+        "citations": "Esther 3:1, 10; Esther 9:24",
+        "difficulty": "easy"
+      },
+      {
+        "text": "King Ahasuerus put my throne above all the other princes.",
+        "citations": "Esther 3:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I sought to annihilate all the Jews in the king's realm.",
+        "citations": "Esther 3:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I had a stake put up for Mordecai.",
+        "citations": "Esther 5:14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was hanged on the stake I prepared for Mordecai.",
+        "citations": "Esther 7:9,10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the son of Hammedatha.",
+        "citations": "Esther 3:1, 10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Mordecai would not bow to me, I became filled with rage.",
+        "citations": "Esther 3:2, 5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I despised doing away with Mordecai alone.",
+        "citations": "Esther 3:6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Pur, that is, the Lot, was cast before me.",
+        "citations": "Esther 3:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I offered Ahasuerus 10,000 silver talents for destroying a people.",
+        "citations": "Esther 3:8,9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Ahasuerus gave me his signet ring.",
+        "citations": "Esther 3:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Queen Esther invited only me to accompany Ahasuerus to her banquet.",
+        "citations": "Esther 5:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My wife's name was Zeresh.",
+        "citations": "Esther 5:10, 14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Ahasuerus a certain people had laws different from all others.",
+        "citations": "Esther 3:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Writing went out according to all I commanded, sealed with the king's signet ring.",
+        "citations": "Esther 3:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ordered annihilation of the Jews on the 13th day of Adar.",
+        "citations": "Esther 3:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After the decree, Ahasuerus and I sat down to drink while Shushan was in confusion.",
+        "citations": "Esther 3:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I boasted to my friends of my wealth, my many sons, and my promotion.",
+        "citations": "Esther 5:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Nothing satisfied me while Mordecai the Jew sat in the king's gate.",
+        "citations": "Esther 5:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Zeresh and my friends told me to have a stake put up 50 cubits high.",
+        "citations": "Esther 5:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I came to ask Ahasuerus to hang Mordecai on the stake I had prepared.",
+        "citations": "Esther 6:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I thought the man Ahasuerus wished to honor must be me.",
+        "citations": "Esther 6:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Ahasuerus ordered me to honor Mordecai the Jew with attire and a horse.",
+        "citations": "Esther 6:10,11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I hurried home mourning with my head covered.",
+        "citations": "Esther 6:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My wise men and Zeresh said I would surely fall before Mordecai.",
+        "citations": "Esther 6:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Esther named me the adversary and enemy before Ahasuerus.",
+        "citations": "Esther 7:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The king found me fallen on Esther's couch while I was pleading for my life.",
+        "citations": "Esther 7:7,8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From Nisan casting of Pur before me to Adar, I set one day to destroy every Jew in Ahasuerus's realm.",
+        "citations": "Esther 3:7, 13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I proposed royal attire and the king's horse for the man Ahasuerus wished to honor, then had to lead Mordecai through the public square myself.",
+        "citations": "Esther 6:7-11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Harbona told Ahasuerus my 50-cubit stake still stood at my house, and Ahasuerus hung me on it.",
+        "citations": "Esther 7:9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After I fell, Ahasuerus gave my house to Esther and my former signet ring to Mordecai.",
+        "citations": "Esther 8:1,2",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Purim recalls that I cast Pur against the Jews and that my evil scheme came back on my own head.",
+        "citations": "Esther 9:24-26",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Hananiah (companion of Daniel)",
+    "aliases": [
+      "Shadrach"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a companion of Daniel in Babylon.",
+        "citations": "Daniel 1:6; Daniel 2:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "With Mishael and Azariah, I refused to worship the image of gold.",
+        "citations": "Daniel 3:12, 18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "King Nebuchadnezzar had me thrown into the burning fiery furnace.",
+        "citations": "Daniel 3:20,21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Together with Mishael and Azariah, I stepped out of the fire unharmed.",
+        "citations": "Daniel 3:26,27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was among youths from Judah taken for the king's service.",
+        "citations": "Daniel 1:3-6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The principal court official gave me a Babylonian name.",
+        "citations": "Daniel 1:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "For ten days my companions and I ate vegetables and drank water instead of the king's delicacies.",
+        "citations": "Daniel 1:12-16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Daniel's request, Nebuchadnezzar appointed me over the administration of the province of Babylon.",
+        "citations": "Daniel 2:49",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Some Chaldeans accused me before Nebuchadnezzar of refusing his image.",
+        "citations": "Daniel 3:8, 12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "With Mishael and Azariah I told Nebuchadnezzar that we had no need to answer him in that matter.",
+        "citations": "Daniel 3:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After three years of training, Nebuchadnezzar found no one like Daniel, Mishael, Azariah, and me.",
+        "citations": "Daniel 1:5, 18,19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In matters of wisdom, Nebuchadnezzar found my companions and me ten times better than his magic-practicing priests and conjurers.",
+        "citations": "Daniel 1:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When the wise men were to be killed, Daniel informed me and asked us to pray for mercy.",
+        "citations": "Daniel 2:13, 17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Mighty men bound me and my companions and threw us into the furnace still wearing our clothes.",
+        "citations": "Daniel 3:20,21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The furnace was heated seven times hotter because of Mishael, Azariah, and me.",
+        "citations": "Daniel 3:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Not a hair of my head was singed, and there was not even the smell of fire on me.",
+        "citations": "Daniel 3:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "With Mishael and Azariah I answered that God could rescue us from the furnace and from Nebuchadnezzar's hand.",
+        "citations": "Daniel 3:16,17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "With Mishael and Azariah I said that even if our God did not rescue us, we would not worship the image.",
+        "citations": "Daniel 3:18",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The men who took me up were killed by the flames, but I fell bound into the fire and later walked out free.",
+        "citations": "Daniel 3:22,23, 25,26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After the fire had no effect on my body or cloaks, Nebuchadnezzar promoted me again in the province of Babylon.",
+        "citations": "Daniel 3:27, 30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "From Judah's youths in the palace school to administrators of Babylon, I stood with Mishael and Azariah against the golden image on the plain of Dura.",
+        "citations": "Daniel 1:6; Daniel 2:49; Daniel 3:1, 12, 18",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Jeshua (son of Jehozadak)",
+    "aliases": [
+      "Joshua"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was high priest after the exile.",
+        "citations": "Haggai 1:1; Zechariah 3:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I returned with Zerubbabel.",
+        "citations": "Ezra 2:2; Nehemiah 7:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "With Zerubbabel I built the altar of the God of Israel.",
+        "citations": "Ezra 3:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah stirred my spirit to work on His house.",
+        "citations": "Haggai 1:14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "In a vision I stood before the angel of Jehovah as high priest.",
+        "citations": "Zechariah 3:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the son of Jehozadak.",
+        "citations": "Ezra 3:2; Haggai 1:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Haggai spoke Jehovah's word to Zerubbabel and to me.",
+        "citations": "Haggai 1:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I listened to Haggai and began to show fear because of Jehovah.",
+        "citations": "Haggai 1:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "With Zerubbabel I refused outsiders a share in building Jehovah's house.",
+        "citations": "Ezra 4:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "With Zerubbabel I started again to rebuild God's house in Jerusalem.",
+        "citations": "Ezra 5:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Satan stood at my right hand to resist me.",
+        "citations": "Zechariah 3:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was clothed in filthy garments before the angel of Jehovah.",
+        "citations": "Zechariah 3:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "A clean turban was put on my head.",
+        "citations": "Zechariah 3:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In the second year after the return, Zerubbabel and I appointed Levites as supervisors over Jehovah's house.",
+        "citations": "Ezra 3:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Haggai told me to be strong and work, for Jehovah of armies was with us.",
+        "citations": "Haggai 2:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The angel of Jehovah said my error had been caused to pass away and I would be clothed with fine garments.",
+        "citations": "Zechariah 3:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I was told that if I walked in Jehovah's ways I would serve as a judge in His house.",
+        "citations": "Zechariah 3:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah called me and my companions men who serve as a sign.",
+        "citations": "Zechariah 3:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A stone with seven eyes was set before me.",
+        "citations": "Zechariah 3:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Silver and gold were made into a crown and put on my head.",
+        "citations": "Zechariah 6:11",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I became father to Joiakim.",
+        "citations": "Nehemiah 12:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Some of my sons were among priests who had taken foreign wives.",
+        "citations": "Ezra 10:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From the first altar with Zerubbabel to restarting the temple under Haggai and Zechariah, I led priestly restoration after exile.",
+        "citations": "Ezra 3:2; Ezra 5:2; Haggai 1:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The restoration accounts record me under two names as the high priest son of Jehozadak whom Jehovah stirred to build.",
+        "citations": "Ezra 3:2; Haggai 1:1, 14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After filthy garments were removed, Jehovah promised to bring His servant Sprout while I and my companions sat as a sign.",
+        "citations": "Zechariah 3:4, 8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "A crown made from silver and gold was put on my head, and I was told of the man named Sprout who would build Jehovah's temple.",
+        "citations": "Zechariah 6:11,12",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Mishael",
+    "aliases": [
+      "Meshach"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was a companion of Daniel in Babylon.",
+        "citations": "Daniel 1:6,7; Daniel 2:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "With Hananiah and Azariah I refused to worship the image of gold.",
+        "citations": "Daniel 3:12, 18",
+        "difficulty": "easy"
+      },
+      {
+        "text": "King Nebuchadnezzar had me thrown into the burning fiery furnace.",
+        "citations": "Daniel 3:20,21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Together with Hananiah and Azariah, I stepped out of the fire unharmed.",
+        "citations": "Daniel 3:26,27",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was among youths from the tribe of Judah taken for the king's service.",
+        "citations": "Daniel 1:3-6",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The principal court official gave me a Babylonian name.",
+        "citations": "Daniel 1:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "For ten days my companions and I ate vegetables and drank water instead of the king's delicacies.",
+        "citations": "Daniel 1:12-16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Daniel's request, Nebuchadnezzar appointed me over the administration of the province of Babylon.",
+        "citations": "Daniel 2:49",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Some Chaldeans accused me before Nebuchadnezzar of refusing his image.",
+        "citations": "Daniel 3:8, 12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "With Hananiah and Azariah I told Nebuchadnezzar that we had no need to answer him in that matter.",
+        "citations": "Daniel 3:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "With Hananiah and Azariah I said that even if our God did not rescue us, we would not worship the image.",
+        "citations": "Daniel 3:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "After three years of training, Nebuchadnezzar found no one like Daniel, Hananiah, Azariah, and me.",
+        "citations": "Daniel 1:5, 18,19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In matters of wisdom, Nebuchadnezzar found my companions and me ten times better than his magic-practicing priests and conjurers.",
+        "citations": "Daniel 1:20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "When the wise men were to be killed, Daniel informed me and asked us to pray for mercy.",
+        "citations": "Daniel 2:13, 17,18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Mighty men from the king's army bound me and my companions and threw us into the furnace still wearing our clothes.",
+        "citations": "Daniel 3:20,21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "The furnace was heated seven times hotter because of me and my companions.",
+        "citations": "Daniel 3:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Not a hair of my head was singed, and there was not even the smell of fire on me.",
+        "citations": "Daniel 3:27",
+        "difficulty": "hard"
+      },
+      {
+        "text": "With Hananiah and Azariah I answered that God could rescue us from the furnace and from Nebuchadnezzar's hand.",
+        "citations": "Daniel 3:16,17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "The men who took me up to the furnace were killed by the flames, but I fell bound into the fire and later walked out free.",
+        "citations": "Daniel 3:22,23, 25,26",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After the fire had no effect on my body or cloaks, Nebuchadnezzar promoted me again in the province of Babylon.",
+        "citations": "Daniel 3:27, 30",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "From Judah's youths in the palace school to administrators of Babylon, I stood with Hananiah and Azariah against the golden image on the plain of Dura.",
+        "citations": "Daniel 1:6,7; Daniel 2:49; Daniel 3:1, 12, 18",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Mordecai",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I raised Esther as my daughter.",
+        "citations": "Esther 2:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I refused to bow low to Haman.",
+        "citations": "Esther 3:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I uncovered a plot against King Ahasuerus.",
+        "citations": "Esther 2:21,22",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Haman built a stake to hang me.",
+        "citations": "Esther 5:14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Ahasuerus made me second only to himself.",
+        "citations": "Esther 10:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a Jew of Benjamin in Shushan the citadel.",
+        "citations": "Esther 2:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Esther was the daughter of my father's brother.",
+        "citations": "Esther 2:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I instructed Esther not to reveal her people.",
+        "citations": "Esther 2:10, 20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Day after day I walked before the courtyard of the house of the women to learn about Esther.",
+        "citations": "Esther 2:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sat in the king's gate.",
+        "citations": "Esther 2:19, 21",
+        "difficulty": "medium"
+      },
+      {
+        "text": "While refusing to bow, I told them that I was a Jew.",
+        "citations": "Esther 3:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I put on sackcloth and ashes and cried out loudly in the city.",
+        "citations": "Esther 4:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent Esther a copy of the decree and told her to plead with Ahasuerus.",
+        "citations": "Esther 4:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Ahasuerus ordered Haman to clothe me and lead me on the king's horse.",
+        "citations": "Esther 6:10,11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Esther put me in charge of Haman's house.",
+        "citations": "Esther 8:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was son of Jair son of Shimei son of Kish.",
+        "citations": "Esther 2:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My family line went back to Kish, who was associated with Jeconiah's exile.",
+        "citations": "Esther 2:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Bigthan and Teresh plotted while I sat in the king's gate, and I told Queen Esther.",
+        "citations": "Esther 2:21,22",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I would not accept the garments Esther sent in place of my sackcloth.",
+        "citations": "Esther 4:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Esther that relief for the Jews would come from another source if she remained silent.",
+        "citations": "Esther 4:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked who knows whether she attained royal status for a time like this.",
+        "citations": "Esther 4:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After being honored, I returned to the king's gate while Haman hurried home mourning.",
+        "citations": "Esther 6:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I wrote in the king's name and sealed documents with his signet ring for the Jews.",
+        "citations": "Esther 8:8-10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I left Ahasuerus's presence in royal apparel of blue and white, wearing a great golden crown.",
+        "citations": "Esther 8:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I recorded the events and instructed the Jews to observe the 14th and 15th of Adar.",
+        "citations": "Esther 9:20,21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "With Esther I wrote with full authority to confirm Purim.",
+        "citations": "Esther 9:29",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From a Benjaminite family affected by Jeconiah's exile, I worked for the good of my people in Shushan.",
+        "citations": "Esther 2:5,6; Esther 10:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I would not bow to Haman, then later rode the king's horse while Haman called out my honor.",
+        "citations": "Esther 3:2; Esther 6:10,11",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I charged Esther to go in to Ahasuerus, then carried out her order to gather the Jews of Shushan to fast.",
+        "citations": "Esther 4:8, 16,17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Princes and satraps supported the Jews because they feared me as I grew steadily more powerful.",
+        "citations": "Esther 9:3,4",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I sealed a decree allowing the Jews to defend their lives on the 13th of Adar, the day Haman had chosen for their destruction.",
+        "citations": "Esther 3:13; Esther 8:11,12",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Nebuchadnezzar",
+    "aliases": [
+      "Nebuchadrezzar"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was king of Babylon.",
+        "citations": "Daniel 1:1; 2 Kings 24:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I besieged Jerusalem.",
+        "citations": "2 Kings 24:10,11; Daniel 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I took utensils from Jehovah's house to Babylon.",
+        "citations": "Daniel 1:2; 2 Chronicles 36:7",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I carried people of Judah into exile.",
+        "citations": "2 Kings 24:14,15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I destroyed Jerusalem and burned Jehovah's house.",
+        "citations": "2 Chronicles 36:17-19; 2 Kings 25:8,9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I had a dream that left me agitated and unable to sleep.",
+        "citations": "Daniel 2:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I demanded that my wise men tell me both the dream and its interpretation.",
+        "citations": "Daniel 2:5,6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I made an image of gold and set it up on the plain of Dura.",
+        "citations": "Daniel 3:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I ordered that whoever would not worship my image be thrown into the burning fiery furnace.",
+        "citations": "Daniel 3:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I ordered Shadrach, Meshach, and Abednego thrown into the furnace.",
+        "citations": "Daniel 3:19-21",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I saw four men walking free in the midst of the fire.",
+        "citations": "Daniel 3:24,25",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was driven away from mankind and ate vegetation like bulls.",
+        "citations": "Daniel 4:32,33",
+        "difficulty": "easy"
+      },
+      {
+        "text": "After my understanding returned, I praised the Most High.",
+        "citations": "Daniel 4:34",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehovah called me his servant.",
+        "citations": "Jeremiah 25:9; Jeremiah 27:6",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Jehoiakim became my servant, then rebelled against me.",
+        "citations": "2 Kings 24:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "In Jehoiakim's third year I came to Jerusalem and besieged it.",
+        "citations": "Daniel 1:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I brought temple utensils to the land of Shinar, to the house of my god.",
+        "citations": "Daniel 1:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I ordered Ashpenaz to bring youths of royal and noble descent for my service.",
+        "citations": "Daniel 1:3,4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I assigned the youths daily rations from my delicacies and wine and had them trained for three years.",
+        "citations": "Daniel 1:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When I spoke with the youths, I found none like Daniel, Shadrach, Meshach, and Abednego.",
+        "citations": "Daniel 1:18,19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In matters of wisdom I found four Hebrews ten times better than my magic-practicing priests and conjurers.",
+        "citations": "Daniel 1:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In my second year I summoned magic-practicing priests, conjurers, sorcerers, and Chaldeans about my dreams.",
+        "citations": "Daniel 2:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I threatened to dismember my wise men and turn their houses into public latrines if they failed.",
+        "citations": "Daniel 2:5",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I flew into a violent rage and ordered all the wise men of Babylon destroyed.",
+        "citations": "Daniel 2:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I fell facedown and paid homage to Daniel, saying his God is a God of gods and a Revealer of secrets.",
+        "citations": "Daniel 2:46,47",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I elevated Daniel and made him ruler over the province of Babylon.",
+        "citations": "Daniel 2:48",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Daniel's request I appointed Shadrach, Meshach, and Abednego over Babylon's administration.",
+        "citations": "Daniel 2:49",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My golden image was 60 cubits high and 6 cubits wide.",
+        "citations": "Daniel 3:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I assembled satraps, prefects, governors, and administrators for the inauguration of my image.",
+        "citations": "Daniel 3:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In a furious rage I ordered the furnace heated seven times hotter than usual.",
+        "citations": "Daniel 3:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The men who took up Shadrach, Meshach, and Abednego for me were killed by the flames.",
+        "citations": "Daniel 3:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said the fourth man in the fire looked like a son of the gods.",
+        "citations": "Daniel 3:25",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I called the three out of the furnace as servants of the Most High God.",
+        "citations": "Daniel 3:26",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I ordered that anyone speaking against their God be dismembered.",
+        "citations": "Daniel 3:29",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I promoted Shadrach, Meshach, and Abednego in the province of Babylon.",
+        "citations": "Daniel 3:30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I dreamed of an enormous tree whose top reached the heavens.",
+        "citations": "Daniel 4:10,11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I saw a watcher, a holy one, come down and call for the tree to be chopped down.",
+        "citations": "Daniel 4:13,14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Twelve months after the dream, I was walking on the roof of my palace in Babylon.",
+        "citations": "Daniel 4:29",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said, “Is this not Babylon the Great that I myself have built?”",
+        "citations": "Daniel 4:30",
+        "difficulty": "medium"
+      },
+      {
+        "text": "While that boast was still in my mouth, a voice from the heavens said my kingdom had gone away from me.",
+        "citations": "Daniel 4:31",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My hair grew long like eagles' feathers and my nails like birds' claws.",
+        "citations": "Daniel 4:33",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I took Jehoiachin captive in the eighth year of my reign.",
+        "citations": "2 Kings 24:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I made Mattaniah king in Jehoiachin's place and changed his name to Zedekiah.",
+        "citations": "2 Kings 24:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Zedekiah rebelled against me after I had made him take an oath by God.",
+        "citations": "2 Chronicles 36:13; 2 Kings 24:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I came with all my army against Jerusalem and built a siege wall all around it.",
+        "citations": "2 Kings 25:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "At Riblah I blinded Zedekiah after his sons were slaughtered before his eyes.",
+        "citations": "2 Kings 25:6,7; Jeremiah 39:5-7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I appointed Gedaliah over the people left in the land of Judah.",
+        "citations": "2 Kings 25:22",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I ordered Nebuzaradan to look after Jeremiah, do him no harm, and grant whatever he asked.",
+        "citations": "Jeremiah 39:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I named Daniel Belteshazzar after the name of my god.",
+        "citations": "Daniel 4:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I made Daniel chief of the magic-practicing priests.",
+        "citations": "Daniel 4:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I told Belteshazzar that no secret was too difficult for him.",
+        "citations": "Daniel 4:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My wise men could not interpret the tree dream even after I told them what I had dreamed.",
+        "citations": "Daniel 4:6,7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I said I was at ease in my house and prospering in my palace when the tree dream came.",
+        "citations": "Daniel 4:4,5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After seven times passed over me, my understanding returned when I looked up to the heavens.",
+        "citations": "Daniel 4:34",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My high officials and nobles eagerly sought me out, and even more greatness was added to me.",
+        "citations": "Daniel 4:36",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I declared that the Most High is able to humiliate those who walk in pride.",
+        "citations": "Daniel 4:37",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I asked who is the god who could rescue the three Hebrews out of my hands.",
+        "citations": "Daniel 3:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I praised the God who sent his angel and rescued his servants who trusted in him.",
+        "citations": "Daniel 3:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I cut into pieces the gold utensils Solomon had made in Jehovah's temple.",
+        "citations": "2 Kings 24:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I took about 10,000 into exile from Jerusalem, leaving the poorest of the land.",
+        "citations": "2 Kings 24:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "In my 19th year Nebuzaradan my chief of the guard came to Jerusalem.",
+        "citations": "2 Kings 25:8",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At Riblah in the land of Hamath I struck down and put to death leading men brought from Jerusalem.",
+        "citations": "2 Kings 25:20,21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I took from Egypt's king everything from the Wadi of Egypt up to the Euphrates River.",
+        "citations": "2 Kings 24:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I came up against Jehoiakim to bind him with two copper fetters to take him to Babylon.",
+        "citations": "2 Chronicles 36:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jeremiah said Jehovah had given all those lands into my hand, even the wild beasts of the field.",
+        "citations": "Jeremiah 27:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jeremiah said the nations would serve me and my son and my grandson.",
+        "citations": "Jeremiah 27:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said he was sending for me, his servant, against Judah and the surrounding nations.",
+        "citations": "Jeremiah 25:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I made my army labor greatly against Tyre, yet we received no wages from that labor.",
+        "citations": "Ezekiel 29:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said he was giving me the land of Egypt as wages for my army.",
+        "citations": "Ezekiel 29:19,20",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said he was bringing me against Tyre from the north as a king of kings.",
+        "citations": "Ezekiel 26:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said he would place my throne above the stones Jeremiah hid at Tahpanhes.",
+        "citations": "Jeremiah 43:10",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Daniel told me I myself was the head of gold on the immense image in my dream.",
+        "citations": "Daniel 2:37,38",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I ordered the wise men destroyed over a dream I would not relate, then elevated the exile who told both dream and interpretation.",
+        "citations": "Daniel 2:5, 12, 46-48",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I took Jehovah's utensils to my god's treasury; later they were still known as what I had carried off from Jerusalem.",
+        "citations": "Daniel 1:2; Ezra 1:7; Ezra 5:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Jehovah said that after 70 years he would call my city Babylon to account.",
+        "citations": "Jeremiah 25:12",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I put Judah under covenant oath so it could stand only by serving me.",
+        "citations": "Ezekiel 17:13,14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "When Zedekiah broke that oath and looked to Egypt, I blinded him at Riblah and took him captive to Babylon.",
+        "citations": "Ezekiel 17:15,16; 2 Kings 25:6,7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I ordered the furnace heated seven times hotter, then praised the God who rescued the men I had thrown in.",
+        "citations": "Daniel 3:19,20, 28",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I boasted of Babylon the Great on my palace roof; at that word I was driven to dwell with the beasts.",
+        "citations": "Daniel 4:29-33",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Nehemiah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was cupbearer to Artaxerxes.",
+        "citations": "Nehemiah 1:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I rebuilt the walls of Jerusalem.",
+        "citations": "Nehemiah 2:17,18; Nehemiah 6:15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was governor in the land of Judah.",
+        "citations": "Nehemiah 5:14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I served King Artaxerxes.",
+        "citations": "Nehemiah 2:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I wept when I heard that Jerusalem's walls were broken down.",
+        "citations": "Nehemiah 1:3,4",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I asked Artaxerxes to send me to Judah to rebuild the city.",
+        "citations": "Nehemiah 2:5",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I inspected Jerusalem's ruined walls at night.",
+        "citations": "Nehemiah 2:12,13",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I told the people, “Come, let us rebuild the walls of Jerusalem.”",
+        "citations": "Nehemiah 2:17",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Sanballat and Tobiah opposed my work.",
+        "citations": "Nehemiah 2:10, 19",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I finished Jerusalem's wall in 52 days.",
+        "citations": "Nehemiah 6:15",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I stopped nobles from demanding interest from their brothers.",
+        "citations": "Nehemiah 5:7, 10,11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I threw Tobiah's furniture out of the temple storeroom.",
+        "citations": "Nehemiah 13:8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the son of Hacaliah.",
+        "citations": "Nehemiah 1:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was in Shushan the citadel when news came from Judah.",
+        "citations": "Nehemiah 1:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My brother Hanani brought me word about Jerusalem.",
+        "citations": "Nehemiah 1:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I fasted and prayed for days after hearing the bad news.",
+        "citations": "Nehemiah 1:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I had never been gloomy in the king's presence before.",
+        "citations": "Nehemiah 2:1",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Artaxerxes noticed my gloominess of heart.",
+        "citations": "Nehemiah 2:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked for letters to the governors Beyond the River.",
+        "citations": "Nehemiah 2:7",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I asked Artaxerxes for a letter directing Asaph to provide timber from the Royal Park.",
+        "citations": "Nehemiah 2:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Artaxerxes sent army chiefs and horsemen with me.",
+        "citations": "Nehemiah 2:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I stayed in Jerusalem three days before inspecting the city wall.",
+        "citations": "Nehemiah 2:11,12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I did not tell anyone what my God had put into my heart to do.",
+        "citations": "Nehemiah 2:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I went out by night through the Valley Gate.",
+        "citations": "Nehemiah 2:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told Sanballat he had neither share nor claim nor memorial in Jerusalem.",
+        "citations": "Nehemiah 2:20",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I posted families with swords, lances, and bows at the exposed places.",
+        "citations": "Nehemiah 4:13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told the people to remember Jehovah and fight for their families.",
+        "citations": "Nehemiah 4:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Half of my men worked while half held the weapons.",
+        "citations": "Nehemiah 4:16",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The one to blow the horn stood beside me.",
+        "citations": "Nehemiah 4:18",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I refused Sanballat's invitation to meet in the Valley Plain of Ono.",
+        "citations": "Nehemiah 6:2,3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I said I was engaged in a great work and could not go down.",
+        "citations": "Nehemiah 6:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I would not run into the temple to save my life.",
+        "citations": "Nehemiah 6:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "For 12 years I did not eat the food allowance due the governor.",
+        "citations": "Nehemiah 5:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I put my brother Hanani in charge of Jerusalem.",
+        "citations": "Nehemiah 7:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "As governor I told the people not to mourn on the holy day.",
+        "citations": "Nehemiah 8:9",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The news reached me in the month of Chislev, in the 20th year.",
+        "citations": "Nehemiah 1:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I spoke to Artaxerxes in the month of Nisan, in his 20th year.",
+        "citations": "Nehemiah 2:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I confessed the sins of Israel, including my own and my father's house.",
+        "citations": "Nehemiah 1:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "At the King's Pool there was not enough space for the animal I was riding.",
+        "citations": "Nehemiah 2:14",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I shook out the folds of my garment against anyone who broke the interest promise.",
+        "citations": "Nehemiah 5:13",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Former governors had taken 40 silver shekels a day for bread and wine, but I did not.",
+        "citations": "Nehemiah 5:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "One hundred fifty Jews and deputy rulers ate at my table.",
+        "citations": "Nehemiah 5:17",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Sanballat's open letter accused me of planning to become king.",
+        "citations": "Nehemiah 6:5-7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I saw that Tobiah and Sanballat had hired Shemaiah against me.",
+        "citations": "Nehemiah 6:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My wall was completed on the 25th day of Elul.",
+        "citations": "Nehemiah 6:15",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I found the book of genealogical enrollment of those who first came up.",
+        "citations": "Nehemiah 7:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I ordered Jerusalem's gates closed before the Sabbath.",
+        "citations": "Nehemiah 13:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I warned traders spending the night outside Jerusalem's wall that I would use force.",
+        "citations": "Nehemiah 13:20,21",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I pulled out the hair of men who had married foreign women.",
+        "citations": "Nehemiah 13:25",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I drove away Joiada's son, the son-in-law of Sanballat.",
+        "citations": "Nehemiah 13:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I went to Artaxerxes in his 32nd year, then returned on leave.",
+        "citations": "Nehemiah 13:6,7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I sealed the written agreement first among the leaders.",
+        "citations": "Nehemiah 10:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From cupbearer in Shushan to governor of Judah, I rebuilt Jerusalem's wall my brother Hanani reported was broken down.",
+        "citations": "Nehemiah 1:2,3, 11; Nehemiah 5:14; Nehemiah 6:15",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I inspected the ruined gates by night, then later closed Jerusalem's gates to keep the Sabbath holy.",
+        "citations": "Nehemiah 2:13; Nehemiah 13:19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I refused a meeting at Ono and refused to hide in the temple, while Tobiah kept sending letters to frighten me.",
+        "citations": "Nehemiah 6:2,3, 11, 19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I stopped interest-taking among the nobles, then later threw an Ammonite official's furniture out of God's house.",
+        "citations": "Nehemiah 5:7, 10,11; Nehemiah 13:7,8",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After 12 years without taking the governor's food, I returned from Artaxerxes and found Eliashib had given Tobiah a storeroom.",
+        "citations": "Nehemiah 5:14; Nehemiah 13:4-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I appointed Hanani over Jerusalem, then with Ezra calmed a weeping people on the day the Law was read.",
+        "citations": "Nehemiah 7:2; Nehemiah 8:9",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Enemies mocked our half-built wall, yet we finished it in 52 days, and the nations saw it was done with God's help.",
+        "citations": "Nehemiah 4:1-3, 6; Nehemiah 6:15,16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "From night inspection with one animal to choirs on the finished wall, I led Judah from disgrace to dedication.",
+        "citations": "Nehemiah 2:12,13; Nehemiah 12:27, 31",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Sanballat",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I became furious and greatly offended when I heard that the Jews were rebuilding the wall.",
+        "citations": "Nehemiah 4:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was a Horonite.",
+        "citations": "Nehemiah 2:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I mocked the Jews who were rebuilding Jerusalem's wall.",
+        "citations": "Nehemiah 4:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I tried to stop the rebuilding of Jerusalem's wall.",
+        "citations": "Nehemiah 4:7,8; Nehemiah 6:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was very displeased that someone had come to help Israel.",
+        "citations": "Nehemiah 2:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "With Tobiah and Geshem, I mocked the builders and accused them of rebelling.",
+        "citations": "Nehemiah 2:19",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Before the army of Samaria I asked if the feeble Jews would finish in a day.",
+        "citations": "Nehemiah 4:1,2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I conspired with others to fight against Jerusalem.",
+        "citations": "Nehemiah 4:7,8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I invited Nehemiah to meet in the villages of the Valley Plain of Ono.",
+        "citations": "Nehemiah 6:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I sent Nehemiah the same meeting message four times.",
+        "citations": "Nehemiah 6:4",
+        "difficulty": "medium"
+      },
+      {
+        "text": "On the fifth try I sent my attendant with an open letter.",
+        "citations": "Nehemiah 6:5",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My letter claimed Nehemiah was scheming to become king.",
+        "citations": "Nehemiah 6:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I claimed prophets were proclaiming, “There is a king in Judah!”",
+        "citations": "Nehemiah 6:7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "With Tobiah I hired Shemaiah to frighten Nehemiah.",
+        "citations": "Nehemiah 6:12",
+        "difficulty": "hard"
+      },
+      {
+        "text": "One of Joiada's sons became my son-in-law.",
+        "citations": "Nehemiah 13:28",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From mocking “feeble Jews” before Samaria's army to an open letter naming Nehemiah a rebel king, I repeatedly tried to stop Jerusalem's wall.",
+        "citations": "Nehemiah 4:1,2; Nehemiah 6:5-7",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I schemed harm at Ono, hired a false prophecy, and still saw Jerusalem's wall finished in 52 days.",
+        "citations": "Nehemiah 6:2, 12, 15,16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "After opposing the rebuild, my family tie into the high priest's house got Joiada's son driven away.",
+        "citations": "Nehemiah 2:10; Nehemiah 13:28",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Tobiah",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I opposed Nehemiah's work in Jerusalem.",
+        "citations": "Nehemiah 2:10, 19",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was an Ammonite official.",
+        "citations": "Nehemiah 2:10",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I mocked the Jews who were rebuilding Jerusalem's wall.",
+        "citations": "Nehemiah 4:3",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I tried to frighten Nehemiah with letters.",
+        "citations": "Nehemiah 6:19",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was very displeased that someone had come to help Israel.",
+        "citations": "Nehemiah 2:10",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Standing beside Sanballat, I said a fox could knock down their stone wall.",
+        "citations": "Nehemiah 4:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I joined Sanballat and others in conspiring against Jerusalem.",
+        "citations": "Nehemiah 4:7,8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "With Sanballat I hired Shemaiah to speak a false prophecy.",
+        "citations": "Nehemiah 6:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Nobles of Judah kept sending me letters, and I replied.",
+        "citations": "Nehemiah 6:17",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I was a son-in-law of Shecaniah the son of Arah.",
+        "citations": "Nehemiah 6:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My son Jehohanan had married a daughter of Meshullam the son of Berechiah.",
+        "citations": "Nehemiah 6:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Many in Judah swore allegiance to me.",
+        "citations": "Nehemiah 6:18",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Eliashib the priest was a relative of mine.",
+        "citations": "Nehemiah 13:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "While Nehemiah was away, Eliashib made a large temple storeroom available for me.",
+        "citations": "Nehemiah 13:4-7",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I mocked that a fox could topple their wall, then watched that wall finished in 52 days.",
+        "citations": "Nehemiah 4:3; Nehemiah 6:15,16",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Through marriage ties in Judah I gained allies who praised me to Nehemiah while reporting his words back to me.",
+        "citations": "Nehemiah 6:17-19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Nehemiah threw my household furniture out of the temple storeroom.",
+        "citations": "Nehemiah 13:8",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Vashti",
+    "aliases": [
+      "Queen Vashti"
+    ],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was King Ahasuerus' queen.",
+        "citations": "Esther 1:9, 11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I refused to come when Ahasuerus ordered me brought in.",
+        "citations": "Esther 1:12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was very beautiful.",
+        "citations": "Esther 1:11",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I held a banquet for the women at the royal house.",
+        "citations": "Esther 1:9",
+        "difficulty": "easy"
+      },
+      {
+        "text": "Ahasuerus wanted me brought wearing the royal headdress.",
+        "citations": "Esther 1:11",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Seven court officials carried the king's order to me.",
+        "citations": "Esther 1:10-12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The king's rage flared up when I refused.",
+        "citations": "Esther 1:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "My refusal came on the seventh day of the king's banquet.",
+        "citations": "Esther 1:10, 12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Memucan said I had done wrong not only against Ahasuerus but against all the princes and peoples.",
+        "citations": "Esther 1:16",
+        "difficulty": "hard"
+      },
+      {
+        "text": "A decree said that I may never again come in before King Ahasuerus.",
+        "citations": "Esther 1:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Ahasuerus was to confer my royal position on a woman better than I.",
+        "citations": "Esther 1:19",
+        "difficulty": "hard"
+      },
+      {
+        "text": "After the king's rage subsided, he remembered what I had done.",
+        "citations": "Esther 2:1",
+        "difficulty": "hard"
+      },
+      {
+        "text": "From hosting the women's banquet to losing my royal place, one refusal ended my standing before Ahasuerus.",
+        "citations": "Esther 1:9, 12, 19",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I was summoned to display my beauty in the royal headdress, and Esther later wore that headdress as queen instead of me.",
+        "citations": "Esther 1:11; Esther 2:17",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "My refusal led to an unrepealable Persian decree and a search for a queen to replace me.",
+        "citations": "Esther 1:19; Esther 2:4",
+        "difficulty": "nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Zerubbabel",
+    "aliases": [],
+    "type": "character",
+    "is_published": true,
+    "clues": [
+      {
+        "text": "I was among the leaders who brought exiles back from Babylon to Judah.",
+        "citations": "Ezra 2:1,2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I helped rebuild the temple in Jerusalem.",
+        "citations": "Ezra 3:8; Ezra 5:2",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was governor of Judah.",
+        "citations": "Haggai 1:1, 14",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I worked alongside Jeshua the high priest.",
+        "citations": "Ezra 3:2; Haggai 1:1, 12",
+        "difficulty": "easy"
+      },
+      {
+        "text": "I was the son of Shealtiel.",
+        "citations": "Ezra 3:2; Haggai 1:1",
+        "difficulty": "easy"
+      },
+      {
+        "text": "With Jeshua I built the altar of the God of Israel.",
+        "citations": "Ezra 3:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "In the second year after our return we started the work on Jehovah's house.",
+        "citations": "Ezra 3:8",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I refused to let surrounding peoples build the temple with us.",
+        "citations": "Ezra 4:1-3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I told them they had no share with us in building a house to our God.",
+        "citations": "Ezra 4:3",
+        "difficulty": "medium"
+      },
+      {
+        "text": "When Haggai prophesied, Jehovah stirred up my spirit to work on Jehovah's house.",
+        "citations": "Haggai 1:14",
+        "difficulty": "medium"
+      },
+      {
+        "text": "I listened to the voice of Jehovah through Haggai the prophet.",
+        "citations": "Haggai 1:12",
+        "difficulty": "medium"
+      },
+      {
+        "text": "The prophets of God were with me when I restarted the rebuilding.",
+        "citations": "Ezra 5:2",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Matthew lists me in the genealogy of Jesus after the deportation to Babylon.",
+        "citations": "Matthew 1:12,13",
+        "difficulty": "medium"
+      },
+      {
+        "text": "Those who came with me included Jeshua, Nehemiah, and others named in the return list.",
+        "citations": "Ezra 2:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "We set the altar on its former site despite fear of the surrounding peoples.",
+        "citations": "Ezra 3:2,3",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Adversaries claimed to me that they had sacrificed to our God since Esar-haddon's day.",
+        "citations": "Ezra 4:2",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Haggai addressed me as governor while the people lived in paneled houses and Jehovah's house lay in ruins.",
+        "citations": "Haggai 1:1, 4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah told me through Haggai, “Be strong… and work.”",
+        "citations": "Haggai 2:4",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah said he would make me like a seal ring because he had chosen me.",
+        "citations": "Haggai 2:23",
+        "difficulty": "hard"
+      },
+      {
+        "text": "Jehovah's word to me said, “Not by a military force, nor by power, but by my spirit.”",
+        "citations": "Zechariah 4:6",
+        "difficulty": "hard"
+      },
+      {
+        "text": "My hands laid the foundation of Jehovah's house, and my hands would finish it.",
+        "citations": "Zechariah 4:9",
+        "difficulty": "hard"
+      },
+      {
+        "text": "I refused the surrounding peoples who asked to join the work, citing Cyrus's command.",
+        "citations": "Ezra 4:3",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Under Darius, I restarted Jehovah's house with Haggai and Zechariah.",
+        "citations": "Ezra 5:1,2; Haggai 1:14",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "I laid the temple's foundation amid mixed weeping and shouting, then later held the plumb line as the work moved beyond small beginnings.",
+        "citations": "Ezra 3:10-13; Zechariah 4:9,10",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "As governor of Judah and Jehovah's chosen seal ring, I stand in Matthew's line from Jeconiah toward the Christ.",
+        "citations": "Haggai 2:23; Matthew 1:12,13",
+        "difficulty": "nightmare"
+      },
+      {
+        "text": "Before me a great mountain was to become level land, and I would bring out the top stone amid shouts of wonder.",
+        "citations": "Zechariah 4:7",
+        "difficulty": "nightmare"
+      }
+    ]
+  }
+]

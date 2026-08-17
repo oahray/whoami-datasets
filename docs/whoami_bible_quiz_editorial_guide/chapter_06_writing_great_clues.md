@@ -82,11 +82,12 @@ Natural language makes clues more enjoyable to read without sacrificing accuracy
 
 ---
 
-# State Facts, Not References
+# Use Biblical Structure Purposefully
 
-Clues should describe biblical events, not biblical structure.
+Most clues should describe biblical people, events, and statements rather than
+merely identifying where material appears.
 
-Avoid clues such as:
+Weak structural clues include:
 
 > My story appears in Genesis.
 
@@ -94,7 +95,29 @@ Avoid clues such as:
 
 > My account spans three chapters.
 
-These test knowledge of the Bible's layout rather than knowledge of the biblical narrative.
+These reveal little of interest and usually test only basic document layout.
+
+However, biblical structure is not forbidden. A structural or whole-Bible clue
+may be useful when it communicates a distinctive, meaningful observation that
+rewards broad knowledge of Scripture.
+
+Examples include:
+
+> The first recorded murder in Scripture was committed by me.
+
+> I am the only woman whose age at death is explicitly recorded in the Bible.
+
+Such clues should be retained only when:
+
+- the observation is demonstrably correct across Scripture;
+- the underlying event is supported by an appropriate citation;
+- the wording contributes meaningful identifying information;
+- it does more than state a book, chapter, list position, or number of verses;
+- it remains natural from the character's perspective.
+
+Because exhaustive claims cannot always be proved by one short passage, their
+accuracy must be checked against the whole Bible. The cited passage should still
+directly support the event or fact on which the whole-Bible observation rests.
 
 ---
 
