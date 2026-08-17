@@ -1,6 +1,7 @@
 import { checkCitations } from "./check_citations.js";
 import { checkDifficulty } from "./check_difficulty.js";
 import { checkDuplicates } from "./check_duplicates.js";
+import { checkSelfNames } from "./check_self_names.js";
 import {
   CheckResult,
   loadDatasets,
@@ -21,6 +22,7 @@ const result = mergeResults([
   checkDuplicates(loaded.records),
   checkCitations(loaded.records),
   checkDifficulty(loaded.records),
+  checkSelfNames(loaded.records),
 ]);
 
 result.errors.unshift(...loaded.errors);

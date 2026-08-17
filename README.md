@@ -204,6 +204,7 @@ Run an individual checker:
 npm run check:duplicates -- datasets/bible/characters
 npm run check:citations -- datasets/bible/characters
 npm run check:difficulty -- datasets/bible/characters
+npm run check:self-names -- datasets/bible/characters
 ```
 
 The duplicate checker rejects exact duplicates and reports conservative
@@ -211,6 +212,8 @@ near-duplicate warnings. The citation checker validates reference syntax and
 Bible book names; confirming that a cited passage supports its clue remains an
 editorial review. The difficulty checker requires clues to be grouped from
 Easy through Nightmare and requires at least three clues at each difficulty.
+The self-name checker rejects clues that contain the entity's own name
+or any of its aliases.
 
 ---
 

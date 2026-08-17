@@ -10,7 +10,8 @@
     "validate:structure": "tsx scripts/validate_dataset.ts",
     "check:duplicates": "tsx scripts/check_duplicates.ts",
     "check:citations": "tsx scripts/check_citations.ts",
-    "check:difficulty": "tsx scripts/check_difficulty.ts"
+    "check:difficulty": "tsx scripts/check_difficulty.ts",
+    "check:self-names": "tsx scripts/check_self_names.ts"
   },
   "devDependencies": {
     "@types/node": "^26.1.1",
